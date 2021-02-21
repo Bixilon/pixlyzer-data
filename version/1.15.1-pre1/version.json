@@ -1,0 +1,10 @@
+{
+  "id": "1.15.1-pre1",
+  "name": "1.15.1 Pre-release 1",
+  "stable": false,
+  "world_version": 2226,
+  "protocol_version": 574,
+  "pack_version": 5,
+  "build_time": "Thu Dec 12 15:00:52 CET 2019",
+  "release_target": "1.15.1"
+}

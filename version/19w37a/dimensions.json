@@ -1,0 +1,17 @@
+{
+  "minecraft:the_nether": {
+    "id": -1,
+    "has_sky_light": false,
+    "file_suffix": "_nether"
+  },
+  "minecraft:overworld": {
+    "id": 0,
+    "has_sky_light": true,
+    "file_suffix": ""
+  },
+  "minecraft:the_end": {
+    "id": 1,
+    "has_sky_light": false,
+    "file_suffix": "_end"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "minecraft:ambient_entity_effect": {
+    "id": 0
+  },
+  "minecraft:angry_villager": {
+    "id": 1
+  },
+  "minecraft:barrier": {
+    "id": 2
+  },
+  "minecraft:block": {
+    "id": 3
+  },
+  "minecraft:bubble": {
+    "id": 4
+  },
+  "minecraft:cloud": {
+    "id": 5
+  },
+  "minecraft:crit": {
+    "id": 6
+  },
+  "minecraft:damage_indicator": {
+    "id": 7,
+    "override_limiter": true
+  },
+  "minecraft:dragon_breath": {
+    "id": 8
+  },
+  "minecraft:dripping_lava": {
+    "id": 9
+  },
+  "minecraft:falling_lava": {
+    "id": 10
+  },
+  "minecraft:landing_lava": {
+    "id": 11
+  },
+  "minecraft:dripping_water": {
+    "id": 12
+  },
+  "minecraft:falling_water": {
+    "id": 13
+  },
+  "minecraft:dust": {
+    "id": 14
+  },
+  "minecraft:effect": {
+    "id": 15
+  },
+  "minecraft:elder_guardian": {
+    "id": 16,
+    "override_limiter": true
+  },
+  "minecraft:enchanted_hit": {
+    "id": 17
+  },
+  "minecraft:enchant": {
+    "id": 18
+  },
+  "minecraft:end_rod": {
+    "id": 19
+  },
+  "minecraft:entity_effect": {
+    "id": 20
+  },
+  "minecraft:explosion_emitter": {
+    "id": 21,
+    "override_limiter": true
+  },
+  "minecraft:explosion": {
+    "id": 22,
+    "override_limiter": true
+  },
+  "minecraft:falling_dust": {
+    "id": 23
+  },
+  "minecraft:firework": {
+    "id": 24
+  },
+  "minecraft:fishing": {
+    "id": 25
+  },
+  "minecraft:flame": {
+    "id": 26
+  },
+  "minecraft:flash": {
+    "id": 27
+  },
+  "minecraft:happy_villager": {
+    "id": 28
+  },
+  "minecraft:composter": {
+    "id": 29
+  },
+  "minecraft:heart": {
+    "id": 30
+  },
+  "minecraft:instant_effect": {
+    "id": 31
+  },
+  "minecraft:item": {
+    "id": 32
+  },
+  "minecraft:item_slime": {
+    "id": 33
+  },
+  "minecraft:item_snowball": {
+    "id": 34
+  },
+  "minecraft:large_smoke": {
+    "id": 35
+  },
+  "minecraft:lava": {
+    "id": 36
+  },
+  "minecraft:mycelium": {
+    "id": 37
+  },
+  "minecraft:note": {
+    "id": 38
+  },
+  "minecraft:poof": {
+    "id": 39,
+    "override_limiter": true
+  },
+  "minecraft:portal": {
+    "id": 40
+  },
+  "minecraft:rain": {
+    "id": 41
+  },
+  "minecraft:smoke": {
+    "id": 42
+  },
+  "minecraft:sneeze": {
+    "id": 43
+  },
+  "minecraft:spit": {
+    "id": 44,
+    "override_limiter": true
+  },
+  "minecraft:squid_ink": {
+    "id": 45,
+    "override_limiter": true
+  },
+  "minecraft:sweep_attack": {
+    "id": 46,
+    "override_limiter": true
+  },
+  "minecraft:totem_of_undying": {
+    "id": 47
+  },
+  "minecraft:underwater": {
+    "id": 48
+  },
+  "minecraft:splash": {
+    "id": 49
+  },
+  "minecraft:witch": {
+    "id": 50
+  },
+  "minecraft:bubble_pop": {
+    "id": 51
+  },
+  "minecraft:current_down": {
+    "id": 52
+  },
+  "minecraft:bubble_column_up": {
+    "id": 53
+  },
+  "minecraft:nautilus": {
+    "id": 54
+  },
+  "minecraft:dolphin": {
+    "id": 55
+  },
+  "minecraft:campfire_cosy_smoke": {
+    "id": 56,
+    "override_limiter": true
+  },
+  "minecraft:campfire_signal_smoke": {
+    "id": 57,
+    "override_limiter": true
+  }
+}
