@@ -1,0 +1,84 @@
+{
+  "minecraft:none": {
+    "id": 0,
+    "primary_point_of_interest": 0
+  },
+  "minecraft:armorer": {
+    "id": 1,
+    "primary_point_of_interest": 1,
+    "work_sound": 965
+  },
+  "minecraft:butcher": {
+    "id": 2,
+    "primary_point_of_interest": 2,
+    "work_sound": 966
+  },
+  "minecraft:cartographer": {
+    "id": 3,
+    "primary_point_of_interest": 3,
+    "work_sound": 967
+  },
+  "minecraft:cleric": {
+    "id": 4,
+    "primary_point_of_interest": 4,
+    "work_sound": 968
+  },
+  "minecraft:farmer": {
+    "id": 5,
+    "primary_point_of_interest": 5,
+    "requested_items": [
+      625,
+      624,
+      898,
+      719
+    ],
+    "blocks": [
+      153
+    ],
+    "work_sound": 969
+  },
+  "minecraft:fisherman": {
+    "id": 6,
+    "primary_point_of_interest": 6,
+    "work_sound": 970
+  },
+  "minecraft:fletcher": {
+    "id": 7,
+    "primary_point_of_interest": 7,
+    "work_sound": 971
+  },
+  "minecraft:leatherworker": {
+    "id": 8,
+    "primary_point_of_interest": 8,
+    "work_sound": 972
+  },
+  "minecraft:librarian": {
+    "id": 9,
+    "primary_point_of_interest": 9,
+    "work_sound": 973
+  },
+  "minecraft:mason": {
+    "id": 10,
+    "primary_point_of_interest": 10,
+    "work_sound": 974
+  },
+  "minecraft:nitwit": {
+    "id": 11,
+    "primary_point_of_interest": 11
+  },
+  "minecraft:shepherd": {
+    "id": 12,
+    "primary_point_of_interest": 12,
+    "work_sound": 975
+  },
+  "minecraft:toolsmith": {
+    "id": 13,
+    "primary_point_of_interest": 13,
+    "work_sound": 976
+  },
+  "minecraft:weaponsmith": {
+    "id": 14,
+    "primary_point_of_interest": 14,
+    "work_sound": 977
+  }
+}
