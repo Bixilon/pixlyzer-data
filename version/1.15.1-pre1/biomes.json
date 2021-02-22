@@ -8,7 +8,10 @@
     "downfall": 0.5,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8103167
+    "category": 11,
+    "precipitation": 1,
+    "sky_color": 8103167,
+    "foliage_color": 0
   },
   "minecraft:plains": {
     "id": 1,
@@ -19,7 +22,10 @@
     "downfall": 0.4,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7907327
+    "category": 5,
+    "precipitation": 1,
+    "sky_color": 7907327,
+    "foliage_color": 0
   },
   "minecraft:desert": {
     "id": 2,
@@ -30,7 +36,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7254527
+    "category": 12,
+    "precipitation": 0,
+    "sky_color": 7254527,
+    "foliage_color": 0
   },
   "minecraft:mountains": {
     "id": 3,
@@ -41,7 +50,10 @@
     "downfall": 0.3,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8233727
+    "category": 2,
+    "precipitation": 1,
+    "sky_color": 8233727,
+    "foliage_color": 0
   },
   "minecraft:forest": {
     "id": 4,
@@ -52,7 +64,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7972607
+    "category": 10,
+    "precipitation": 1,
+    "sky_color": 7972607,
+    "foliage_color": 0
   },
   "minecraft:taiga": {
     "id": 5,
@@ -63,7 +78,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8233983
+    "category": 1,
+    "precipitation": 1,
+    "sky_color": 8233983,
+    "foliage_color": 0
   },
   "minecraft:swamp": {
     "id": 6,
@@ -74,7 +92,10 @@
     "downfall": 0.9,
     "water_color": 6388580,
     "water_fog_color": 2302743,
-    "sky_color": 7907327
+    "category": 14,
+    "precipitation": 1,
+    "sky_color": 7907327,
+    "foliage_color": 6975545
   },
   "minecraft:river": {
     "id": 7,
@@ -85,7 +106,10 @@
     "downfall": 0.5,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8103167
+    "category": 13,
+    "precipitation": 1,
+    "sky_color": 8103167,
+    "foliage_color": 0
   },
   "minecraft:nether": {
     "id": 8,
@@ -96,7 +120,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7254527
+    "category": 16,
+    "precipitation": 0,
+    "sky_color": 7254527,
+    "foliage_color": 0
   },
   "minecraft:the_end": {
     "id": 9,
@@ -107,7 +134,10 @@
     "downfall": 0.5,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8103167
+    "category": 8,
+    "precipitation": 0,
+    "sky_color": 0,
+    "foliage_color": 0
   },
   "minecraft:frozen_ocean": {
     "id": 10,
@@ -118,7 +148,10 @@
     "downfall": 0.5,
     "water_color": 3750089,
     "water_fog_color": 329011,
-    "sky_color": 8364543
+    "category": 11,
+    "precipitation": 2,
+    "sky_color": 8364543,
+    "foliage_color": 0
   },
   "minecraft:frozen_river": {
     "id": 11,
@@ -129,7 +162,10 @@
     "downfall": 0.5,
     "water_color": 3750089,
     "water_fog_color": 329011,
-    "sky_color": 8364543
+    "category": 13,
+    "precipitation": 2,
+    "sky_color": 8364543,
+    "foliage_color": 0
   },
   "minecraft:snowy_tundra": {
     "id": 12,
@@ -140,7 +176,10 @@
     "downfall": 0.5,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8364543
+    "category": 7,
+    "precipitation": 2,
+    "sky_color": 8364543,
+    "foliage_color": 0
   },
   "minecraft:snowy_mountains": {
     "id": 13,
@@ -151,7 +190,10 @@
     "downfall": 0.5,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8364543
+    "category": 7,
+    "precipitation": 2,
+    "sky_color": 8364543,
+    "foliage_color": 0
   },
   "minecraft:mushroom_fields": {
     "id": 14,
@@ -162,7 +204,10 @@
     "downfall": 1.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7842047
+    "category": 15,
+    "precipitation": 1,
+    "sky_color": 7842047,
+    "foliage_color": 0
   },
   "minecraft:mushroom_field_shore": {
     "id": 15,
@@ -173,7 +218,10 @@
     "downfall": 1.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7842047
+    "category": 15,
+    "precipitation": 1,
+    "sky_color": 7842047,
+    "foliage_color": 0
   },
   "minecraft:beach": {
     "id": 16,
@@ -184,7 +232,10 @@
     "downfall": 0.4,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7907327
+    "category": 9,
+    "precipitation": 1,
+    "sky_color": 7907327,
+    "foliage_color": 0
   },
   "minecraft:desert_hills": {
     "id": 17,
@@ -195,7 +246,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7254527
+    "category": 12,
+    "precipitation": 0,
+    "sky_color": 7254527,
+    "foliage_color": 0
   },
   "minecraft:wooded_hills": {
     "id": 18,
@@ -206,7 +260,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7972607
+    "category": 10,
+    "precipitation": 1,
+    "sky_color": 7972607,
+    "foliage_color": 0
   },
   "minecraft:taiga_hills": {
     "id": 19,
@@ -217,7 +274,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8233983
+    "category": 1,
+    "precipitation": 1,
+    "sky_color": 8233983,
+    "foliage_color": 0
   },
   "minecraft:mountain_edge": {
     "id": 20,
@@ -228,7 +288,10 @@
     "downfall": 0.3,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8233727
+    "category": 2,
+    "precipitation": 1,
+    "sky_color": 8233727,
+    "foliage_color": 0
   },
   "minecraft:jungle": {
     "id": 21,
@@ -239,7 +302,10 @@
     "downfall": 0.9,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7842047
+    "category": 3,
+    "precipitation": 1,
+    "sky_color": 7842047,
+    "foliage_color": 0
   },
   "minecraft:jungle_hills": {
     "id": 22,
@@ -250,7 +316,10 @@
     "downfall": 0.9,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7842047
+    "category": 3,
+    "precipitation": 1,
+    "sky_color": 7842047,
+    "foliage_color": 0
   },
   "minecraft:jungle_edge": {
     "id": 23,
@@ -261,7 +330,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7842047
+    "category": 3,
+    "precipitation": 1,
+    "sky_color": 7842047,
+    "foliage_color": 0
   },
   "minecraft:deep_ocean": {
     "id": 24,
@@ -272,7 +344,10 @@
     "downfall": 0.5,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8103167
+    "category": 11,
+    "precipitation": 1,
+    "sky_color": 8103167,
+    "foliage_color": 0
   },
   "minecraft:stone_shore": {
     "id": 25,
@@ -283,7 +358,10 @@
     "downfall": 0.3,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8233727
+    "category": 0,
+    "precipitation": 1,
+    "sky_color": 8233727,
+    "foliage_color": 0
   },
   "minecraft:snowy_beach": {
     "id": 26,
@@ -294,7 +372,10 @@
     "downfall": 0.3,
     "water_color": 4020182,
     "water_fog_color": 329011,
-    "sky_color": 8364543
+    "category": 9,
+    "precipitation": 2,
+    "sky_color": 8364543,
+    "foliage_color": 0
   },
   "minecraft:birch_forest": {
     "id": 27,
@@ -305,7 +386,10 @@
     "downfall": 0.6,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8037887
+    "category": 10,
+    "precipitation": 1,
+    "sky_color": 8037887,
+    "foliage_color": 0
   },
   "minecraft:birch_forest_hills": {
     "id": 28,
@@ -316,7 +400,10 @@
     "downfall": 0.6,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8037887
+    "category": 10,
+    "precipitation": 1,
+    "sky_color": 8037887,
+    "foliage_color": 0
   },
   "minecraft:dark_forest": {
     "id": 29,
@@ -327,7 +414,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7972607
+    "category": 10,
+    "precipitation": 1,
+    "sky_color": 7972607,
+    "foliage_color": 0
   },
   "minecraft:snowy_taiga": {
     "id": 30,
@@ -338,7 +428,10 @@
     "downfall": 0.4,
     "water_color": 4020182,
     "water_fog_color": 329011,
-    "sky_color": 8625919
+    "category": 1,
+    "precipitation": 2,
+    "sky_color": 8625919,
+    "foliage_color": 0
   },
   "minecraft:snowy_taiga_hills": {
     "id": 31,
@@ -349,7 +442,10 @@
     "downfall": 0.4,
     "water_color": 4020182,
     "water_fog_color": 329011,
-    "sky_color": 8625919
+    "category": 1,
+    "precipitation": 2,
+    "sky_color": 8625919,
+    "foliage_color": 0
   },
   "minecraft:giant_tree_taiga": {
     "id": 32,
@@ -360,7 +456,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8168447
+    "category": 1,
+    "precipitation": 1,
+    "sky_color": 8168447,
+    "foliage_color": 0
   },
   "minecraft:giant_tree_taiga_hills": {
     "id": 33,
@@ -371,7 +470,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8168447
+    "category": 1,
+    "precipitation": 1,
+    "sky_color": 8168447,
+    "foliage_color": 0
   },
   "minecraft:wooded_mountains": {
     "id": 34,
@@ -382,7 +484,10 @@
     "downfall": 0.3,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8233727
+    "category": 2,
+    "precipitation": 1,
+    "sky_color": 8233727,
+    "foliage_color": 0
   },
   "minecraft:savanna": {
     "id": 35,
@@ -393,7 +498,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7711487
+    "category": 6,
+    "precipitation": 0,
+    "sky_color": 7711487,
+    "foliage_color": 0
   },
   "minecraft:savanna_plateau": {
     "id": 36,
@@ -404,7 +512,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7776511
+    "category": 6,
+    "precipitation": 0,
+    "sky_color": 7776511,
+    "foliage_color": 0
   },
   "minecraft:badlands": {
     "id": 37,
@@ -415,7 +526,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7254527
+    "category": 4,
+    "precipitation": 0,
+    "sky_color": 7254527,
+    "foliage_color": 10387789
   },
   "minecraft:wooded_badlands_plateau": {
     "id": 38,
@@ -426,7 +540,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7254527
+    "category": 4,
+    "precipitation": 0,
+    "sky_color": 7254527,
+    "foliage_color": 10387789
   },
   "minecraft:badlands_plateau": {
     "id": 39,
@@ -437,7 +554,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7254527
+    "category": 4,
+    "precipitation": 0,
+    "sky_color": 7254527,
+    "foliage_color": 10387789
   },
   "minecraft:small_end_islands": {
     "id": 40,
@@ -448,7 +568,10 @@
     "downfall": 0.5,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8103167
+    "category": 8,
+    "precipitation": 0,
+    "sky_color": 0,
+    "foliage_color": 0
   },
   "minecraft:end_midlands": {
     "id": 41,
@@ -459,7 +582,10 @@
     "downfall": 0.5,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8103167
+    "category": 8,
+    "precipitation": 0,
+    "sky_color": 0,
+    "foliage_color": 0
   },
   "minecraft:end_highlands": {
     "id": 42,
@@ -470,7 +596,10 @@
     "downfall": 0.5,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8103167
+    "category": 8,
+    "precipitation": 0,
+    "sky_color": 0,
+    "foliage_color": 0
   },
   "minecraft:end_barrens": {
     "id": 43,
@@ -481,7 +610,10 @@
     "downfall": 0.5,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8103167
+    "category": 8,
+    "precipitation": 0,
+    "sky_color": 0,
+    "foliage_color": 0
   },
   "minecraft:warm_ocean": {
     "id": 44,
@@ -492,7 +624,10 @@
     "downfall": 0.5,
     "water_color": 4445678,
     "water_fog_color": 270131,
-    "sky_color": 8103167
+    "category": 11,
+    "precipitation": 1,
+    "sky_color": 8103167,
+    "foliage_color": 0
   },
   "minecraft:lukewarm_ocean": {
     "id": 45,
@@ -503,7 +638,10 @@
     "downfall": 0.5,
     "water_color": 4566514,
     "water_fog_color": 267827,
-    "sky_color": 8103167
+    "category": 11,
+    "precipitation": 1,
+    "sky_color": 8103167,
+    "foliage_color": 0
   },
   "minecraft:cold_ocean": {
     "id": 46,
@@ -514,7 +652,10 @@
     "downfall": 0.5,
     "water_color": 4020182,
     "water_fog_color": 329011,
-    "sky_color": 8103167
+    "category": 11,
+    "precipitation": 1,
+    "sky_color": 8103167,
+    "foliage_color": 0
   },
   "minecraft:deep_warm_ocean": {
     "id": 47,
@@ -525,7 +666,10 @@
     "downfall": 0.5,
     "water_color": 4445678,
     "water_fog_color": 270131,
-    "sky_color": 8103167
+    "category": 11,
+    "precipitation": 1,
+    "sky_color": 8103167,
+    "foliage_color": 0
   },
   "minecraft:deep_lukewarm_ocean": {
     "id": 48,
@@ -536,7 +680,10 @@
     "downfall": 0.5,
     "water_color": 4566514,
     "water_fog_color": 267827,
-    "sky_color": 8103167
+    "category": 11,
+    "precipitation": 1,
+    "sky_color": 8103167,
+    "foliage_color": 0
   },
   "minecraft:deep_cold_ocean": {
     "id": 49,
@@ -547,7 +694,10 @@
     "downfall": 0.5,
     "water_color": 4020182,
     "water_fog_color": 329011,
-    "sky_color": 8103167
+    "category": 11,
+    "precipitation": 1,
+    "sky_color": 8103167,
+    "foliage_color": 0
   },
   "minecraft:deep_frozen_ocean": {
     "id": 50,
@@ -558,7 +708,10 @@
     "downfall": 0.5,
     "water_color": 3750089,
     "water_fog_color": 329011,
-    "sky_color": 8103167
+    "category": 11,
+    "precipitation": 1,
+    "sky_color": 8103167,
+    "foliage_color": 0
   },
   "minecraft:the_void": {
     "id": 127,
@@ -569,7 +722,10 @@
     "downfall": 0.5,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8103167
+    "category": 0,
+    "precipitation": 0,
+    "sky_color": 8103167,
+    "foliage_color": 0
   },
   "minecraft:sunflower_plains": {
     "id": 129,
@@ -580,7 +736,10 @@
     "downfall": 0.4,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7907327
+    "category": 5,
+    "precipitation": 1,
+    "sky_color": 7907327,
+    "foliage_color": 0
   },
   "minecraft:desert_lakes": {
     "id": 130,
@@ -591,7 +750,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7254527
+    "category": 12,
+    "precipitation": 0,
+    "sky_color": 7254527,
+    "foliage_color": 0
   },
   "minecraft:gravelly_mountains": {
     "id": 131,
@@ -602,7 +764,10 @@
     "downfall": 0.3,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8233727
+    "category": 2,
+    "precipitation": 1,
+    "sky_color": 8233727,
+    "foliage_color": 0
   },
   "minecraft:flower_forest": {
     "id": 132,
@@ -613,7 +778,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7972607
+    "category": 10,
+    "precipitation": 1,
+    "sky_color": 7972607,
+    "foliage_color": 0
   },
   "minecraft:taiga_mountains": {
     "id": 133,
@@ -624,7 +792,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8233983
+    "category": 1,
+    "precipitation": 1,
+    "sky_color": 8233983,
+    "foliage_color": 0
   },
   "minecraft:swamp_hills": {
     "id": 134,
@@ -635,7 +806,10 @@
     "downfall": 0.9,
     "water_color": 6388580,
     "water_fog_color": 2302743,
-    "sky_color": 7907327
+    "category": 14,
+    "precipitation": 1,
+    "sky_color": 7907327,
+    "foliage_color": 6975545
   },
   "minecraft:ice_spikes": {
     "id": 140,
@@ -646,7 +820,10 @@
     "downfall": 0.5,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8364543
+    "category": 7,
+    "precipitation": 2,
+    "sky_color": 8364543,
+    "foliage_color": 0
   },
   "minecraft:modified_jungle": {
     "id": 149,
@@ -657,7 +834,10 @@
     "downfall": 0.9,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7842047
+    "category": 3,
+    "precipitation": 1,
+    "sky_color": 7842047,
+    "foliage_color": 0
   },
   "minecraft:modified_jungle_edge": {
     "id": 151,
@@ -668,7 +848,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7842047
+    "category": 3,
+    "precipitation": 1,
+    "sky_color": 7842047,
+    "foliage_color": 0
   },
   "minecraft:tall_birch_forest": {
     "id": 155,
@@ -679,7 +862,10 @@
     "downfall": 0.6,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8037887
+    "category": 10,
+    "precipitation": 1,
+    "sky_color": 8037887,
+    "foliage_color": 0
   },
   "minecraft:tall_birch_hills": {
     "id": 156,
@@ -690,7 +876,10 @@
     "downfall": 0.6,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8037887
+    "category": 10,
+    "precipitation": 1,
+    "sky_color": 8037887,
+    "foliage_color": 0
   },
   "minecraft:dark_forest_hills": {
     "id": 157,
@@ -701,7 +890,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7972607
+    "category": 10,
+    "precipitation": 1,
+    "sky_color": 7972607,
+    "foliage_color": 0
   },
   "minecraft:snowy_taiga_mountains": {
     "id": 158,
@@ -712,7 +904,10 @@
     "downfall": 0.4,
     "water_color": 4020182,
     "water_fog_color": 329011,
-    "sky_color": 8625919
+    "category": 1,
+    "precipitation": 2,
+    "sky_color": 8625919,
+    "foliage_color": 0
   },
   "minecraft:giant_spruce_taiga": {
     "id": 160,
@@ -723,7 +918,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8233983
+    "category": 1,
+    "precipitation": 1,
+    "sky_color": 8233983,
+    "foliage_color": 0
   },
   "minecraft:giant_spruce_taiga_hills": {
     "id": 161,
@@ -734,7 +932,10 @@
     "downfall": 0.8,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8233983
+    "category": 1,
+    "precipitation": 1,
+    "sky_color": 8233983,
+    "foliage_color": 0
   },
   "minecraft:modified_gravelly_mountains": {
     "id": 162,
@@ -745,7 +946,10 @@
     "downfall": 0.3,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 8233727
+    "category": 2,
+    "precipitation": 1,
+    "sky_color": 8233727,
+    "foliage_color": 0
   },
   "minecraft:shattered_savanna": {
     "id": 163,
@@ -756,7 +960,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7776767
+    "category": 6,
+    "precipitation": 0,
+    "sky_color": 7776767,
+    "foliage_color": 0
   },
   "minecraft:shattered_savanna_plateau": {
     "id": 164,
@@ -767,7 +974,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7776511
+    "category": 6,
+    "precipitation": 0,
+    "sky_color": 7776511,
+    "foliage_color": 0
   },
   "minecraft:eroded_badlands": {
     "id": 165,
@@ -778,7 +988,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7254527
+    "category": 4,
+    "precipitation": 0,
+    "sky_color": 7254527,
+    "foliage_color": 10387789
   },
   "minecraft:modified_wooded_badlands_plateau": {
     "id": 166,
@@ -789,7 +1002,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7254527
+    "category": 4,
+    "precipitation": 0,
+    "sky_color": 7254527,
+    "foliage_color": 10387789
   },
   "minecraft:modified_badlands_plateau": {
     "id": 167,
@@ -800,7 +1016,10 @@
     "downfall": 0.0,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7254527
+    "category": 4,
+    "precipitation": 0,
+    "sky_color": 7254527,
+    "foliage_color": 10387789
   },
   "minecraft:bamboo_jungle": {
     "id": 168,
@@ -811,7 +1030,10 @@
     "downfall": 0.9,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7842047
+    "category": 3,
+    "precipitation": 1,
+    "sky_color": 7842047,
+    "foliage_color": 0
   },
   "minecraft:bamboo_jungle_hills": {
     "id": 169,
@@ -822,6 +1044,9 @@
     "downfall": 0.9,
     "water_color": 4159204,
     "water_fog_color": 329011,
-    "sky_color": 7842047
+    "category": 3,
+    "precipitation": 1,
+    "sky_color": 7842047,
+    "foliage_color": 0
   }
 }

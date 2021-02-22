@@ -1,0 +1,28 @@
+{
+  "minecraft:overworld": {
+    "file_suffix": "",
+    "has_sky_light": true,
+    "ultra_warm": false,
+    "natural": true,
+    "create_dragon_fight": false,
+    "ambient_light": 0.0
+  },
+  "minecraft:the_nether": {
+    "file_suffix": "_nether",
+    "fixed_time": 18000,
+    "has_sky_light": false,
+    "ultra_warm": true,
+    "natural": false,
+    "create_dragon_fight": false,
+    "ambient_light": 0.1
+  },
+  "minecraft:the_end": {
+    "file_suffix": "_end",
+    "fixed_time": 6000,
+    "has_sky_light": false,
+    "ultra_warm": false,
+    "natural": false,
+    "create_dragon_fight": true,
+    "ambient_light": 0.0
+  }
+}

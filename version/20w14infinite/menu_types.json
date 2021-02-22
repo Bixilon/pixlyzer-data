@@ -1,0 +1,104 @@
+{
+  "minecraft:generic_9x1": {
+    "id": 0,
+    "row_count": 1,
+    "class": "ChestMenu"
+  },
+  "minecraft:generic_9x2": {
+    "id": 1,
+    "row_count": 2,
+    "class": "ChestMenu"
+  },
+  "minecraft:generic_9x4": {
+    "id": 3,
+    "row_count": 4,
+    "class": "ChestMenu"
+  },
+  "minecraft:anvil": {
+    "id": 7,
+    "class": "AnvilMenu"
+  },
+  "minecraft:generic_9x6": {
+    "id": 5,
+    "row_count": 6,
+    "class": "ChestMenu"
+  },
+  "minecraft:stonecutter": {
+    "id": 23,
+    "class": "StonecutterMenu"
+  },
+  "minecraft:cartography_table": {
+    "id": 22,
+    "class": "CartographyTableMenu"
+  },
+  "minecraft:generic_9x3": {
+    "id": 2,
+    "row_count": 3,
+    "class": "ChestMenu"
+  },
+  "minecraft:generic_3x3": {
+    "id": 6,
+    "class": "DispenserMenu"
+  },
+  "minecraft:grindstone": {
+    "id": 14,
+    "class": "GrindstoneMenu"
+  },
+  "minecraft:brewing_stand": {
+    "id": 10,
+    "class": "BrewingStandMenu"
+  },
+  "minecraft:lectern": {
+    "id": 16,
+    "class": "LecternMenu"
+  },
+  "minecraft:loom": {
+    "id": 17,
+    "class": "LoomMenu"
+  },
+  "minecraft:merchant": {
+    "id": 18,
+    "class": "MerchantMenu"
+  },
+  "minecraft:furnace": {
+    "id": 13,
+    "class": "FurnaceMenu"
+  },
+  "minecraft:shulker_box": {
+    "id": 19,
+    "class": "ShulkerBoxMenu"
+  },
+  "minecraft:smoker": {
+    "id": 21,
+    "class": "SmokerMenu"
+  },
+  "minecraft:hopper": {
+    "id": 15,
+    "class": "HopperMenu"
+  },
+  "minecraft:crafting": {
+    "id": 11,
+    "class": "CraftingMenu"
+  },
+  "minecraft:beacon": {
+    "id": 8,
+    "class": "BeaconMenu"
+  },
+  "minecraft:blast_furnace": {
+    "id": 9,
+    "class": "BlastFurnaceMenu"
+  },
+  "minecraft:generic_9x5": {
+    "id": 4,
+    "row_count": 5,
+    "class": "ChestMenu"
+  },
+  "minecraft:enchantment": {
+    "id": 12,
+    "class": "EnchantmentMenu"
+  },
+  "minecraft:smithing": {
+    "id": 20,
+    "class": "SmithingMenu"
+  }
+}

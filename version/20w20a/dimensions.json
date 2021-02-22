@@ -1,0 +1,20 @@
+{
+  "0": {
+    "id": -1,
+    "file_suffix": "_nether",
+    "has_sky_light": false,
+    "ultra_warm": true
+  },
+  "1": {
+    "id": 0,
+    "file_suffix": "",
+    "has_sky_light": true,
+    "ultra_warm": false
+  },
+  "2": {
+    "id": 1,
+    "file_suffix": "_end",
+    "has_sky_light": false,
+    "ultra_warm": false
+  }
+}

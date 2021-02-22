@@ -1,0 +1,10 @@
+{
+  "id": "20w06a",
+  "name": "Snapshot 20w06a",
+  "stable": false,
+  "world_version": 2504,
+  "protocol_version": 701,
+  "pack_version": 5,
+  "build_time": "Wed Feb 05 17:03:36 CET 2020",
+  "release_target": "1.16"
+}

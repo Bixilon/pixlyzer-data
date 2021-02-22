@@ -1,0 +1,10 @@
+{
+  "id": "20w15a",
+  "name": "20w15a",
+  "stable": false,
+  "world_version": 2525,
+  "protocol_version": 711,
+  "pack_version": 5,
+  "build_time": "Wed Apr 08 14:27:38 CEST 2020",
+  "release_target": "1.16"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "1.16-rc1",
+  "name": "1.16 Release Candidate 1",
+  "stable": false,
+  "world_version": 2565,
+  "protocol_version": 734,
+  "pack_version": 5,
+  "build_time": "Thu Jun 18 14:47:40 CEST 2020",
+  "release_target": "1.16"
+}
