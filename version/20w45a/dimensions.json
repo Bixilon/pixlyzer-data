@@ -12,7 +12,7 @@
     "respawn_anchor_works": false,
     "has_raids": true,
     "logical_height": 256,
-    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@7306f65f",
+    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@20309365",
     "effects_location": "minecraft:overworld",
     "ambient_light": 0.0
   },
@@ -30,7 +30,7 @@
     "respawn_anchor_works": true,
     "has_raids": false,
     "logical_height": 128,
-    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@7306f65f",
+    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@20309365",
     "effects_location": "minecraft:the_nether",
     "ambient_light": 0.1
   },
@@ -48,7 +48,7 @@
     "respawn_anchor_works": false,
     "has_raids": true,
     "logical_height": 256,
-    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@7306f65f",
+    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@20309365",
     "effects_location": "minecraft:the_end",
     "ambient_light": 0.0
   }

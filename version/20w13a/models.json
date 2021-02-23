@@ -1,4 +1,111 @@
 {
+  "minecraft:block/block": {
+    "gui_light": "side",
+    "display": {
+      "gui": {
+        "rotation": [
+          30,
+          225,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.625,
+          0.625,
+          0.625
+        ]
+      },
+      "ground": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          3,
+          0
+        ],
+        "scale": [
+          0.25,
+          0.25,
+          0.25
+        ]
+      },
+      "fixed": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      "thirdperson_righthand": {
+        "rotation": [
+          75,
+          45,
+          0
+        ],
+        "translation": [
+          0,
+          2.5,
+          0
+        ],
+        "scale": [
+          0.375,
+          0.375,
+          0.375
+        ]
+      },
+      "firstperson_righthand": {
+        "rotation": [
+          0,
+          45,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.40,
+          0.40,
+          0.40
+        ]
+      },
+      "firstperson_lefthand": {
+        "rotation": [
+          0,
+          225,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.40,
+          0.40,
+          0.40
+        ]
+      }
+    }
+  },
   "minecraft:block/grass_block": {
     "parent": "block/block",
     "textures": {
@@ -144,6 +251,61 @@
       }
     ]
   },
+  "minecraft:block/cube": {
+    "parent": "block/block",
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "texture": "#down",
+            "cullface": "down"
+          },
+          "up": {
+            "texture": "#up",
+            "cullface": "up"
+          },
+          "north": {
+            "texture": "#north",
+            "cullface": "north"
+          },
+          "south": {
+            "texture": "#south",
+            "cullface": "south"
+          },
+          "west": {
+            "texture": "#west",
+            "cullface": "west"
+          },
+          "east": {
+            "texture": "#east",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
+  },
+  "minecraft:block/cube_bottom_top": {
+    "parent": "block/cube",
+    "textures": {
+      "particle": "#side",
+      "down": "#bottom",
+      "up": "#top",
+      "north": "#side",
+      "east": "#side",
+      "south": "#side",
+      "west": "#side"
+    }
+  },
   "minecraft:block/grass_block_snow": {
     "parent": "minecraft:block/cube_bottom_top",
     "textures": {
@@ -161,11 +323,76 @@
       "side": "minecraft:block/podzol_side"
     }
   },
+  "minecraft:block/cube_column_horizontal": {
+    "parent": "block/block",
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "texture": "#down",
+            "cullface": "down"
+          },
+          "up": {
+            "texture": "#up",
+            "rotation": 180,
+            "cullface": "up"
+          },
+          "north": {
+            "texture": "#north",
+            "cullface": "north"
+          },
+          "south": {
+            "texture": "#south",
+            "cullface": "south"
+          },
+          "west": {
+            "texture": "#west",
+            "cullface": "west"
+          },
+          "east": {
+            "texture": "#east",
+            "cullface": "east"
+          }
+        }
+      }
+    ],
+    "textures": {
+      "particle": "#side",
+      "down": "#end",
+      "up": "#end",
+      "north": "#side",
+      "east": "#side",
+      "south": "#side",
+      "west": "#side"
+    }
+  },
   "minecraft:block/oak_log_horizontal": {
     "parent": "minecraft:block/cube_column_horizontal",
     "textures": {
       "end": "minecraft:block/oak_log_top",
       "side": "minecraft:block/oak_log"
+    }
+  },
+  "minecraft:block/cube_column": {
+    "parent": "block/cube",
+    "textures": {
+      "particle": "#side",
+      "down": "#end",
+      "up": "#end",
+      "north": "#side",
+      "east": "#side",
+      "south": "#side",
+      "west": "#side"
     }
   },
   "minecraft:block/oak_log": {
@@ -413,11 +640,60 @@
       "side": "minecraft:block/stripped_dark_oak_log"
     }
   },
+  "minecraft:block/orientable_vertical": {
+    "parent": "block/cube",
+    "textures": {
+      "particle": "#side",
+      "down": "#side",
+      "up": "#front",
+      "north": "#side",
+      "east": "#side",
+      "south": "#side",
+      "west": "#side"
+    }
+  },
   "minecraft:block/dispenser_vertical": {
     "parent": "minecraft:block/orientable_vertical",
     "textures": {
       "front": "minecraft:block/dispenser_front_vertical",
       "side": "minecraft:block/furnace_top"
+    }
+  },
+  "minecraft:block/orientable_with_bottom": {
+    "parent": "block/cube",
+    "display": {
+      "firstperson_righthand": {
+        "rotation": [
+          0,
+          135,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.40,
+          0.40,
+          0.40
+        ]
+      }
+    },
+    "textures": {
+      "particle": "#front",
+      "down": "#bottom",
+      "up": "#top",
+      "north": "#front",
+      "east": "#side",
+      "south": "#side",
+      "west": "#side"
+    }
+  },
+  "minecraft:block/orientable": {
+    "parent": "block/orientable_with_bottom",
+    "textures": {
+      "bottom": "#top"
     }
   },
   "minecraft:block/dispenser": {
@@ -428,17 +704,157 @@
       "side": "minecraft:block/furnace_side"
     }
   },
+  "minecraft:block/template_rail_raised_ne": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#rail"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          9,
+          0
+        ],
+        "to": [
+          16,
+          9,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            9,
+            8
+          ],
+          "axis": "x",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              16,
+              16,
+              0
+            ],
+            "texture": "#rail"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#rail"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/powered_rail_raised_ne": {
     "parent": "minecraft:block/template_rail_raised_ne",
     "textures": {
       "rail": "minecraft:block/powered_rail"
     }
   },
+  "minecraft:block/template_rail_raised_sw": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#rail"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          9,
+          0
+        ],
+        "to": [
+          16,
+          9,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            9,
+            8
+          ],
+          "axis": "x",
+          "angle": -45,
+          "rescale": true
+        },
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              16,
+              16,
+              0
+            ],
+            "texture": "#rail"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#rail"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/powered_rail_raised_sw": {
     "parent": "minecraft:block/template_rail_raised_sw",
     "textures": {
       "rail": "minecraft:block/powered_rail"
     }
+  },
+  "minecraft:block/rail_flat": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#rail"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          1,
+          0
+        ],
+        "to": [
+          16,
+          1,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              16,
+              16,
+              0
+            ],
+            "texture": "#rail"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#rail"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/powered_rail": {
     "parent": "minecraft:block/rail_flat",
@@ -500,6 +916,90 @@
       "rail": "minecraft:block/detector_rail_on"
     }
   },
+  "minecraft:block/template_piston": {
+    "textures": {
+      "particle": "#side"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "rotation": 180,
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#platform",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "rotation": 270,
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "rotation": 90,
+            "cullface": "east"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/sticky_piston": {
     "parent": "minecraft:block/template_piston",
     "textures": {
@@ -508,6 +1008,89 @@
       "side": "minecraft:block/piston_side"
     }
   },
+  "minecraft:block/piston_extended": {
+    "textures": {
+      "particle": "#side"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          4
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              4,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "down",
+            "rotation": 180
+          },
+          "up": {
+            "uv": [
+              0,
+              4,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#inside"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              4,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "west",
+            "rotation": 270
+          },
+          "east": {
+            "uv": [
+              0,
+              4,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "east",
+            "rotation": 90
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/piston_base": {
     "parent": "block/piston_extended",
     "textures": {
@@ -515,6 +1098,155 @@
       "side": "block/piston_side",
       "inside": "block/piston_inner"
     }
+  },
+  "minecraft:block/template_seagrass": {
+    "parent": "block/block",
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          4
+        ],
+        "to": [
+          16,
+          16,
+          4
+        ],
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          12,
+          0,
+          0
+        ],
+        "to": [
+          12,
+          16,
+          16
+        ],
+        "shade": false,
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "tintindex": 0
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          4,
+          0,
+          0
+        ],
+        "to": [
+          4,
+          16,
+          16
+        ],
+        "shade": false,
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "tintindex": 0
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          0,
+          12
+        ],
+        "to": [
+          16,
+          16,
+          12
+        ],
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "tintindex": 0
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/tall_seagrass_bottom": {
     "parent": "minecraft:block/template_seagrass",
@@ -536,6 +1268,141 @@
       "side": "minecraft:block/piston_side"
     }
   },
+  "minecraft:block/template_piston_head": {
+    "textures": {
+      "particle": "#platform"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          4
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side",
+            "cullface": "down",
+            "rotation": 180
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#platform",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#unsticky"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side",
+            "rotation": 270,
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side",
+            "rotation": 90,
+            "cullface": "east"
+          }
+        }
+      },
+      {
+        "from": [
+          6,
+          6,
+          4
+        ],
+        "to": [
+          10,
+          10,
+          20
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side",
+            "rotation": 90
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side",
+            "rotation": 270
+          },
+          "west": {
+            "uv": [
+              16,
+              4,
+              0,
+              0
+            ],
+            "texture": "#side"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/piston_head": {
     "parent": "minecraft:block/template_piston_head",
     "textures": {
@@ -551,6 +1418,141 @@
       "side": "minecraft:block/piston_side",
       "unsticky": "minecraft:block/piston_top"
     }
+  },
+  "minecraft:block/template_piston_head_short": {
+    "textures": {
+      "particle": "#platform"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          4
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side",
+            "cullface": "down",
+            "rotation": 180
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#platform",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#unsticky"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side",
+            "rotation": 270,
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side",
+            "rotation": 90,
+            "cullface": "east"
+          }
+        }
+      },
+      {
+        "from": [
+          6,
+          6,
+          4
+        ],
+        "to": [
+          10,
+          10,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              4,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side",
+            "rotation": 90
+          },
+          "up": {
+            "uv": [
+              4,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side",
+            "rotation": 270
+          },
+          "west": {
+            "uv": [
+              16,
+              4,
+              4,
+              0
+            ],
+            "texture": "#side"
+          },
+          "east": {
+            "uv": [
+              4,
+              0,
+              16,
+              4
+            ],
+            "texture": "#side"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/piston_head_short": {
     "parent": "minecraft:block/template_piston_head_short",
@@ -568,11 +1570,289 @@
       "unsticky": "minecraft:block/piston_top"
     }
   },
+  "minecraft:block/template_torch_wall": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#torch"
+    },
+    "elements": [
+      {
+        "from": [
+          -1,
+          3.5,
+          7
+        ],
+        "to": [
+          1,
+          13.5,
+          9
+        ],
+        "rotation": {
+          "origin": [
+            0,
+            3.5,
+            8
+          ],
+          "axis": "z",
+          "angle": -22.5
+        },
+        "shade": false,
+        "faces": {
+          "down": {
+            "uv": [
+              7,
+              13,
+              9,
+              15
+            ],
+            "texture": "#torch"
+          },
+          "up": {
+            "uv": [
+              7,
+              6,
+              9,
+              8
+            ],
+            "texture": "#torch"
+          }
+        }
+      },
+      {
+        "from": [
+          -1,
+          3.5,
+          0
+        ],
+        "to": [
+          1,
+          19.5,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            0,
+            3.5,
+            8
+          ],
+          "axis": "z",
+          "angle": -22.5
+        },
+        "shade": false,
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#torch"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#torch"
+          }
+        }
+      },
+      {
+        "from": [
+          -8,
+          3.5,
+          7
+        ],
+        "to": [
+          8,
+          19.5,
+          9
+        ],
+        "rotation": {
+          "origin": [
+            0,
+            3.5,
+            8
+          ],
+          "axis": "z",
+          "angle": -22.5
+        },
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#torch"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#torch"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/wall_torch": {
     "parent": "minecraft:block/template_torch_wall",
     "textures": {
       "torch": "minecraft:block/torch"
     }
+  },
+  "minecraft:block/template_fire_floor": {
+    "textures": {
+      "particle": "#fire"
+    },
+    "ambientocclusion": false,
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          8.8
+        ],
+        "to": [
+          16,
+          22.4,
+          8.8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "x",
+          "angle": -22.5,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#fire"
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          0,
+          7.2
+        ],
+        "to": [
+          16,
+          22.4,
+          7.2
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "x",
+          "angle": 22.5,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#fire"
+          }
+        }
+      },
+      {
+        "from": [
+          8.8,
+          0,
+          0
+        ],
+        "to": [
+          8.8,
+          22.4,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "z",
+          "angle": -22.5,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#fire"
+          }
+        }
+      },
+      {
+        "from": [
+          7.2,
+          0,
+          0
+        ],
+        "to": [
+          7.2,
+          22.4,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "z",
+          "angle": 22.5,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#fire"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/fire_floor0": {
     "parent": "minecraft:block/template_fire_floor",
@@ -586,6 +1866,47 @@
       "fire": "minecraft:block/fire_1"
     }
   },
+  "minecraft:block/template_fire_side": {
+    "textures": {
+      "particle": "#fire"
+    },
+    "ambientocclusion": false,
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0.01
+        ],
+        "to": [
+          16,
+          22.4,
+          0.01
+        ],
+        "shade": false,
+        "faces": {
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#fire"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#fire"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/fire_side0": {
     "parent": "minecraft:block/template_fire_side",
     "textures": {
@@ -597,6 +1918,47 @@
     "textures": {
       "fire": "minecraft:block/fire_1"
     }
+  },
+  "minecraft:block/template_fire_side_alt": {
+    "textures": {
+      "particle": "#fire"
+    },
+    "ambientocclusion": false,
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0.01
+        ],
+        "to": [
+          16,
+          22.4,
+          0.01
+        ],
+        "shade": false,
+        "faces": {
+          "south": {
+            "uv": [
+              16,
+              0,
+              0,
+              16
+            ],
+            "texture": "#fire"
+          },
+          "north": {
+            "uv": [
+              16,
+              0,
+              0,
+              16
+            ],
+            "texture": "#fire"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/fire_side_alt0": {
     "parent": "minecraft:block/template_fire_side_alt",
@@ -610,6 +1972,84 @@
       "fire": "minecraft:block/fire_1"
     }
   },
+  "minecraft:block/template_fire_up": {
+    "textures": {
+      "particle": "#fire"
+    },
+    "ambientocclusion": false,
+    "elements": [
+      {
+        "from": [
+          0,
+          16,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            16,
+            16,
+            8
+          ],
+          "axis": "z",
+          "angle": 22.5,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#fire",
+            "rotation": 270
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          16,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            0,
+            16,
+            8
+          ],
+          "axis": "z",
+          "angle": -22.5,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#fire",
+            "rotation": 90
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/fire_up0": {
     "parent": "minecraft:block/template_fire_up",
     "textures": {
@@ -621,6 +2061,83 @@
     "textures": {
       "fire": "minecraft:block/fire_1"
     }
+  },
+  "minecraft:block/template_fire_up_alt": {
+    "textures": {
+      "particle": "#fire"
+    },
+    "ambientocclusion": false,
+    "elements": [
+      {
+        "from": [
+          0,
+          16,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            16,
+            16
+          ],
+          "axis": "x",
+          "angle": -22.5,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#fire",
+            "rotation": 180
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          16,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            16,
+            0
+          ],
+          "axis": "x",
+          "angle": 22.5,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#fire"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/fire_up_alt0": {
     "parent": "minecraft:block/template_fire_up_alt",
@@ -670,6 +2187,202 @@
       "fire": "minecraft:block/soul_fire_1"
     }
   },
+  "minecraft:block/inner_stairs": {
+    "textures": {
+      "particle": "#side"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          8,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#top"
+          },
+          "north": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "east"
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          8,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "up": {
+            "uv": [
+              8,
+              0,
+              16,
+              16
+            ],
+            "texture": "#top",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              8,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              8,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "east"
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          8,
+          8
+        ],
+        "to": [
+          8,
+          16,
+          16
+        ],
+        "faces": {
+          "up": {
+            "uv": [
+              0,
+              8,
+              8,
+              16
+            ],
+            "texture": "#top",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              8,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              8,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              8,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "west"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/oak_stairs_inner": {
     "parent": "minecraft:block/inner_stairs",
     "textures": {
@@ -678,6 +2391,148 @@
       "side": "minecraft:block/oak_planks"
     }
   },
+  "minecraft:block/outer_stairs": {
+    "textures": {
+      "particle": "#side"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          8,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#top"
+          },
+          "north": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "east"
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          8,
+          8
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "up": {
+            "uv": [
+              8,
+              8,
+              16,
+              16
+            ],
+            "texture": "#top",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              8,
+              8
+            ],
+            "texture": "#side"
+          },
+          "south": {
+            "uv": [
+              8,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              8,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              8,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/oak_stairs_outer": {
     "parent": "minecraft:block/outer_stairs",
     "textures": {
@@ -685,6 +2540,203 @@
       "top": "minecraft:block/oak_planks",
       "side": "minecraft:block/oak_planks"
     }
+  },
+  "minecraft:block/stairs": {
+    "parent": "block/block",
+    "display": {
+      "gui": {
+        "rotation": [
+          30,
+          135,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.625,
+          0.625,
+          0.625
+        ]
+      },
+      "head": {
+        "rotation": [
+          0,
+          -90,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "thirdperson_lefthand": {
+        "rotation": [
+          75,
+          -135,
+          0
+        ],
+        "translation": [
+          0,
+          2.5,
+          0
+        ],
+        "scale": [
+          0.375,
+          0.375,
+          0.375
+        ]
+      }
+    },
+    "textures": {
+      "particle": "#side"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          8,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#top"
+          },
+          "north": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "east"
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          8,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "up": {
+            "uv": [
+              8,
+              0,
+              16,
+              16
+            ],
+            "texture": "#top",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              8,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              8,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/oak_stairs": {
     "parent": "minecraft:block/stairs",
@@ -772,11 +2824,165 @@
       }
     ]
   },
+  "minecraft:block/redstone_dust_side": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "block/redstone_dust_dot",
+      "overlay": "block/redstone_dust_overlay"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0.25,
+          0
+        ],
+        "to": [
+          16,
+          0.25,
+          8
+        ],
+        "shade": false,
+        "faces": {
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#line",
+            "tintindex": 0
+          },
+          "down": {
+            "uv": [
+              0,
+              8,
+              16,
+              0
+            ],
+            "texture": "#line",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          0.25,
+          0
+        ],
+        "to": [
+          16,
+          0.25,
+          8
+        ],
+        "shade": false,
+        "faces": {
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#overlay"
+          },
+          "down": {
+            "uv": [
+              0,
+              8,
+              16,
+              0
+            ],
+            "texture": "#overlay"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/redstone_dust_side0": {
     "parent": "block/redstone_dust_side",
     "textures": {
       "line": "block/redstone_dust_line0"
     }
+  },
+  "minecraft:block/redstone_dust_side_alt": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "block/redstone_dust_dot",
+      "overlay": "block/redstone_dust_overlay"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0.25,
+          8
+        ],
+        "to": [
+          16,
+          0.25,
+          16
+        ],
+        "shade": false,
+        "faces": {
+          "up": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#line",
+            "tintindex": 0
+          },
+          "down": {
+            "uv": [
+              0,
+              16,
+              16,
+              8
+            ],
+            "texture": "#line",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          0.25,
+          8
+        ],
+        "to": [
+          16,
+          0.25,
+          16
+        ],
+        "shade": false,
+        "faces": {
+          "up": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#overlay"
+          },
+          "down": {
+            "uv": [
+              0,
+              16,
+              16,
+              8
+            ],
+            "texture": "#overlay"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/redstone_dust_side_alt0": {
     "parent": "block/redstone_dust_side_alt",
@@ -874,6 +3080,146 @@
       }
     ]
   },
+  "minecraft:block/crop": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#crop"
+    },
+    "elements": [
+      {
+        "from": [
+          4,
+          -1,
+          0
+        ],
+        "to": [
+          4,
+          15,
+          16
+        ],
+        "shade": false,
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#crop"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#crop"
+          }
+        }
+      },
+      {
+        "from": [
+          12,
+          -1,
+          0
+        ],
+        "to": [
+          12,
+          15,
+          16
+        ],
+        "shade": false,
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#crop"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#crop"
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          -1,
+          4
+        ],
+        "to": [
+          16,
+          15,
+          4
+        ],
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#crop"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#crop"
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          -1,
+          12
+        ],
+        "to": [
+          16,
+          15,
+          12
+        ],
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#crop"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#crop"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/wheat_stage0": {
     "parent": "minecraft:block/crop",
     "textures": {
@@ -922,6 +3268,87 @@
       "crop": "minecraft:block/wheat_stage7"
     }
   },
+  "minecraft:block/template_farmland": {
+    "parent": "block/block",
+    "textures": {
+      "particle": "#dirt"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          15,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#dirt",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#top"
+          },
+          "north": {
+            "uv": [
+              0,
+              1,
+              16,
+              16
+            ],
+            "texture": "#dirt",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              1,
+              16,
+              16
+            ],
+            "texture": "#dirt",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              1,
+              16,
+              16
+            ],
+            "texture": "#dirt",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              1,
+              16,
+              16
+            ],
+            "texture": "#dirt",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/farmland": {
     "parent": "minecraft:block/template_farmland",
     "textures": {
@@ -952,12 +3379,154 @@
       "side": "minecraft:block/furnace_side"
     }
   },
+  "minecraft:block/door_bottom": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#bottom"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          3,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              13,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "down"
+          },
+          "north": {
+            "uv": [
+              3,
+              0,
+              0,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              3,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              16,
+              0,
+              0,
+              16
+            ],
+            "texture": "#bottom"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/oak_door_bottom": {
     "parent": "minecraft:block/door_bottom",
     "textures": {
       "top": "minecraft:block/oak_door_top",
       "bottom": "minecraft:block/oak_door_bottom"
     }
+  },
+  "minecraft:block/door_bottom_rh": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#bottom"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          3,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              13,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "down"
+          },
+          "north": {
+            "uv": [
+              3,
+              0,
+              0,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              3,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              16,
+              0,
+              0,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/oak_door_bottom_hinge": {
     "parent": "minecraft:block/door_bottom_rh",
@@ -966,12 +3535,154 @@
       "bottom": "minecraft:block/oak_door_bottom"
     }
   },
+  "minecraft:block/door_top": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#top"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          3,
+          16,
+          16
+        ],
+        "faces": {
+          "up": {
+            "uv": [
+              13,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              3,
+              0,
+              0,
+              16
+            ],
+            "texture": "#top",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              3,
+              16
+            ],
+            "texture": "#top",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#top",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              16,
+              0,
+              0,
+              16
+            ],
+            "texture": "#top"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/oak_door_top": {
     "parent": "minecraft:block/door_top",
     "textures": {
       "top": "minecraft:block/oak_door_top",
       "bottom": "minecraft:block/oak_door_bottom"
     }
+  },
+  "minecraft:block/door_top_rh": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#top"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          3,
+          16,
+          16
+        ],
+        "faces": {
+          "up": {
+            "uv": [
+              13,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              3,
+              0,
+              0,
+              16
+            ],
+            "texture": "#top",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              3,
+              16
+            ],
+            "texture": "#top",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              16,
+              0,
+              0,
+              16
+            ],
+            "texture": "#top",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#top"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/oak_door_top_hinge": {
     "parent": "minecraft:block/door_top_rh",
@@ -1039,6 +3750,46 @@
     "textures": {
       "rail": "minecraft:block/rail"
     }
+  },
+  "minecraft:block/rail_curved": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#rail"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          1,
+          0
+        ],
+        "to": [
+          16,
+          1,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              16,
+              16,
+              0
+            ],
+            "texture": "#rail"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#rail"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/rail_corner": {
     "parent": "minecraft:block/rail_curved",
@@ -1364,11 +4115,220 @@
       }
     ]
   },
+  "minecraft:block/thin_block": {
+    "parent": "block/block",
+    "display": {
+      "thirdperson_righthand": {
+        "rotation": [
+          75,
+          45,
+          0
+        ],
+        "translation": [
+          0,
+          2.5,
+          2
+        ],
+        "scale": [
+          0.375,
+          0.375,
+          0.375
+        ]
+      },
+      "firstperson_righthand": {
+        "rotation": [
+          0,
+          45,
+          0
+        ],
+        "translation": [
+          0,
+          4.2,
+          0
+        ],
+        "scale": [
+          0.40,
+          0.40,
+          0.40
+        ]
+      },
+      "firstperson_lefthand": {
+        "rotation": [
+          0,
+          225,
+          0
+        ],
+        "translation": [
+          0,
+          4.2,
+          0
+        ],
+        "scale": [
+          0.40,
+          0.40,
+          0.40
+        ]
+      }
+    }
+  },
+  "minecraft:block/pressure_plate_up": {
+    "parent": "block/thin_block",
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          1,
+          0,
+          1
+        ],
+        "to": [
+          15,
+          1,
+          15
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              1,
+              1,
+              15,
+              15
+            ],
+            "texture": "#texture",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              1,
+              1,
+              15,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              1,
+              15,
+              15,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              1,
+              15,
+              15,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              1,
+              15,
+              15,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              1,
+              15,
+              15,
+              16
+            ],
+            "texture": "#texture"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/stone_pressure_plate": {
     "parent": "minecraft:block/pressure_plate_up",
     "textures": {
       "texture": "minecraft:block/stone"
     }
+  },
+  "minecraft:block/pressure_plate_down": {
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          1,
+          0,
+          1
+        ],
+        "to": [
+          15,
+          0.5,
+          15
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              1,
+              1,
+              15,
+              15
+            ],
+            "texture": "#texture",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              1,
+              1,
+              15,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              1,
+              15,
+              15,
+              15.5
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              1,
+              15,
+              15,
+              15.5
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              1,
+              15,
+              15,
+              15.5
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              1,
+              15,
+              15,
+              15.5
+            ],
+            "texture": "#texture"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/stone_pressure_plate_down": {
     "parent": "minecraft:block/pressure_plate_down",
@@ -1476,6 +4436,113 @@
       "texture": "minecraft:block/dark_oak_planks"
     }
   },
+  "minecraft:block/template_torch": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#torch"
+    },
+    "elements": [
+      {
+        "from": [
+          7,
+          0,
+          7
+        ],
+        "to": [
+          9,
+          10,
+          9
+        ],
+        "shade": false,
+        "faces": {
+          "down": {
+            "uv": [
+              7,
+              13,
+              9,
+              15
+            ],
+            "texture": "#torch"
+          },
+          "up": {
+            "uv": [
+              7,
+              6,
+              9,
+              8
+            ],
+            "texture": "#torch"
+          }
+        }
+      },
+      {
+        "from": [
+          7,
+          0,
+          0
+        ],
+        "to": [
+          9,
+          16,
+          16
+        ],
+        "shade": false,
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#torch"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#torch"
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          0,
+          7
+        ],
+        "to": [
+          16,
+          16,
+          9
+        ],
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#torch"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#torch"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/redstone_torch_off": {
     "parent": "minecraft:block/template_torch",
     "textures": {
@@ -1500,11 +4567,163 @@
       "torch": "minecraft:block/redstone_torch"
     }
   },
+  "minecraft:block/button": {
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          5,
+          0,
+          6
+        ],
+        "to": [
+          11,
+          2,
+          10
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              5,
+              6,
+              11,
+              10
+            ],
+            "texture": "#texture",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              5,
+              10,
+              11,
+              6
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              5,
+              14,
+              11,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              5,
+              14,
+              11,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              6,
+              14,
+              10,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              6,
+              14,
+              10,
+              16
+            ],
+            "texture": "#texture"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/stone_button": {
     "parent": "minecraft:block/button",
     "textures": {
       "texture": "minecraft:block/stone"
     }
+  },
+  "minecraft:block/button_pressed": {
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          5,
+          0,
+          6
+        ],
+        "to": [
+          11,
+          1,
+          10
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              5,
+              6,
+              11,
+              10
+            ],
+            "texture": "#texture",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              5,
+              10,
+              11,
+              6
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              5,
+              14,
+              11,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              5,
+              14,
+              11,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              6,
+              14,
+              10,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              6,
+              14,
+              10,
+              15
+            ],
+            "texture": "#texture"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/stone_button_pressed": {
     "parent": "minecraft:block/button_pressed",
@@ -2080,17 +5299,236 @@
       }
     ]
   },
+  "minecraft:block/cube_all": {
+    "parent": "block/cube",
+    "textures": {
+      "particle": "#all",
+      "down": "#all",
+      "up": "#all",
+      "north": "#all",
+      "east": "#all",
+      "south": "#all",
+      "west": "#all"
+    }
+  },
   "minecraft:block/snow_block": {
     "parent": "minecraft:block/cube_all",
     "textures": {
       "all": "minecraft:block/snow"
     }
   },
+  "minecraft:block/fence_post": {
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          6,
+          0,
+          6
+        ],
+        "to": [
+          10,
+          16,
+          10
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              6,
+              6,
+              10,
+              10
+            ],
+            "texture": "#texture",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              6,
+              6,
+              10,
+              10
+            ],
+            "texture": "#texture",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              6,
+              0,
+              10,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              6,
+              0,
+              10,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              6,
+              0,
+              10,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              6,
+              0,
+              10,
+              16
+            ],
+            "texture": "#texture"
+          }
+        },
+        "__comment": "Center post"
+      }
+    ]
+  },
   "minecraft:block/oak_fence_post": {
     "parent": "minecraft:block/fence_post",
     "textures": {
       "texture": "minecraft:block/oak_planks"
     }
+  },
+  "minecraft:block/fence_side": {
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          7,
+          12,
+          0
+        ],
+        "to": [
+          9,
+          15,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              7,
+              0,
+              9,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              7,
+              0,
+              9,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              7,
+              1,
+              9,
+              4
+            ],
+            "texture": "#texture",
+            "cullface": "north"
+          },
+          "west": {
+            "uv": [
+              0,
+              1,
+              9,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              0,
+              1,
+              9,
+              4
+            ],
+            "texture": "#texture"
+          }
+        },
+        "__comment": "top bar"
+      },
+      {
+        "from": [
+          7,
+          6,
+          0
+        ],
+        "to": [
+          9,
+          9,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              7,
+              0,
+              9,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              7,
+              0,
+              9,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              7,
+              7,
+              9,
+              10
+            ],
+            "texture": "#texture",
+            "cullface": "north"
+          },
+          "west": {
+            "uv": [
+              0,
+              7,
+              9,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              0,
+              7,
+              9,
+              10
+            ],
+            "texture": "#texture"
+          }
+        },
+        "__comment": "lower bar"
+      }
+    ]
   },
   "minecraft:block/oak_fence_side": {
     "parent": "minecraft:block/fence_side",
@@ -6293,11 +9731,172 @@
       }
     ]
   },
+  "minecraft:block/template_trapdoor_bottom": {
+    "parent": "block/thin_block",
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          3,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              0,
+              16,
+              16,
+              13
+            ],
+            "texture": "#texture",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              16,
+              16,
+              13
+            ],
+            "texture": "#texture",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              16,
+              16,
+              13
+            ],
+            "texture": "#texture",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              16,
+              16,
+              13
+            ],
+            "texture": "#texture",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/oak_trapdoor_bottom": {
     "parent": "minecraft:block/template_trapdoor_bottom",
     "textures": {
       "texture": "minecraft:block/oak_trapdoor"
     }
+  },
+  "minecraft:block/template_trapdoor_open": {
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          13
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              13,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              16,
+              16,
+              13
+            ],
+            "texture": "#texture",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              16,
+              0,
+              13,
+              16
+            ],
+            "texture": "#texture",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              13,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/oak_trapdoor_open": {
     "parent": "minecraft:block/template_trapdoor_open",
@@ -6305,11 +9904,172 @@
       "texture": "minecraft:block/oak_trapdoor"
     }
   },
+  "minecraft:block/template_trapdoor_top": {
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          13,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              16,
+              16,
+              13
+            ],
+            "texture": "#texture",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              16,
+              16,
+              13
+            ],
+            "texture": "#texture",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              16,
+              16,
+              13
+            ],
+            "texture": "#texture",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              16,
+              16,
+              13
+            ],
+            "texture": "#texture",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/oak_trapdoor_top": {
     "parent": "minecraft:block/template_trapdoor_top",
     "textures": {
       "texture": "minecraft:block/oak_trapdoor"
     }
+  },
+  "minecraft:block/template_orientable_trapdoor_bottom": {
+    "parent": "block/thin_block",
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          3,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              16,
+              16,
+              0
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              3
+            ],
+            "texture": "#texture",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              3
+            ],
+            "texture": "#texture",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              3
+            ],
+            "texture": "#texture",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              3
+            ],
+            "texture": "#texture",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/spruce_trapdoor_bottom": {
     "parent": "minecraft:block/template_orientable_trapdoor_bottom",
@@ -6317,11 +10077,173 @@
       "texture": "minecraft:block/spruce_trapdoor"
     }
   },
+  "minecraft:block/template_orientable_trapdoor_open": {
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          13
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              3
+            ],
+            "texture": "#texture",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              3,
+              16,
+              0
+            ],
+            "texture": "#texture",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              16,
+              16,
+              0
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              0,
+              16,
+              16,
+              0
+            ],
+            "texture": "#texture",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              3
+            ],
+            "rotation": 90,
+            "texture": "#texture",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              3,
+              16,
+              0
+            ],
+            "rotation": 90,
+            "texture": "#texture",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/spruce_trapdoor_open": {
     "parent": "minecraft:block/template_orientable_trapdoor_open",
     "textures": {
       "texture": "minecraft:block/spruce_trapdoor"
     }
+  },
+  "minecraft:block/template_orientable_trapdoor_top": {
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          13,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              0,
+              16,
+              16,
+              0
+            ],
+            "texture": "#texture",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              3
+            ],
+            "texture": "#texture",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              3
+            ],
+            "texture": "#texture",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              3
+            ],
+            "texture": "#texture",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              3
+            ],
+            "texture": "#texture",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/spruce_trapdoor_top": {
     "parent": "minecraft:block/template_orientable_trapdoor_top",
@@ -6400,6 +10322,31 @@
     "textures": {
       "texture": "minecraft:block/dark_oak_trapdoor"
     }
+  },
+  "minecraft:block/template_single_face": {
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          0
+        ],
+        "faces": {
+          "north": {
+            "texture": "#texture",
+            "cullface": "north"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/brown_mushroom_block": {
     "parent": "minecraft:block/template_single_face",
@@ -6998,12 +10945,120 @@
       }
     ]
   },
+  "minecraft:block/template_glass_pane_post": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#pane"
+    },
+    "elements": [
+      {
+        "from": [
+          7,
+          0,
+          7
+        ],
+        "to": [
+          9,
+          16,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              7,
+              7,
+              9,
+              9
+            ],
+            "texture": "#edge"
+          },
+          "up": {
+            "uv": [
+              7,
+              7,
+              9,
+              9
+            ],
+            "texture": "#edge"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/glass_pane_post": {
     "parent": "minecraft:block/template_glass_pane_post",
     "textures": {
       "pane": "minecraft:block/glass",
       "edge": "minecraft:block/glass_pane_top"
     }
+  },
+  "minecraft:block/template_glass_pane_side": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#pane"
+    },
+    "elements": [
+      {
+        "from": [
+          7,
+          0,
+          0
+        ],
+        "to": [
+          9,
+          16,
+          7
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              7,
+              0,
+              9,
+              7
+            ],
+            "texture": "#edge"
+          },
+          "up": {
+            "uv": [
+              7,
+              0,
+              9,
+              7
+            ],
+            "texture": "#edge"
+          },
+          "north": {
+            "uv": [
+              7,
+              0,
+              9,
+              16
+            ],
+            "texture": "#edge",
+            "cullface": "north"
+          },
+          "west": {
+            "uv": [
+              16,
+              0,
+              9,
+              16
+            ],
+            "texture": "#pane"
+          },
+          "east": {
+            "uv": [
+              9,
+              0,
+              16,
+              16
+            ],
+            "texture": "#pane"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/glass_pane_side": {
     "parent": "minecraft:block/template_glass_pane_side",
@@ -7012,6 +11067,74 @@
       "edge": "minecraft:block/glass_pane_top"
     }
   },
+  "minecraft:block/template_glass_pane_side_alt": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#pane"
+    },
+    "elements": [
+      {
+        "from": [
+          7,
+          0,
+          9
+        ],
+        "to": [
+          9,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              7,
+              0,
+              9,
+              7
+            ],
+            "texture": "#edge"
+          },
+          "up": {
+            "uv": [
+              7,
+              0,
+              9,
+              7
+            ],
+            "texture": "#edge"
+          },
+          "south": {
+            "uv": [
+              7,
+              0,
+              9,
+              16
+            ],
+            "texture": "#edge",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              7,
+              0,
+              0,
+              16
+            ],
+            "texture": "#pane"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              7,
+              16
+            ],
+            "texture": "#pane"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/glass_pane_side_alt": {
     "parent": "minecraft:block/template_glass_pane_side_alt",
     "textures": {
@@ -7019,17 +11142,209 @@
       "edge": "minecraft:block/glass_pane_top"
     }
   },
+  "minecraft:block/template_glass_pane_noside": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#pane"
+    },
+    "elements": [
+      {
+        "from": [
+          7,
+          0,
+          7
+        ],
+        "to": [
+          9,
+          16,
+          9
+        ],
+        "faces": {
+          "north": {
+            "uv": [
+              9,
+              0,
+              7,
+              16
+            ],
+            "texture": "#pane"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/glass_pane_noside": {
     "parent": "minecraft:block/template_glass_pane_noside",
     "textures": {
       "pane": "minecraft:block/glass"
     }
   },
+  "minecraft:block/template_glass_pane_noside_alt": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#pane"
+    },
+    "elements": [
+      {
+        "from": [
+          7,
+          0,
+          7
+        ],
+        "to": [
+          9,
+          16,
+          9
+        ],
+        "faces": {
+          "east": {
+            "uv": [
+              7,
+              0,
+              9,
+              16
+            ],
+            "texture": "#pane"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/glass_pane_noside_alt": {
     "parent": "minecraft:block/template_glass_pane_noside_alt",
     "textures": {
       "pane": "minecraft:block/glass"
     }
+  },
+  "minecraft:block/stem_fruit": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#stem"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          -1,
+          8
+        ],
+        "to": [
+          16,
+          7,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              16,
+              0,
+              0,
+              8
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          -1,
+          0
+        ],
+        "to": [
+          8,
+          7,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "east": {
+            "uv": [
+              16,
+              0,
+              0,
+              8
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          0,
+          8
+        ],
+        "to": [
+          9,
+          16,
+          8
+        ],
+        "faces": {
+          "north": {
+            "uv": [
+              9,
+              0,
+              0,
+              16
+            ],
+            "texture": "#upperstem",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              9,
+              16
+            ],
+            "texture": "#upperstem",
+            "tintindex": 0
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/attached_pumpkin_stem": {
     "parent": "minecraft:block/stem_fruit",
@@ -7045,11 +11360,203 @@
       "upperstem": "minecraft:block/attached_melon_stem"
     }
   },
+  "minecraft:block/stem_growth0": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#stem"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          -1,
+          8
+        ],
+        "to": [
+          16,
+          1,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              2
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              16,
+              0,
+              0,
+              2
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          -1,
+          0
+        ],
+        "to": [
+          8,
+          1,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              2
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "east": {
+            "uv": [
+              16,
+              0,
+              0,
+              2
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/pumpkin_stem_stage0": {
     "parent": "minecraft:block/stem_growth0",
     "textures": {
       "stem": "minecraft:block/pumpkin_stem"
     }
+  },
+  "minecraft:block/stem_growth1": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#stem"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          -1,
+          8
+        ],
+        "to": [
+          16,
+          3,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              16,
+              0,
+              0,
+              4
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          -1,
+          0
+        ],
+        "to": [
+          8,
+          3,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              4
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "east": {
+            "uv": [
+              16,
+              0,
+              0,
+              4
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/pumpkin_stem_stage1": {
     "parent": "minecraft:block/stem_growth1",
@@ -7057,11 +11564,203 @@
       "stem": "minecraft:block/pumpkin_stem"
     }
   },
+  "minecraft:block/stem_growth2": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#stem"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          -1,
+          8
+        ],
+        "to": [
+          16,
+          5,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              6
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              16,
+              0,
+              0,
+              6
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          -1,
+          0
+        ],
+        "to": [
+          8,
+          5,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              6
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "east": {
+            "uv": [
+              16,
+              0,
+              0,
+              6
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/pumpkin_stem_stage2": {
     "parent": "minecraft:block/stem_growth2",
     "textures": {
       "stem": "minecraft:block/pumpkin_stem"
     }
+  },
+  "minecraft:block/stem_growth3": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#stem"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          -1,
+          8
+        ],
+        "to": [
+          16,
+          7,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              16,
+              0,
+              0,
+              8
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          -1,
+          0
+        ],
+        "to": [
+          8,
+          7,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "east": {
+            "uv": [
+              16,
+              0,
+              0,
+              8
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/pumpkin_stem_stage3": {
     "parent": "minecraft:block/stem_growth3",
@@ -7069,11 +11768,203 @@
       "stem": "minecraft:block/pumpkin_stem"
     }
   },
+  "minecraft:block/stem_growth4": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#stem"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          -1,
+          8
+        ],
+        "to": [
+          16,
+          9,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              10
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              16,
+              0,
+              0,
+              10
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          -1,
+          0
+        ],
+        "to": [
+          8,
+          9,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              10
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "east": {
+            "uv": [
+              16,
+              0,
+              0,
+              10
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/pumpkin_stem_stage4": {
     "parent": "minecraft:block/stem_growth4",
     "textures": {
       "stem": "minecraft:block/pumpkin_stem"
     }
+  },
+  "minecraft:block/stem_growth5": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#stem"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          -1,
+          8
+        ],
+        "to": [
+          16,
+          11,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              12
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              16,
+              0,
+              0,
+              12
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          -1,
+          0
+        ],
+        "to": [
+          8,
+          11,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              12
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "east": {
+            "uv": [
+              16,
+              0,
+              0,
+              12
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/pumpkin_stem_stage5": {
     "parent": "minecraft:block/stem_growth5",
@@ -7081,11 +11972,203 @@
       "stem": "minecraft:block/pumpkin_stem"
     }
   },
+  "minecraft:block/stem_growth6": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#stem"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          -1,
+          8
+        ],
+        "to": [
+          16,
+          13,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              14
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              16,
+              0,
+              0,
+              14
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          -1,
+          0
+        ],
+        "to": [
+          8,
+          13,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              14
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "east": {
+            "uv": [
+              16,
+              0,
+              0,
+              14
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/pumpkin_stem_stage6": {
     "parent": "minecraft:block/stem_growth6",
     "textures": {
       "stem": "minecraft:block/pumpkin_stem"
     }
+  },
+  "minecraft:block/stem_growth7": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#stem"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          -1,
+          8
+        ],
+        "to": [
+          16,
+          15,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              16,
+              0,
+              0,
+              16
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          -1,
+          0
+        ],
+        "to": [
+          8,
+          15,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          },
+          "east": {
+            "uv": [
+              16,
+              0,
+              0,
+              16
+            ],
+            "texture": "#stem",
+            "tintindex": 0
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/pumpkin_stem_stage7": {
     "parent": "minecraft:block/stem_growth7",
@@ -8290,11 +13373,1026 @@
       }
     ]
   },
+  "minecraft:block/template_fence_gate": {
+    "parent": "block/block",
+    "display": {
+      "gui": {
+        "rotation": [
+          30,
+          45,
+          0
+        ],
+        "translation": [
+          0,
+          -1,
+          0
+        ],
+        "scale": [
+          0.8,
+          0.8,
+          0.8
+        ]
+      },
+      "head": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          -3,
+          -6
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "__comment": "Left-hand post",
+        "from": [
+          0,
+          5,
+          7
+        ],
+        "to": [
+          2,
+          16,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              7,
+              2,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              0,
+              7,
+              2,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              2,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              2,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Right-hand post",
+        "from": [
+          14,
+          5,
+          7
+        ],
+        "to": [
+          16,
+          16,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              14,
+              7,
+              16,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              14,
+              7,
+              16,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              14,
+              0,
+              16,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              14,
+              0,
+              16,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture",
+            "cullface": "east"
+          }
+        }
+      },
+      {
+        "__comment": "Inner vertical post of left-hand gate door",
+        "from": [
+          6,
+          6,
+          7
+        ],
+        "to": [
+          8,
+          15,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              6,
+              7,
+              8,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              6,
+              7,
+              8,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              6,
+              1,
+              8,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              6,
+              1,
+              8,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              7,
+              1,
+              9,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              7,
+              1,
+              9,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Inner vertical post of right-hand gate door",
+        "from": [
+          8,
+          6,
+          7
+        ],
+        "to": [
+          10,
+          15,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              8,
+              7,
+              10,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              8,
+              7,
+              10,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              8,
+              1,
+              10,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              8,
+              1,
+              10,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              7,
+              1,
+              9,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              7,
+              1,
+              9,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Lower horizontal bar of left-hand gate door",
+        "from": [
+          2,
+          6,
+          7
+        ],
+        "to": [
+          6,
+          9,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              2,
+              7,
+              6,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              2,
+              7,
+              6,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              2,
+              7,
+              6,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              2,
+              7,
+              6,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Upper horizontal bar of left-hand gate door",
+        "from": [
+          2,
+          12,
+          7
+        ],
+        "to": [
+          6,
+          15,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              2,
+              7,
+              6,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              2,
+              7,
+              6,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              2,
+              1,
+              6,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              2,
+              1,
+              6,
+              4
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Lower horizontal bar of right-hand gate door",
+        "from": [
+          10,
+          6,
+          7
+        ],
+        "to": [
+          14,
+          9,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              10,
+              7,
+              14,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              10,
+              7,
+              14,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              10,
+              7,
+              14,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              10,
+              7,
+              14,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Upper horizontal bar of right-hand gate door",
+        "from": [
+          10,
+          12,
+          7
+        ],
+        "to": [
+          14,
+          15,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              10,
+              7,
+              14,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              10,
+              7,
+              14,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              10,
+              1,
+              14,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              10,
+              1,
+              14,
+              4
+            ],
+            "texture": "#texture"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/oak_fence_gate": {
     "parent": "minecraft:block/template_fence_gate",
     "textures": {
       "texture": "minecraft:block/oak_planks"
     }
+  },
+  "minecraft:block/template_fence_gate_open": {
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "__comment": "Left-hand post",
+        "from": [
+          0,
+          5,
+          7
+        ],
+        "to": [
+          2,
+          16,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              7,
+              2,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              0,
+              7,
+              2,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              2,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              2,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Right-hand post",
+        "from": [
+          14,
+          5,
+          7
+        ],
+        "to": [
+          16,
+          16,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              14,
+              7,
+              16,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              14,
+              7,
+              16,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              14,
+              0,
+              16,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              14,
+              0,
+              16,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture",
+            "cullface": "east"
+          }
+        }
+      },
+      {
+        "__comment": "Inner vertical post of left-hand gate door",
+        "from": [
+          0,
+          6,
+          13
+        ],
+        "to": [
+          2,
+          15,
+          15
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              13,
+              2,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              0,
+              13,
+              2,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              0,
+              1,
+              2,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              0,
+              1,
+              2,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              13,
+              1,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              13,
+              1,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Inner vertical post of right-hand gate door",
+        "from": [
+          14,
+          6,
+          13
+        ],
+        "to": [
+          16,
+          15,
+          15
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              14,
+              13,
+              16,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              14,
+              13,
+              16,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              14,
+              1,
+              16,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              14,
+              1,
+              16,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              13,
+              1,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              13,
+              1,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Lower horizontal bar of left-hand gate door",
+        "from": [
+          0,
+          6,
+          9
+        ],
+        "to": [
+          2,
+          9,
+          13
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              9,
+              2,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              0,
+              9,
+              2,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              13,
+              7,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              13,
+              7,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Upper horizontal bar of left-hand gate door",
+        "from": [
+          0,
+          12,
+          9
+        ],
+        "to": [
+          2,
+          15,
+          13
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              9,
+              2,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              0,
+              9,
+              2,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              13,
+              1,
+              15,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              13,
+              1,
+              15,
+              4
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Lower horizontal bar of left-hand gate door",
+        "from": [
+          14,
+          6,
+          9
+        ],
+        "to": [
+          16,
+          9,
+          13
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              14,
+              9,
+              16,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              14,
+              9,
+              16,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              13,
+              7,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              13,
+              7,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Upper horizontal bar of left-hand gate door",
+        "from": [
+          14,
+          12,
+          9
+        ],
+        "to": [
+          16,
+          15,
+          13
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              14,
+              9,
+              16,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              14,
+              9,
+              16,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              13,
+              1,
+              15,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              13,
+              1,
+              15,
+              4
+            ],
+            "texture": "#texture"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/oak_fence_gate_open": {
     "parent": "minecraft:block/template_fence_gate_open",
@@ -8302,11 +14400,991 @@
       "texture": "minecraft:block/oak_planks"
     }
   },
+  "minecraft:block/template_fence_gate_wall": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "__comment": "Left-hand post",
+        "from": [
+          0,
+          2,
+          7
+        ],
+        "to": [
+          2,
+          13,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              7,
+              2,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              0,
+              7,
+              2,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              2,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              2,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Right-hand post",
+        "from": [
+          14,
+          2,
+          7
+        ],
+        "to": [
+          16,
+          13,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              14,
+              7,
+              16,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              14,
+              7,
+              16,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              14,
+              0,
+              16,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              14,
+              0,
+              16,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture",
+            "cullface": "east"
+          }
+        }
+      },
+      {
+        "__comment": "Inner vertical post of left-hand gate door",
+        "from": [
+          6,
+          3,
+          7
+        ],
+        "to": [
+          8,
+          12,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              6,
+              7,
+              8,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              6,
+              7,
+              8,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              6,
+              1,
+              8,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              6,
+              1,
+              8,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              7,
+              1,
+              9,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              7,
+              1,
+              9,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Inner vertical post of right-hand gate door",
+        "from": [
+          8,
+          3,
+          7
+        ],
+        "to": [
+          10,
+          12,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              8,
+              7,
+              10,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              8,
+              7,
+              10,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              8,
+              1,
+              10,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              8,
+              1,
+              10,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              7,
+              1,
+              9,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              7,
+              1,
+              9,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Lower horizontal bar of left-hand gate door",
+        "from": [
+          2,
+          3,
+          7
+        ],
+        "to": [
+          6,
+          6,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              2,
+              7,
+              6,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              2,
+              7,
+              6,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              2,
+              7,
+              6,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              2,
+              7,
+              6,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Upper horizontal bar of left-hand gate door",
+        "from": [
+          2,
+          9,
+          7
+        ],
+        "to": [
+          6,
+          12,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              2,
+              7,
+              6,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              2,
+              7,
+              6,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              2,
+              1,
+              6,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              2,
+              1,
+              6,
+              4
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Lower horizontal bar of right-hand gate door",
+        "from": [
+          10,
+          3,
+          7
+        ],
+        "to": [
+          14,
+          6,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              10,
+              7,
+              14,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              10,
+              7,
+              14,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              10,
+              7,
+              14,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              10,
+              7,
+              14,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Upper horizontal bar of right-hand gate door",
+        "from": [
+          10,
+          9,
+          7
+        ],
+        "to": [
+          14,
+          12,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              10,
+              7,
+              14,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              10,
+              7,
+              14,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              10,
+              1,
+              14,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              10,
+              1,
+              14,
+              4
+            ],
+            "texture": "#texture"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/oak_fence_gate_wall": {
     "parent": "minecraft:block/template_fence_gate_wall",
     "textures": {
       "texture": "minecraft:block/oak_planks"
     }
+  },
+  "minecraft:block/template_fence_gate_wall_open": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "__comment": "Left-hand post",
+        "from": [
+          0,
+          2,
+          7
+        ],
+        "to": [
+          2,
+          13,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              7,
+              2,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              0,
+              7,
+              2,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              2,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              2,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Right-hand post",
+        "from": [
+          14,
+          2,
+          7
+        ],
+        "to": [
+          16,
+          13,
+          9
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              14,
+              7,
+              16,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              14,
+              7,
+              16,
+              9
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              14,
+              0,
+              16,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              14,
+              0,
+              16,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              7,
+              0,
+              9,
+              11
+            ],
+            "texture": "#texture",
+            "cullface": "east"
+          }
+        }
+      },
+      {
+        "__comment": "Inner vertical post of left-hand gate door",
+        "from": [
+          0,
+          3,
+          13
+        ],
+        "to": [
+          2,
+          12,
+          15
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              13,
+              2,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              0,
+              13,
+              2,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              0,
+              1,
+              2,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              0,
+              1,
+              2,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              13,
+              1,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              13,
+              1,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Inner vertical post of right-hand gate door",
+        "from": [
+          14,
+          3,
+          13
+        ],
+        "to": [
+          16,
+          12,
+          15
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              14,
+              13,
+              16,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              14,
+              13,
+              16,
+              15
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              14,
+              1,
+              16,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              14,
+              1,
+              16,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              13,
+              1,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              13,
+              1,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Lower horizontal bar of left-hand gate door",
+        "from": [
+          0,
+          3,
+          9
+        ],
+        "to": [
+          2,
+          6,
+          13
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              9,
+              2,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              0,
+              9,
+              2,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              13,
+              7,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              13,
+              7,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Upper horizontal bar of left-hand gate door",
+        "from": [
+          0,
+          9,
+          9
+        ],
+        "to": [
+          2,
+          12,
+          13
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              9,
+              2,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              0,
+              9,
+              2,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              13,
+              1,
+              15,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              13,
+              1,
+              15,
+              4
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Lower horizontal bar of left-hand gate door",
+        "from": [
+          14,
+          3,
+          9
+        ],
+        "to": [
+          16,
+          6,
+          13
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              14,
+              9,
+              16,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              14,
+              9,
+              16,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              13,
+              7,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              13,
+              7,
+              15,
+              10
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "__comment": "Upper horizontal bar of left-hand gate door",
+        "from": [
+          14,
+          9,
+          9
+        ],
+        "to": [
+          16,
+          12,
+          13
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              14,
+              9,
+              16,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              14,
+              9,
+              16,
+              13
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              13,
+              1,
+              15,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              13,
+              1,
+              15,
+              4
+            ],
+            "texture": "#texture"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/oak_fence_gate_wall_open": {
     "parent": "minecraft:block/template_fence_gate_wall_open",
@@ -14571,6 +21649,64 @@
       "side": "minecraft:block/jungle_planks"
     }
   },
+  "minecraft:block/cube_directional": {
+    "parent": "block/block",
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "texture": "#down",
+            "cullface": "down",
+            "rotation": 180
+          },
+          "up": {
+            "texture": "#up",
+            "cullface": "up"
+          },
+          "north": {
+            "texture": "#north",
+            "cullface": "north"
+          },
+          "south": {
+            "texture": "#south",
+            "cullface": "south"
+          },
+          "west": {
+            "texture": "#west",
+            "cullface": "west",
+            "rotation": 270
+          },
+          "east": {
+            "texture": "#east",
+            "cullface": "east",
+            "rotation": 90
+          }
+        }
+      }
+    ]
+  },
+  "minecraft:block/template_command_block": {
+    "parent": "block/cube_directional",
+    "textures": {
+      "particle": "#back",
+      "down": "#side",
+      "up": "#side",
+      "north": "#front",
+      "east": "#side",
+      "south": "#back",
+      "west": "#side"
+    }
+  },
   "minecraft:block/command_block": {
     "parent": "minecraft:block/template_command_block",
     "textures": {
@@ -14587,17 +21723,137 @@
       "side": "minecraft:block/command_block_conditional"
     }
   },
+  "minecraft:block/template_wall_post": {
+    "textures": {
+      "particle": "#wall"
+    },
+    "elements": [
+      {
+        "from": [
+          4,
+          0,
+          4
+        ],
+        "to": [
+          12,
+          16,
+          12
+        ],
+        "faces": {
+          "down": {
+            "texture": "#wall",
+            "cullface": "down"
+          },
+          "up": {
+            "texture": "#wall",
+            "cullface": "up"
+          },
+          "north": {
+            "texture": "#wall"
+          },
+          "south": {
+            "texture": "#wall"
+          },
+          "west": {
+            "texture": "#wall"
+          },
+          "east": {
+            "texture": "#wall"
+          }
+        },
+        "__comment": "Center post"
+      }
+    ]
+  },
   "minecraft:block/cobblestone_wall_post": {
     "parent": "minecraft:block/template_wall_post",
     "textures": {
       "wall": "minecraft:block/cobblestone"
     }
   },
+  "minecraft:block/template_wall_side": {
+    "textures": {
+      "particle": "#wall"
+    },
+    "elements": [
+      {
+        "from": [
+          5,
+          0,
+          0
+        ],
+        "to": [
+          11,
+          14,
+          8
+        ],
+        "faces": {
+          "down": {
+            "texture": "#wall",
+            "cullface": "down"
+          },
+          "up": {
+            "texture": "#wall"
+          },
+          "north": {
+            "texture": "#wall",
+            "cullface": "north"
+          },
+          "west": {
+            "texture": "#wall"
+          },
+          "east": {
+            "texture": "#wall"
+          }
+        },
+        "__comment": "wall"
+      }
+    ]
+  },
   "minecraft:block/cobblestone_wall_side": {
     "parent": "minecraft:block/template_wall_side",
     "textures": {
       "wall": "minecraft:block/cobblestone"
     }
+  },
+  "minecraft:block/template_wall_side_tall": {
+    "textures": {
+      "particle": "#wall"
+    },
+    "elements": [
+      {
+        "from": [
+          5,
+          0,
+          0
+        ],
+        "to": [
+          11,
+          16,
+          8
+        ],
+        "faces": {
+          "down": {
+            "texture": "#wall",
+            "cullface": "down"
+          },
+          "up": {
+            "texture": "#wall",
+            "cullface": "up"
+          },
+          "north": {
+            "texture": "#wall",
+            "cullface": "north"
+          },
+          "west": {
+            "texture": "#wall"
+          },
+          "east": {
+            "texture": "#wall"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/cobblestone_wall_side_tall": {
     "parent": "minecraft:block/template_wall_side_tall",
@@ -14742,6 +21998,297 @@
     "textures": {
       "texture": "minecraft:block/dark_oak_planks"
     }
+  },
+  "minecraft:block/template_anvil": {
+    "parent": "block/block",
+    "textures": {
+      "particle": "block/anvil",
+      "body": "block/anvil"
+    },
+    "display": {
+      "fixed": {
+        "rotation": [
+          0,
+          90,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    },
+    "elements": [
+      {
+        "__comment": "Anvil base",
+        "from": [
+          2,
+          0,
+          2
+        ],
+        "to": [
+          14,
+          4,
+          14
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              2,
+              2,
+              14,
+              14
+            ],
+            "texture": "#body",
+            "rotation": 180,
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              2,
+              2,
+              14,
+              14
+            ],
+            "texture": "#body",
+            "rotation": 180
+          },
+          "north": {
+            "uv": [
+              2,
+              12,
+              14,
+              16
+            ],
+            "texture": "#body"
+          },
+          "south": {
+            "uv": [
+              2,
+              12,
+              14,
+              16
+            ],
+            "texture": "#body"
+          },
+          "west": {
+            "uv": [
+              0,
+              2,
+              4,
+              14
+            ],
+            "texture": "#body",
+            "rotation": 90
+          },
+          "east": {
+            "uv": [
+              4,
+              2,
+              0,
+              14
+            ],
+            "texture": "#body",
+            "rotation": 270
+          }
+        }
+      },
+      {
+        "__comment": "Lower narrow portion",
+        "from": [
+          4,
+          4,
+          3
+        ],
+        "to": [
+          12,
+          5,
+          13
+        ],
+        "faces": {
+          "up": {
+            "uv": [
+              4,
+              3,
+              12,
+              13
+            ],
+            "texture": "#body",
+            "rotation": 180
+          },
+          "north": {
+            "uv": [
+              4,
+              11,
+              12,
+              12
+            ],
+            "texture": "#body"
+          },
+          "south": {
+            "uv": [
+              4,
+              11,
+              12,
+              12
+            ],
+            "texture": "#body"
+          },
+          "west": {
+            "uv": [
+              4,
+              3,
+              5,
+              13
+            ],
+            "texture": "#body",
+            "rotation": 90
+          },
+          "east": {
+            "uv": [
+              5,
+              3,
+              4,
+              13
+            ],
+            "texture": "#body",
+            "rotation": 270
+          }
+        }
+      },
+      {
+        "__comment": "Wider section beneath top portion",
+        "from": [
+          6,
+          5,
+          4
+        ],
+        "to": [
+          10,
+          10,
+          12
+        ],
+        "faces": {
+          "north": {
+            "uv": [
+              6,
+              6,
+              10,
+              11
+            ],
+            "texture": "#body"
+          },
+          "south": {
+            "uv": [
+              6,
+              6,
+              10,
+              11
+            ],
+            "texture": "#body"
+          },
+          "west": {
+            "uv": [
+              5,
+              4,
+              10,
+              12
+            ],
+            "texture": "#body",
+            "rotation": 90
+          },
+          "east": {
+            "uv": [
+              10,
+              4,
+              5,
+              12
+            ],
+            "texture": "#body",
+            "rotation": 270
+          }
+        }
+      },
+      {
+        "__comment": "Anvil top",
+        "from": [
+          3,
+          10,
+          0
+        ],
+        "to": [
+          13,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              3,
+              0,
+              13,
+              16
+            ],
+            "texture": "#body",
+            "rotation": 180
+          },
+          "up": {
+            "uv": [
+              3,
+              0,
+              13,
+              16
+            ],
+            "texture": "#top",
+            "rotation": 180
+          },
+          "north": {
+            "uv": [
+              3,
+              0,
+              13,
+              6
+            ],
+            "texture": "#body"
+          },
+          "south": {
+            "uv": [
+              3,
+              0,
+              13,
+              6
+            ],
+            "texture": "#body"
+          },
+          "west": {
+            "uv": [
+              10,
+              0,
+              16,
+              16
+            ],
+            "texture": "#body",
+            "rotation": 90
+          },
+          "east": {
+            "uv": [
+              16,
+              0,
+              10,
+              16
+            ],
+            "texture": "#body",
+            "rotation": 270
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/anvil": {
     "parent": "minecraft:block/template_anvil",
@@ -16055,6 +23602,87 @@
       }
     ]
   },
+  "minecraft:block/template_daylight_detector": {
+    "parent": "block/thin_block",
+    "textures": {
+      "particle": "#top"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          6,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#top"
+          },
+          "north": {
+            "uv": [
+              0,
+              10,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              10,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              10,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              10,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/daylight_detector": {
     "parent": "minecraft:block/template_daylight_detector",
     "textures": {
@@ -17278,6 +24906,87 @@
       "side": "minecraft:block/dark_prismarine"
     }
   },
+  "minecraft:block/slab": {
+    "parent": "block/block",
+    "textures": {
+      "particle": "#side"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          8,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#top"
+          },
+          "north": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              8,
+              16,
+              16
+            ],
+            "texture": "#side",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/prismarine_slab": {
     "parent": "minecraft:block/slab",
     "textures": {
@@ -17291,6 +25000,86 @@
     "textures": {
       "all": "minecraft:block/prismarine"
     }
+  },
+  "minecraft:block/slab_top": {
+    "textures": {
+      "particle": "#side"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          8,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#bottom"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#top",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "north"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "south"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "west"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              8
+            ],
+            "texture": "#side",
+            "cullface": "east"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/prismarine_slab_top": {
     "parent": "minecraft:block/slab_top",
@@ -17357,6 +25146,100 @@
       "end": "minecraft:block/hay_block_top",
       "side": "minecraft:block/hay_block_side"
     }
+  },
+  "minecraft:block/cross": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#cross"
+    },
+    "elements": [
+      {
+        "from": [
+          0.8,
+          0,
+          8
+        ],
+        "to": [
+          15.2,
+          16,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#cross"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#cross"
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          0,
+          0.8
+        ],
+        "to": [
+          8,
+          16,
+          15.2
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#cross"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#cross"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/sunflower_bottom": {
     "parent": "minecraft:block/cross",
@@ -17539,6 +25422,104 @@
     "textures": {
       "cross": "minecraft:block/peony_top"
     }
+  },
+  "minecraft:block/tinted_cross": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#cross"
+    },
+    "elements": [
+      {
+        "from": [
+          0.8,
+          0,
+          8
+        ],
+        "to": [
+          15.2,
+          16,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#cross",
+            "tintindex": 0
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#cross",
+            "tintindex": 0
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          0,
+          0.8
+        ],
+        "to": [
+          8,
+          16,
+          15.2
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#cross",
+            "tintindex": 0
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#cross",
+            "tintindex": 0
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/tall_grass_bottom": {
     "parent": "minecraft:block/tinted_cross",
@@ -18738,6 +26719,378 @@
       }
     ]
   },
+  "minecraft:block/template_chorus_flower": {
+    "parent": "block/block",
+    "textures": {
+      "bottom": "block/chorus_plant",
+      "particle": "#texture"
+    },
+    "elements": [
+      {
+        "from": [
+          2,
+          14,
+          2
+        ],
+        "to": [
+          14,
+          16,
+          14
+        ],
+        "faces": {
+          "up": {
+            "uv": [
+              2,
+              2,
+              14,
+              14
+            ],
+            "texture": "#texture"
+          },
+          "north": {
+            "uv": [
+              2,
+              0,
+              14,
+              2
+            ],
+            "texture": "#bottom"
+          },
+          "south": {
+            "uv": [
+              2,
+              0,
+              14,
+              2
+            ],
+            "texture": "#bottom"
+          },
+          "west": {
+            "uv": [
+              2,
+              0,
+              14,
+              2
+            ],
+            "texture": "#bottom"
+          },
+          "east": {
+            "uv": [
+              2,
+              0,
+              14,
+              2
+            ],
+            "texture": "#bottom"
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          2,
+          2
+        ],
+        "to": [
+          2,
+          14,
+          14
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              16,
+              14,
+              14,
+              2
+            ],
+            "texture": "#bottom"
+          },
+          "up": {
+            "uv": [
+              0,
+              2,
+              2,
+              14
+            ],
+            "texture": "#bottom"
+          },
+          "north": {
+            "uv": [
+              14,
+              2,
+              16,
+              14
+            ],
+            "texture": "#bottom"
+          },
+          "south": {
+            "uv": [
+              0,
+              2,
+              2,
+              14
+            ],
+            "texture": "#bottom"
+          },
+          "west": {
+            "uv": [
+              2,
+              2,
+              14,
+              14
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "from": [
+          2,
+          2,
+          0
+        ],
+        "to": [
+          14,
+          14,
+          2
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              14,
+              2,
+              2,
+              0
+            ],
+            "texture": "#bottom"
+          },
+          "up": {
+            "uv": [
+              2,
+              0,
+              14,
+              2
+            ],
+            "texture": "#bottom"
+          },
+          "north": {
+            "uv": [
+              2,
+              2,
+              14,
+              14
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              0,
+              2,
+              2,
+              14
+            ],
+            "texture": "#bottom"
+          },
+          "east": {
+            "uv": [
+              14,
+              2,
+              16,
+              14
+            ],
+            "texture": "#bottom"
+          }
+        }
+      },
+      {
+        "from": [
+          2,
+          2,
+          14
+        ],
+        "to": [
+          14,
+          14,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              14,
+              16,
+              2,
+              14
+            ],
+            "texture": "#bottom"
+          },
+          "up": {
+            "uv": [
+              2,
+              14,
+              14,
+              16
+            ],
+            "texture": "#bottom"
+          },
+          "south": {
+            "uv": [
+              2,
+              2,
+              14,
+              14
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              14,
+              2,
+              16,
+              14
+            ],
+            "texture": "#bottom"
+          },
+          "east": {
+            "uv": [
+              0,
+              2,
+              2,
+              14
+            ],
+            "texture": "#bottom"
+          }
+        }
+      },
+      {
+        "from": [
+          14,
+          2,
+          2
+        ],
+        "to": [
+          16,
+          14,
+          14
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              2,
+              14,
+              0,
+              2
+            ],
+            "texture": "#bottom"
+          },
+          "up": {
+            "uv": [
+              14,
+              2,
+              16,
+              14
+            ],
+            "texture": "#bottom"
+          },
+          "north": {
+            "uv": [
+              0,
+              2,
+              2,
+              14
+            ],
+            "texture": "#bottom"
+          },
+          "south": {
+            "uv": [
+              14,
+              2,
+              16,
+              14
+            ],
+            "texture": "#bottom"
+          },
+          "east": {
+            "uv": [
+              2,
+              2,
+              14,
+              14
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "from": [
+          2,
+          0,
+          2
+        ],
+        "to": [
+          14,
+          14,
+          14
+        ],
+        "faces": {
+          "up": {
+            "uv": [
+              2,
+              2,
+              14,
+              14
+            ],
+            "texture": "#bottom"
+          },
+          "down": {
+            "uv": [
+              14,
+              14,
+              2,
+              2
+            ],
+            "texture": "#bottom"
+          },
+          "north": {
+            "uv": [
+              2,
+              2,
+              14,
+              16
+            ],
+            "texture": "#bottom"
+          },
+          "south": {
+            "uv": [
+              2,
+              2,
+              14,
+              16
+            ],
+            "texture": "#bottom"
+          },
+          "west": {
+            "uv": [
+              2,
+              2,
+              14,
+              16
+            ],
+            "texture": "#bottom"
+          },
+          "east": {
+            "uv": [
+              2,
+              2,
+              14,
+              16
+            ],
+            "texture": "#bottom"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/chorus_flower": {
     "parent": "minecraft:block/template_chorus_flower",
     "textures": {
@@ -18967,6 +27320,111 @@
       "bottom": "block/observer_back_on"
     }
   },
+  "minecraft:block/template_glazed_terracotta": {
+    "parent": "block/cube",
+    "textures": {
+      "particle": "#pattern"
+    },
+    "display": {
+      "firstperson_righthand": {
+        "rotation": [
+          0,
+          135,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.40,
+          0.40,
+          0.40
+        ]
+      }
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          0,
+          0
+        ],
+        "to": [
+          16,
+          16,
+          16
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#pattern",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#pattern",
+            "cullface": "up"
+          },
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#pattern",
+            "cullface": "north",
+            "rotation": 90
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#pattern",
+            "cullface": "south",
+            "rotation": 270
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#pattern",
+            "cullface": "west",
+            "rotation": 0
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#pattern",
+            "cullface": "east",
+            "rotation": 180
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/white_glazed_terracotta": {
     "parent": "minecraft:block/template_glazed_terracotta",
     "textures": {
@@ -19063,6 +27521,83 @@
       "pattern": "minecraft:block/black_glazed_terracotta"
     }
   },
+  "minecraft:block/template_turtle_egg": {
+    "parent": "block/block",
+    "textures": {
+      "particle": "#all"
+    },
+    "elements": [
+      {
+        "from": [
+          5,
+          0,
+          4
+        ],
+        "to": [
+          9,
+          7,
+          8
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#all",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#all"
+          },
+          "north": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          },
+          "south": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          },
+          "west": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          },
+          "east": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/turtle_egg": {
     "parent": "minecraft:block/template_turtle_egg",
     "textures": {
@@ -19080,6 +27615,152 @@
     "textures": {
       "all": "minecraft:block/turtle_egg_very_cracked"
     }
+  },
+  "minecraft:block/template_two_turtle_eggs": {
+    "parent": "block/block",
+    "textures": {
+      "particle": "#all"
+    },
+    "elements": [
+      {
+        "from": [
+          5,
+          0,
+          4
+        ],
+        "to": [
+          9,
+          7,
+          8
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#all",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#all"
+          },
+          "north": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          },
+          "south": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          },
+          "west": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          },
+          "east": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          }
+        }
+      },
+      {
+        "from": [
+          1,
+          0,
+          7
+        ],
+        "to": [
+          5,
+          5,
+          11
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              6,
+              7,
+              10,
+              11
+            ],
+            "texture": "#all",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              6,
+              7,
+              10,
+              11
+            ],
+            "texture": "#all"
+          },
+          "north": {
+            "uv": [
+              10,
+              10,
+              14,
+              15
+            ],
+            "texture": "#all"
+          },
+          "south": {
+            "uv": [
+              10,
+              10,
+              14,
+              15
+            ],
+            "texture": "#all"
+          },
+          "west": {
+            "uv": [
+              10,
+              10,
+              14,
+              15
+            ],
+            "texture": "#all"
+          },
+          "east": {
+            "uv": [
+              10,
+              10,
+              14,
+              15
+            ],
+            "texture": "#all"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/two_turtle_eggs": {
     "parent": "minecraft:block/template_two_turtle_eggs",
@@ -19099,6 +27780,221 @@
       "all": "minecraft:block/turtle_egg_very_cracked"
     }
   },
+  "minecraft:block/template_three_turtle_eggs": {
+    "parent": "block/block",
+    "textures": {
+      "particle": "#all"
+    },
+    "elements": [
+      {
+        "from": [
+          5,
+          0,
+          4
+        ],
+        "to": [
+          9,
+          7,
+          8
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#all",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#all"
+          },
+          "north": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          },
+          "south": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          },
+          "west": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          },
+          "east": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          }
+        }
+      },
+      {
+        "from": [
+          1,
+          0,
+          7
+        ],
+        "to": [
+          5,
+          5,
+          11
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              6,
+              7,
+              10,
+              11
+            ],
+            "texture": "#all",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              6,
+              7,
+              10,
+              11
+            ],
+            "texture": "#all"
+          },
+          "north": {
+            "uv": [
+              10,
+              10,
+              14,
+              15
+            ],
+            "texture": "#all"
+          },
+          "south": {
+            "uv": [
+              10,
+              10,
+              14,
+              15
+            ],
+            "texture": "#all"
+          },
+          "west": {
+            "uv": [
+              10,
+              10,
+              14,
+              15
+            ],
+            "texture": "#all"
+          },
+          "east": {
+            "uv": [
+              10,
+              10,
+              14,
+              15
+            ],
+            "texture": "#all"
+          }
+        }
+      },
+      {
+        "from": [
+          11,
+          0,
+          7
+        ],
+        "to": [
+          14,
+          4,
+          10
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              5,
+              0,
+              8,
+              3
+            ],
+            "texture": "#all",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              5,
+              0,
+              8,
+              3
+            ],
+            "texture": "#all"
+          },
+          "north": {
+            "uv": [
+              8,
+              3,
+              11,
+              7
+            ],
+            "texture": "#all"
+          },
+          "south": {
+            "uv": [
+              8,
+              3,
+              11,
+              7
+            ],
+            "texture": "#all"
+          },
+          "west": {
+            "uv": [
+              8,
+              3,
+              11,
+              7
+            ],
+            "texture": "#all"
+          },
+          "east": {
+            "uv": [
+              8,
+              3,
+              11,
+              7
+            ],
+            "texture": "#all"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/three_turtle_eggs": {
     "parent": "minecraft:block/template_three_turtle_eggs",
     "textures": {
@@ -19117,6 +28013,290 @@
       "all": "minecraft:block/turtle_egg_very_cracked"
     }
   },
+  "minecraft:block/template_four_turtle_eggs": {
+    "parent": "block/block",
+    "textures": {
+      "all": "block/turtle_egg",
+      "particle": "#all"
+    },
+    "elements": [
+      {
+        "from": [
+          5,
+          0,
+          4
+        ],
+        "to": [
+          9,
+          7,
+          8
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#all",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#all"
+          },
+          "north": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          },
+          "south": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          },
+          "west": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          },
+          "east": {
+            "uv": [
+              1,
+              4,
+              5,
+              11
+            ],
+            "texture": "#all"
+          }
+        }
+      },
+      {
+        "from": [
+          1,
+          0,
+          7
+        ],
+        "to": [
+          5,
+          5,
+          11
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              6,
+              7,
+              10,
+              11
+            ],
+            "texture": "#all",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              6,
+              7,
+              10,
+              11
+            ],
+            "texture": "#all"
+          },
+          "north": {
+            "uv": [
+              10,
+              10,
+              14,
+              15
+            ],
+            "texture": "#all"
+          },
+          "south": {
+            "uv": [
+              10,
+              10,
+              14,
+              15
+            ],
+            "texture": "#all"
+          },
+          "west": {
+            "uv": [
+              10,
+              10,
+              14,
+              15
+            ],
+            "texture": "#all"
+          },
+          "east": {
+            "uv": [
+              10,
+              10,
+              14,
+              15
+            ],
+            "texture": "#all"
+          }
+        }
+      },
+      {
+        "from": [
+          11,
+          0,
+          7
+        ],
+        "to": [
+          14,
+          4,
+          10
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              5,
+              0,
+              8,
+              3
+            ],
+            "texture": "#all",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              5,
+              0,
+              8,
+              3
+            ],
+            "texture": "#all"
+          },
+          "north": {
+            "uv": [
+              8,
+              3,
+              11,
+              7
+            ],
+            "texture": "#all"
+          },
+          "south": {
+            "uv": [
+              8,
+              3,
+              11,
+              7
+            ],
+            "texture": "#all"
+          },
+          "west": {
+            "uv": [
+              8,
+              3,
+              11,
+              7
+            ],
+            "texture": "#all"
+          },
+          "east": {
+            "uv": [
+              8,
+              3,
+              11,
+              7
+            ],
+            "texture": "#all"
+          }
+        }
+      },
+      {
+        "from": [
+          6,
+          0,
+          9
+        ],
+        "to": [
+          10,
+          4,
+          13
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              11,
+              4,
+              15
+            ],
+            "texture": "#all"
+          },
+          "up": {
+            "uv": [
+              0,
+              11,
+              4,
+              15
+            ],
+            "texture": "#all"
+          },
+          "north": {
+            "uv": [
+              4,
+              11,
+              8,
+              15
+            ],
+            "texture": "#all"
+          },
+          "south": {
+            "uv": [
+              4,
+              11,
+              8,
+              15
+            ],
+            "texture": "#all"
+          },
+          "west": {
+            "uv": [
+              4,
+              11,
+              8,
+              15
+            ],
+            "texture": "#all"
+          },
+          "east": {
+            "uv": [
+              4,
+              11,
+              8,
+              15
+            ],
+            "texture": "#all"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/four_turtle_eggs": {
     "parent": "minecraft:block/template_four_turtle_eggs",
     "textures": {
@@ -19134,6 +28314,100 @@
     "textures": {
       "all": "minecraft:block/turtle_egg_very_cracked"
     }
+  },
+  "minecraft:block/coral_wall_fan": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "#fan"
+    },
+    "elements": [
+      {
+        "from": [
+          0,
+          8,
+          0
+        ],
+        "to": [
+          16,
+          8,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            14
+          ],
+          "axis": "x",
+          "angle": 22.5,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#fan"
+          },
+          "down": {
+            "uv": [
+              16,
+              16,
+              0,
+              0
+            ],
+            "texture": "#fan"
+          }
+        }
+      },
+      {
+        "from": [
+          0,
+          8,
+          0
+        ],
+        "to": [
+          16,
+          8,
+          16
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            14
+          ],
+          "axis": "x",
+          "angle": -22.5,
+          "rescale": true
+        },
+        "shade": false,
+        "faces": {
+          "up": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#fan"
+          },
+          "down": {
+            "uv": [
+              16,
+              16,
+              0,
+              0
+            ],
+            "texture": "#fan"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/dead_tube_coral_wall_fan": {
     "parent": "minecraft:block/coral_wall_fan",
@@ -25500,11 +34774,459 @@
       }
     ]
   },
+  "minecraft:block/template_lantern": {
+    "parent": "block/block",
+    "textures": {
+      "particle": "#lantern"
+    },
+    "elements": [
+      {
+        "from": [
+          5,
+          0,
+          5
+        ],
+        "to": [
+          11,
+          7,
+          11
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              9,
+              6,
+              15
+            ],
+            "texture": "#lantern",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              0,
+              9,
+              6,
+              15
+            ],
+            "texture": "#lantern"
+          },
+          "north": {
+            "uv": [
+              0,
+              2,
+              6,
+              9
+            ],
+            "texture": "#lantern"
+          },
+          "south": {
+            "uv": [
+              0,
+              2,
+              6,
+              9
+            ],
+            "texture": "#lantern"
+          },
+          "west": {
+            "uv": [
+              0,
+              2,
+              6,
+              9
+            ],
+            "texture": "#lantern"
+          },
+          "east": {
+            "uv": [
+              0,
+              2,
+              6,
+              9
+            ],
+            "texture": "#lantern"
+          }
+        }
+      },
+      {
+        "from": [
+          6,
+          7,
+          6
+        ],
+        "to": [
+          10,
+          9,
+          10
+        ],
+        "faces": {
+          "up": {
+            "uv": [
+              1,
+              10,
+              5,
+              14
+            ],
+            "texture": "#lantern"
+          },
+          "north": {
+            "uv": [
+              1,
+              0,
+              5,
+              2
+            ],
+            "texture": "#lantern"
+          },
+          "south": {
+            "uv": [
+              1,
+              0,
+              5,
+              2
+            ],
+            "texture": "#lantern"
+          },
+          "west": {
+            "uv": [
+              1,
+              0,
+              5,
+              2
+            ],
+            "texture": "#lantern"
+          },
+          "east": {
+            "uv": [
+              1,
+              0,
+              5,
+              2
+            ],
+            "texture": "#lantern"
+          }
+        }
+      },
+      {
+        "from": [
+          6.5,
+          9,
+          8
+        ],
+        "to": [
+          9.5,
+          11,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45
+        },
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              11,
+              1,
+              14,
+              3
+            ],
+            "texture": "#lantern"
+          },
+          "south": {
+            "uv": [
+              11,
+              1,
+              14,
+              3
+            ],
+            "texture": "#lantern"
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          9,
+          6.5
+        ],
+        "to": [
+          8,
+          11,
+          9.5
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45
+        },
+        "shade": false,
+        "faces": {
+          "west": {
+            "uv": [
+              11,
+              10,
+              14,
+              12
+            ],
+            "texture": "#lantern"
+          },
+          "east": {
+            "uv": [
+              11,
+              10,
+              14,
+              12
+            ],
+            "texture": "#lantern"
+          }
+        }
+      }
+    ]
+  },
   "minecraft:block/lantern": {
     "parent": "minecraft:block/template_lantern",
     "textures": {
       "lantern": "minecraft:block/lantern"
     }
+  },
+  "minecraft:block/template_hanging_lantern": {
+    "parent": "block/block",
+    "textures": {
+      "particle": "#lantern"
+    },
+    "elements": [
+      {
+        "from": [
+          5,
+          1,
+          5
+        ],
+        "to": [
+          11,
+          8,
+          11
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              0,
+              9,
+              6,
+              15
+            ],
+            "texture": "#lantern"
+          },
+          "up": {
+            "uv": [
+              0,
+              9,
+              6,
+              15
+            ],
+            "texture": "#lantern"
+          },
+          "north": {
+            "uv": [
+              0,
+              2,
+              6,
+              9
+            ],
+            "texture": "#lantern"
+          },
+          "south": {
+            "uv": [
+              0,
+              2,
+              6,
+              9
+            ],
+            "texture": "#lantern"
+          },
+          "west": {
+            "uv": [
+              0,
+              2,
+              6,
+              9
+            ],
+            "texture": "#lantern"
+          },
+          "east": {
+            "uv": [
+              0,
+              2,
+              6,
+              9
+            ],
+            "texture": "#lantern"
+          }
+        }
+      },
+      {
+        "from": [
+          6,
+          8,
+          6
+        ],
+        "to": [
+          10,
+          10,
+          10
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              1,
+              10,
+              5,
+              14
+            ],
+            "texture": "#lantern"
+          },
+          "up": {
+            "uv": [
+              1,
+              10,
+              5,
+              14
+            ],
+            "texture": "#lantern"
+          },
+          "north": {
+            "uv": [
+              1,
+              0,
+              5,
+              2
+            ],
+            "texture": "#lantern"
+          },
+          "south": {
+            "uv": [
+              1,
+              0,
+              5,
+              2
+            ],
+            "texture": "#lantern"
+          },
+          "west": {
+            "uv": [
+              1,
+              0,
+              5,
+              2
+            ],
+            "texture": "#lantern"
+          },
+          "east": {
+            "uv": [
+              1,
+              0,
+              5,
+              2
+            ],
+            "texture": "#lantern"
+          }
+        }
+      },
+      {
+        "from": [
+          6.5,
+          11,
+          8
+        ],
+        "to": [
+          9.5,
+          15,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45
+        },
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              11,
+              1,
+              14,
+              5
+            ],
+            "texture": "#lantern"
+          },
+          "south": {
+            "uv": [
+              11,
+              1,
+              14,
+              5
+            ],
+            "texture": "#lantern"
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          10,
+          6.5
+        ],
+        "to": [
+          8,
+          16,
+          9.5
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45
+        },
+        "shade": false,
+        "faces": {
+          "west": {
+            "uv": [
+              11,
+              6,
+              14,
+              12
+            ],
+            "texture": "#lantern"
+          },
+          "east": {
+            "uv": [
+              11,
+              6,
+              14,
+              12
+            ],
+            "texture": "#lantern"
+          }
+        }
+      }
+    ]
   },
   "minecraft:block/lantern_hanging": {
     "parent": "minecraft:block/template_hanging_lantern",
