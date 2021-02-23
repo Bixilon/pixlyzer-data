@@ -2318,8 +2318,16 @@
     "armor": 0.0,
     "armor_toughness": 0.0,
     "luck": 0.0,
-    "class": "DummyPlayer",
-    "parent": "Player"
+    "class": "Player",
+    "parent": "LivingEntity",
+    "meta": {
+      "PLAYER_ABSORPTION_HEARTS": 15,
+      "PLAYER_SCORE": 16,
+      "PLAYER_SKIN_PARTS_FLAGS": 17,
+      "PLAYER_SKIN_MAIN_HAND": 18,
+      "PLAYER_LEFT_SHOULDER_DATA": 19,
+      "PLAYER_RIGHT_SHOULDER_DATA": 20
+    }
   },
   "minecraft:fishing_bobber": {
     "id": 110,
@@ -2506,16 +2514,5 @@
       "ABSTRACT_VILLAGER_UNHAPPY_TIMER": 17
     },
     "parent": "AgeableMob"
-  },
-  "Player": {
-    "meta": {
-      "PLAYER_ABSORPTION_HEARTS": 15,
-      "PLAYER_SCORE": 16,
-      "PLAYER_SKIN_PARTS_FLAGS": 17,
-      "PLAYER_SKIN_MAIN_HAND": 18,
-      "PLAYER_LEFT_SHOULDER_DATA": 19,
-      "PLAYER_RIGHT_SHOULDER_DATA": 20
-    },
-    "parent": "LivingEntity"
   }
 }
