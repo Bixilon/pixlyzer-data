@@ -1,0 +1,21 @@
+{
+  "minecraft:empty": {
+    "bucket": 0
+  },
+  "minecraft:flowing_water": {
+    "bucket": 596,
+    "drip_particle_type": 12
+  },
+  "minecraft:water": {
+    "bucket": 596,
+    "drip_particle_type": 12
+  },
+  "minecraft:flowing_lava": {
+    "bucket": 597,
+    "drip_particle_type": 9
+  },
+  "minecraft:lava": {
+    "bucket": 597,
+    "drip_particle_type": 9
+  }
+}

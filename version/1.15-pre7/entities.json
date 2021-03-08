@@ -683,6 +683,7 @@
     "width": 1.3964844,
     "height": 1.6,
     "size_fixed": false,
+    "max_health": 23.0,
     "armor": 0.0,
     "armor_toughness": 0.0,
     "class": "Horse",
@@ -848,10 +849,6 @@
     "width": 2.04,
     "height": 2.04,
     "size_fixed": false,
-    "max_health": 16.0,
-    "movement_speed": 0.6000000238418579,
-    "attack_damage": 4.0,
-    "armor": 12.0,
     "armor_toughness": 0.0,
     "class": "MagmaCube",
     "parent": "Slime"

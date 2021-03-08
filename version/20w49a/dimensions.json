@@ -14,7 +14,7 @@
     "min_y": 0,
     "height": 256,
     "logical_height": 256,
-    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@2ba7828b",
+    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@7ce09850",
     "effects_location": "minecraft:overworld",
     "ambient_light": 0.0
   },
@@ -34,7 +34,7 @@
     "min_y": 0,
     "height": 256,
     "logical_height": 128,
-    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@2ba7828b",
+    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@7ce09850",
     "effects_location": "minecraft:the_nether",
     "ambient_light": 0.1
   },
@@ -54,7 +54,7 @@
     "min_y": 0,
     "height": 256,
     "logical_height": 256,
-    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@2ba7828b",
+    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@7ce09850",
     "effects_location": "minecraft:the_end",
     "ambient_light": 0.0
   }

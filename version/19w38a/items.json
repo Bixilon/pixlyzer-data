@@ -6,6 +6,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.air",
+    "eating_sound": 253,
     "class": "AirItem"
   },
   "minecraft:stone": {
@@ -16,6 +17,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stone",
+    "eating_sound": 253,
     "block": 1,
     "class": "BlockItem"
   },
@@ -27,6 +29,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.granite",
+    "eating_sound": 253,
     "block": 2,
     "class": "BlockItem"
   },
@@ -38,6 +41,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.polished_granite",
+    "eating_sound": 253,
     "block": 3,
     "class": "BlockItem"
   },
@@ -49,6 +53,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.diorite",
+    "eating_sound": 253,
     "block": 4,
     "class": "BlockItem"
   },
@@ -60,6 +65,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.polished_diorite",
+    "eating_sound": 253,
     "block": 5,
     "class": "BlockItem"
   },
@@ -71,6 +77,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.andesite",
+    "eating_sound": 253,
     "block": 6,
     "class": "BlockItem"
   },
@@ -82,6 +89,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.polished_andesite",
+    "eating_sound": 253,
     "block": 7,
     "class": "BlockItem"
   },
@@ -93,6 +101,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.grass_block",
+    "eating_sound": 253,
     "block": 8,
     "class": "BlockItem"
   },
@@ -104,6 +113,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dirt",
+    "eating_sound": 253,
     "block": 9,
     "class": "BlockItem"
   },
@@ -115,6 +125,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.coarse_dirt",
+    "eating_sound": 253,
     "block": 10,
     "class": "BlockItem"
   },
@@ -126,6 +137,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.podzol",
+    "eating_sound": 253,
     "block": 11,
     "class": "BlockItem"
   },
@@ -137,6 +149,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cobblestone",
+    "eating_sound": 253,
     "block": 12,
     "class": "BlockItem"
   },
@@ -148,6 +161,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_planks",
+    "eating_sound": 253,
     "block": 13,
     "class": "BlockItem"
   },
@@ -159,6 +173,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_planks",
+    "eating_sound": 253,
     "block": 14,
     "class": "BlockItem"
   },
@@ -170,6 +185,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_planks",
+    "eating_sound": 253,
     "block": 15,
     "class": "BlockItem"
   },
@@ -181,6 +197,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_planks",
+    "eating_sound": 253,
     "block": 16,
     "class": "BlockItem"
   },
@@ -192,6 +209,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_planks",
+    "eating_sound": 253,
     "block": 17,
     "class": "BlockItem"
   },
@@ -203,6 +221,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_planks",
+    "eating_sound": 253,
     "block": 18,
     "class": "BlockItem"
   },
@@ -214,6 +233,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_sapling",
+    "eating_sound": 253,
     "block": 19,
     "class": "BlockItem"
   },
@@ -225,6 +245,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_sapling",
+    "eating_sound": 253,
     "block": 20,
     "class": "BlockItem"
   },
@@ -236,6 +257,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_sapling",
+    "eating_sound": 253,
     "block": 21,
     "class": "BlockItem"
   },
@@ -247,6 +269,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_sapling",
+    "eating_sound": 253,
     "block": 22,
     "class": "BlockItem"
   },
@@ -258,6 +281,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_sapling",
+    "eating_sound": 253,
     "block": 23,
     "class": "BlockItem"
   },
@@ -269,6 +293,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_sapling",
+    "eating_sound": 253,
     "block": 24,
     "class": "BlockItem"
   },
@@ -280,6 +305,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.bedrock",
+    "eating_sound": 253,
     "block": 25,
     "class": "BlockItem"
   },
@@ -291,6 +317,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.sand",
+    "eating_sound": 253,
     "block": 28,
     "class": "BlockItem"
   },
@@ -302,6 +329,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_sand",
+    "eating_sound": 253,
     "block": 29,
     "class": "BlockItem"
   },
@@ -313,6 +341,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gravel",
+    "eating_sound": 253,
     "block": 30,
     "class": "BlockItem"
   },
@@ -324,6 +353,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gold_ore",
+    "eating_sound": 253,
     "block": 31,
     "class": "BlockItem"
   },
@@ -335,6 +365,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.iron_ore",
+    "eating_sound": 253,
     "block": 32,
     "class": "BlockItem"
   },
@@ -346,6 +377,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.coal_ore",
+    "eating_sound": 253,
     "block": 33,
     "class": "BlockItem"
   },
@@ -357,6 +389,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_log",
+    "eating_sound": 253,
     "block": 34,
     "class": "BlockItem"
   },
@@ -368,6 +401,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_log",
+    "eating_sound": 253,
     "block": 35,
     "class": "BlockItem"
   },
@@ -379,6 +413,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_log",
+    "eating_sound": 253,
     "block": 36,
     "class": "BlockItem"
   },
@@ -390,6 +425,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_log",
+    "eating_sound": 253,
     "block": 37,
     "class": "BlockItem"
   },
@@ -401,6 +437,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_log",
+    "eating_sound": 253,
     "block": 38,
     "class": "BlockItem"
   },
@@ -412,6 +449,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_log",
+    "eating_sound": 253,
     "block": 39,
     "class": "BlockItem"
   },
@@ -423,6 +461,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stripped_oak_log",
+    "eating_sound": 253,
     "block": 45,
     "class": "BlockItem"
   },
@@ -434,6 +473,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stripped_spruce_log",
+    "eating_sound": 253,
     "block": 40,
     "class": "BlockItem"
   },
@@ -445,6 +485,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stripped_birch_log",
+    "eating_sound": 253,
     "block": 41,
     "class": "BlockItem"
   },
@@ -456,6 +497,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stripped_jungle_log",
+    "eating_sound": 253,
     "block": 42,
     "class": "BlockItem"
   },
@@ -467,6 +509,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stripped_acacia_log",
+    "eating_sound": 253,
     "block": 43,
     "class": "BlockItem"
   },
@@ -478,6 +521,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stripped_dark_oak_log",
+    "eating_sound": 253,
     "block": 44,
     "class": "BlockItem"
   },
@@ -489,6 +533,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stripped_oak_wood",
+    "eating_sound": 253,
     "block": 52,
     "class": "BlockItem"
   },
@@ -500,6 +545,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stripped_spruce_wood",
+    "eating_sound": 253,
     "block": 53,
     "class": "BlockItem"
   },
@@ -511,6 +557,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stripped_birch_wood",
+    "eating_sound": 253,
     "block": 54,
     "class": "BlockItem"
   },
@@ -522,6 +569,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stripped_jungle_wood",
+    "eating_sound": 253,
     "block": 55,
     "class": "BlockItem"
   },
@@ -533,6 +581,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stripped_acacia_wood",
+    "eating_sound": 253,
     "block": 56,
     "class": "BlockItem"
   },
@@ -544,6 +593,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stripped_dark_oak_wood",
+    "eating_sound": 253,
     "block": 57,
     "class": "BlockItem"
   },
@@ -555,6 +605,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_wood",
+    "eating_sound": 253,
     "block": 46,
     "class": "BlockItem"
   },
@@ -566,6 +617,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_wood",
+    "eating_sound": 253,
     "block": 47,
     "class": "BlockItem"
   },
@@ -577,6 +629,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_wood",
+    "eating_sound": 253,
     "block": 48,
     "class": "BlockItem"
   },
@@ -588,6 +641,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_wood",
+    "eating_sound": 253,
     "block": 49,
     "class": "BlockItem"
   },
@@ -599,6 +653,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_wood",
+    "eating_sound": 253,
     "block": 50,
     "class": "BlockItem"
   },
@@ -610,6 +665,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_wood",
+    "eating_sound": 253,
     "block": 51,
     "class": "BlockItem"
   },
@@ -621,6 +677,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_leaves",
+    "eating_sound": 253,
     "block": 58,
     "class": "BlockItem"
   },
@@ -632,6 +689,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_leaves",
+    "eating_sound": 253,
     "block": 59,
     "class": "BlockItem"
   },
@@ -643,6 +701,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_leaves",
+    "eating_sound": 253,
     "block": 60,
     "class": "BlockItem"
   },
@@ -654,6 +713,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_leaves",
+    "eating_sound": 253,
     "block": 61,
     "class": "BlockItem"
   },
@@ -665,6 +725,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_leaves",
+    "eating_sound": 253,
     "block": 62,
     "class": "BlockItem"
   },
@@ -676,6 +737,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_leaves",
+    "eating_sound": 253,
     "block": 63,
     "class": "BlockItem"
   },
@@ -687,6 +749,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.sponge",
+    "eating_sound": 253,
     "block": 64,
     "class": "BlockItem"
   },
@@ -698,6 +761,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.wet_sponge",
+    "eating_sound": 253,
     "block": 65,
     "class": "BlockItem"
   },
@@ -709,6 +773,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.glass",
+    "eating_sound": 253,
     "block": 66,
     "class": "BlockItem"
   },
@@ -720,6 +785,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lapis_ore",
+    "eating_sound": 253,
     "block": 67,
     "class": "BlockItem"
   },
@@ -731,6 +797,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lapis_block",
+    "eating_sound": 253,
     "block": 68,
     "class": "BlockItem"
   },
@@ -742,6 +809,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dispenser",
+    "eating_sound": 253,
     "block": 69,
     "class": "BlockItem"
   },
@@ -753,6 +821,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.sandstone",
+    "eating_sound": 253,
     "block": 70,
     "class": "BlockItem"
   },
@@ -764,6 +833,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.chiseled_sandstone",
+    "eating_sound": 253,
     "block": 71,
     "class": "BlockItem"
   },
@@ -775,6 +845,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cut_sandstone",
+    "eating_sound": 253,
     "block": 72,
     "class": "BlockItem"
   },
@@ -786,6 +857,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.note_block",
+    "eating_sound": 253,
     "block": 73,
     "class": "BlockItem"
   },
@@ -797,6 +869,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.powered_rail",
+    "eating_sound": 253,
     "block": 90,
     "class": "BlockItem"
   },
@@ -808,6 +881,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.detector_rail",
+    "eating_sound": 253,
     "block": 91,
     "class": "BlockItem"
   },
@@ -819,6 +893,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.sticky_piston",
+    "eating_sound": 253,
     "block": 92,
     "class": "BlockItem"
   },
@@ -830,6 +905,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cobweb",
+    "eating_sound": 253,
     "block": 93,
     "class": "BlockItem"
   },
@@ -841,6 +917,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.grass",
+    "eating_sound": 253,
     "block": 94,
     "class": "BlockItem"
   },
@@ -852,6 +929,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.fern",
+    "eating_sound": 253,
     "block": 95,
     "class": "BlockItem"
   },
@@ -863,6 +941,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_bush",
+    "eating_sound": 253,
     "block": 96,
     "class": "BlockItem"
   },
@@ -874,6 +953,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.seagrass",
+    "eating_sound": 253,
     "block": 97,
     "class": "BlockItem"
   },
@@ -885,6 +965,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.sea_pickle",
+    "eating_sound": 253,
     "block": 610,
     "class": "BlockItem"
   },
@@ -896,6 +977,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.piston",
+    "eating_sound": 253,
     "block": 99,
     "class": "BlockItem"
   },
@@ -907,6 +989,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.white_wool",
+    "eating_sound": 253,
     "block": 101,
     "class": "BlockItem"
   },
@@ -918,6 +1001,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.orange_wool",
+    "eating_sound": 253,
     "block": 102,
     "class": "BlockItem"
   },
@@ -929,6 +1013,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.magenta_wool",
+    "eating_sound": 253,
     "block": 103,
     "class": "BlockItem"
   },
@@ -940,6 +1025,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_blue_wool",
+    "eating_sound": 253,
     "block": 104,
     "class": "BlockItem"
   },
@@ -951,6 +1037,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.yellow_wool",
+    "eating_sound": 253,
     "block": 105,
     "class": "BlockItem"
   },
@@ -962,6 +1049,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lime_wool",
+    "eating_sound": 253,
     "block": 106,
     "class": "BlockItem"
   },
@@ -973,6 +1061,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pink_wool",
+    "eating_sound": 253,
     "block": 107,
     "class": "BlockItem"
   },
@@ -984,6 +1073,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gray_wool",
+    "eating_sound": 253,
     "block": 108,
     "class": "BlockItem"
   },
@@ -995,6 +1085,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_gray_wool",
+    "eating_sound": 253,
     "block": 109,
     "class": "BlockItem"
   },
@@ -1006,6 +1097,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cyan_wool",
+    "eating_sound": 253,
     "block": 110,
     "class": "BlockItem"
   },
@@ -1017,6 +1109,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purple_wool",
+    "eating_sound": 253,
     "block": 111,
     "class": "BlockItem"
   },
@@ -1028,6 +1121,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_wool",
+    "eating_sound": 253,
     "block": 112,
     "class": "BlockItem"
   },
@@ -1039,6 +1133,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_wool",
+    "eating_sound": 253,
     "block": 113,
     "class": "BlockItem"
   },
@@ -1050,6 +1145,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.green_wool",
+    "eating_sound": 253,
     "block": 114,
     "class": "BlockItem"
   },
@@ -1061,6 +1157,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_wool",
+    "eating_sound": 253,
     "block": 115,
     "class": "BlockItem"
   },
@@ -1072,6 +1169,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.black_wool",
+    "eating_sound": 253,
     "block": 116,
     "class": "BlockItem"
   },
@@ -1083,6 +1181,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dandelion",
+    "eating_sound": 253,
     "block": 118,
     "class": "BlockItem"
   },
@@ -1094,6 +1193,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.poppy",
+    "eating_sound": 253,
     "block": 119,
     "class": "BlockItem"
   },
@@ -1105,6 +1205,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_orchid",
+    "eating_sound": 253,
     "block": 120,
     "class": "BlockItem"
   },
@@ -1116,6 +1217,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.allium",
+    "eating_sound": 253,
     "block": 121,
     "class": "BlockItem"
   },
@@ -1127,6 +1229,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.azure_bluet",
+    "eating_sound": 253,
     "block": 122,
     "class": "BlockItem"
   },
@@ -1138,6 +1241,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_tulip",
+    "eating_sound": 253,
     "block": 123,
     "class": "BlockItem"
   },
@@ -1149,6 +1253,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.orange_tulip",
+    "eating_sound": 253,
     "block": 124,
     "class": "BlockItem"
   },
@@ -1160,6 +1265,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.white_tulip",
+    "eating_sound": 253,
     "block": 125,
     "class": "BlockItem"
   },
@@ -1171,6 +1277,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pink_tulip",
+    "eating_sound": 253,
     "block": 126,
     "class": "BlockItem"
   },
@@ -1182,6 +1289,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oxeye_daisy",
+    "eating_sound": 253,
     "block": 127,
     "class": "BlockItem"
   },
@@ -1193,6 +1301,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cornflower",
+    "eating_sound": 253,
     "block": 128,
     "class": "BlockItem"
   },
@@ -1204,6 +1313,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lily_of_the_valley",
+    "eating_sound": 253,
     "block": 130,
     "class": "BlockItem"
   },
@@ -1215,6 +1325,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.wither_rose",
+    "eating_sound": 253,
     "block": 129,
     "class": "BlockItem"
   },
@@ -1226,6 +1337,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_mushroom",
+    "eating_sound": 253,
     "block": 131,
     "class": "BlockItem"
   },
@@ -1237,6 +1349,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_mushroom",
+    "eating_sound": 253,
     "block": 132,
     "class": "BlockItem"
   },
@@ -1248,6 +1361,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gold_block",
+    "eating_sound": 253,
     "block": 133,
     "class": "BlockItem"
   },
@@ -1259,6 +1373,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.iron_block",
+    "eating_sound": 253,
     "block": 134,
     "class": "BlockItem"
   },
@@ -1270,6 +1385,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_slab",
+    "eating_sound": 253,
     "block": 444,
     "class": "BlockItem"
   },
@@ -1281,6 +1397,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_slab",
+    "eating_sound": 253,
     "block": 445,
     "class": "BlockItem"
   },
@@ -1292,6 +1409,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_slab",
+    "eating_sound": 253,
     "block": 446,
     "class": "BlockItem"
   },
@@ -1303,6 +1421,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_slab",
+    "eating_sound": 253,
     "block": 447,
     "class": "BlockItem"
   },
@@ -1314,6 +1433,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_slab",
+    "eating_sound": 253,
     "block": 448,
     "class": "BlockItem"
   },
@@ -1325,6 +1445,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_slab",
+    "eating_sound": 253,
     "block": 449,
     "class": "BlockItem"
   },
@@ -1336,6 +1457,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stone_slab",
+    "eating_sound": 253,
     "block": 450,
     "class": "BlockItem"
   },
@@ -1347,6 +1469,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smooth_stone_slab",
+    "eating_sound": 253,
     "block": 451,
     "class": "BlockItem"
   },
@@ -1358,6 +1481,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.sandstone_slab",
+    "eating_sound": 253,
     "block": 452,
     "class": "BlockItem"
   },
@@ -1369,6 +1493,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cut_sandstone_slab",
+    "eating_sound": 253,
     "block": 453,
     "class": "BlockItem"
   },
@@ -1380,6 +1505,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.petrified_oak_slab",
+    "eating_sound": 253,
     "block": 454,
     "class": "BlockItem"
   },
@@ -1391,6 +1517,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cobblestone_slab",
+    "eating_sound": 253,
     "block": 455,
     "class": "BlockItem"
   },
@@ -1402,6 +1529,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brick_slab",
+    "eating_sound": 253,
     "block": 456,
     "class": "BlockItem"
   },
@@ -1413,6 +1541,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stone_brick_slab",
+    "eating_sound": 253,
     "block": 457,
     "class": "BlockItem"
   },
@@ -1424,6 +1553,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.nether_brick_slab",
+    "eating_sound": 253,
     "block": 458,
     "class": "BlockItem"
   },
@@ -1435,6 +1565,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.quartz_slab",
+    "eating_sound": 253,
     "block": 459,
     "class": "BlockItem"
   },
@@ -1446,6 +1577,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_sandstone_slab",
+    "eating_sound": 253,
     "block": 460,
     "class": "BlockItem"
   },
@@ -1457,6 +1589,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cut_red_sandstone_slab",
+    "eating_sound": 253,
     "block": 461,
     "class": "BlockItem"
   },
@@ -1468,6 +1601,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purpur_slab",
+    "eating_sound": 253,
     "block": 462,
     "class": "BlockItem"
   },
@@ -1479,6 +1613,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.prismarine_slab",
+    "eating_sound": 253,
     "block": 378,
     "class": "BlockItem"
   },
@@ -1490,6 +1625,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.prismarine_brick_slab",
+    "eating_sound": 253,
     "block": 379,
     "class": "BlockItem"
   },
@@ -1501,6 +1637,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_prismarine_slab",
+    "eating_sound": 253,
     "block": 380,
     "class": "BlockItem"
   },
@@ -1512,6 +1649,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smooth_quartz",
+    "eating_sound": 253,
     "block": 465,
     "class": "BlockItem"
   },
@@ -1523,6 +1661,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smooth_red_sandstone",
+    "eating_sound": 253,
     "block": 466,
     "class": "BlockItem"
   },
@@ -1534,6 +1673,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smooth_sandstone",
+    "eating_sound": 253,
     "block": 464,
     "class": "BlockItem"
   },
@@ -1545,6 +1685,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smooth_stone",
+    "eating_sound": 253,
     "block": 463,
     "class": "BlockItem"
   },
@@ -1556,6 +1697,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.bricks",
+    "eating_sound": 253,
     "block": 135,
     "class": "BlockItem"
   },
@@ -1567,6 +1709,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.tnt",
+    "eating_sound": 253,
     "block": 136,
     "class": "BlockItem"
   },
@@ -1578,6 +1721,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.bookshelf",
+    "eating_sound": 253,
     "block": 137,
     "class": "BlockItem"
   },
@@ -1589,6 +1733,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.mossy_cobblestone",
+    "eating_sound": 253,
     "block": 138,
     "class": "BlockItem"
   },
@@ -1600,6 +1745,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.obsidian",
+    "eating_sound": 253,
     "block": 139,
     "class": "BlockItem"
   },
@@ -1611,6 +1757,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.torch",
+    "eating_sound": 253,
     "block": 140,
     "class": "StandingAndWallBlockItem"
   },
@@ -1622,6 +1769,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.end_rod",
+    "eating_sound": 253,
     "block": 482,
     "class": "BlockItem"
   },
@@ -1633,6 +1781,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.chorus_plant",
+    "eating_sound": 253,
     "block": 483,
     "class": "BlockItem"
   },
@@ -1644,6 +1793,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.chorus_flower",
+    "eating_sound": 253,
     "block": 484,
     "class": "BlockItem"
   },
@@ -1655,6 +1805,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purpur_block",
+    "eating_sound": 253,
     "block": 485,
     "class": "BlockItem"
   },
@@ -1666,6 +1817,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purpur_pillar",
+    "eating_sound": 253,
     "block": 486,
     "class": "BlockItem"
   },
@@ -1677,6 +1829,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purpur_stairs",
+    "eating_sound": 253,
     "block": 487,
     "class": "BlockItem"
   },
@@ -1687,6 +1840,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spawner",
+    "eating_sound": 253,
     "block": 143,
     "class": "BlockItem"
   },
@@ -1698,6 +1852,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_stairs",
+    "eating_sound": 253,
     "block": 144,
     "class": "BlockItem"
   },
@@ -1709,6 +1864,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.chest",
+    "eating_sound": 253,
     "block": 145,
     "class": "BlockItem"
   },
@@ -1720,6 +1876,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.diamond_ore",
+    "eating_sound": 253,
     "block": 147,
     "class": "BlockItem"
   },
@@ -1731,6 +1888,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.diamond_block",
+    "eating_sound": 253,
     "block": 148,
     "class": "BlockItem"
   },
@@ -1742,6 +1900,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.crafting_table",
+    "eating_sound": 253,
     "block": 149,
     "class": "BlockItem"
   },
@@ -1753,6 +1912,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.farmland",
+    "eating_sound": 253,
     "block": 151,
     "class": "BlockItem"
   },
@@ -1764,6 +1924,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.furnace",
+    "eating_sound": 253,
     "block": 152,
     "class": "BlockItem"
   },
@@ -1775,6 +1936,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.ladder",
+    "eating_sound": 253,
     "block": 160,
     "class": "BlockItem"
   },
@@ -1786,6 +1948,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.rail",
+    "eating_sound": 253,
     "block": 161,
     "class": "BlockItem"
   },
@@ -1797,6 +1960,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cobblestone_stairs",
+    "eating_sound": 253,
     "block": 162,
     "class": "BlockItem"
   },
@@ -1808,6 +1972,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lever",
+    "eating_sound": 253,
     "block": 169,
     "class": "BlockItem"
   },
@@ -1819,6 +1984,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stone_pressure_plate",
+    "eating_sound": 253,
     "block": 170,
     "class": "BlockItem"
   },
@@ -1830,6 +1996,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_pressure_plate",
+    "eating_sound": 253,
     "block": 172,
     "class": "BlockItem"
   },
@@ -1841,6 +2008,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_pressure_plate",
+    "eating_sound": 253,
     "block": 173,
     "class": "BlockItem"
   },
@@ -1852,6 +2020,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_pressure_plate",
+    "eating_sound": 253,
     "block": 174,
     "class": "BlockItem"
   },
@@ -1863,6 +2032,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_pressure_plate",
+    "eating_sound": 253,
     "block": 175,
     "class": "BlockItem"
   },
@@ -1874,6 +2044,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_pressure_plate",
+    "eating_sound": 253,
     "block": 176,
     "class": "BlockItem"
   },
@@ -1885,6 +2056,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_pressure_plate",
+    "eating_sound": 253,
     "block": 177,
     "class": "BlockItem"
   },
@@ -1896,6 +2068,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.redstone_ore",
+    "eating_sound": 253,
     "block": 178,
     "class": "BlockItem"
   },
@@ -1907,6 +2080,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.redstone_torch",
+    "eating_sound": 253,
     "block": 179,
     "class": "StandingAndWallBlockItem"
   },
@@ -1918,6 +2092,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stone_button",
+    "eating_sound": 253,
     "block": 181,
     "class": "BlockItem"
   },
@@ -1929,6 +2104,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.snow",
+    "eating_sound": 253,
     "block": 182,
     "class": "BlockItem"
   },
@@ -1940,6 +2116,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.ice",
+    "eating_sound": 253,
     "block": 183,
     "class": "BlockItem"
   },
@@ -1951,6 +2128,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.snow_block",
+    "eating_sound": 253,
     "block": 184,
     "class": "BlockItem"
   },
@@ -1962,6 +2140,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cactus",
+    "eating_sound": 253,
     "block": 185,
     "class": "BlockItem"
   },
@@ -1973,6 +2152,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.clay",
+    "eating_sound": 253,
     "block": 186,
     "class": "BlockItem"
   },
@@ -1984,6 +2164,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jukebox",
+    "eating_sound": 253,
     "block": 188,
     "class": "BlockItem"
   },
@@ -1995,6 +2176,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_fence",
+    "eating_sound": 253,
     "block": 189,
     "class": "BlockItem"
   },
@@ -2006,6 +2188,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_fence",
+    "eating_sound": 253,
     "block": 472,
     "class": "BlockItem"
   },
@@ -2017,6 +2200,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_fence",
+    "eating_sound": 253,
     "block": 473,
     "class": "BlockItem"
   },
@@ -2028,6 +2212,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_fence",
+    "eating_sound": 253,
     "block": 474,
     "class": "BlockItem"
   },
@@ -2039,6 +2224,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_fence",
+    "eating_sound": 253,
     "block": 475,
     "class": "BlockItem"
   },
@@ -2050,6 +2236,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_fence",
+    "eating_sound": 253,
     "block": 476,
     "class": "BlockItem"
   },
@@ -2061,6 +2248,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pumpkin",
+    "eating_sound": 253,
     "block": 190,
     "class": "BlockItem"
   },
@@ -2072,6 +2260,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.carved_pumpkin",
+    "eating_sound": 253,
     "block": 195,
     "class": "BlockItem"
   },
@@ -2083,6 +2272,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.netherrack",
+    "eating_sound": 253,
     "block": 191,
     "class": "BlockItem"
   },
@@ -2094,6 +2284,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.soul_sand",
+    "eating_sound": 253,
     "block": 192,
     "class": "BlockItem"
   },
@@ -2105,6 +2296,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.glowstone",
+    "eating_sound": 253,
     "block": 193,
     "class": "BlockItem"
   },
@@ -2116,6 +2308,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jack_o_lantern",
+    "eating_sound": 253,
     "block": 196,
     "class": "BlockItem"
   },
@@ -2127,6 +2320,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_trapdoor",
+    "eating_sound": 253,
     "block": 215,
     "class": "BlockItem"
   },
@@ -2138,6 +2332,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_trapdoor",
+    "eating_sound": 253,
     "block": 216,
     "class": "BlockItem"
   },
@@ -2149,6 +2344,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_trapdoor",
+    "eating_sound": 253,
     "block": 217,
     "class": "BlockItem"
   },
@@ -2160,6 +2356,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_trapdoor",
+    "eating_sound": 253,
     "block": 218,
     "class": "BlockItem"
   },
@@ -2171,6 +2368,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_trapdoor",
+    "eating_sound": 253,
     "block": 219,
     "class": "BlockItem"
   },
@@ -2182,6 +2380,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_trapdoor",
+    "eating_sound": 253,
     "block": 220,
     "class": "BlockItem"
   },
@@ -2193,6 +2392,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.infested_stone",
+    "eating_sound": 253,
     "block": 225,
     "class": "BlockItem"
   },
@@ -2204,6 +2404,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.infested_cobblestone",
+    "eating_sound": 253,
     "block": 226,
     "class": "BlockItem"
   },
@@ -2215,6 +2416,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.infested_stone_bricks",
+    "eating_sound": 253,
     "block": 227,
     "class": "BlockItem"
   },
@@ -2226,6 +2428,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.infested_mossy_stone_bricks",
+    "eating_sound": 253,
     "block": 228,
     "class": "BlockItem"
   },
@@ -2237,6 +2440,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.infested_cracked_stone_bricks",
+    "eating_sound": 253,
     "block": 229,
     "class": "BlockItem"
   },
@@ -2248,6 +2452,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.infested_chiseled_stone_bricks",
+    "eating_sound": 253,
     "block": 230,
     "class": "BlockItem"
   },
@@ -2259,6 +2464,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stone_bricks",
+    "eating_sound": 253,
     "block": 221,
     "class": "BlockItem"
   },
@@ -2270,6 +2476,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.mossy_stone_bricks",
+    "eating_sound": 253,
     "block": 222,
     "class": "BlockItem"
   },
@@ -2281,6 +2488,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cracked_stone_bricks",
+    "eating_sound": 253,
     "block": 223,
     "class": "BlockItem"
   },
@@ -2292,6 +2500,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.chiseled_stone_bricks",
+    "eating_sound": 253,
     "block": 224,
     "class": "BlockItem"
   },
@@ -2303,6 +2512,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_mushroom_block",
+    "eating_sound": 253,
     "block": 231,
     "class": "BlockItem"
   },
@@ -2314,6 +2524,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_mushroom_block",
+    "eating_sound": 253,
     "block": 232,
     "class": "BlockItem"
   },
@@ -2325,6 +2536,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.mushroom_stem",
+    "eating_sound": 253,
     "block": 233,
     "class": "BlockItem"
   },
@@ -2336,6 +2548,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.iron_bars",
+    "eating_sound": 253,
     "block": 234,
     "class": "BlockItem"
   },
@@ -2347,6 +2560,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.glass_pane",
+    "eating_sound": 253,
     "block": 235,
     "class": "BlockItem"
   },
@@ -2358,6 +2572,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.melon",
+    "eating_sound": 253,
     "block": 236,
     "class": "BlockItem"
   },
@@ -2369,6 +2584,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.vine",
+    "eating_sound": 253,
     "block": 241,
     "class": "BlockItem"
   },
@@ -2380,6 +2596,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_fence_gate",
+    "eating_sound": 253,
     "block": 242,
     "class": "BlockItem"
   },
@@ -2391,6 +2608,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_fence_gate",
+    "eating_sound": 253,
     "block": 467,
     "class": "BlockItem"
   },
@@ -2402,6 +2620,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_fence_gate",
+    "eating_sound": 253,
     "block": 468,
     "class": "BlockItem"
   },
@@ -2413,6 +2632,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_fence_gate",
+    "eating_sound": 253,
     "block": 469,
     "class": "BlockItem"
   },
@@ -2424,6 +2644,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_fence_gate",
+    "eating_sound": 253,
     "block": 470,
     "class": "BlockItem"
   },
@@ -2435,6 +2656,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_fence_gate",
+    "eating_sound": 253,
     "block": 471,
     "class": "BlockItem"
   },
@@ -2446,6 +2668,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brick_stairs",
+    "eating_sound": 253,
     "block": 243,
     "class": "BlockItem"
   },
@@ -2457,6 +2680,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stone_brick_stairs",
+    "eating_sound": 253,
     "block": 244,
     "class": "BlockItem"
   },
@@ -2468,6 +2692,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.mycelium",
+    "eating_sound": 253,
     "block": 245,
     "class": "BlockItem"
   },
@@ -2479,6 +2704,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lily_pad",
+    "eating_sound": 253,
     "block": 246,
     "class": "WaterLilyBlockItem"
   },
@@ -2490,6 +2716,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.nether_bricks",
+    "eating_sound": 253,
     "block": 247,
     "class": "BlockItem"
   },
@@ -2501,6 +2728,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.nether_brick_fence",
+    "eating_sound": 253,
     "block": 248,
     "class": "BlockItem"
   },
@@ -2512,6 +2740,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.nether_brick_stairs",
+    "eating_sound": 253,
     "block": 249,
     "class": "BlockItem"
   },
@@ -2523,6 +2752,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.enchanting_table",
+    "eating_sound": 253,
     "block": 251,
     "class": "BlockItem"
   },
@@ -2534,6 +2764,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.end_portal_frame",
+    "eating_sound": 253,
     "block": 255,
     "class": "BlockItem"
   },
@@ -2545,6 +2776,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.end_stone",
+    "eating_sound": 253,
     "block": 256,
     "class": "BlockItem"
   },
@@ -2556,6 +2788,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.end_stone_bricks",
+    "eating_sound": 253,
     "block": 488,
     "class": "BlockItem"
   },
@@ -2566,6 +2799,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dragon_egg",
+    "eating_sound": 253,
     "block": 257,
     "class": "BlockItem"
   },
@@ -2577,6 +2811,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.redstone_lamp",
+    "eating_sound": 253,
     "block": 258,
     "class": "BlockItem"
   },
@@ -2588,6 +2823,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.sandstone_stairs",
+    "eating_sound": 253,
     "block": 260,
     "class": "BlockItem"
   },
@@ -2599,6 +2835,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.emerald_ore",
+    "eating_sound": 253,
     "block": 261,
     "class": "BlockItem"
   },
@@ -2610,6 +2847,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.ender_chest",
+    "eating_sound": 253,
     "block": 262,
     "class": "BlockItem"
   },
@@ -2621,6 +2859,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.tripwire_hook",
+    "eating_sound": 253,
     "block": 263,
     "class": "BlockItem"
   },
@@ -2632,6 +2871,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.emerald_block",
+    "eating_sound": 253,
     "block": 265,
     "class": "BlockItem"
   },
@@ -2643,6 +2883,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_stairs",
+    "eating_sound": 253,
     "block": 266,
     "class": "BlockItem"
   },
@@ -2654,6 +2895,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_stairs",
+    "eating_sound": 253,
     "block": 267,
     "class": "BlockItem"
   },
@@ -2665,6 +2907,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_stairs",
+    "eating_sound": 253,
     "block": 268,
     "class": "BlockItem"
   },
@@ -2675,6 +2918,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.command_block",
+    "eating_sound": 253,
     "block": 269,
     "class": "GameMasterBlockItem"
   },
@@ -2686,6 +2930,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.beacon",
+    "eating_sound": 253,
     "block": 270,
     "class": "BlockItem"
   },
@@ -2697,6 +2942,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cobblestone_wall",
+    "eating_sound": 253,
     "block": 271,
     "class": "BlockItem"
   },
@@ -2708,6 +2954,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.mossy_cobblestone_wall",
+    "eating_sound": 253,
     "block": 272,
     "class": "BlockItem"
   },
@@ -2719,6 +2966,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brick_wall",
+    "eating_sound": 253,
     "block": 646,
     "class": "BlockItem"
   },
@@ -2730,6 +2978,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.prismarine_wall",
+    "eating_sound": 253,
     "block": 647,
     "class": "BlockItem"
   },
@@ -2741,6 +2990,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_sandstone_wall",
+    "eating_sound": 253,
     "block": 648,
     "class": "BlockItem"
   },
@@ -2752,6 +3002,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.mossy_stone_brick_wall",
+    "eating_sound": 253,
     "block": 649,
     "class": "BlockItem"
   },
@@ -2763,6 +3014,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.granite_wall",
+    "eating_sound": 253,
     "block": 650,
     "class": "BlockItem"
   },
@@ -2774,6 +3026,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stone_brick_wall",
+    "eating_sound": 253,
     "block": 651,
     "class": "BlockItem"
   },
@@ -2785,6 +3038,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.nether_brick_wall",
+    "eating_sound": 253,
     "block": 652,
     "class": "BlockItem"
   },
@@ -2796,6 +3050,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.andesite_wall",
+    "eating_sound": 253,
     "block": 653,
     "class": "BlockItem"
   },
@@ -2807,6 +3062,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_nether_brick_wall",
+    "eating_sound": 253,
     "block": 654,
     "class": "BlockItem"
   },
@@ -2818,6 +3074,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.sandstone_wall",
+    "eating_sound": 253,
     "block": 655,
     "class": "BlockItem"
   },
@@ -2829,6 +3086,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.end_stone_brick_wall",
+    "eating_sound": 253,
     "block": 656,
     "class": "BlockItem"
   },
@@ -2840,6 +3098,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.diorite_wall",
+    "eating_sound": 253,
     "block": 657,
     "class": "BlockItem"
   },
@@ -2851,6 +3110,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_button",
+    "eating_sound": 253,
     "block": 300,
     "class": "BlockItem"
   },
@@ -2862,6 +3122,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_button",
+    "eating_sound": 253,
     "block": 301,
     "class": "BlockItem"
   },
@@ -2873,6 +3134,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_button",
+    "eating_sound": 253,
     "block": 302,
     "class": "BlockItem"
   },
@@ -2884,6 +3146,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_button",
+    "eating_sound": 253,
     "block": 303,
     "class": "BlockItem"
   },
@@ -2895,6 +3158,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_button",
+    "eating_sound": 253,
     "block": 304,
     "class": "BlockItem"
   },
@@ -2906,6 +3170,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_button",
+    "eating_sound": 253,
     "block": 305,
     "class": "BlockItem"
   },
@@ -2917,6 +3182,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.anvil",
+    "eating_sound": 253,
     "block": 318,
     "class": "BlockItem"
   },
@@ -2928,6 +3194,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.chipped_anvil",
+    "eating_sound": 253,
     "block": 319,
     "class": "BlockItem"
   },
@@ -2939,6 +3206,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.damaged_anvil",
+    "eating_sound": 253,
     "block": 320,
     "class": "BlockItem"
   },
@@ -2950,6 +3218,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.trapped_chest",
+    "eating_sound": 253,
     "block": 321,
     "class": "BlockItem"
   },
@@ -2961,6 +3230,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_weighted_pressure_plate",
+    "eating_sound": 253,
     "block": 322,
     "class": "BlockItem"
   },
@@ -2972,6 +3242,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.heavy_weighted_pressure_plate",
+    "eating_sound": 253,
     "block": 323,
     "class": "BlockItem"
   },
@@ -2983,6 +3254,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.daylight_detector",
+    "eating_sound": 253,
     "block": 325,
     "class": "BlockItem"
   },
@@ -2994,6 +3266,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.redstone_block",
+    "eating_sound": 253,
     "block": 326,
     "class": "BlockItem"
   },
@@ -3005,6 +3278,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.nether_quartz_ore",
+    "eating_sound": 253,
     "block": 327,
     "class": "BlockItem"
   },
@@ -3016,6 +3290,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.hopper",
+    "eating_sound": 253,
     "block": 328,
     "class": "BlockItem"
   },
@@ -3027,6 +3302,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.chiseled_quartz_block",
+    "eating_sound": 253,
     "block": 330,
     "class": "BlockItem"
   },
@@ -3038,6 +3314,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.quartz_block",
+    "eating_sound": 253,
     "block": 329,
     "class": "BlockItem"
   },
@@ -3049,6 +3326,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.quartz_pillar",
+    "eating_sound": 253,
     "block": 331,
     "class": "BlockItem"
   },
@@ -3060,6 +3338,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.quartz_stairs",
+    "eating_sound": 253,
     "block": 332,
     "class": "BlockItem"
   },
@@ -3071,6 +3350,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.activator_rail",
+    "eating_sound": 253,
     "block": 333,
     "class": "BlockItem"
   },
@@ -3082,6 +3362,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dropper",
+    "eating_sound": 253,
     "block": 334,
     "class": "BlockItem"
   },
@@ -3093,6 +3374,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.white_terracotta",
+    "eating_sound": 253,
     "block": 335,
     "class": "BlockItem"
   },
@@ -3104,6 +3386,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.orange_terracotta",
+    "eating_sound": 253,
     "block": 336,
     "class": "BlockItem"
   },
@@ -3115,6 +3398,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.magenta_terracotta",
+    "eating_sound": 253,
     "block": 337,
     "class": "BlockItem"
   },
@@ -3126,6 +3410,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_blue_terracotta",
+    "eating_sound": 253,
     "block": 338,
     "class": "BlockItem"
   },
@@ -3137,6 +3422,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.yellow_terracotta",
+    "eating_sound": 253,
     "block": 339,
     "class": "BlockItem"
   },
@@ -3148,6 +3434,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lime_terracotta",
+    "eating_sound": 253,
     "block": 340,
     "class": "BlockItem"
   },
@@ -3159,6 +3446,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pink_terracotta",
+    "eating_sound": 253,
     "block": 341,
     "class": "BlockItem"
   },
@@ -3170,6 +3458,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gray_terracotta",
+    "eating_sound": 253,
     "block": 342,
     "class": "BlockItem"
   },
@@ -3181,6 +3470,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_gray_terracotta",
+    "eating_sound": 253,
     "block": 343,
     "class": "BlockItem"
   },
@@ -3192,6 +3482,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cyan_terracotta",
+    "eating_sound": 253,
     "block": 344,
     "class": "BlockItem"
   },
@@ -3203,6 +3494,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purple_terracotta",
+    "eating_sound": 253,
     "block": 345,
     "class": "BlockItem"
   },
@@ -3214,6 +3506,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_terracotta",
+    "eating_sound": 253,
     "block": 346,
     "class": "BlockItem"
   },
@@ -3225,6 +3518,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_terracotta",
+    "eating_sound": 253,
     "block": 347,
     "class": "BlockItem"
   },
@@ -3236,6 +3530,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.green_terracotta",
+    "eating_sound": 253,
     "block": 348,
     "class": "BlockItem"
   },
@@ -3247,6 +3542,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_terracotta",
+    "eating_sound": 253,
     "block": 349,
     "class": "BlockItem"
   },
@@ -3258,6 +3554,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.black_terracotta",
+    "eating_sound": 253,
     "block": 350,
     "class": "BlockItem"
   },
@@ -3268,6 +3565,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.barrier",
+    "eating_sound": 253,
     "block": 370,
     "class": "BlockItem"
   },
@@ -3279,6 +3577,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.iron_trapdoor",
+    "eating_sound": 253,
     "block": 371,
     "class": "BlockItem"
   },
@@ -3290,6 +3589,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.hay_block",
+    "eating_sound": 253,
     "block": 382,
     "class": "BlockItem"
   },
@@ -3301,6 +3601,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.white_carpet",
+    "eating_sound": 253,
     "block": 383,
     "class": "BlockItem"
   },
@@ -3312,6 +3613,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.orange_carpet",
+    "eating_sound": 253,
     "block": 384,
     "class": "BlockItem"
   },
@@ -3323,6 +3625,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.magenta_carpet",
+    "eating_sound": 253,
     "block": 385,
     "class": "BlockItem"
   },
@@ -3334,6 +3637,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_blue_carpet",
+    "eating_sound": 253,
     "block": 386,
     "class": "BlockItem"
   },
@@ -3345,6 +3649,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.yellow_carpet",
+    "eating_sound": 253,
     "block": 387,
     "class": "BlockItem"
   },
@@ -3356,6 +3661,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lime_carpet",
+    "eating_sound": 253,
     "block": 388,
     "class": "BlockItem"
   },
@@ -3367,6 +3673,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pink_carpet",
+    "eating_sound": 253,
     "block": 389,
     "class": "BlockItem"
   },
@@ -3378,6 +3685,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gray_carpet",
+    "eating_sound": 253,
     "block": 390,
     "class": "BlockItem"
   },
@@ -3389,6 +3697,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_gray_carpet",
+    "eating_sound": 253,
     "block": 391,
     "class": "BlockItem"
   },
@@ -3400,6 +3709,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cyan_carpet",
+    "eating_sound": 253,
     "block": 392,
     "class": "BlockItem"
   },
@@ -3411,6 +3721,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purple_carpet",
+    "eating_sound": 253,
     "block": 393,
     "class": "BlockItem"
   },
@@ -3422,6 +3733,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_carpet",
+    "eating_sound": 253,
     "block": 394,
     "class": "BlockItem"
   },
@@ -3433,6 +3745,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_carpet",
+    "eating_sound": 253,
     "block": 395,
     "class": "BlockItem"
   },
@@ -3444,6 +3757,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.green_carpet",
+    "eating_sound": 253,
     "block": 396,
     "class": "BlockItem"
   },
@@ -3455,6 +3769,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_carpet",
+    "eating_sound": 253,
     "block": 397,
     "class": "BlockItem"
   },
@@ -3466,6 +3781,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.black_carpet",
+    "eating_sound": 253,
     "block": 398,
     "class": "BlockItem"
   },
@@ -3477,6 +3793,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.terracotta",
+    "eating_sound": 253,
     "block": 399,
     "class": "BlockItem"
   },
@@ -3488,6 +3805,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.coal_block",
+    "eating_sound": 253,
     "block": 400,
     "class": "BlockItem"
   },
@@ -3499,6 +3817,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.packed_ice",
+    "eating_sound": 253,
     "block": 401,
     "class": "BlockItem"
   },
@@ -3510,6 +3829,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_stairs",
+    "eating_sound": 253,
     "block": 367,
     "class": "BlockItem"
   },
@@ -3521,6 +3841,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_stairs",
+    "eating_sound": 253,
     "block": 368,
     "class": "BlockItem"
   },
@@ -3532,6 +3853,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.slime_block",
+    "eating_sound": 253,
     "block": 369,
     "class": "BlockItem"
   },
@@ -3543,6 +3865,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.grass_path",
+    "eating_sound": 253,
     "block": 490,
     "class": "BlockItem"
   },
@@ -3554,6 +3877,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.sunflower",
+    "eating_sound": 253,
     "block": 402,
     "class": "DoubleHighBlockItem"
   },
@@ -3565,6 +3889,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lilac",
+    "eating_sound": 253,
     "block": 403,
     "class": "DoubleHighBlockItem"
   },
@@ -3576,6 +3901,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.rose_bush",
+    "eating_sound": 253,
     "block": 404,
     "class": "DoubleHighBlockItem"
   },
@@ -3587,6 +3913,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.peony",
+    "eating_sound": 253,
     "block": 405,
     "class": "DoubleHighBlockItem"
   },
@@ -3598,6 +3925,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.tall_grass",
+    "eating_sound": 253,
     "block": 406,
     "class": "DoubleHighBlockItem"
   },
@@ -3609,6 +3937,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.large_fern",
+    "eating_sound": 253,
     "block": 407,
     "class": "DoubleHighBlockItem"
   },
@@ -3620,6 +3949,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.white_stained_glass",
+    "eating_sound": 253,
     "block": 199,
     "class": "BlockItem"
   },
@@ -3631,6 +3961,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.orange_stained_glass",
+    "eating_sound": 253,
     "block": 200,
     "class": "BlockItem"
   },
@@ -3642,6 +3973,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.magenta_stained_glass",
+    "eating_sound": 253,
     "block": 201,
     "class": "BlockItem"
   },
@@ -3653,6 +3985,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_blue_stained_glass",
+    "eating_sound": 253,
     "block": 202,
     "class": "BlockItem"
   },
@@ -3664,6 +3997,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.yellow_stained_glass",
+    "eating_sound": 253,
     "block": 203,
     "class": "BlockItem"
   },
@@ -3675,6 +4009,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lime_stained_glass",
+    "eating_sound": 253,
     "block": 204,
     "class": "BlockItem"
   },
@@ -3686,6 +4021,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pink_stained_glass",
+    "eating_sound": 253,
     "block": 205,
     "class": "BlockItem"
   },
@@ -3697,6 +4033,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gray_stained_glass",
+    "eating_sound": 253,
     "block": 206,
     "class": "BlockItem"
   },
@@ -3708,6 +4045,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_gray_stained_glass",
+    "eating_sound": 253,
     "block": 207,
     "class": "BlockItem"
   },
@@ -3719,6 +4057,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cyan_stained_glass",
+    "eating_sound": 253,
     "block": 208,
     "class": "BlockItem"
   },
@@ -3730,6 +4069,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purple_stained_glass",
+    "eating_sound": 253,
     "block": 209,
     "class": "BlockItem"
   },
@@ -3741,6 +4081,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_stained_glass",
+    "eating_sound": 253,
     "block": 210,
     "class": "BlockItem"
   },
@@ -3752,6 +4093,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_stained_glass",
+    "eating_sound": 253,
     "block": 211,
     "class": "BlockItem"
   },
@@ -3763,6 +4105,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.green_stained_glass",
+    "eating_sound": 253,
     "block": 212,
     "class": "BlockItem"
   },
@@ -3774,6 +4117,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_stained_glass",
+    "eating_sound": 253,
     "block": 213,
     "class": "BlockItem"
   },
@@ -3785,6 +4129,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.black_stained_glass",
+    "eating_sound": 253,
     "block": 214,
     "class": "BlockItem"
   },
@@ -3796,6 +4141,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.white_stained_glass_pane",
+    "eating_sound": 253,
     "block": 351,
     "class": "BlockItem"
   },
@@ -3807,6 +4153,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.orange_stained_glass_pane",
+    "eating_sound": 253,
     "block": 352,
     "class": "BlockItem"
   },
@@ -3818,6 +4165,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.magenta_stained_glass_pane",
+    "eating_sound": 253,
     "block": 353,
     "class": "BlockItem"
   },
@@ -3829,6 +4177,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_blue_stained_glass_pane",
+    "eating_sound": 253,
     "block": 354,
     "class": "BlockItem"
   },
@@ -3840,6 +4189,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.yellow_stained_glass_pane",
+    "eating_sound": 253,
     "block": 355,
     "class": "BlockItem"
   },
@@ -3851,6 +4201,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lime_stained_glass_pane",
+    "eating_sound": 253,
     "block": 356,
     "class": "BlockItem"
   },
@@ -3862,6 +4213,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pink_stained_glass_pane",
+    "eating_sound": 253,
     "block": 357,
     "class": "BlockItem"
   },
@@ -3873,6 +4225,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gray_stained_glass_pane",
+    "eating_sound": 253,
     "block": 358,
     "class": "BlockItem"
   },
@@ -3884,6 +4237,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_gray_stained_glass_pane",
+    "eating_sound": 253,
     "block": 359,
     "class": "BlockItem"
   },
@@ -3895,6 +4249,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cyan_stained_glass_pane",
+    "eating_sound": 253,
     "block": 360,
     "class": "BlockItem"
   },
@@ -3906,6 +4261,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purple_stained_glass_pane",
+    "eating_sound": 253,
     "block": 361,
     "class": "BlockItem"
   },
@@ -3917,6 +4273,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_stained_glass_pane",
+    "eating_sound": 253,
     "block": 362,
     "class": "BlockItem"
   },
@@ -3928,6 +4285,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_stained_glass_pane",
+    "eating_sound": 253,
     "block": 363,
     "class": "BlockItem"
   },
@@ -3939,6 +4297,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.green_stained_glass_pane",
+    "eating_sound": 253,
     "block": 364,
     "class": "BlockItem"
   },
@@ -3950,6 +4309,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_stained_glass_pane",
+    "eating_sound": 253,
     "block": 365,
     "class": "BlockItem"
   },
@@ -3961,6 +4321,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.black_stained_glass_pane",
+    "eating_sound": 253,
     "block": 366,
     "class": "BlockItem"
   },
@@ -3972,6 +4333,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.prismarine",
+    "eating_sound": 253,
     "block": 372,
     "class": "BlockItem"
   },
@@ -3983,6 +4345,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.prismarine_bricks",
+    "eating_sound": 253,
     "block": 373,
     "class": "BlockItem"
   },
@@ -3994,6 +4357,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_prismarine",
+    "eating_sound": 253,
     "block": 374,
     "class": "BlockItem"
   },
@@ -4005,6 +4369,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.prismarine_stairs",
+    "eating_sound": 253,
     "block": 375,
     "class": "BlockItem"
   },
@@ -4016,6 +4381,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.prismarine_brick_stairs",
+    "eating_sound": 253,
     "block": 376,
     "class": "BlockItem"
   },
@@ -4027,6 +4393,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_prismarine_stairs",
+    "eating_sound": 253,
     "block": 377,
     "class": "BlockItem"
   },
@@ -4038,6 +4405,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.sea_lantern",
+    "eating_sound": 253,
     "block": 381,
     "class": "BlockItem"
   },
@@ -4049,6 +4417,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_sandstone",
+    "eating_sound": 253,
     "block": 440,
     "class": "BlockItem"
   },
@@ -4060,6 +4429,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.chiseled_red_sandstone",
+    "eating_sound": 253,
     "block": 441,
     "class": "BlockItem"
   },
@@ -4071,6 +4441,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cut_red_sandstone",
+    "eating_sound": 253,
     "block": 442,
     "class": "BlockItem"
   },
@@ -4082,6 +4453,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_sandstone_stairs",
+    "eating_sound": 253,
     "block": 443,
     "class": "BlockItem"
   },
@@ -4092,6 +4464,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.repeating_command_block",
+    "eating_sound": 253,
     "block": 492,
     "class": "GameMasterBlockItem"
   },
@@ -4102,6 +4475,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.chain_command_block",
+    "eating_sound": 253,
     "block": 493,
     "class": "GameMasterBlockItem"
   },
@@ -4113,6 +4487,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.magma_block",
+    "eating_sound": 253,
     "block": 495,
     "class": "BlockItem"
   },
@@ -4124,6 +4499,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.nether_wart_block",
+    "eating_sound": 253,
     "block": 496,
     "class": "BlockItem"
   },
@@ -4135,6 +4511,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_nether_bricks",
+    "eating_sound": 253,
     "block": 497,
     "class": "BlockItem"
   },
@@ -4146,6 +4523,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.bone_block",
+    "eating_sound": 253,
     "block": 498,
     "class": "BlockItem"
   },
@@ -4156,6 +4534,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.structure_void",
+    "eating_sound": 253,
     "block": 499,
     "class": "BlockItem"
   },
@@ -4167,6 +4546,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.observer",
+    "eating_sound": 253,
     "block": 500,
     "class": "BlockItem"
   },
@@ -4178,6 +4558,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.shulker_box",
+    "eating_sound": 253,
     "block": 501,
     "class": "BlockItem"
   },
@@ -4189,6 +4570,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.white_shulker_box",
+    "eating_sound": 253,
     "block": 502,
     "class": "BlockItem"
   },
@@ -4200,6 +4582,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.orange_shulker_box",
+    "eating_sound": 253,
     "block": 503,
     "class": "BlockItem"
   },
@@ -4211,6 +4594,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.magenta_shulker_box",
+    "eating_sound": 253,
     "block": 504,
     "class": "BlockItem"
   },
@@ -4222,6 +4606,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_blue_shulker_box",
+    "eating_sound": 253,
     "block": 505,
     "class": "BlockItem"
   },
@@ -4233,6 +4618,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.yellow_shulker_box",
+    "eating_sound": 253,
     "block": 506,
     "class": "BlockItem"
   },
@@ -4244,6 +4630,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lime_shulker_box",
+    "eating_sound": 253,
     "block": 507,
     "class": "BlockItem"
   },
@@ -4255,6 +4642,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pink_shulker_box",
+    "eating_sound": 253,
     "block": 508,
     "class": "BlockItem"
   },
@@ -4266,6 +4654,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gray_shulker_box",
+    "eating_sound": 253,
     "block": 509,
     "class": "BlockItem"
   },
@@ -4277,6 +4666,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_gray_shulker_box",
+    "eating_sound": 253,
     "block": 510,
     "class": "BlockItem"
   },
@@ -4288,6 +4678,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cyan_shulker_box",
+    "eating_sound": 253,
     "block": 511,
     "class": "BlockItem"
   },
@@ -4299,6 +4690,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purple_shulker_box",
+    "eating_sound": 253,
     "block": 512,
     "class": "BlockItem"
   },
@@ -4310,6 +4702,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_shulker_box",
+    "eating_sound": 253,
     "block": 513,
     "class": "BlockItem"
   },
@@ -4321,6 +4714,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_shulker_box",
+    "eating_sound": 253,
     "block": 514,
     "class": "BlockItem"
   },
@@ -4332,6 +4726,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.green_shulker_box",
+    "eating_sound": 253,
     "block": 515,
     "class": "BlockItem"
   },
@@ -4343,6 +4738,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_shulker_box",
+    "eating_sound": 253,
     "block": 516,
     "class": "BlockItem"
   },
@@ -4354,6 +4750,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.black_shulker_box",
+    "eating_sound": 253,
     "block": 517,
     "class": "BlockItem"
   },
@@ -4365,6 +4762,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.white_glazed_terracotta",
+    "eating_sound": 253,
     "block": 518,
     "class": "BlockItem"
   },
@@ -4376,6 +4774,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.orange_glazed_terracotta",
+    "eating_sound": 253,
     "block": 519,
     "class": "BlockItem"
   },
@@ -4387,6 +4786,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.magenta_glazed_terracotta",
+    "eating_sound": 253,
     "block": 520,
     "class": "BlockItem"
   },
@@ -4398,6 +4798,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_blue_glazed_terracotta",
+    "eating_sound": 253,
     "block": 521,
     "class": "BlockItem"
   },
@@ -4409,6 +4810,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.yellow_glazed_terracotta",
+    "eating_sound": 253,
     "block": 522,
     "class": "BlockItem"
   },
@@ -4420,6 +4822,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lime_glazed_terracotta",
+    "eating_sound": 253,
     "block": 523,
     "class": "BlockItem"
   },
@@ -4431,6 +4834,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pink_glazed_terracotta",
+    "eating_sound": 253,
     "block": 524,
     "class": "BlockItem"
   },
@@ -4442,6 +4846,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gray_glazed_terracotta",
+    "eating_sound": 253,
     "block": 525,
     "class": "BlockItem"
   },
@@ -4453,6 +4858,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_gray_glazed_terracotta",
+    "eating_sound": 253,
     "block": 526,
     "class": "BlockItem"
   },
@@ -4464,6 +4870,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cyan_glazed_terracotta",
+    "eating_sound": 253,
     "block": 527,
     "class": "BlockItem"
   },
@@ -4475,6 +4882,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purple_glazed_terracotta",
+    "eating_sound": 253,
     "block": 528,
     "class": "BlockItem"
   },
@@ -4486,6 +4894,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_glazed_terracotta",
+    "eating_sound": 253,
     "block": 529,
     "class": "BlockItem"
   },
@@ -4497,6 +4906,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_glazed_terracotta",
+    "eating_sound": 253,
     "block": 530,
     "class": "BlockItem"
   },
@@ -4508,6 +4918,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.green_glazed_terracotta",
+    "eating_sound": 253,
     "block": 531,
     "class": "BlockItem"
   },
@@ -4519,6 +4930,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_glazed_terracotta",
+    "eating_sound": 253,
     "block": 532,
     "class": "BlockItem"
   },
@@ -4530,6 +4942,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.black_glazed_terracotta",
+    "eating_sound": 253,
     "block": 533,
     "class": "BlockItem"
   },
@@ -4541,6 +4954,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.white_concrete",
+    "eating_sound": 253,
     "block": 534,
     "class": "BlockItem"
   },
@@ -4552,6 +4966,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.orange_concrete",
+    "eating_sound": 253,
     "block": 535,
     "class": "BlockItem"
   },
@@ -4563,6 +4978,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.magenta_concrete",
+    "eating_sound": 253,
     "block": 536,
     "class": "BlockItem"
   },
@@ -4574,6 +4990,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_blue_concrete",
+    "eating_sound": 253,
     "block": 537,
     "class": "BlockItem"
   },
@@ -4585,6 +5002,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.yellow_concrete",
+    "eating_sound": 253,
     "block": 538,
     "class": "BlockItem"
   },
@@ -4596,6 +5014,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lime_concrete",
+    "eating_sound": 253,
     "block": 539,
     "class": "BlockItem"
   },
@@ -4607,6 +5026,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pink_concrete",
+    "eating_sound": 253,
     "block": 540,
     "class": "BlockItem"
   },
@@ -4618,6 +5038,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gray_concrete",
+    "eating_sound": 253,
     "block": 541,
     "class": "BlockItem"
   },
@@ -4629,6 +5050,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_gray_concrete",
+    "eating_sound": 253,
     "block": 542,
     "class": "BlockItem"
   },
@@ -4640,6 +5062,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cyan_concrete",
+    "eating_sound": 253,
     "block": 543,
     "class": "BlockItem"
   },
@@ -4651,6 +5074,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purple_concrete",
+    "eating_sound": 253,
     "block": 544,
     "class": "BlockItem"
   },
@@ -4662,6 +5086,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_concrete",
+    "eating_sound": 253,
     "block": 545,
     "class": "BlockItem"
   },
@@ -4673,6 +5098,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_concrete",
+    "eating_sound": 253,
     "block": 546,
     "class": "BlockItem"
   },
@@ -4684,6 +5110,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.green_concrete",
+    "eating_sound": 253,
     "block": 547,
     "class": "BlockItem"
   },
@@ -4695,6 +5122,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_concrete",
+    "eating_sound": 253,
     "block": 548,
     "class": "BlockItem"
   },
@@ -4706,6 +5134,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.black_concrete",
+    "eating_sound": 253,
     "block": 549,
     "class": "BlockItem"
   },
@@ -4717,6 +5146,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.white_concrete_powder",
+    "eating_sound": 253,
     "block": 550,
     "class": "BlockItem"
   },
@@ -4728,6 +5158,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.orange_concrete_powder",
+    "eating_sound": 253,
     "block": 551,
     "class": "BlockItem"
   },
@@ -4739,6 +5170,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.magenta_concrete_powder",
+    "eating_sound": 253,
     "block": 552,
     "class": "BlockItem"
   },
@@ -4750,6 +5182,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_blue_concrete_powder",
+    "eating_sound": 253,
     "block": 553,
     "class": "BlockItem"
   },
@@ -4761,6 +5194,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.yellow_concrete_powder",
+    "eating_sound": 253,
     "block": 554,
     "class": "BlockItem"
   },
@@ -4772,6 +5206,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lime_concrete_powder",
+    "eating_sound": 253,
     "block": 555,
     "class": "BlockItem"
   },
@@ -4783,6 +5218,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pink_concrete_powder",
+    "eating_sound": 253,
     "block": 556,
     "class": "BlockItem"
   },
@@ -4794,6 +5230,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gray_concrete_powder",
+    "eating_sound": 253,
     "block": 557,
     "class": "BlockItem"
   },
@@ -4805,6 +5242,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_gray_concrete_powder",
+    "eating_sound": 253,
     "block": 558,
     "class": "BlockItem"
   },
@@ -4816,6 +5254,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cyan_concrete_powder",
+    "eating_sound": 253,
     "block": 559,
     "class": "BlockItem"
   },
@@ -4827,6 +5266,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purple_concrete_powder",
+    "eating_sound": 253,
     "block": 560,
     "class": "BlockItem"
   },
@@ -4838,6 +5278,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_concrete_powder",
+    "eating_sound": 253,
     "block": 561,
     "class": "BlockItem"
   },
@@ -4849,6 +5290,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_concrete_powder",
+    "eating_sound": 253,
     "block": 562,
     "class": "BlockItem"
   },
@@ -4860,6 +5302,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.green_concrete_powder",
+    "eating_sound": 253,
     "block": 563,
     "class": "BlockItem"
   },
@@ -4871,6 +5314,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_concrete_powder",
+    "eating_sound": 253,
     "block": 564,
     "class": "BlockItem"
   },
@@ -4882,6 +5326,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.black_concrete_powder",
+    "eating_sound": 253,
     "block": 565,
     "class": "BlockItem"
   },
@@ -4893,6 +5338,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.turtle_egg",
+    "eating_sound": 253,
     "block": 569,
     "class": "BlockItem"
   },
@@ -4904,6 +5350,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_tube_coral_block",
+    "eating_sound": 253,
     "block": 570,
     "class": "BlockItem"
   },
@@ -4915,6 +5362,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_brain_coral_block",
+    "eating_sound": 253,
     "block": 571,
     "class": "BlockItem"
   },
@@ -4926,6 +5374,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_bubble_coral_block",
+    "eating_sound": 253,
     "block": 572,
     "class": "BlockItem"
   },
@@ -4937,6 +5386,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_fire_coral_block",
+    "eating_sound": 253,
     "block": 573,
     "class": "BlockItem"
   },
@@ -4948,6 +5398,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_horn_coral_block",
+    "eating_sound": 253,
     "block": 574,
     "class": "BlockItem"
   },
@@ -4959,6 +5410,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.tube_coral_block",
+    "eating_sound": 253,
     "block": 575,
     "class": "BlockItem"
   },
@@ -4970,6 +5422,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brain_coral_block",
+    "eating_sound": 253,
     "block": 576,
     "class": "BlockItem"
   },
@@ -4981,6 +5434,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.bubble_coral_block",
+    "eating_sound": 253,
     "block": 577,
     "class": "BlockItem"
   },
@@ -4992,6 +5446,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.fire_coral_block",
+    "eating_sound": 253,
     "block": 578,
     "class": "BlockItem"
   },
@@ -5003,6 +5458,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.horn_coral_block",
+    "eating_sound": 253,
     "block": 579,
     "class": "BlockItem"
   },
@@ -5014,6 +5470,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.tube_coral",
+    "eating_sound": 253,
     "block": 585,
     "class": "BlockItem"
   },
@@ -5025,6 +5482,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brain_coral",
+    "eating_sound": 253,
     "block": 586,
     "class": "BlockItem"
   },
@@ -5036,6 +5494,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.bubble_coral",
+    "eating_sound": 253,
     "block": 587,
     "class": "BlockItem"
   },
@@ -5047,6 +5506,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.fire_coral",
+    "eating_sound": 253,
     "block": 588,
     "class": "BlockItem"
   },
@@ -5058,6 +5518,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.horn_coral",
+    "eating_sound": 253,
     "block": 589,
     "class": "BlockItem"
   },
@@ -5069,6 +5530,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_brain_coral",
+    "eating_sound": 253,
     "block": 581,
     "class": "BlockItem"
   },
@@ -5080,6 +5542,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_bubble_coral",
+    "eating_sound": 253,
     "block": 582,
     "class": "BlockItem"
   },
@@ -5091,6 +5554,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_fire_coral",
+    "eating_sound": 253,
     "block": 583,
     "class": "BlockItem"
   },
@@ -5102,6 +5566,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_horn_coral",
+    "eating_sound": 253,
     "block": 584,
     "class": "BlockItem"
   },
@@ -5113,6 +5578,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_tube_coral",
+    "eating_sound": 253,
     "block": 580,
     "class": "BlockItem"
   },
@@ -5124,6 +5590,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.tube_coral_fan",
+    "eating_sound": 253,
     "block": 595,
     "class": "StandingAndWallBlockItem"
   },
@@ -5135,6 +5602,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brain_coral_fan",
+    "eating_sound": 253,
     "block": 596,
     "class": "StandingAndWallBlockItem"
   },
@@ -5146,6 +5614,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.bubble_coral_fan",
+    "eating_sound": 253,
     "block": 597,
     "class": "StandingAndWallBlockItem"
   },
@@ -5157,6 +5626,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.fire_coral_fan",
+    "eating_sound": 253,
     "block": 598,
     "class": "StandingAndWallBlockItem"
   },
@@ -5168,6 +5638,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.horn_coral_fan",
+    "eating_sound": 253,
     "block": 599,
     "class": "StandingAndWallBlockItem"
   },
@@ -5179,6 +5650,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_tube_coral_fan",
+    "eating_sound": 253,
     "block": 590,
     "class": "StandingAndWallBlockItem"
   },
@@ -5190,6 +5662,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_brain_coral_fan",
+    "eating_sound": 253,
     "block": 591,
     "class": "StandingAndWallBlockItem"
   },
@@ -5201,6 +5674,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_bubble_coral_fan",
+    "eating_sound": 253,
     "block": 592,
     "class": "StandingAndWallBlockItem"
   },
@@ -5212,6 +5686,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_fire_coral_fan",
+    "eating_sound": 253,
     "block": 593,
     "class": "StandingAndWallBlockItem"
   },
@@ -5223,6 +5698,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dead_horn_coral_fan",
+    "eating_sound": 253,
     "block": 594,
     "class": "StandingAndWallBlockItem"
   },
@@ -5234,6 +5710,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_ice",
+    "eating_sound": 253,
     "block": 611,
     "class": "BlockItem"
   },
@@ -5245,6 +5722,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.conduit",
+    "eating_sound": 253,
     "block": 612,
     "class": "BlockItem"
   },
@@ -5256,6 +5734,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.polished_granite_stairs",
+    "eating_sound": 253,
     "block": 619,
     "class": "BlockItem"
   },
@@ -5267,6 +5746,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smooth_red_sandstone_stairs",
+    "eating_sound": 253,
     "block": 620,
     "class": "BlockItem"
   },
@@ -5278,6 +5758,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.mossy_stone_brick_stairs",
+    "eating_sound": 253,
     "block": 621,
     "class": "BlockItem"
   },
@@ -5289,6 +5770,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.polished_diorite_stairs",
+    "eating_sound": 253,
     "block": 622,
     "class": "BlockItem"
   },
@@ -5300,6 +5782,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.mossy_cobblestone_stairs",
+    "eating_sound": 253,
     "block": 623,
     "class": "BlockItem"
   },
@@ -5311,6 +5794,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.end_stone_brick_stairs",
+    "eating_sound": 253,
     "block": 624,
     "class": "BlockItem"
   },
@@ -5322,6 +5806,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stone_stairs",
+    "eating_sound": 253,
     "block": 625,
     "class": "BlockItem"
   },
@@ -5333,6 +5818,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smooth_sandstone_stairs",
+    "eating_sound": 253,
     "block": 626,
     "class": "BlockItem"
   },
@@ -5344,6 +5830,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smooth_quartz_stairs",
+    "eating_sound": 253,
     "block": 627,
     "class": "BlockItem"
   },
@@ -5355,6 +5842,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.granite_stairs",
+    "eating_sound": 253,
     "block": 628,
     "class": "BlockItem"
   },
@@ -5366,6 +5854,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.andesite_stairs",
+    "eating_sound": 253,
     "block": 629,
     "class": "BlockItem"
   },
@@ -5377,6 +5866,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_nether_brick_stairs",
+    "eating_sound": 253,
     "block": 630,
     "class": "BlockItem"
   },
@@ -5388,6 +5878,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.polished_andesite_stairs",
+    "eating_sound": 253,
     "block": 631,
     "class": "BlockItem"
   },
@@ -5399,6 +5890,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.diorite_stairs",
+    "eating_sound": 253,
     "block": 632,
     "class": "BlockItem"
   },
@@ -5410,6 +5902,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.polished_granite_slab",
+    "eating_sound": 253,
     "block": 633,
     "class": "BlockItem"
   },
@@ -5421,6 +5914,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smooth_red_sandstone_slab",
+    "eating_sound": 253,
     "block": 634,
     "class": "BlockItem"
   },
@@ -5432,6 +5926,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.mossy_stone_brick_slab",
+    "eating_sound": 253,
     "block": 635,
     "class": "BlockItem"
   },
@@ -5443,6 +5938,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.polished_diorite_slab",
+    "eating_sound": 253,
     "block": 636,
     "class": "BlockItem"
   },
@@ -5454,6 +5950,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.mossy_cobblestone_slab",
+    "eating_sound": 253,
     "block": 637,
     "class": "BlockItem"
   },
@@ -5465,6 +5962,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.end_stone_brick_slab",
+    "eating_sound": 253,
     "block": 638,
     "class": "BlockItem"
   },
@@ -5476,6 +5974,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smooth_sandstone_slab",
+    "eating_sound": 253,
     "block": 639,
     "class": "BlockItem"
   },
@@ -5487,6 +5986,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smooth_quartz_slab",
+    "eating_sound": 253,
     "block": 640,
     "class": "BlockItem"
   },
@@ -5498,6 +5998,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.granite_slab",
+    "eating_sound": 253,
     "block": 641,
     "class": "BlockItem"
   },
@@ -5509,6 +6010,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.andesite_slab",
+    "eating_sound": 253,
     "block": 642,
     "class": "BlockItem"
   },
@@ -5520,6 +6022,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_nether_brick_slab",
+    "eating_sound": 253,
     "block": 643,
     "class": "BlockItem"
   },
@@ -5531,6 +6034,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.polished_andesite_slab",
+    "eating_sound": 253,
     "block": 644,
     "class": "BlockItem"
   },
@@ -5542,6 +6046,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.diorite_slab",
+    "eating_sound": 253,
     "block": 645,
     "class": "BlockItem"
   },
@@ -5553,6 +6058,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.scaffolding",
+    "eating_sound": 253,
     "block": 658,
     "class": "ScaffoldingBlockItem"
   },
@@ -5564,6 +6070,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.iron_door",
+    "eating_sound": 253,
     "block": 171,
     "class": "DoubleHighBlockItem"
   },
@@ -5575,6 +6082,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_door",
+    "eating_sound": 253,
     "block": 159,
     "class": "DoubleHighBlockItem"
   },
@@ -5586,6 +6094,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_door",
+    "eating_sound": 253,
     "block": 477,
     "class": "DoubleHighBlockItem"
   },
@@ -5597,6 +6106,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_door",
+    "eating_sound": 253,
     "block": 478,
     "class": "DoubleHighBlockItem"
   },
@@ -5608,6 +6118,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_door",
+    "eating_sound": 253,
     "block": 479,
     "class": "DoubleHighBlockItem"
   },
@@ -5619,6 +6130,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_door",
+    "eating_sound": 253,
     "block": 480,
     "class": "DoubleHighBlockItem"
   },
@@ -5630,6 +6142,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_door",
+    "eating_sound": 253,
     "block": 481,
     "class": "DoubleHighBlockItem"
   },
@@ -5641,6 +6154,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.repeater",
+    "eating_sound": 253,
     "block": 198,
     "class": "BlockItem"
   },
@@ -5652,6 +6166,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.comparator",
+    "eating_sound": 253,
     "block": 324,
     "class": "BlockItem"
   },
@@ -5662,6 +6177,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.structure_block",
+    "eating_sound": 253,
     "block": 673,
     "class": "GameMasterBlockItem"
   },
@@ -5672,6 +6188,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jigsaw",
+    "eating_sound": 253,
     "block": 674,
     "class": "GameMasterBlockItem"
   },
@@ -5683,6 +6200,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.composter",
+    "eating_sound": 253,
     "block": 675,
     "class": "BlockItem"
   },
@@ -5694,6 +6212,7 @@
     "max_damage": 275,
     "is_complex": false,
     "description_id": "item.minecraft.turtle_helmet",
+    "eating_sound": 253,
     "equipment_slot": "head",
     "defense": 2,
     "toughness": 0.0,
@@ -5708,6 +6227,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.scute",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:iron_shovel": {
@@ -5718,6 +6238,7 @@
     "max_damage": 250,
     "is_complex": false,
     "description_id": "item.minecraft.iron_shovel",
+    "eating_sound": 253,
     "uses": 250,
     "speed": 6.0,
     "attack_damage_bonus": 2.0,
@@ -5770,6 +6291,7 @@
     "max_damage": 250,
     "is_complex": false,
     "description_id": "item.minecraft.iron_pickaxe",
+    "eating_sound": 253,
     "uses": 250,
     "speed": 6.0,
     "attack_damage_bonus": 2.0,
@@ -5869,6 +6391,7 @@
     "max_damage": 250,
     "is_complex": false,
     "description_id": "item.minecraft.iron_axe",
+    "eating_sound": 253,
     "uses": 250,
     "speed": 6.0,
     "attack_damage_bonus": 2.0,
@@ -5940,6 +6463,7 @@
     "max_damage": 64,
     "is_complex": false,
     "description_id": "item.minecraft.flint_and_steel",
+    "eating_sound": 253,
     "class": "FlintAndSteelItem"
   },
   "minecraft:apple": {
@@ -5957,6 +6481,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:bow": {
@@ -5967,6 +6492,7 @@
     "max_damage": 384,
     "is_complex": false,
     "description_id": "item.minecraft.bow",
+    "eating_sound": 253,
     "class": "BowItem"
   },
   "minecraft:arrow": {
@@ -5977,6 +6503,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.arrow",
+    "eating_sound": 253,
     "class": "ArrowItem"
   },
   "minecraft:coal": {
@@ -5987,6 +6514,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.coal",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:charcoal": {
@@ -5997,6 +6525,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.charcoal",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:diamond": {
@@ -6007,6 +6536,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.diamond",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:iron_ingot": {
@@ -6017,6 +6547,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.iron_ingot",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:gold_ingot": {
@@ -6027,6 +6558,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.gold_ingot",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:iron_sword": {
@@ -6037,6 +6569,7 @@
     "max_damage": 250,
     "is_complex": false,
     "description_id": "item.minecraft.iron_sword",
+    "eating_sound": 253,
     "uses": 250,
     "speed": 6.0,
     "attack_damage_bonus": 2.0,
@@ -6054,6 +6587,7 @@
     "max_damage": 59,
     "is_complex": false,
     "description_id": "item.minecraft.wooden_sword",
+    "eating_sound": 253,
     "uses": 59,
     "speed": 2.0,
     "attack_damage_bonus": 0.0,
@@ -6071,6 +6605,7 @@
     "max_damage": 59,
     "is_complex": false,
     "description_id": "item.minecraft.wooden_shovel",
+    "eating_sound": 253,
     "uses": 59,
     "speed": 2.0,
     "attack_damage_bonus": 0.0,
@@ -6123,6 +6658,7 @@
     "max_damage": 59,
     "is_complex": false,
     "description_id": "item.minecraft.wooden_pickaxe",
+    "eating_sound": 253,
     "uses": 59,
     "speed": 2.0,
     "attack_damage_bonus": 0.0,
@@ -6222,6 +6758,7 @@
     "max_damage": 59,
     "is_complex": false,
     "description_id": "item.minecraft.wooden_axe",
+    "eating_sound": 253,
     "uses": 59,
     "speed": 2.0,
     "attack_damage_bonus": 0.0,
@@ -6293,6 +6830,7 @@
     "max_damage": 131,
     "is_complex": false,
     "description_id": "item.minecraft.stone_sword",
+    "eating_sound": 253,
     "uses": 131,
     "speed": 4.0,
     "attack_damage_bonus": 1.0,
@@ -6310,6 +6848,7 @@
     "max_damage": 131,
     "is_complex": false,
     "description_id": "item.minecraft.stone_shovel",
+    "eating_sound": 253,
     "uses": 131,
     "speed": 4.0,
     "attack_damage_bonus": 1.0,
@@ -6362,6 +6901,7 @@
     "max_damage": 131,
     "is_complex": false,
     "description_id": "item.minecraft.stone_pickaxe",
+    "eating_sound": 253,
     "uses": 131,
     "speed": 4.0,
     "attack_damage_bonus": 1.0,
@@ -6461,6 +7001,7 @@
     "max_damage": 131,
     "is_complex": false,
     "description_id": "item.minecraft.stone_axe",
+    "eating_sound": 253,
     "uses": 131,
     "speed": 4.0,
     "attack_damage_bonus": 1.0,
@@ -6532,6 +7073,7 @@
     "max_damage": 1561,
     "is_complex": false,
     "description_id": "item.minecraft.diamond_sword",
+    "eating_sound": 253,
     "uses": 1561,
     "speed": 8.0,
     "attack_damage_bonus": 3.0,
@@ -6549,6 +7091,7 @@
     "max_damage": 1561,
     "is_complex": false,
     "description_id": "item.minecraft.diamond_shovel",
+    "eating_sound": 253,
     "uses": 1561,
     "speed": 8.0,
     "attack_damage_bonus": 3.0,
@@ -6601,6 +7144,7 @@
     "max_damage": 1561,
     "is_complex": false,
     "description_id": "item.minecraft.diamond_pickaxe",
+    "eating_sound": 253,
     "uses": 1561,
     "speed": 8.0,
     "attack_damage_bonus": 3.0,
@@ -6700,6 +7244,7 @@
     "max_damage": 1561,
     "is_complex": false,
     "description_id": "item.minecraft.diamond_axe",
+    "eating_sound": 253,
     "uses": 1561,
     "speed": 8.0,
     "attack_damage_bonus": 3.0,
@@ -6771,6 +7316,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.stick",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:bowl": {
@@ -6781,6 +7327,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.bowl",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:mushroom_stew": {
@@ -6798,6 +7345,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "BowlFoodItem"
   },
   "minecraft:golden_sword": {
@@ -6808,6 +7356,7 @@
     "max_damage": 32,
     "is_complex": false,
     "description_id": "item.minecraft.golden_sword",
+    "eating_sound": 253,
     "uses": 32,
     "speed": 12.0,
     "attack_damage_bonus": 0.0,
@@ -6825,6 +7374,7 @@
     "max_damage": 32,
     "is_complex": false,
     "description_id": "item.minecraft.golden_shovel",
+    "eating_sound": 253,
     "uses": 32,
     "speed": 12.0,
     "attack_damage_bonus": 0.0,
@@ -6877,6 +7427,7 @@
     "max_damage": 32,
     "is_complex": false,
     "description_id": "item.minecraft.golden_pickaxe",
+    "eating_sound": 253,
     "uses": 32,
     "speed": 12.0,
     "attack_damage_bonus": 0.0,
@@ -6976,6 +7527,7 @@
     "max_damage": 32,
     "is_complex": false,
     "description_id": "item.minecraft.golden_axe",
+    "eating_sound": 253,
     "uses": 32,
     "speed": 12.0,
     "attack_damage_bonus": 0.0,
@@ -7047,6 +7599,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.string",
+    "eating_sound": 253,
     "block": 264,
     "class": "ItemNameBlockItem"
   },
@@ -7058,6 +7611,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.feather",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:gunpowder": {
@@ -7068,6 +7622,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.gunpowder",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:wooden_hoe": {
@@ -7078,6 +7633,7 @@
     "max_damage": 59,
     "is_complex": false,
     "description_id": "item.minecraft.wooden_hoe",
+    "eating_sound": 253,
     "uses": 59,
     "speed": 2.0,
     "attack_damage_bonus": 0.0,
@@ -7100,6 +7656,7 @@
     "max_damage": 131,
     "is_complex": false,
     "description_id": "item.minecraft.stone_hoe",
+    "eating_sound": 253,
     "uses": 131,
     "speed": 4.0,
     "attack_damage_bonus": 1.0,
@@ -7122,6 +7679,7 @@
     "max_damage": 250,
     "is_complex": false,
     "description_id": "item.minecraft.iron_hoe",
+    "eating_sound": 253,
     "uses": 250,
     "speed": 6.0,
     "attack_damage_bonus": 2.0,
@@ -7144,6 +7702,7 @@
     "max_damage": 1561,
     "is_complex": false,
     "description_id": "item.minecraft.diamond_hoe",
+    "eating_sound": 253,
     "uses": 1561,
     "speed": 8.0,
     "attack_damage_bonus": 3.0,
@@ -7166,6 +7725,7 @@
     "max_damage": 32,
     "is_complex": false,
     "description_id": "item.minecraft.golden_hoe",
+    "eating_sound": 253,
     "uses": 32,
     "speed": 12.0,
     "attack_damage_bonus": 0.0,
@@ -7188,6 +7748,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.wheat_seeds",
+    "eating_sound": 253,
     "block": 150,
     "class": "ItemNameBlockItem"
   },
@@ -7199,6 +7760,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.wheat",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:bread": {
@@ -7216,6 +7778,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:leather_helmet": {
@@ -7226,6 +7789,7 @@
     "max_damage": 55,
     "is_complex": false,
     "description_id": "item.minecraft.leather_helmet",
+    "eating_sound": 253,
     "equipment_slot": "head",
     "defense": 1,
     "toughness": 0.0,
@@ -7240,6 +7804,7 @@
     "max_damage": 80,
     "is_complex": false,
     "description_id": "item.minecraft.leather_chestplate",
+    "eating_sound": 253,
     "equipment_slot": "chest",
     "defense": 3,
     "toughness": 0.0,
@@ -7254,6 +7819,7 @@
     "max_damage": 75,
     "is_complex": false,
     "description_id": "item.minecraft.leather_leggings",
+    "eating_sound": 253,
     "equipment_slot": "legs",
     "defense": 2,
     "toughness": 0.0,
@@ -7268,6 +7834,7 @@
     "max_damage": 65,
     "is_complex": false,
     "description_id": "item.minecraft.leather_boots",
+    "eating_sound": 253,
     "equipment_slot": "feet",
     "defense": 1,
     "toughness": 0.0,
@@ -7282,6 +7849,7 @@
     "max_damage": 165,
     "is_complex": false,
     "description_id": "item.minecraft.chainmail_helmet",
+    "eating_sound": 253,
     "equipment_slot": "head",
     "defense": 2,
     "toughness": 0.0,
@@ -7296,6 +7864,7 @@
     "max_damage": 240,
     "is_complex": false,
     "description_id": "item.minecraft.chainmail_chestplate",
+    "eating_sound": 253,
     "equipment_slot": "chest",
     "defense": 5,
     "toughness": 0.0,
@@ -7310,6 +7879,7 @@
     "max_damage": 225,
     "is_complex": false,
     "description_id": "item.minecraft.chainmail_leggings",
+    "eating_sound": 253,
     "equipment_slot": "legs",
     "defense": 4,
     "toughness": 0.0,
@@ -7324,6 +7894,7 @@
     "max_damage": 195,
     "is_complex": false,
     "description_id": "item.minecraft.chainmail_boots",
+    "eating_sound": 253,
     "equipment_slot": "feet",
     "defense": 1,
     "toughness": 0.0,
@@ -7338,6 +7909,7 @@
     "max_damage": 165,
     "is_complex": false,
     "description_id": "item.minecraft.iron_helmet",
+    "eating_sound": 253,
     "equipment_slot": "head",
     "defense": 2,
     "toughness": 0.0,
@@ -7352,6 +7924,7 @@
     "max_damage": 240,
     "is_complex": false,
     "description_id": "item.minecraft.iron_chestplate",
+    "eating_sound": 253,
     "equipment_slot": "chest",
     "defense": 6,
     "toughness": 0.0,
@@ -7366,6 +7939,7 @@
     "max_damage": 225,
     "is_complex": false,
     "description_id": "item.minecraft.iron_leggings",
+    "eating_sound": 253,
     "equipment_slot": "legs",
     "defense": 5,
     "toughness": 0.0,
@@ -7380,6 +7954,7 @@
     "max_damage": 195,
     "is_complex": false,
     "description_id": "item.minecraft.iron_boots",
+    "eating_sound": 253,
     "equipment_slot": "feet",
     "defense": 2,
     "toughness": 0.0,
@@ -7394,6 +7969,7 @@
     "max_damage": 363,
     "is_complex": false,
     "description_id": "item.minecraft.diamond_helmet",
+    "eating_sound": 253,
     "equipment_slot": "head",
     "defense": 3,
     "toughness": 2.0,
@@ -7408,6 +7984,7 @@
     "max_damage": 528,
     "is_complex": false,
     "description_id": "item.minecraft.diamond_chestplate",
+    "eating_sound": 253,
     "equipment_slot": "chest",
     "defense": 8,
     "toughness": 2.0,
@@ -7422,6 +7999,7 @@
     "max_damage": 495,
     "is_complex": false,
     "description_id": "item.minecraft.diamond_leggings",
+    "eating_sound": 253,
     "equipment_slot": "legs",
     "defense": 6,
     "toughness": 2.0,
@@ -7436,6 +8014,7 @@
     "max_damage": 429,
     "is_complex": false,
     "description_id": "item.minecraft.diamond_boots",
+    "eating_sound": 253,
     "equipment_slot": "feet",
     "defense": 3,
     "toughness": 2.0,
@@ -7450,6 +8029,7 @@
     "max_damage": 77,
     "is_complex": false,
     "description_id": "item.minecraft.golden_helmet",
+    "eating_sound": 253,
     "equipment_slot": "head",
     "defense": 2,
     "toughness": 0.0,
@@ -7464,6 +8044,7 @@
     "max_damage": 112,
     "is_complex": false,
     "description_id": "item.minecraft.golden_chestplate",
+    "eating_sound": 253,
     "equipment_slot": "chest",
     "defense": 5,
     "toughness": 0.0,
@@ -7478,6 +8059,7 @@
     "max_damage": 105,
     "is_complex": false,
     "description_id": "item.minecraft.golden_leggings",
+    "eating_sound": 253,
     "equipment_slot": "legs",
     "defense": 3,
     "toughness": 0.0,
@@ -7492,6 +8074,7 @@
     "max_damage": 91,
     "is_complex": false,
     "description_id": "item.minecraft.golden_boots",
+    "eating_sound": 253,
     "equipment_slot": "feet",
     "defense": 1,
     "toughness": 0.0,
@@ -7506,6 +8089,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.flint",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:porkchop": {
@@ -7523,6 +8107,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:cooked_porkchop": {
@@ -7540,6 +8125,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:painting": {
@@ -7550,6 +8136,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.painting",
+    "eating_sound": 253,
     "class": "HangingEntityItem"
   },
   "minecraft:golden_apple": {
@@ -7567,6 +8154,7 @@
       "can_always_eat": true,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:enchanted_golden_apple": {
@@ -7584,6 +8172,7 @@
       "can_always_eat": true,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "EnchantedGoldenAppleItem"
   },
   "minecraft:oak_sign": {
@@ -7594,6 +8183,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.oak_sign",
+    "eating_sound": 253,
     "block": 153,
     "class": "SignItem"
   },
@@ -7605,6 +8195,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.spruce_sign",
+    "eating_sound": 253,
     "block": 154,
     "class": "SignItem"
   },
@@ -7616,6 +8207,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.birch_sign",
+    "eating_sound": 253,
     "block": 155,
     "class": "SignItem"
   },
@@ -7627,6 +8219,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.jungle_sign",
+    "eating_sound": 253,
     "block": 157,
     "class": "SignItem"
   },
@@ -7638,6 +8231,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.acacia_sign",
+    "eating_sound": 253,
     "block": 156,
     "class": "SignItem"
   },
@@ -7649,6 +8243,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dark_oak_sign",
+    "eating_sound": 253,
     "block": 158,
     "class": "SignItem"
   },
@@ -7660,6 +8255,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.bucket",
+    "eating_sound": 253,
     "bucked_fluid_type": 0,
     "class": "BucketItem"
   },
@@ -7671,6 +8267,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.water_bucket",
+    "eating_sound": 253,
     "bucked_fluid_type": 2,
     "class": "BucketItem"
   },
@@ -7682,6 +8279,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.lava_bucket",
+    "eating_sound": 253,
     "bucked_fluid_type": 4,
     "class": "BucketItem"
   },
@@ -7693,6 +8291,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.minecart",
+    "eating_sound": 253,
     "class": "MinecartItem"
   },
   "minecraft:saddle": {
@@ -7703,6 +8302,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.saddle",
+    "eating_sound": 253,
     "class": "SaddleItem"
   },
   "minecraft:redstone": {
@@ -7713,6 +8313,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.redstone",
+    "eating_sound": 253,
     "block": 146,
     "class": "ItemNameBlockItem"
   },
@@ -7724,6 +8325,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.snowball",
+    "eating_sound": 253,
     "class": "SnowballItem"
   },
   "minecraft:oak_boat": {
@@ -7734,6 +8336,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.oak_boat",
+    "eating_sound": 253,
     "class": "BoatItem"
   },
   "minecraft:leather": {
@@ -7744,6 +8347,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.leather",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:milk_bucket": {
@@ -7754,6 +8358,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.milk_bucket",
+    "eating_sound": 253,
     "class": "MilkBucketItem"
   },
   "minecraft:pufferfish_bucket": {
@@ -7764,6 +8369,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.pufferfish_bucket",
+    "eating_sound": 253,
     "bucked_fluid_type": 2,
     "bucket_fish_type": 56,
     "class": "FishBucketItem"
@@ -7776,6 +8382,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.salmon_bucket",
+    "eating_sound": 253,
     "bucked_fluid_type": 2,
     "bucket_fish_type": 61,
     "class": "FishBucketItem"
@@ -7788,6 +8395,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.cod_bucket",
+    "eating_sound": 253,
     "bucked_fluid_type": 2,
     "bucket_fish_type": 10,
     "class": "FishBucketItem"
@@ -7800,6 +8408,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.tropical_fish_bucket",
+    "eating_sound": 253,
     "bucked_fluid_type": 2,
     "bucket_fish_type": 77,
     "class": "FishBucketItem"
@@ -7812,6 +8421,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.brick",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:clay_ball": {
@@ -7822,6 +8432,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.clay_ball",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:sugar_cane": {
@@ -7832,6 +8443,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.sugar_cane",
+    "eating_sound": 253,
     "block": 187,
     "class": "BlockItem"
   },
@@ -7843,6 +8455,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.kelp",
+    "eating_sound": 253,
     "block": 566,
     "class": "BlockItem"
   },
@@ -7854,6 +8467,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dried_kelp_block",
+    "eating_sound": 253,
     "block": 568,
     "class": "BlockItem"
   },
@@ -7865,6 +8479,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.bamboo",
+    "eating_sound": 253,
     "block": 614,
     "class": "BlockItem"
   },
@@ -7876,6 +8491,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.paper",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:book": {
@@ -7886,6 +8502,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.book",
+    "eating_sound": 253,
     "class": "BookItem"
   },
   "minecraft:slime_ball": {
@@ -7896,6 +8513,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.slime_ball",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:chest_minecart": {
@@ -7906,6 +8524,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.chest_minecart",
+    "eating_sound": 253,
     "class": "MinecartItem"
   },
   "minecraft:furnace_minecart": {
@@ -7916,6 +8535,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.furnace_minecart",
+    "eating_sound": 253,
     "class": "MinecartItem"
   },
   "minecraft:egg": {
@@ -7926,6 +8546,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.egg",
+    "eating_sound": 253,
     "class": "EggItem"
   },
   "minecraft:compass": {
@@ -7936,6 +8557,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.compass",
+    "eating_sound": 253,
     "class": "CompassItem"
   },
   "minecraft:fishing_rod": {
@@ -7946,6 +8568,7 @@
     "max_damage": 64,
     "is_complex": false,
     "description_id": "item.minecraft.fishing_rod",
+    "eating_sound": 253,
     "class": "FishingRodItem"
   },
   "minecraft:clock": {
@@ -7956,6 +8579,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.clock",
+    "eating_sound": 253,
     "class": "ClockItem"
   },
   "minecraft:glowstone_dust": {
@@ -7966,6 +8590,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.glowstone_dust",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:cod": {
@@ -7983,6 +8608,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:salmon": {
@@ -8000,6 +8626,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:tropical_fish": {
@@ -8017,6 +8644,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:pufferfish": {
@@ -8034,6 +8662,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:cooked_cod": {
@@ -8051,6 +8680,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:cooked_salmon": {
@@ -8068,6 +8698,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:ink_sac": {
@@ -8078,6 +8709,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.ink_sac",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:red_dye": {
@@ -8088,6 +8720,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.red_dye",
+    "eating_sound": 253,
     "dye_color": "red",
     "class": "DyeItem"
   },
@@ -8099,6 +8732,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.green_dye",
+    "eating_sound": 253,
     "dye_color": "green",
     "class": "DyeItem"
   },
@@ -8110,6 +8744,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.cocoa_beans",
+    "eating_sound": 253,
     "block": 259,
     "class": "ItemNameBlockItem"
   },
@@ -8121,6 +8756,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.lapis_lazuli",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:purple_dye": {
@@ -8131,6 +8767,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.purple_dye",
+    "eating_sound": 253,
     "dye_color": "purple",
     "class": "DyeItem"
   },
@@ -8142,6 +8779,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.cyan_dye",
+    "eating_sound": 253,
     "dye_color": "cyan",
     "class": "DyeItem"
   },
@@ -8153,6 +8791,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.light_gray_dye",
+    "eating_sound": 253,
     "dye_color": "light_gray",
     "class": "DyeItem"
   },
@@ -8164,6 +8803,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.gray_dye",
+    "eating_sound": 253,
     "dye_color": "gray",
     "class": "DyeItem"
   },
@@ -8175,6 +8815,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.pink_dye",
+    "eating_sound": 253,
     "dye_color": "pink",
     "class": "DyeItem"
   },
@@ -8186,6 +8827,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.lime_dye",
+    "eating_sound": 253,
     "dye_color": "lime",
     "class": "DyeItem"
   },
@@ -8197,6 +8839,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.yellow_dye",
+    "eating_sound": 253,
     "dye_color": "yellow",
     "class": "DyeItem"
   },
@@ -8208,6 +8851,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.light_blue_dye",
+    "eating_sound": 253,
     "dye_color": "light_blue",
     "class": "DyeItem"
   },
@@ -8219,6 +8863,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.magenta_dye",
+    "eating_sound": 253,
     "dye_color": "magenta",
     "class": "DyeItem"
   },
@@ -8230,6 +8875,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.orange_dye",
+    "eating_sound": 253,
     "dye_color": "orange",
     "class": "DyeItem"
   },
@@ -8241,6 +8887,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.bone_meal",
+    "eating_sound": 253,
     "class": "BoneMealItem"
   },
   "minecraft:blue_dye": {
@@ -8251,6 +8898,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.blue_dye",
+    "eating_sound": 253,
     "dye_color": "blue",
     "class": "DyeItem"
   },
@@ -8262,6 +8910,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.brown_dye",
+    "eating_sound": 253,
     "dye_color": "brown",
     "class": "DyeItem"
   },
@@ -8273,6 +8922,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.black_dye",
+    "eating_sound": 253,
     "dye_color": "black",
     "class": "DyeItem"
   },
@@ -8284,6 +8934,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.white_dye",
+    "eating_sound": 253,
     "dye_color": "white",
     "class": "DyeItem"
   },
@@ -8295,6 +8946,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.bone",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:sugar": {
@@ -8305,6 +8957,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.sugar",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:cake": {
@@ -8315,6 +8968,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cake",
+    "eating_sound": 253,
     "block": 197,
     "class": "BlockItem"
   },
@@ -8326,6 +8980,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.white_bed",
+    "eating_sound": 253,
     "block": 74,
     "class": "BedItem"
   },
@@ -8337,6 +8992,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.orange_bed",
+    "eating_sound": 253,
     "block": 75,
     "class": "BedItem"
   },
@@ -8348,6 +9004,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.magenta_bed",
+    "eating_sound": 253,
     "block": 76,
     "class": "BedItem"
   },
@@ -8359,6 +9016,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_blue_bed",
+    "eating_sound": 253,
     "block": 77,
     "class": "BedItem"
   },
@@ -8370,6 +9028,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.yellow_bed",
+    "eating_sound": 253,
     "block": 78,
     "class": "BedItem"
   },
@@ -8381,6 +9040,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lime_bed",
+    "eating_sound": 253,
     "block": 79,
     "class": "BedItem"
   },
@@ -8392,6 +9052,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pink_bed",
+    "eating_sound": 253,
     "block": 80,
     "class": "BedItem"
   },
@@ -8403,6 +9064,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gray_bed",
+    "eating_sound": 253,
     "block": 81,
     "class": "BedItem"
   },
@@ -8414,6 +9076,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_gray_bed",
+    "eating_sound": 253,
     "block": 82,
     "class": "BedItem"
   },
@@ -8425,6 +9088,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cyan_bed",
+    "eating_sound": 253,
     "block": 83,
     "class": "BedItem"
   },
@@ -8436,6 +9100,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purple_bed",
+    "eating_sound": 253,
     "block": 84,
     "class": "BedItem"
   },
@@ -8447,6 +9112,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_bed",
+    "eating_sound": 253,
     "block": 85,
     "class": "BedItem"
   },
@@ -8458,6 +9124,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_bed",
+    "eating_sound": 253,
     "block": 86,
     "class": "BedItem"
   },
@@ -8469,6 +9136,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.green_bed",
+    "eating_sound": 253,
     "block": 87,
     "class": "BedItem"
   },
@@ -8480,6 +9148,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_bed",
+    "eating_sound": 253,
     "block": 88,
     "class": "BedItem"
   },
@@ -8491,6 +9160,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.black_bed",
+    "eating_sound": 253,
     "block": 89,
     "class": "BedItem"
   },
@@ -8509,6 +9179,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:filled_map": {
@@ -8518,6 +9189,7 @@
     "max_damage": 0,
     "is_complex": true,
     "description_id": "item.minecraft.filled_map",
+    "eating_sound": 253,
     "class": "MapItem"
   },
   "minecraft:shears": {
@@ -8528,6 +9200,7 @@
     "max_damage": 238,
     "is_complex": false,
     "description_id": "item.minecraft.shears",
+    "eating_sound": 253,
     "class": "ShearsItem"
   },
   "minecraft:melon_slice": {
@@ -8545,6 +9218,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:dried_kelp": {
@@ -8562,6 +9236,7 @@
       "can_always_eat": false,
       "fast_food": true
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:pumpkin_seeds": {
@@ -8572,6 +9247,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.pumpkin_seeds",
+    "eating_sound": 253,
     "block": 239,
     "class": "ItemNameBlockItem"
   },
@@ -8583,6 +9259,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.melon_seeds",
+    "eating_sound": 253,
     "block": 240,
     "class": "ItemNameBlockItem"
   },
@@ -8601,6 +9278,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:cooked_beef": {
@@ -8618,6 +9296,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:chicken": {
@@ -8635,6 +9314,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:cooked_chicken": {
@@ -8652,6 +9332,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:rotten_flesh": {
@@ -8669,6 +9350,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:ender_pearl": {
@@ -8679,6 +9361,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.ender_pearl",
+    "eating_sound": 253,
     "class": "EnderpearlItem"
   },
   "minecraft:blaze_rod": {
@@ -8689,6 +9372,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.blaze_rod",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:ghast_tear": {
@@ -8699,6 +9383,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.ghast_tear",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:gold_nugget": {
@@ -8709,6 +9394,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.gold_nugget",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:nether_wart": {
@@ -8719,6 +9405,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.nether_wart",
+    "eating_sound": 253,
     "block": 250,
     "class": "ItemNameBlockItem"
   },
@@ -8730,6 +9417,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.potion",
+    "eating_sound": 253,
     "class": "PotionItem"
   },
   "minecraft:glass_bottle": {
@@ -8740,6 +9428,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.glass_bottle",
+    "eating_sound": 253,
     "class": "BottleItem"
   },
   "minecraft:spider_eye": {
@@ -8757,6 +9446,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:fermented_spider_eye": {
@@ -8767,6 +9457,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.fermented_spider_eye",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:blaze_powder": {
@@ -8777,6 +9468,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.blaze_powder",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:magma_cream": {
@@ -8787,6 +9479,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.magma_cream",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:brewing_stand": {
@@ -8797,6 +9490,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brewing_stand",
+    "eating_sound": 253,
     "block": 252,
     "class": "BlockItem"
   },
@@ -8808,6 +9502,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cauldron",
+    "eating_sound": 253,
     "block": 253,
     "class": "BlockItem"
   },
@@ -8819,6 +9514,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.ender_eye",
+    "eating_sound": 253,
     "class": "EnderEyeItem"
   },
   "minecraft:glistering_melon_slice": {
@@ -8829,6 +9525,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.glistering_melon_slice",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:bat_spawn_egg": {
@@ -8839,6 +9536,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.bat_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 4996656,
     "spawn_egg_color_2": 986895,
     "spawn_egg_entity_type": 3,
@@ -8852,6 +9550,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.bee_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 16770398,
     "spawn_egg_color_2": 2500144,
     "spawn_egg_entity_type": 4,
@@ -8865,6 +9564,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.blaze_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 16167425,
     "spawn_egg_color_2": 16775294,
     "spawn_egg_entity_type": 5,
@@ -8878,6 +9578,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.cat_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 15714446,
     "spawn_egg_color_2": 9794134,
     "spawn_egg_entity_type": 7,
@@ -8891,6 +9592,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.cave_spider_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 803406,
     "spawn_egg_color_2": 11013646,
     "spawn_egg_entity_type": 8,
@@ -8904,6 +9606,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.chicken_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 10592673,
     "spawn_egg_color_2": 16711680,
     "spawn_egg_entity_type": 9,
@@ -8917,6 +9620,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.cod_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 12691306,
     "spawn_egg_color_2": 15058059,
     "spawn_egg_entity_type": 10,
@@ -8930,6 +9634,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.cow_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 4470310,
     "spawn_egg_color_2": 10592673,
     "spawn_egg_entity_type": 11,
@@ -8943,6 +9648,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.creeper_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 894731,
     "spawn_egg_color_2": 0,
     "spawn_egg_entity_type": 12,
@@ -8956,6 +9662,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.dolphin_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 2243405,
     "spawn_egg_color_2": 16382457,
     "spawn_egg_entity_type": 14,
@@ -8969,6 +9676,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.donkey_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 5457209,
     "spawn_egg_color_2": 8811878,
     "spawn_egg_entity_type": 13,
@@ -8982,6 +9690,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.drowned_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 9433559,
     "spawn_egg_color_2": 7969893,
     "spawn_egg_entity_type": 16,
@@ -8995,6 +9704,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.elder_guardian_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 13552826,
     "spawn_egg_color_2": 7632531,
     "spawn_egg_entity_type": 17,
@@ -9008,6 +9718,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.enderman_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 1447446,
     "spawn_egg_color_2": 0,
     "spawn_egg_entity_type": 20,
@@ -9021,6 +9732,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.endermite_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 1447446,
     "spawn_egg_color_2": 7237230,
     "spawn_egg_entity_type": 21,
@@ -9034,6 +9746,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.evoker_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 9804699,
     "spawn_egg_color_2": 1973274,
     "spawn_egg_entity_type": 23,
@@ -9047,6 +9760,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.fox_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 14005919,
     "spawn_egg_color_2": 13396256,
     "spawn_egg_entity_type": 28,
@@ -9060,6 +9774,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.ghast_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 16382457,
     "spawn_egg_color_2": 12369084,
     "spawn_egg_entity_type": 29,
@@ -9073,6 +9788,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.guardian_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 5931634,
     "spawn_egg_color_2": 15826224,
     "spawn_egg_entity_type": 31,
@@ -9086,6 +9802,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.horse_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 12623485,
     "spawn_egg_color_2": 15656192,
     "spawn_egg_entity_type": 32,
@@ -9099,6 +9816,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.husk_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 7958625,
     "spawn_egg_color_2": 15125652,
     "spawn_egg_entity_type": 33,
@@ -9112,6 +9830,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.llama_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 12623485,
     "spawn_egg_color_2": 10051392,
     "spawn_egg_entity_type": 39,
@@ -9125,6 +9844,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.magma_cube_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 3407872,
     "spawn_egg_color_2": 16579584,
     "spawn_egg_entity_type": 41,
@@ -9138,6 +9858,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.mooshroom_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 10489616,
     "spawn_egg_color_2": 12040119,
     "spawn_egg_entity_type": 50,
@@ -9151,6 +9872,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.mule_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 1769984,
     "spawn_egg_color_2": 5321501,
     "spawn_egg_entity_type": 49,
@@ -9164,6 +9886,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.ocelot_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 15720061,
     "spawn_egg_color_2": 5653556,
     "spawn_egg_entity_type": 51,
@@ -9177,6 +9900,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.panda_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 15198183,
     "spawn_egg_color_2": 1776418,
     "spawn_egg_entity_type": 53,
@@ -9190,6 +9914,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.parrot_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 894731,
     "spawn_egg_color_2": 16711680,
     "spawn_egg_entity_type": 54,
@@ -9203,6 +9928,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.phantom_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 4411786,
     "spawn_egg_color_2": 8978176,
     "spawn_egg_entity_type": 98,
@@ -9216,6 +9942,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.pig_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 15771042,
     "spawn_egg_color_2": 14377823,
     "spawn_egg_entity_type": 55,
@@ -9229,6 +9956,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.pillager_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 5451574,
     "spawn_egg_color_2": 9804699,
     "spawn_egg_entity_type": 88,
@@ -9242,6 +9970,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.polar_bear_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 15921906,
     "spawn_egg_color_2": 9803152,
     "spawn_egg_entity_type": 58,
@@ -9255,6 +9984,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.pufferfish_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 16167425,
     "spawn_egg_color_2": 3654642,
     "spawn_egg_entity_type": 56,
@@ -9268,6 +9998,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.rabbit_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 10051392,
     "spawn_egg_color_2": 7555121,
     "spawn_egg_entity_type": 60,
@@ -9281,6 +10012,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.ravager_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 7697520,
     "spawn_egg_color_2": 5984329,
     "spawn_egg_entity_type": 99,
@@ -9294,6 +10026,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.salmon_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 10489616,
     "spawn_egg_color_2": 951412,
     "spawn_egg_entity_type": 61,
@@ -9307,6 +10040,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.sheep_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 15198183,
     "spawn_egg_color_2": 16758197,
     "spawn_egg_entity_type": 62,
@@ -9320,6 +10054,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.shulker_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 9725844,
     "spawn_egg_color_2": 5060690,
     "spawn_egg_entity_type": 63,
@@ -9333,6 +10068,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.silverfish_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 7237230,
     "spawn_egg_color_2": 3158064,
     "spawn_egg_entity_type": 65,
@@ -9346,6 +10082,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.skeleton_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 12698049,
     "spawn_egg_color_2": 4802889,
     "spawn_egg_entity_type": 66,
@@ -9359,6 +10096,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.skeleton_horse_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 6842447,
     "spawn_egg_color_2": 15066584,
     "spawn_egg_entity_type": 67,
@@ -9372,6 +10110,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.slime_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 5349438,
     "spawn_egg_color_2": 8306542,
     "spawn_egg_entity_type": 68,
@@ -9385,6 +10124,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.spider_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 3419431,
     "spawn_egg_color_2": 11013646,
     "spawn_egg_entity_type": 73,
@@ -9398,6 +10138,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.squid_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 2243405,
     "spawn_egg_color_2": 7375001,
     "spawn_egg_entity_type": 74,
@@ -9411,6 +10152,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.stray_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 6387319,
     "spawn_egg_color_2": 14543594,
     "spawn_egg_entity_type": 75,
@@ -9424,6 +10166,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.trader_llama_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 15377456,
     "spawn_egg_color_2": 4547222,
     "spawn_egg_entity_type": 76,
@@ -9437,6 +10180,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.tropical_fish_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 15690005,
     "spawn_egg_color_2": 16775663,
     "spawn_egg_entity_type": 77,
@@ -9450,6 +10194,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.turtle_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 15198183,
     "spawn_egg_color_2": 44975,
     "spawn_egg_entity_type": 78,
@@ -9463,6 +10208,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.vex_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 8032420,
     "spawn_egg_color_2": 15265265,
     "spawn_egg_entity_type": 84,
@@ -9476,6 +10222,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.villager_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 5651507,
     "spawn_egg_color_2": 12422002,
     "spawn_egg_entity_type": 85,
@@ -9489,6 +10236,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.vindicator_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 9804699,
     "spawn_egg_color_2": 2580065,
     "spawn_egg_entity_type": 87,
@@ -9502,6 +10250,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.wandering_trader_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 4547222,
     "spawn_egg_color_2": 15377456,
     "spawn_egg_entity_type": 89,
@@ -9515,6 +10264,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.witch_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 3407872,
     "spawn_egg_color_2": 5349438,
     "spawn_egg_entity_type": 90,
@@ -9528,6 +10278,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.wither_skeleton_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 1315860,
     "spawn_egg_color_2": 4672845,
     "spawn_egg_entity_type": 92,
@@ -9541,6 +10292,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.wolf_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 14144467,
     "spawn_egg_color_2": 13545366,
     "spawn_egg_entity_type": 94,
@@ -9554,6 +10306,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.zombie_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 44975,
     "spawn_egg_color_2": 7969893,
     "spawn_egg_entity_type": 95,
@@ -9567,6 +10320,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.zombie_horse_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 3232308,
     "spawn_egg_color_2": 9945732,
     "spawn_egg_entity_type": 96,
@@ -9580,6 +10334,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.zombie_pigman_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 15373203,
     "spawn_egg_color_2": 5009705,
     "spawn_egg_entity_type": 57,
@@ -9593,6 +10348,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.zombie_villager_spawn_egg",
+    "eating_sound": 253,
     "spawn_egg_color_1": 5651507,
     "spawn_egg_color_2": 7969893,
     "spawn_egg_entity_type": 97,
@@ -9606,6 +10362,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.experience_bottle",
+    "eating_sound": 253,
     "class": "ExperienceBottleItem"
   },
   "minecraft:fire_charge": {
@@ -9616,6 +10373,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.fire_charge",
+    "eating_sound": 253,
     "class": "FireChargeItem"
   },
   "minecraft:writable_book": {
@@ -9626,6 +10384,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.writable_book",
+    "eating_sound": 253,
     "class": "WritableBookItem"
   },
   "minecraft:written_book": {
@@ -9635,6 +10394,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.written_book",
+    "eating_sound": 253,
     "class": "WrittenBookItem"
   },
   "minecraft:emerald": {
@@ -9645,6 +10405,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.emerald",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:item_frame": {
@@ -9655,6 +10416,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.item_frame",
+    "eating_sound": 253,
     "class": "ItemFrameItem"
   },
   "minecraft:flower_pot": {
@@ -9665,6 +10427,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.flower_pot",
+    "eating_sound": 253,
     "block": 273,
     "class": "BlockItem"
   },
@@ -9683,6 +10446,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "block": 298,
     "class": "ItemNameBlockItem"
   },
@@ -9701,6 +10465,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "block": 299,
     "class": "ItemNameBlockItem"
   },
@@ -9719,6 +10484,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:poisonous_potato": {
@@ -9736,6 +10502,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:map": {
@@ -9746,6 +10513,7 @@
     "max_damage": 0,
     "is_complex": true,
     "description_id": "item.minecraft.map",
+    "eating_sound": 253,
     "class": "EmptyMapItem"
   },
   "minecraft:golden_carrot": {
@@ -9763,6 +10531,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:skeleton_skull": {
@@ -9773,6 +10542,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.skeleton_skull",
+    "eating_sound": 253,
     "block": 306,
     "class": "StandingAndWallBlockItem"
   },
@@ -9784,6 +10554,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.wither_skeleton_skull",
+    "eating_sound": 253,
     "block": 308,
     "class": "StandingAndWallBlockItem"
   },
@@ -9795,6 +10566,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.player_head",
+    "eating_sound": 253,
     "block": 312,
     "class": "PlayerHeadItem"
   },
@@ -9806,6 +10578,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.zombie_head",
+    "eating_sound": 253,
     "block": 310,
     "class": "StandingAndWallBlockItem"
   },
@@ -9817,6 +10590,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.creeper_head",
+    "eating_sound": 253,
     "block": 314,
     "class": "StandingAndWallBlockItem"
   },
@@ -9828,6 +10602,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.dragon_head",
+    "eating_sound": 253,
     "block": 316,
     "class": "StandingAndWallBlockItem"
   },
@@ -9839,6 +10614,7 @@
     "max_damage": 25,
     "is_complex": false,
     "description_id": "item.minecraft.carrot_on_a_stick",
+    "eating_sound": 253,
     "class": "CarrotOnAStickItem"
   },
   "minecraft:nether_star": {
@@ -9849,6 +10625,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.nether_star",
+    "eating_sound": 253,
     "class": "SimpleFoiledItem"
   },
   "minecraft:pumpkin_pie": {
@@ -9866,6 +10643,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:firework_rocket": {
@@ -9876,6 +10654,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.firework_rocket",
+    "eating_sound": 253,
     "class": "FireworkRocketItem"
   },
   "minecraft:firework_star": {
@@ -9886,6 +10665,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.firework_star",
+    "eating_sound": 253,
     "class": "FireworkStarItem"
   },
   "minecraft:enchanted_book": {
@@ -9895,6 +10675,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.enchanted_book",
+    "eating_sound": 253,
     "class": "EnchantedBookItem"
   },
   "minecraft:nether_brick": {
@@ -9905,6 +10686,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.nether_brick",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:quartz": {
@@ -9915,6 +10697,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.quartz",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:tnt_minecart": {
@@ -9925,6 +10708,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.tnt_minecart",
+    "eating_sound": 253,
     "class": "MinecartItem"
   },
   "minecraft:hopper_minecart": {
@@ -9935,6 +10719,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.hopper_minecart",
+    "eating_sound": 253,
     "class": "MinecartItem"
   },
   "minecraft:prismarine_shard": {
@@ -9945,6 +10730,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.prismarine_shard",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:prismarine_crystals": {
@@ -9955,6 +10741,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.prismarine_crystals",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:rabbit": {
@@ -9972,6 +10759,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:cooked_rabbit": {
@@ -9989,6 +10777,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:rabbit_stew": {
@@ -10006,6 +10795,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "BowlFoodItem"
   },
   "minecraft:rabbit_foot": {
@@ -10016,6 +10806,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.rabbit_foot",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:rabbit_hide": {
@@ -10026,6 +10817,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.rabbit_hide",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:armor_stand": {
@@ -10036,6 +10828,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.armor_stand",
+    "eating_sound": 253,
     "class": "ArmorStandItem"
   },
   "minecraft:iron_horse_armor": {
@@ -10046,6 +10839,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.iron_horse_armor",
+    "eating_sound": 253,
     "horse_protection": 5,
     "horse_texture": "textures/entity/horse/armor/horse_armor_iron.png",
     "class": "HorseArmorItem"
@@ -10058,6 +10852,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.golden_horse_armor",
+    "eating_sound": 253,
     "horse_protection": 7,
     "horse_texture": "textures/entity/horse/armor/horse_armor_gold.png",
     "class": "HorseArmorItem"
@@ -10070,6 +10865,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.diamond_horse_armor",
+    "eating_sound": 253,
     "horse_protection": 11,
     "horse_texture": "textures/entity/horse/armor/horse_armor_diamond.png",
     "class": "HorseArmorItem"
@@ -10082,6 +10878,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.leather_horse_armor",
+    "eating_sound": 253,
     "horse_protection": 3,
     "horse_texture": "textures/entity/horse/armor/horse_armor_leather.png",
     "class": "DyeableHorseArmorItem"
@@ -10094,6 +10891,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.lead",
+    "eating_sound": 253,
     "class": "LeadItem"
   },
   "minecraft:name_tag": {
@@ -10104,6 +10902,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.name_tag",
+    "eating_sound": 253,
     "class": "NameTagItem"
   },
   "minecraft:command_block_minecart": {
@@ -10113,6 +10912,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.command_block_minecart",
+    "eating_sound": 253,
     "class": "MinecartItem"
   },
   "minecraft:mutton": {
@@ -10130,6 +10930,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:cooked_mutton": {
@@ -10147,6 +10948,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:white_banner": {
@@ -10157,6 +10959,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.white_banner",
+    "eating_sound": 253,
     "block": 408,
     "class": "BannerItem"
   },
@@ -10168,6 +10971,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.orange_banner",
+    "eating_sound": 253,
     "block": 409,
     "class": "BannerItem"
   },
@@ -10179,6 +10983,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.magenta_banner",
+    "eating_sound": 253,
     "block": 410,
     "class": "BannerItem"
   },
@@ -10190,6 +10995,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_blue_banner",
+    "eating_sound": 253,
     "block": 411,
     "class": "BannerItem"
   },
@@ -10201,6 +11007,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.yellow_banner",
+    "eating_sound": 253,
     "block": 412,
     "class": "BannerItem"
   },
@@ -10212,6 +11019,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lime_banner",
+    "eating_sound": 253,
     "block": 413,
     "class": "BannerItem"
   },
@@ -10223,6 +11031,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.pink_banner",
+    "eating_sound": 253,
     "block": 414,
     "class": "BannerItem"
   },
@@ -10234,6 +11043,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.gray_banner",
+    "eating_sound": 253,
     "block": 415,
     "class": "BannerItem"
   },
@@ -10245,6 +11055,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.light_gray_banner",
+    "eating_sound": 253,
     "block": 416,
     "class": "BannerItem"
   },
@@ -10256,6 +11067,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cyan_banner",
+    "eating_sound": 253,
     "block": 417,
     "class": "BannerItem"
   },
@@ -10267,6 +11079,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.purple_banner",
+    "eating_sound": 253,
     "block": 418,
     "class": "BannerItem"
   },
@@ -10278,6 +11091,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blue_banner",
+    "eating_sound": 253,
     "block": 419,
     "class": "BannerItem"
   },
@@ -10289,6 +11103,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.brown_banner",
+    "eating_sound": 253,
     "block": 420,
     "class": "BannerItem"
   },
@@ -10300,6 +11115,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.green_banner",
+    "eating_sound": 253,
     "block": 421,
     "class": "BannerItem"
   },
@@ -10311,6 +11127,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.red_banner",
+    "eating_sound": 253,
     "block": 422,
     "class": "BannerItem"
   },
@@ -10322,6 +11139,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.black_banner",
+    "eating_sound": 253,
     "block": 423,
     "class": "BannerItem"
   },
@@ -10333,6 +11151,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.end_crystal",
+    "eating_sound": 253,
     "class": "EndCrystalItem"
   },
   "minecraft:chorus_fruit": {
@@ -10350,6 +11169,7 @@
       "can_always_eat": true,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "ChorusFruitItem"
   },
   "minecraft:popped_chorus_fruit": {
@@ -10360,6 +11180,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.popped_chorus_fruit",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:beetroot": {
@@ -10377,6 +11198,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:beetroot_seeds": {
@@ -10387,6 +11209,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.beetroot_seeds",
+    "eating_sound": 253,
     "block": 489,
     "class": "ItemNameBlockItem"
   },
@@ -10405,6 +11228,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "BowlFoodItem"
   },
   "minecraft:dragon_breath": {
@@ -10415,6 +11239,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.dragon_breath",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:splash_potion": {
@@ -10425,6 +11250,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.splash_potion",
+    "eating_sound": 253,
     "class": "SplashPotionItem"
   },
   "minecraft:spectral_arrow": {
@@ -10435,6 +11261,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.spectral_arrow",
+    "eating_sound": 253,
     "class": "SpectralArrowItem"
   },
   "minecraft:tipped_arrow": {
@@ -10445,6 +11272,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.tipped_arrow",
+    "eating_sound": 253,
     "class": "TippedArrowItem"
   },
   "minecraft:lingering_potion": {
@@ -10455,6 +11283,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.lingering_potion",
+    "eating_sound": 253,
     "class": "LingeringPotionItem"
   },
   "minecraft:shield": {
@@ -10465,6 +11294,7 @@
     "max_damage": 336,
     "is_complex": false,
     "description_id": "item.minecraft.shield",
+    "eating_sound": 253,
     "class": "ShieldItem"
   },
   "minecraft:elytra": {
@@ -10475,6 +11305,7 @@
     "max_damage": 432,
     "is_complex": false,
     "description_id": "item.minecraft.elytra",
+    "eating_sound": 253,
     "class": "ElytraItem"
   },
   "minecraft:spruce_boat": {
@@ -10485,6 +11316,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.spruce_boat",
+    "eating_sound": 253,
     "class": "BoatItem"
   },
   "minecraft:birch_boat": {
@@ -10495,6 +11327,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.birch_boat",
+    "eating_sound": 253,
     "class": "BoatItem"
   },
   "minecraft:jungle_boat": {
@@ -10505,6 +11338,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.jungle_boat",
+    "eating_sound": 253,
     "class": "BoatItem"
   },
   "minecraft:acacia_boat": {
@@ -10515,6 +11349,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.acacia_boat",
+    "eating_sound": 253,
     "class": "BoatItem"
   },
   "minecraft:dark_oak_boat": {
@@ -10525,6 +11360,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.dark_oak_boat",
+    "eating_sound": 253,
     "class": "BoatItem"
   },
   "minecraft:totem_of_undying": {
@@ -10535,6 +11371,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.totem_of_undying",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:shulker_shell": {
@@ -10545,6 +11382,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.shulker_shell",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:iron_nugget": {
@@ -10555,6 +11393,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.iron_nugget",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:knowledge_book": {
@@ -10564,6 +11403,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.knowledge_book",
+    "eating_sound": 253,
     "class": "KnowledgeBookItem"
   },
   "minecraft:debug_stick": {
@@ -10573,6 +11413,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.debug_stick",
+    "eating_sound": 253,
     "class": "DebugStickItem"
   },
   "minecraft:music_disc_13": {
@@ -10583,6 +11424,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.music_disc_13",
+    "eating_sound": 253,
     "analog_output": 1,
     "sound": 547,
     "class": "RecordItem"
@@ -10595,6 +11437,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.music_disc_cat",
+    "eating_sound": 253,
     "analog_output": 2,
     "sound": 549,
     "class": "RecordItem"
@@ -10607,6 +11450,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.music_disc_blocks",
+    "eating_sound": 253,
     "analog_output": 3,
     "sound": 548,
     "class": "RecordItem"
@@ -10619,6 +11463,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.music_disc_chirp",
+    "eating_sound": 253,
     "analog_output": 4,
     "sound": 550,
     "class": "RecordItem"
@@ -10631,6 +11476,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.music_disc_far",
+    "eating_sound": 253,
     "analog_output": 5,
     "sound": 551,
     "class": "RecordItem"
@@ -10643,6 +11489,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.music_disc_mall",
+    "eating_sound": 253,
     "analog_output": 6,
     "sound": 552,
     "class": "RecordItem"
@@ -10655,6 +11502,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.music_disc_mellohi",
+    "eating_sound": 253,
     "analog_output": 7,
     "sound": 553,
     "class": "RecordItem"
@@ -10667,6 +11515,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.music_disc_stal",
+    "eating_sound": 253,
     "analog_output": 8,
     "sound": 554,
     "class": "RecordItem"
@@ -10679,6 +11528,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.music_disc_strad",
+    "eating_sound": 253,
     "analog_output": 9,
     "sound": 555,
     "class": "RecordItem"
@@ -10691,6 +11541,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.music_disc_ward",
+    "eating_sound": 253,
     "analog_output": 10,
     "sound": 557,
     "class": "RecordItem"
@@ -10703,6 +11554,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.music_disc_11",
+    "eating_sound": 253,
     "analog_output": 11,
     "sound": 546,
     "class": "RecordItem"
@@ -10715,6 +11567,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.music_disc_wait",
+    "eating_sound": 253,
     "analog_output": 12,
     "sound": 556,
     "class": "RecordItem"
@@ -10727,6 +11580,7 @@
     "max_damage": 250,
     "is_complex": false,
     "description_id": "item.minecraft.trident",
+    "eating_sound": 253,
     "class": "TridentItem"
   },
   "minecraft:phantom_membrane": {
@@ -10737,6 +11591,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.phantom_membrane",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:nautilus_shell": {
@@ -10747,6 +11602,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.nautilus_shell",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:heart_of_the_sea": {
@@ -10757,6 +11613,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.heart_of_the_sea",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:crossbow": {
@@ -10767,6 +11624,7 @@
     "max_damage": 326,
     "is_complex": false,
     "description_id": "item.minecraft.crossbow",
+    "eating_sound": 253,
     "class": "CrossbowItem"
   },
   "minecraft:suspicious_stew": {
@@ -10783,6 +11641,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "class": "SuspiciousStewItem"
   },
   "minecraft:loom": {
@@ -10793,6 +11652,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.loom",
+    "eating_sound": 253,
     "block": 659,
     "class": "BlockItem"
   },
@@ -10804,6 +11664,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.flower_banner_pattern",
+    "eating_sound": 253,
     "class": "BannerPatternItem"
   },
   "minecraft:creeper_banner_pattern": {
@@ -10814,6 +11675,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.creeper_banner_pattern",
+    "eating_sound": 253,
     "class": "BannerPatternItem"
   },
   "minecraft:skull_banner_pattern": {
@@ -10824,6 +11686,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.skull_banner_pattern",
+    "eating_sound": 253,
     "class": "BannerPatternItem"
   },
   "minecraft:mojang_banner_pattern": {
@@ -10834,6 +11697,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.mojang_banner_pattern",
+    "eating_sound": 253,
     "class": "BannerPatternItem"
   },
   "minecraft:globe_banner_pattern": {
@@ -10844,6 +11708,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.globe_banner_pattern",
+    "eating_sound": 253,
     "class": "BannerPatternItem"
   },
   "minecraft:barrel": {
@@ -10854,6 +11719,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.barrel",
+    "eating_sound": 253,
     "block": 660,
     "class": "BlockItem"
   },
@@ -10865,6 +11731,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smoker",
+    "eating_sound": 253,
     "block": 661,
     "class": "BlockItem"
   },
@@ -10876,6 +11743,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.blast_furnace",
+    "eating_sound": 253,
     "block": 662,
     "class": "BlockItem"
   },
@@ -10887,6 +11755,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.cartography_table",
+    "eating_sound": 253,
     "block": 663,
     "class": "BlockItem"
   },
@@ -10898,6 +11767,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.fletching_table",
+    "eating_sound": 253,
     "block": 664,
     "class": "BlockItem"
   },
@@ -10909,6 +11779,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.grindstone",
+    "eating_sound": 253,
     "block": 665,
     "class": "BlockItem"
   },
@@ -10920,6 +11791,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lectern",
+    "eating_sound": 253,
     "block": 666,
     "class": "BlockItem"
   },
@@ -10931,6 +11803,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.smithing_table",
+    "eating_sound": 253,
     "block": 667,
     "class": "BlockItem"
   },
@@ -10942,6 +11815,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.stonecutter",
+    "eating_sound": 253,
     "block": 668,
     "class": "BlockItem"
   },
@@ -10953,6 +11827,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.bell",
+    "eating_sound": 253,
     "block": 669,
     "class": "BlockItem"
   },
@@ -10964,6 +11839,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.lantern",
+    "eating_sound": 253,
     "block": 670,
     "class": "BlockItem"
   },
@@ -10982,6 +11858,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 253,
     "block": 672,
     "class": "ItemNameBlockItem"
   },
@@ -10993,6 +11870,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.campfire",
+    "eating_sound": 253,
     "block": 671,
     "class": "BlockItem"
   },
@@ -11004,6 +11882,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "item.minecraft.honeycomb",
+    "eating_sound": 253,
     "class": "Item"
   },
   "minecraft:bee_nest": {
@@ -11014,6 +11893,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.bee_nest",
+    "eating_sound": 253,
     "block": 676,
     "class": "BlockItem"
   },
@@ -11025,6 +11905,7 @@
     "max_damage": 0,
     "is_complex": false,
     "description_id": "block.minecraft.bee_hive",
+    "eating_sound": 253,
     "block": 677,
     "class": "BlockItem"
   },
@@ -11043,6 +11924,7 @@
       "can_always_eat": false,
       "fast_food": false
     },
+    "eating_sound": 301,
     "class": "HoneyBottleItem"
   }
 }

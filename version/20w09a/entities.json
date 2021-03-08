@@ -309,6 +309,7 @@
     "width": 1.3964844,
     "height": 1.5,
     "size_fixed": false,
+    "max_health": 17.0,
     "follow_range": 16.0,
     "movement_speed": 0.17499999701976776,
     "armor": 0.0,

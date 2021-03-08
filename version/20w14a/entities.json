@@ -314,7 +314,6 @@
     "movement_speed": 0.17499999701976776,
     "armor": 0.0,
     "armor_toughness": 0.0,
-    "jump_strength": 0.5,
     "class": "Donkey",
     "parent": "AbstractChestedHorse"
   },
@@ -377,7 +376,6 @@
     "attack_damage": 3.0,
     "armor": 2.0,
     "armor_toughness": 0.0,
-    "spawn_reinforcements_chance": 0.0,
     "class": "Drowned",
     "parent": "Zombie"
   },
@@ -711,7 +709,6 @@
     "movement_speed": 0.22499999403953552,
     "armor": 0.0,
     "armor_toughness": 0.0,
-    "jump_strength": 0.7,
     "class": "Horse",
     "meta": {
       "HORSE_VARIANT": 18
@@ -736,7 +733,6 @@
     "attack_damage": 3.0,
     "armor": 2.0,
     "armor_toughness": 0.0,
-    "spawn_reinforcements_chance": 0.0,
     "class": "Husk",
     "parent": "Zombie"
   },
@@ -845,7 +841,6 @@
     "movement_speed": 0.17499999701976776,
     "armor": 0.0,
     "armor_toughness": 0.0,
-    "jump_strength": 0.5,
     "class": "Llama",
     "meta": {
       "LLAMA_STRENGTH": 19,
@@ -1019,7 +1014,6 @@
     "movement_speed": 0.17499999701976776,
     "armor": 0.0,
     "armor_toughness": 0.0,
-    "jump_strength": 0.5,
     "class": "Mule",
     "parent": "AbstractChestedHorse"
   },
@@ -1393,7 +1387,6 @@
     "movement_speed": 0.20000000298023224,
     "armor": 0.0,
     "armor_toughness": 0.0,
-    "jump_strength": 0.7,
     "class": "SkeletonHorse",
     "parent": "AbstractHorse"
   },
@@ -1571,7 +1564,6 @@
     "movement_speed": 0.17499999701976776,
     "armor": 0.0,
     "armor_toughness": 0.0,
-    "jump_strength": 0.5,
     "class": "TraderLlama",
     "parent": "Llama"
   },
@@ -1974,7 +1966,6 @@
     "attack_damage": 3.0,
     "armor": 2.0,
     "armor_toughness": 0.0,
-    "spawn_reinforcements_chance": 0.0,
     "class": "Zombie",
     "meta": {
       "ZOMBIE_IS_BABY": 15,
@@ -2001,7 +1992,6 @@
     "attack_damage": 5.0,
     "armor": 2.0,
     "armor_toughness": 0.0,
-    "spawn_reinforcements_chance": 0.0,
     "class": "ZombifiedPiglin",
     "parent": "Zombie"
   },
@@ -2022,7 +2012,6 @@
     "movement_speed": 0.20000000298023224,
     "armor": 0.0,
     "armor_toughness": 0.0,
-    "jump_strength": 0.7,
     "class": "ZombieHorse",
     "parent": "AbstractHorse"
   },
@@ -2044,7 +2033,6 @@
     "attack_damage": 3.0,
     "armor": 2.0,
     "armor_toughness": 0.0,
-    "spawn_reinforcements_chance": 0.0,
     "class": "ZombieVillager",
     "meta": {
       "ZOMBIE_VILLAGER_IS_CONVERTING": 18,
