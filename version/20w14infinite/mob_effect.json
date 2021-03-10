@@ -23,7 +23,7 @@
     "color": 8171462,
     "description_id": "effect.minecraft.speed",
     "modifiers": {
-      "effect.minecraft.speed": {
+      "generic.movementSpeed": {
         "name": "effect.minecraft.speed",
         "uuid": "91aeaa56-376b-4498-935b-2f7f68070635",
         "amount": 0.20000000298023224,
@@ -37,7 +37,7 @@
     "color": 14270531,
     "description_id": "effect.minecraft.haste",
     "modifiers": {
-      "effect.minecraft.haste": {
+      "generic.attackSpeed": {
         "name": "effect.minecraft.haste",
         "uuid": "af8b6e3f-3328-4c0a-aa36-5ba2bb9dbef3",
         "amount": 0.10000000149011612,
@@ -57,7 +57,7 @@
     "color": 9643043,
     "description_id": "effect.minecraft.strength",
     "modifiers": {
-      "effect.minecraft.strength": {
+      "generic.attackDamage": {
         "name": "effect.minecraft.strength",
         "uuid": "648d7064-6a60-4f59-8abe-c2c23a6dd7a9",
         "amount": 0.0,
@@ -71,7 +71,7 @@
     "color": 3381504,
     "description_id": "effect.minecraft.luck",
     "modifiers": {
-      "effect.minecraft.luck": {
+      "generic.luck": {
         "name": "effect.minecraft.luck",
         "uuid": "03c3c89d-7037-4b42-869f-b146bcb64d2e",
         "amount": 1.0,
@@ -91,7 +91,7 @@
     "color": 12624973,
     "description_id": "effect.minecraft.unluck",
     "modifiers": {
-      "effect.minecraft.unluck": {
+      "generic.luck": {
         "name": "effect.minecraft.unluck",
         "uuid": "cc5af142-2bd2-4215-b636-2605aed11727",
         "amount": -1.0,
@@ -117,7 +117,7 @@
     "color": 5926017,
     "description_id": "effect.minecraft.slowness",
     "modifiers": {
-      "effect.minecraft.slowness": {
+      "generic.movementSpeed": {
         "name": "effect.minecraft.slowness",
         "uuid": "7107de5e-7ce8-4030-940e-514c1f160890",
         "amount": -0.15000000596046448,
@@ -161,7 +161,7 @@
     "color": 4738376,
     "description_id": "effect.minecraft.weakness",
     "modifiers": {
-      "effect.minecraft.weakness": {
+      "generic.attackDamage": {
         "name": "effect.minecraft.weakness",
         "uuid": "22653b89-116e-49dc-9b6b-9971489b5be5",
         "amount": 0.0,
@@ -187,7 +187,7 @@
     "color": 16284963,
     "description_id": "effect.minecraft.health_boost",
     "modifiers": {
-      "effect.minecraft.health_boost": {
+      "generic.maxHealth": {
         "name": "effect.minecraft.health_boost",
         "uuid": "5d6f0ba2-1186-46ac-b896-c61c5cee99cc",
         "amount": 4.0,
@@ -237,7 +237,7 @@
     "color": 4866583,
     "description_id": "effect.minecraft.mining_fatigue",
     "modifiers": {
-      "effect.minecraft.mining_fatigue": {
+      "generic.attackSpeed": {
         "name": "effect.minecraft.mining_fatigue",
         "uuid": "55fced67-e92a-486e-9800-b47f202c4386",
         "amount": -0.10000000149011612,

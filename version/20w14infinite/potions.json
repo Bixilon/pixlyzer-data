@@ -11,8 +11,8 @@
         "effect": "minecraft:regeneration",
         "duration": 1800,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -26,8 +26,8 @@
         "effect": "minecraft:strength",
         "duration": 3600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -41,8 +41,8 @@
         "effect": "minecraft:poison",
         "duration": 432,
         "amplifier": 1,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -56,8 +56,8 @@
         "effect": "minecraft:regeneration",
         "duration": 900,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -71,8 +71,8 @@
         "effect": "minecraft:regeneration",
         "duration": 450,
         "amplifier": 1,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -86,8 +86,8 @@
         "effect": "minecraft:strength",
         "duration": 9600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -101,8 +101,8 @@
         "effect": "minecraft:poison",
         "duration": 900,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -116,8 +116,8 @@
         "effect": "minecraft:strength",
         "duration": 1800,
         "amplifier": 1,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -139,8 +139,8 @@
         "effect": "minecraft:invisibility",
         "duration": 3600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -154,8 +154,8 @@
         "effect": "minecraft:night_vision",
         "duration": 3600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -169,8 +169,8 @@
         "effect": "minecraft:instant_health",
         "duration": 1,
         "amplifier": 1,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -184,8 +184,8 @@
         "effect": "minecraft:water_breathing",
         "duration": 3600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -199,8 +199,8 @@
         "effect": "minecraft:weakness",
         "duration": 4800,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -214,8 +214,8 @@
         "effect": "minecraft:instant_damage",
         "duration": 1,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -229,8 +229,8 @@
         "effect": "minecraft:weakness",
         "duration": 1800,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -244,8 +244,8 @@
         "effect": "minecraft:slow_falling",
         "duration": 4800,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -259,8 +259,8 @@
         "effect": "minecraft:poison",
         "duration": 1800,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -274,8 +274,8 @@
         "effect": "minecraft:slowness",
         "duration": 400,
         "amplifier": 5,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       },
@@ -283,8 +283,8 @@
         "effect": "minecraft:resistance",
         "duration": 400,
         "amplifier": 3,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -302,8 +302,8 @@
         "effect": "minecraft:night_vision",
         "duration": 9600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -317,8 +317,8 @@
         "effect": "minecraft:speed",
         "duration": 3600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -332,8 +332,8 @@
         "effect": "minecraft:jump_boost",
         "duration": 9600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -347,8 +347,8 @@
         "effect": "minecraft:speed",
         "duration": 1800,
         "amplifier": 1,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -362,8 +362,8 @@
         "effect": "minecraft:slowness",
         "duration": 1800,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -377,8 +377,8 @@
         "effect": "minecraft:slowness",
         "duration": 4800,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -392,8 +392,8 @@
         "effect": "minecraft:fire_resistance",
         "duration": 9600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -407,8 +407,8 @@
         "effect": "minecraft:slowness",
         "duration": 400,
         "amplifier": 3,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -422,8 +422,8 @@
         "effect": "minecraft:slowness",
         "duration": 800,
         "amplifier": 3,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       },
@@ -431,8 +431,8 @@
         "effect": "minecraft:resistance",
         "duration": 800,
         "amplifier": 2,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -446,8 +446,8 @@
         "effect": "minecraft:speed",
         "duration": 9600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -461,8 +461,8 @@
         "effect": "minecraft:jump_boost",
         "duration": 1800,
         "amplifier": 1,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -476,8 +476,8 @@
         "effect": "minecraft:instant_health",
         "duration": 1,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -491,8 +491,8 @@
         "effect": "minecraft:invisibility",
         "duration": 9600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -506,8 +506,8 @@
         "effect": "minecraft:jump_boost",
         "duration": 3600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -521,8 +521,8 @@
         "effect": "minecraft:water_breathing",
         "duration": 9600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -536,8 +536,8 @@
         "effect": "minecraft:slow_falling",
         "duration": 1800,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -551,8 +551,8 @@
         "effect": "minecraft:luck",
         "duration": 6000,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -570,8 +570,8 @@
         "effect": "minecraft:fire_resistance",
         "duration": 3600,
         "amplifier": 0,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -585,8 +585,8 @@
         "effect": "minecraft:instant_damage",
         "duration": 1,
         "amplifier": 1,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -600,8 +600,8 @@
         "effect": "minecraft:slowness",
         "duration": 400,
         "amplifier": 3,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       },
@@ -609,8 +609,8 @@
         "effect": "minecraft:resistance",
         "duration": 400,
         "amplifier": 2,
-        "splash": false,
         "ambient": false,
+        "no_counter": false,
         "visible": true,
         "showIcon": true
       }

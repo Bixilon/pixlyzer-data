@@ -7,7 +7,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": true,
-    "sold": false
+    "solid": false
   },
   "minecraft:structural_air": {
     "color": 0,
@@ -17,7 +17,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": true,
-    "sold": false
+    "solid": false
   },
   "minecraft:portal": {
     "color": 0,
@@ -27,7 +27,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": false,
-    "sold": false
+    "solid": false
   },
   "minecraft:cloth_decoration": {
     "color": 13092807,
@@ -37,7 +37,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": false,
-    "sold": false
+    "solid": false
   },
   "minecraft:plant": {
     "color": 31744,
@@ -47,7 +47,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": false,
-    "sold": false
+    "solid": false
   },
   "minecraft:water_plant": {
     "color": 4210943,
@@ -57,7 +57,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": false,
-    "sold": false
+    "solid": false
   },
   "minecraft:replaceable_plant": {
     "color": 31744,
@@ -67,7 +67,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": true,
-    "sold": false
+    "solid": false
   },
   "minecraft:replaceable_fireproof_plant": {
     "color": 31744,
@@ -77,7 +77,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": true,
-    "sold": false
+    "solid": false
   },
   "minecraft:replaceable_water_plant": {
     "color": 4210943,
@@ -87,7 +87,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": true,
-    "sold": false
+    "solid": false
   },
   "minecraft:water": {
     "color": 4210943,
@@ -97,7 +97,7 @@
     "liquid": true,
     "solid_blocking": false,
     "replaceable": true,
-    "sold": false
+    "solid": false
   },
   "minecraft:bubble_column": {
     "color": 4210943,
@@ -107,7 +107,7 @@
     "liquid": true,
     "solid_blocking": false,
     "replaceable": true,
-    "sold": false
+    "solid": false
   },
   "minecraft:lava": {
     "color": 16711680,
@@ -117,7 +117,7 @@
     "liquid": true,
     "solid_blocking": false,
     "replaceable": true,
-    "sold": false
+    "solid": false
   },
   "minecraft:top_snow": {
     "color": 16777215,
@@ -127,7 +127,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": true,
-    "sold": false
+    "solid": false
   },
   "minecraft:fire": {
     "color": 0,
@@ -137,7 +137,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": true,
-    "sold": false
+    "solid": false
   },
   "minecraft:decoration": {
     "color": 0,
@@ -147,7 +147,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": false,
-    "sold": false
+    "solid": false
   },
   "minecraft:web": {
     "color": 13092807,
@@ -157,7 +157,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:buildable_glass": {
     "color": 0,
@@ -167,7 +167,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:clay": {
     "color": 10791096,
@@ -177,7 +177,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:dirt": {
     "color": 9923917,
@@ -187,7 +187,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:grass": {
     "color": 8368696,
@@ -197,7 +197,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:ice_solid": {
     "color": 10526975,
@@ -207,7 +207,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:sand": {
     "color": 16247203,
@@ -217,7 +217,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:sponge": {
     "color": 15066419,
@@ -227,7 +227,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:shulker_shell": {
     "color": 8339378,
@@ -237,7 +237,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:wood": {
     "color": 9402184,
@@ -247,7 +247,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:nether_wood": {
     "color": 9402184,
@@ -257,7 +257,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:bamboo_sapling": {
     "color": 9402184,
@@ -267,7 +267,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:bamboo": {
     "color": 9402184,
@@ -277,7 +277,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:wool": {
     "color": 13092807,
@@ -287,7 +287,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:explosive": {
     "color": 16711680,
@@ -297,7 +297,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:leaves": {
     "color": 31744,
@@ -307,7 +307,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:glass": {
     "color": 0,
@@ -317,7 +317,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:ice": {
     "color": 10526975,
@@ -327,7 +327,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:cactus": {
     "color": 31744,
@@ -337,7 +337,7 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:stone": {
     "color": 7368816,
@@ -347,7 +347,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:metal": {
     "color": 10987431,
@@ -357,7 +357,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:snow": {
     "color": 16777215,
@@ -367,7 +367,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:heavy_metal": {
     "color": 10987431,
@@ -377,7 +377,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:barrier": {
     "color": 0,
@@ -387,7 +387,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:piston": {
     "color": 7368816,
@@ -397,7 +397,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:coral": {
     "color": 31744,
@@ -407,7 +407,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:vegetable": {
     "color": 31744,
@@ -417,7 +417,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:egg": {
     "color": 31744,
@@ -427,7 +427,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:cake": {
     "color": 0,
@@ -437,7 +437,7 @@
     "liquid": false,
     "solid_blocking": true,
     "replaceable": false,
-    "sold": true
+    "solid": true
   },
   "minecraft:amethyst": {
     "color": 8339378,
@@ -447,6 +447,6 @@
     "liquid": false,
     "solid_blocking": false,
     "replaceable": false,
-    "sold": true
+    "solid": true
   }
 }

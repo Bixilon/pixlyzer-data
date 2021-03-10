@@ -2,7 +2,7 @@
   "minecraft:overworld": {
     "file_suffix": "",
     "has_sky_light": true,
-    "has_ceiling": true,
+    "has_ceiling": false,
     "ultra_warm": false,
     "natural": true,
     "coordinate_scale": 1.0,
@@ -12,7 +12,7 @@
     "respawn_anchor_works": false,
     "has_raids": true,
     "logical_height": 256,
-    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@5869f15f",
+    "infiniburn": "minecraft:infiniburn_overworld",
     "effects_location": "minecraft:overworld",
     "ambient_light": 0.0
   },
@@ -30,7 +30,7 @@
     "respawn_anchor_works": true,
     "has_raids": false,
     "logical_height": 128,
-    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@5869f15f",
+    "infiniburn": "minecraft:infiniburn_nether",
     "effects_location": "minecraft:the_nether",
     "ambient_light": 0.1
   },
@@ -48,8 +48,25 @@
     "respawn_anchor_works": false,
     "has_raids": true,
     "logical_height": 256,
-    "infiniburn": "net.minecraft.tags.StaticTagHelper$Wrapper@5869f15f",
+    "infiniburn": "minecraft:infiniburn_end",
     "effects_location": "minecraft:the_end",
+    "ambient_light": 0.0
+  },
+  "minecraft:overworld_caves": {
+    "file_suffix": "",
+    "has_sky_light": true,
+    "has_ceiling": true,
+    "ultra_warm": false,
+    "natural": true,
+    "coordinate_scale": 1.0,
+    "create_dragon_fight": false,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": false,
+    "has_raids": true,
+    "logical_height": 256,
+    "infiniburn": "minecraft:infiniburn_overworld",
+    "effects_location": "minecraft:overworld",
     "ambient_light": 0.0
   }
 }

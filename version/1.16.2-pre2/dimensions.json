@@ -2,6 +2,7 @@
   "minecraft:overworld": {
     "file_suffix": "",
     "has_sky_light": true,
+    "has_ceiling": false,
     "ultra_warm": false,
     "natural": true,
     "coordinate_scale": 1.0,
@@ -11,12 +12,14 @@
     "respawn_anchor_works": false,
     "has_raids": true,
     "logical_height": 256,
+    "infiniburn": "minecraft:infiniburn_overworld",
     "ambient_light": 0.0
   },
   "minecraft:the_nether": {
     "file_suffix": "",
     "fixed_time": 18000,
     "has_sky_light": false,
+    "has_ceiling": true,
     "ultra_warm": true,
     "natural": false,
     "coordinate_scale": 8.0,
@@ -26,12 +29,14 @@
     "respawn_anchor_works": true,
     "has_raids": false,
     "logical_height": 128,
+    "infiniburn": "minecraft:infiniburn_nether",
     "ambient_light": 0.1
   },
   "minecraft:the_end": {
     "file_suffix": "_end",
     "fixed_time": 6000,
     "has_sky_light": false,
+    "has_ceiling": false,
     "ultra_warm": false,
     "natural": false,
     "coordinate_scale": 1.0,
@@ -41,11 +46,13 @@
     "respawn_anchor_works": false,
     "has_raids": true,
     "logical_height": 256,
+    "infiniburn": "minecraft:infiniburn_end",
     "ambient_light": 0.0
   },
   "minecraft:overworld_caves": {
     "file_suffix": "",
     "has_sky_light": true,
+    "has_ceiling": true,
     "ultra_warm": false,
     "natural": true,
     "coordinate_scale": 1.0,
@@ -55,6 +62,7 @@
     "respawn_anchor_works": false,
     "has_raids": true,
     "logical_height": 256,
+    "infiniburn": "minecraft:infiniburn_overworld",
     "ambient_light": 0.0
   }
 }
