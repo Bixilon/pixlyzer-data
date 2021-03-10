@@ -746,6 +746,7 @@
     "width": 1.3964844,
     "height": 1.6,
     "size_fixed": false,
+    "generic.maxHealth": 28.0,
     "generic.followRange": 16.0,
     "generic.knockbackResistance": 0.0,
     "generic.attackKnockback": 0.0,
