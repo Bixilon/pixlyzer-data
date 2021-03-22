@@ -6303,7 +6303,7 @@
       713
     ],
     "attack_damage": 8.0,
-    "stripables_blocks": [
+    "strippables_blocks": [
       45,
       40,
       41,
@@ -6679,7 +6679,7 @@
       713
     ],
     "attack_damage": 6.0,
-    "stripables_blocks": [
+    "strippables_blocks": [
       45,
       40,
       41,
@@ -6942,7 +6942,7 @@
       713
     ],
     "attack_damage": 8.0,
-    "stripables_blocks": [
+    "strippables_blocks": [
       45,
       40,
       41,
@@ -7205,7 +7205,7 @@
       713
     ],
     "attack_damage": 8.0,
-    "stripables_blocks": [
+    "strippables_blocks": [
       45,
       40,
       41,
@@ -7505,7 +7505,7 @@
       713
     ],
     "attack_damage": 6.0,
-    "stripables_blocks": [
+    "strippables_blocks": [
       45,
       40,
       41,
@@ -11930,7 +11930,7 @@
       713
     ],
     "attack_damage": 9.0,
-    "stripables_blocks": [
+    "strippables_blocks": [
       45,
       40,
       41,
