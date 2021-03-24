@@ -1,0 +1,71 @@
+{
+  "minecraft:generic_9x1": {
+    "id": 0
+  },
+  "minecraft:generic_9x2": {
+    "id": 1
+  },
+  "minecraft:generic_9x3": {
+    "id": 2
+  },
+  "minecraft:generic_9x4": {
+    "id": 3
+  },
+  "minecraft:generic_9x5": {
+    "id": 4
+  },
+  "minecraft:generic_9x6": {
+    "id": 5
+  },
+  "minecraft:generic_3x3": {
+    "id": 6
+  },
+  "minecraft:anvil": {
+    "id": 7
+  },
+  "minecraft:beacon": {
+    "id": 8
+  },
+  "minecraft:blast_furnace": {
+    "id": 9
+  },
+  "minecraft:brewing_stand": {
+    "id": 10
+  },
+  "minecraft:crafting": {
+    "id": 11
+  },
+  "minecraft:enchantment": {
+    "id": 12
+  },
+  "minecraft:furnace": {
+    "id": 13
+  },
+  "minecraft:grindstone": {
+    "id": 14
+  },
+  "minecraft:hopper": {
+    "id": 15
+  },
+  "minecraft:lectern": {
+    "id": 16
+  },
+  "minecraft:loom": {
+    "id": 17
+  },
+  "minecraft:merchant": {
+    "id": 18
+  },
+  "minecraft:shulker_box": {
+    "id": 19
+  },
+  "minecraft:smoker": {
+    "id": 20
+  },
+  "minecraft:cartography": {
+    "id": 21
+  },
+  "minecraft:stonecutter": {
+    "id": 22
+  }
+}

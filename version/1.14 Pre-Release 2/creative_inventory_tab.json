@@ -1,0 +1,86 @@
+{
+  "buildingBlocks": {
+    "language_id": "buildingBlocks",
+    "recipe_folder_name": "building_blocks",
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true
+  },
+  "decorations": {
+    "language_id": "decorations",
+    "recipe_folder_name": "decorations",
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true
+  },
+  "redstone": {
+    "language_id": "redstone",
+    "recipe_folder_name": "redstone",
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true
+  },
+  "transportation": {
+    "language_id": "transportation",
+    "recipe_folder_name": "transportation",
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true
+  },
+  "hotbar": {
+    "language_id": "hotbar",
+    "recipe_folder_name": "hotbar",
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true
+  },
+  "search": {
+    "language_id": "search",
+    "recipe_folder_name": "search",
+    "background_suffix": "item_search.png",
+    "can_scroll": true,
+    "show_title": true
+  },
+  "misc": {
+    "language_id": "misc",
+    "recipe_folder_name": "misc",
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true
+  },
+  "food": {
+    "language_id": "food",
+    "recipe_folder_name": "food",
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true
+  },
+  "tools": {
+    "language_id": "tools",
+    "recipe_folder_name": "tools",
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true
+  },
+  "combat": {
+    "language_id": "combat",
+    "recipe_folder_name": "combat",
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true
+  },
+  "brewing": {
+    "language_id": "brewing",
+    "recipe_folder_name": "brewing",
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true
+  },
+  "inventory": {
+    "language_id": "inventory",
+    "recipe_folder_name": "inventory",
+    "background_suffix": "inventory.png",
+    "can_scroll": false,
+    "show_title": false
+  }
+}

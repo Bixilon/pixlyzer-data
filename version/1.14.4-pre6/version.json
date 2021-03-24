@@ -1,0 +1,10 @@
+{
+  "id": "1.14.4-pre6",
+  "name": "1.14.4 Pre-Release 6",
+  "stable": false,
+  "world_version": 1974,
+  "protocol_version": 496,
+  "pack_version": 4,
+  "build_time": "Mon Jul 15 14:38:15 CEST 2019",
+  "release_target": "1.14.4"
+}
