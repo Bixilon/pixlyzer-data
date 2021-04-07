@@ -81,6 +81,7 @@
     "precipitation": 1,
     "temperature": 0.8,
     "downfall": 0.9,
+    "foliage_color_override": 6975545,
     "sky_color": 7907327
   },
   "minecraft:river": {
@@ -453,6 +454,7 @@
     "precipitation": 0,
     "temperature": 2.0,
     "downfall": 0.0,
+    "foliage_color_override": 10387789,
     "sky_color": 7254527
   },
   "minecraft:wooded_badlands_plateau": {
@@ -465,6 +467,7 @@
     "precipitation": 0,
     "temperature": 2.0,
     "downfall": 0.0,
+    "foliage_color_override": 10387789,
     "sky_color": 7254527
   },
   "minecraft:badlands_plateau": {
@@ -477,6 +480,7 @@
     "precipitation": 0,
     "temperature": 2.0,
     "downfall": 0.0,
+    "foliage_color_override": 10387789,
     "sky_color": 7254527
   },
   "minecraft:small_end_islands": {
@@ -693,6 +697,7 @@
     "precipitation": 1,
     "temperature": 0.8,
     "downfall": 0.9,
+    "foliage_color_override": 6975545,
     "sky_color": 7907327
   },
   "minecraft:ice_spikes": {
@@ -849,6 +854,7 @@
     "precipitation": 0,
     "temperature": 2.0,
     "downfall": 0.0,
+    "foliage_color_override": 10387789,
     "sky_color": 7254527
   },
   "minecraft:modified_wooded_badlands_plateau": {
@@ -861,6 +867,7 @@
     "precipitation": 0,
     "temperature": 2.0,
     "downfall": 0.0,
+    "foliage_color_override": 10387789,
     "sky_color": 7254527
   },
   "minecraft:modified_badlands_plateau": {
@@ -873,6 +880,7 @@
     "precipitation": 0,
     "temperature": 2.0,
     "downfall": 0.0,
+    "foliage_color_override": 10387789,
     "sky_color": 7254527
   },
   "minecraft:bamboo_jungle": {

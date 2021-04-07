@@ -3,29 +3,26 @@
     "file_suffix": "",
     "has_sky_light": true,
     "has_ceiling": false,
-    "ultra_warm": false,
     "natural": true,
-    "create_dragon_fight": false,
-    "ambient_light": 0.0
+    "ambient_light": 0.0,
+    "supports_3d_biomes": false
   },
   "minecraft:the_nether": {
     "file_suffix": "_nether",
     "fixed_time": 18000,
     "has_sky_light": false,
     "has_ceiling": true,
-    "ultra_warm": true,
     "natural": false,
-    "create_dragon_fight": false,
-    "ambient_light": 0.1
+    "ambient_light": 0.1,
+    "supports_3d_biomes": true
   },
   "minecraft:the_end": {
     "file_suffix": "_end",
     "fixed_time": 6000,
     "has_sky_light": false,
     "has_ceiling": false,
-    "ultra_warm": false,
     "natural": false,
-    "create_dragon_fight": true,
-    "ambient_light": 0.0
+    "ambient_light": 0.0,
+    "supports_3d_biomes": true
   }
 }

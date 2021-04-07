@@ -1,14 +1,14 @@
 {
   "minecraft:unemployed": {
     "id": 0,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": []
   },
   "minecraft:armorer": {
     "id": 1,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       15105,
       15106,
@@ -22,8 +22,8 @@
   },
   "minecraft:butcher": {
     "id": 2,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       15097,
       15098,
@@ -37,16 +37,16 @@
   },
   "minecraft:cartographer": {
     "id": 3,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       15113
     ]
   },
   "minecraft:cleric": {
     "id": 4,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       5411,
       5412,
@@ -60,8 +60,8 @@
   },
   "minecraft:farmer": {
     "id": 5,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       16129,
       16130,
@@ -76,8 +76,8 @@
   },
   "minecraft:fisherman": {
     "id": 6,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       15085,
       15086,
@@ -95,24 +95,24 @@
   },
   "minecraft:fletcher": {
     "id": 7,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       15114
     ]
   },
   "minecraft:leatherworker": {
     "id": 8,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       5419
     ]
   },
   "minecraft:librarian": {
     "id": 9,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       15127,
       15128,
@@ -134,8 +134,8 @@
   },
   "minecraft:mason": {
     "id": 10,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       15144,
       15145,
@@ -145,14 +145,14 @@
   },
   "minecraft:nitwit": {
     "id": 11,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": []
   },
   "minecraft:shepherd": {
     "id": 12,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       15081,
       15082,
@@ -162,16 +162,16 @@
   },
   "minecraft:toolsmith": {
     "id": 13,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       15143
     ]
   },
   "minecraft:weaponsmith": {
     "id": 14,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       15115,
       15116,
@@ -189,8 +189,8 @@
   },
   "minecraft:home": {
     "id": 15,
-    "max_tickets": 1,
-    "valid_range": 1,
+    "ticket_count": 1,
+    "search_distance": 1,
     "matching_states": [
       1273,
       1275,
@@ -324,8 +324,8 @@
   },
   "minecraft:meeting": {
     "id": 16,
-    "max_tickets": 32,
-    "valid_range": 6,
+    "ticket_count": 32,
+    "search_distance": 6,
     "matching_states": [
       15148,
       15149,
@@ -363,8 +363,8 @@
   },
   "minecraft:beehive": {
     "id": 17,
-    "max_tickets": 0,
-    "valid_range": 1,
+    "ticket_count": 0,
+    "search_distance": 1,
     "matching_states": [
       16178,
       16179,
@@ -394,8 +394,8 @@
   },
   "minecraft:bee_nest": {
     "id": 18,
-    "max_tickets": 0,
-    "valid_range": 1,
+    "ticket_count": 0,
+    "search_distance": 1,
     "matching_states": [
       16154,
       16155,
@@ -425,8 +425,8 @@
   },
   "minecraft:nether_portal": {
     "id": 19,
-    "max_tickets": 0,
-    "valid_range": 1,
+    "ticket_count": 0,
+    "search_distance": 1,
     "matching_states": [
       4288,
       4289
@@ -434,16 +434,16 @@
   },
   "minecraft:lodestone": {
     "id": 20,
-    "max_tickets": 0,
-    "valid_range": 1,
+    "ticket_count": 0,
+    "search_distance": 1,
     "matching_states": [
       16216
     ]
   },
   "minecraft:lightning_rod": {
     "id": 21,
-    "max_tickets": 0,
-    "valid_range": 1,
+    "ticket_count": 0,
+    "search_distance": 1,
     "matching_states": [
       18603,
       18604,

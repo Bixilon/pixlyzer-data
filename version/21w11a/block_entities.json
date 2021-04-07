@@ -1,49 +1,49 @@
 {
   "minecraft:furnace": {
     "id": 0,
-    "valid_blocks": [
+    "blocks": [
       161
     ]
   },
   "minecraft:chest": {
     "id": 1,
-    "valid_blocks": [
+    "blocks": [
       153
     ]
   },
   "minecraft:trapped_chest": {
     "id": 2,
-    "valid_blocks": [
+    "blocks": [
       342
     ]
   },
   "minecraft:ender_chest": {
     "id": 3,
-    "valid_blocks": [
+    "blocks": [
       283
     ]
   },
   "minecraft:jukebox": {
     "id": 4,
-    "valid_blocks": [
+    "blocks": [
       198
     ]
   },
   "minecraft:dispenser": {
     "id": 5,
-    "valid_blocks": [
+    "blocks": [
       76
     ]
   },
   "minecraft:dropper": {
     "id": 6,
-    "valid_blocks": [
+    "blocks": [
       355
     ]
   },
   "minecraft:sign": {
     "id": 7,
-    "valid_blocks": [
+    "blocks": [
       162,
       163,
       164,
@@ -64,43 +64,43 @@
   },
   "minecraft:mob_spawner": {
     "id": 8,
-    "valid_blocks": [
+    "blocks": [
       151
     ]
   },
   "minecraft:piston": {
     "id": 9,
-    "valid_blocks": [
+    "blocks": [
       124
     ]
   },
   "minecraft:brewing_stand": {
     "id": 10,
-    "valid_blocks": [
+    "blocks": [
       269
     ]
   },
   "minecraft:enchanting_table": {
     "id": 11,
-    "valid_blocks": [
+    "blocks": [
       268
     ]
   },
   "minecraft:end_portal": {
     "id": 12,
-    "valid_blocks": [
+    "blocks": [
       274
     ]
   },
   "minecraft:beacon": {
     "id": 13,
-    "valid_blocks": [
+    "blocks": [
       291
     ]
   },
   "minecraft:skull": {
     "id": 14,
-    "valid_blocks": [
+    "blocks": [
       327,
       328,
       335,
@@ -117,25 +117,25 @@
   },
   "minecraft:daylight_detector": {
     "id": 15,
-    "valid_blocks": [
+    "blocks": [
       346
     ]
   },
   "minecraft:hopper": {
     "id": 16,
-    "valid_blocks": [
+    "blocks": [
       349
     ]
   },
   "minecraft:comparator": {
     "id": 17,
-    "valid_blocks": [
+    "blocks": [
       345
     ]
   },
   "minecraft:banner": {
     "id": 18,
-    "valid_blocks": [
+    "blocks": [
       429,
       430,
       431,
@@ -172,19 +172,19 @@
   },
   "minecraft:structure_block": {
     "id": 19,
-    "valid_blocks": [
+    "blocks": [
       739
     ]
   },
   "minecraft:end_gateway": {
     "id": 20,
-    "valid_blocks": [
+    "blocks": [
       512
     ]
   },
   "minecraft:command_block": {
     "id": 21,
-    "valid_blocks": [
+    "blocks": [
       290,
       514,
       513
@@ -192,7 +192,7 @@
   },
   "minecraft:shulker_box": {
     "id": 22,
-    "valid_blocks": [
+    "blocks": [
       522,
       538,
       534,
@@ -214,7 +214,7 @@
   },
   "minecraft:bed": {
     "id": 23,
-    "valid_blocks": [
+    "blocks": [
       95,
       96,
       92,
@@ -235,63 +235,63 @@
   },
   "minecraft:conduit": {
     "id": 24,
-    "valid_blocks": [
+    "blocks": [
       633
     ]
   },
   "minecraft:barrel": {
     "id": 25,
-    "valid_blocks": [
+    "blocks": [
       681
     ]
   },
   "minecraft:smoker": {
     "id": 26,
-    "valid_blocks": [
+    "blocks": [
       682
     ]
   },
   "minecraft:blast_furnace": {
     "id": 27,
-    "valid_blocks": [
+    "blocks": [
       683
     ]
   },
   "minecraft:lectern": {
     "id": 28,
-    "valid_blocks": [
+    "blocks": [
       687
     ]
   },
   "minecraft:bell": {
     "id": 29,
-    "valid_blocks": [
+    "blocks": [
       690
     ]
   },
   "minecraft:jigsaw": {
     "id": 30,
-    "valid_blocks": [
+    "blocks": [
       740
     ]
   },
   "minecraft:campfire": {
     "id": 31,
-    "valid_blocks": [
+    "blocks": [
       693,
       694
     ]
   },
   "minecraft:beehive": {
     "id": 32,
-    "valid_blocks": [
+    "blocks": [
       743,
       744
     ]
   },
   "minecraft:sculk_sensor": {
     "id": 33,
-    "valid_blocks": [
+    "blocks": [
       820
     ]
   }

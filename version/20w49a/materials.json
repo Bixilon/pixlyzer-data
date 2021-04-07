@@ -9,7 +9,7 @@
     "replaceable": true,
     "solid": false
   },
-  "minecraft:structural_air": {
+  "minecraft:structure_void": {
     "color": 0,
     "push_reaction": "normal",
     "blocks_motion": false,
@@ -29,7 +29,7 @@
     "replaceable": false,
     "solid": false
   },
-  "minecraft:cloth_decoration": {
+  "minecraft:carpet": {
     "color": 13092807,
     "push_reaction": "normal",
     "blocks_motion": false,
@@ -49,7 +49,7 @@
     "replaceable": false,
     "solid": false
   },
-  "minecraft:water_plant": {
+  "minecraft:underwater_plant": {
     "color": 4210943,
     "push_reaction": "destroy",
     "blocks_motion": false,
@@ -69,7 +69,7 @@
     "replaceable": true,
     "solid": false
   },
-  "minecraft:replaceable_fireproof_plant": {
+  "minecraft:nether_shoots": {
     "color": 31744,
     "push_reaction": "destroy",
     "blocks_motion": false,
@@ -79,7 +79,7 @@
     "replaceable": true,
     "solid": false
   },
-  "minecraft:replaceable_water_plant": {
+  "minecraft:replaceable_underwater_plant": {
     "color": 4210943,
     "push_reaction": "destroy",
     "blocks_motion": false,
@@ -119,7 +119,7 @@
     "replaceable": true,
     "solid": false
   },
-  "minecraft:top_snow": {
+  "minecraft:snow_layer": {
     "color": 16777215,
     "push_reaction": "destroy",
     "blocks_motion": false,
@@ -139,7 +139,7 @@
     "replaceable": true,
     "solid": false
   },
-  "minecraft:decoration": {
+  "minecraft:supported": {
     "color": 0,
     "push_reaction": "destroy",
     "blocks_motion": false,
@@ -149,7 +149,7 @@
     "replaceable": false,
     "solid": false
   },
-  "minecraft:web": {
+  "minecraft:cobweb": {
     "color": 13092807,
     "push_reaction": "destroy",
     "blocks_motion": false,
@@ -169,7 +169,7 @@
     "replaceable": false,
     "solid": true
   },
-  "minecraft:buildable_glass": {
+  "minecraft:redstone_lamp": {
     "color": 0,
     "push_reaction": "normal",
     "blocks_motion": true,
@@ -179,7 +179,7 @@
     "replaceable": false,
     "solid": true
   },
-  "minecraft:clay": {
+  "minecraft:organic_product": {
     "color": 10791096,
     "push_reaction": "normal",
     "blocks_motion": true,
@@ -189,7 +189,7 @@
     "replaceable": false,
     "solid": true
   },
-  "minecraft:dirt": {
+  "minecraft:soil": {
     "color": 9923917,
     "push_reaction": "normal",
     "blocks_motion": true,
@@ -199,7 +199,7 @@
     "replaceable": false,
     "solid": true
   },
-  "minecraft:grass": {
+  "minecraft:solid_organic": {
     "color": 8368696,
     "push_reaction": "normal",
     "blocks_motion": true,
@@ -209,7 +209,7 @@
     "replaceable": false,
     "solid": true
   },
-  "minecraft:ice_solid": {
+  "minecraft:dense_ice": {
     "color": 10526975,
     "push_reaction": "normal",
     "blocks_motion": true,
@@ -219,7 +219,7 @@
     "replaceable": false,
     "solid": true
   },
-  "minecraft:sand": {
+  "minecraft:aggregate": {
     "color": 16247203,
     "push_reaction": "normal",
     "blocks_motion": true,
@@ -239,7 +239,7 @@
     "replaceable": false,
     "solid": true
   },
-  "minecraft:shulker_shell": {
+  "minecraft:shulker_box": {
     "color": 8339378,
     "push_reaction": "normal",
     "blocks_motion": true,
@@ -299,7 +299,7 @@
     "replaceable": false,
     "solid": true
   },
-  "minecraft:explosive": {
+  "minecraft:tnt": {
     "color": 16711680,
     "push_reaction": "normal",
     "blocks_motion": true,
@@ -369,7 +369,7 @@
     "replaceable": false,
     "solid": true
   },
-  "minecraft:snow": {
+  "minecraft:snow_block": {
     "color": 16777215,
     "push_reaction": "normal",
     "blocks_motion": true,
@@ -379,7 +379,7 @@
     "replaceable": false,
     "solid": true
   },
-  "minecraft:heavy_metal": {
+  "minecraft:repair_station": {
     "color": 10987431,
     "push_reaction": "block",
     "blocks_motion": true,
@@ -409,7 +409,7 @@
     "replaceable": false,
     "solid": true
   },
-  "minecraft:coral": {
+  "minecraft:unused_plant": {
     "color": 31744,
     "push_reaction": "destroy",
     "blocks_motion": true,
@@ -419,7 +419,7 @@
     "replaceable": false,
     "solid": true
   },
-  "minecraft:vegetable": {
+  "minecraft:gourd": {
     "color": 31744,
     "push_reaction": "destroy",
     "blocks_motion": true,
