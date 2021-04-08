@@ -739,7 +739,7 @@
     },
     "class": "HoglinEntity",
     "meta": {
-      "HOGLIN_IS_BABY": 16
+      "AGEABLE_IS_BABY": 16
     },
     "parent": "AnimalEntity"
   },
