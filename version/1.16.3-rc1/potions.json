@@ -1,27 +1,21 @@
 {
   "minecraft:empty": {
-    "id": 0,
-    "name": "empty"
+    "id": 0
   },
   "minecraft:water": {
-    "id": 1,
-    "name": "water"
+    "id": 1
   },
   "minecraft:mundane": {
-    "id": 2,
-    "name": "mundane"
+    "id": 2
   },
   "minecraft:thick": {
-    "id": 3,
-    "name": "thick"
+    "id": 3
   },
   "minecraft:awkward": {
-    "id": 4,
-    "name": "awkward"
+    "id": 4
   },
   "minecraft:night_vision": {
     "id": 5,
-    "name": "night_vision",
     "effects": [
       {
         "effect": "minecraft:night_vision",
@@ -51,7 +45,6 @@
   },
   "minecraft:invisibility": {
     "id": 7,
-    "name": "invisibility",
     "effects": [
       {
         "effect": "minecraft:invisibility",
@@ -81,7 +74,6 @@
   },
   "minecraft:leaping": {
     "id": 9,
-    "name": "leaping",
     "effects": [
       {
         "effect": "minecraft:jump_boost",
@@ -126,7 +118,6 @@
   },
   "minecraft:fire_resistance": {
     "id": 12,
-    "name": "fire_resistance",
     "effects": [
       {
         "effect": "minecraft:fire_resistance",
@@ -156,7 +147,6 @@
   },
   "minecraft:swiftness": {
     "id": 14,
-    "name": "swiftness",
     "effects": [
       {
         "effect": "minecraft:speed",
@@ -201,7 +191,6 @@
   },
   "minecraft:slowness": {
     "id": 17,
-    "name": "slowness",
     "effects": [
       {
         "effect": "minecraft:slowness",
@@ -318,7 +307,6 @@
   },
   "minecraft:water_breathing": {
     "id": 23,
-    "name": "water_breathing",
     "effects": [
       {
         "effect": "minecraft:water_breathing",
@@ -348,7 +336,6 @@
   },
   "minecraft:healing": {
     "id": 25,
-    "name": "healing",
     "effects": [
       {
         "effect": "minecraft:instant_health",
@@ -378,7 +365,6 @@
   },
   "minecraft:harming": {
     "id": 27,
-    "name": "harming",
     "effects": [
       {
         "effect": "minecraft:instant_damage",
@@ -408,7 +394,6 @@
   },
   "minecraft:poison": {
     "id": 29,
-    "name": "poison",
     "effects": [
       {
         "effect": "minecraft:poison",
@@ -453,7 +438,6 @@
   },
   "minecraft:regeneration": {
     "id": 32,
-    "name": "regeneration",
     "effects": [
       {
         "effect": "minecraft:regeneration",
@@ -498,7 +482,6 @@
   },
   "minecraft:strength": {
     "id": 35,
-    "name": "strength",
     "effects": [
       {
         "effect": "minecraft:strength",
@@ -543,7 +526,6 @@
   },
   "minecraft:weakness": {
     "id": 38,
-    "name": "weakness",
     "effects": [
       {
         "effect": "minecraft:weakness",
@@ -588,7 +570,6 @@
   },
   "minecraft:slow_falling": {
     "id": 41,
-    "name": "slow_falling",
     "effects": [
       {
         "effect": "minecraft:slow_falling",
