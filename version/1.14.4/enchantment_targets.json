@@ -1,0 +1,44 @@
+{
+  "0": {
+    "name": "ALL"
+  },
+  "1": {
+    "name": "ARMOR"
+  },
+  "2": {
+    "name": "ARMOR_FEET"
+  },
+  "3": {
+    "name": "ARMOR_LEGS"
+  },
+  "4": {
+    "name": "ARMOR_CHEST"
+  },
+  "5": {
+    "name": "ARMOR_HEAD"
+  },
+  "6": {
+    "name": "WEAPON"
+  },
+  "7": {
+    "name": "DIGGER"
+  },
+  "8": {
+    "name": "FISHING_ROD"
+  },
+  "9": {
+    "name": "TRIDENT"
+  },
+  "10": {
+    "name": "BREAKABLE"
+  },
+  "11": {
+    "name": "BOW"
+  },
+  "12": {
+    "name": "WEARABLE"
+  },
+  "13": {
+    "name": "CROSSBOW"
+  }
+}

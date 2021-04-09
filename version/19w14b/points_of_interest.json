@@ -1,87 +1,70 @@
 {
   "minecraft:unemployed": {
     "id": 0,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:armorer": {
     "id": 1,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:butcher": {
     "id": 2,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:cartographer": {
     "id": 3,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:cleric": {
     "id": 4,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:farmer": {
     "id": 5,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:fisherman": {
     "id": 6,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:fletcher": {
     "id": 7,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:leatherworker": {
     "id": 8,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:librarian": {
     "id": 9,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:mason": {
     "id": 10,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:nitwit": {
     "id": 11,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:shepherd": {
     "id": 12,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:toolsmith": {
     "id": 13,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:weaponsmith": {
     "id": 14,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:home": {
     "id": 15,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:meeting": {
     "id": 16,
-    "max_tickets": 32,
     "matching_states": []
   }
 }

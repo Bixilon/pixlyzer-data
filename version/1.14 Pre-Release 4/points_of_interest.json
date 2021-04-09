@@ -1,12 +1,10 @@
 {
   "minecraft:unemployed": {
     "id": 0,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:armorer": {
     "id": 1,
-    "max_tickets": 1,
     "matching_states": [
       11155,
       11156,
@@ -20,7 +18,6 @@
   },
   "minecraft:butcher": {
     "id": 2,
-    "max_tickets": 1,
     "matching_states": [
       11147,
       11148,
@@ -34,14 +31,12 @@
   },
   "minecraft:cartographer": {
     "id": 3,
-    "max_tickets": 1,
     "matching_states": [
       11163
     ]
   },
   "minecraft:cleric": {
     "id": 4,
-    "max_tickets": 1,
     "matching_states": [
       5117,
       5118,
@@ -55,7 +50,6 @@
   },
   "minecraft:farmer": {
     "id": 5,
-    "max_tickets": 1,
     "matching_states": [
       11262,
       11263,
@@ -70,7 +64,6 @@
   },
   "minecraft:fisherman": {
     "id": 6,
-    "max_tickets": 1,
     "matching_states": [
       11135,
       11136,
@@ -88,14 +81,12 @@
   },
   "minecraft:fletcher": {
     "id": 7,
-    "max_tickets": 1,
     "matching_states": [
       11164
     ]
   },
   "minecraft:leatherworker": {
     "id": 8,
-    "max_tickets": 1,
     "matching_states": [
       5125,
       5126,
@@ -105,7 +96,6 @@
   },
   "minecraft:librarian": {
     "id": 9,
-    "max_tickets": 1,
     "matching_states": [
       11177,
       11178,
@@ -127,7 +117,6 @@
   },
   "minecraft:mason": {
     "id": 10,
-    "max_tickets": 1,
     "matching_states": [
       11194,
       11195,
@@ -137,12 +126,10 @@
   },
   "minecraft:nitwit": {
     "id": 11,
-    "max_tickets": 1,
     "matching_states": []
   },
   "minecraft:shepherd": {
     "id": 12,
-    "max_tickets": 1,
     "matching_states": [
       11131,
       11132,
@@ -152,14 +139,12 @@
   },
   "minecraft:toolsmith": {
     "id": 13,
-    "max_tickets": 1,
     "matching_states": [
       11193
     ]
   },
   "minecraft:weaponsmith": {
     "id": 14,
-    "max_tickets": 1,
     "matching_states": [
       11165,
       11166,
@@ -177,7 +162,6 @@
   },
   "minecraft:home": {
     "id": 15,
-    "max_tickets": 1,
     "matching_states": [
       1272,
       1274,
@@ -311,7 +295,6 @@
   },
   "minecraft:meeting": {
     "id": 16,
-    "max_tickets": 32,
     "matching_states": [
       11198,
       11199,

@@ -1,21 +1,31 @@
 {
-  "minecraft:empty": {
-    "bucket": 0
-  },
+  "minecraft:empty": {},
   "minecraft:flowing_water": {
     "bucket": 715,
-    "drip_particle_type": 13
+    "drip_particle_type": 13,
+    "render": {
+      "texture": "block/water_flow"
+    }
   },
   "minecraft:water": {
     "bucket": 715,
-    "drip_particle_type": 13
+    "drip_particle_type": 13,
+    "render": {
+      "texture": "block/water_still"
+    }
   },
   "minecraft:flowing_lava": {
     "bucket": 716,
-    "drip_particle_type": 10
+    "drip_particle_type": 10,
+    "render": {
+      "texture": "block/lava_flow"
+    }
   },
   "minecraft:lava": {
     "bucket": 716,
-    "drip_particle_type": 10
+    "drip_particle_type": 10,
+    "render": {
+      "texture": "block/lava_still"
+    }
   }
 }

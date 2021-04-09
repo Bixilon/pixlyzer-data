@@ -2178,6 +2178,16 @@
     "width": 0.9,
     "height": 3.5,
     "size_fixed": false,
+    "attributes": {
+      "minecraft:generic.max_health": 300.0,
+      "minecraft:generic.follow_range": 40.0,
+      "minecraft:generic.knockback_resistance": 0.0,
+      "minecraft:generic.movement_speed": 0.6000000238418579,
+      "minecraft:generic.attack_damage": 2.0,
+      "minecraft:generic.attack_knockback": 0.0,
+      "minecraft:generic.armor": 4.0,
+      "minecraft:generic.armor_toughness": 0.0
+    },
     "class": "WitherEntity",
     "meta": {
       "WITHER_BOSS_CENTER_HEAD_TARGET_ENTITY_ID": 16,

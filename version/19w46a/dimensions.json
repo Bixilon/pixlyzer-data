@@ -2,16 +2,19 @@
   "minecraft:the_nether": {
     "id": -1,
     "file_suffix": "_nether",
-    "has_sky_light": false
+    "has_sky_light": false,
+    "supports_3d_biomes": true
   },
   "minecraft:overworld": {
     "id": 0,
     "file_suffix": "",
-    "has_sky_light": true
+    "has_sky_light": true,
+    "supports_3d_biomes": false
   },
   "minecraft:the_end": {
     "id": 1,
     "file_suffix": "_end",
-    "has_sky_light": false
+    "has_sky_light": false,
+    "supports_3d_biomes": true
   }
 }
