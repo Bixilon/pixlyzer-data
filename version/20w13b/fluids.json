@@ -1,6 +1,9 @@
 {
-  "minecraft:empty": {},
+  "minecraft:empty": {
+    "id": 0
+  },
   "minecraft:flowing_water": {
+    "id": 1,
     "bucket": 650,
     "drip_particle_type": 12,
     "render": {
@@ -8,6 +11,7 @@
     }
   },
   "minecraft:water": {
+    "id": 2,
     "bucket": 650,
     "drip_particle_type": 12,
     "render": {
@@ -15,6 +19,7 @@
     }
   },
   "minecraft:flowing_lava": {
+    "id": 3,
     "bucket": 651,
     "drip_particle_type": 9,
     "render": {
@@ -22,6 +27,7 @@
     }
   },
   "minecraft:lava": {
+    "id": 4,
     "bucket": 651,
     "drip_particle_type": 9,
     "render": {
