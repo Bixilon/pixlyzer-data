@@ -1,0 +1,116 @@
+{
+  "0": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "is_right_aligned": false,
+    "is_top_row": true,
+    "column": 0,
+    "icon": 45
+  },
+  "1": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "is_right_aligned": false,
+    "is_top_row": true,
+    "column": 1,
+    "icon": 175
+  },
+  "2": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "is_right_aligned": false,
+    "is_top_row": true,
+    "column": 2,
+    "icon": 331
+  },
+  "3": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "is_right_aligned": false,
+    "is_top_row": true,
+    "column": 3,
+    "icon": 27
+  },
+  "4": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "is_right_aligned": true,
+    "is_top_row": true,
+    "column": 4,
+    "icon": 47
+  },
+  "5": {
+    "background_suffix": "item_search.png",
+    "can_scroll": true,
+    "is_right_aligned": true,
+    "is_top_row": true,
+    "column": 5,
+    "icon": 345
+  },
+  "6": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "is_right_aligned": false,
+    "is_top_row": false,
+    "column": 0,
+    "icon": 327
+  },
+  "7": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "is_right_aligned": false,
+    "is_top_row": false,
+    "column": 1,
+    "icon": 260
+  },
+  "8": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "is_right_aligned": false,
+    "is_top_row": false,
+    "column": 2,
+    "icon": 258,
+    "enchantment_categories": [
+      0,
+      7,
+      8,
+      9
+    ]
+  },
+  "9": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "is_right_aligned": false,
+    "is_top_row": false,
+    "column": 3,
+    "icon": 283,
+    "enchantment_categories": [
+      0,
+      1,
+      2,
+      5,
+      3,
+      4,
+      10,
+      6,
+      11,
+      9
+    ]
+  },
+  "10": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "is_right_aligned": false,
+    "is_top_row": false,
+    "column": 4,
+    "icon": 373
+  },
+  "11": {
+    "background_suffix": "inventory.png",
+    "can_scroll": false,
+    "is_right_aligned": true,
+    "is_top_row": false,
+    "column": 5,
+    "icon": 54
+  }
+}

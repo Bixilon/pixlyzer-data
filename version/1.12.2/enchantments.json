@@ -1,0 +1,363 @@
+{
+  "minecraft:protection": {
+    "id": 0,
+    "rarity": 0,
+    "category": "armor",
+    "slots": [
+      "head",
+      "chest",
+      "legs",
+      "feet"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 4
+  },
+  "minecraft:fire_protection": {
+    "id": 1,
+    "rarity": 1,
+    "category": "armor",
+    "slots": [
+      "head",
+      "chest",
+      "legs",
+      "feet"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 4
+  },
+  "minecraft:feather_falling": {
+    "id": 2,
+    "rarity": 1,
+    "category": "armor_feet",
+    "slots": [
+      "head",
+      "chest",
+      "legs",
+      "feet"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 4
+  },
+  "minecraft:blast_protection": {
+    "id": 3,
+    "rarity": 2,
+    "category": "armor",
+    "slots": [
+      "head",
+      "chest",
+      "legs",
+      "feet"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 4
+  },
+  "minecraft:projectile_protection": {
+    "id": 4,
+    "rarity": 1,
+    "category": "armor",
+    "slots": [
+      "head",
+      "chest",
+      "legs",
+      "feet"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 4
+  },
+  "minecraft:respiration": {
+    "id": 5,
+    "translation_key": "oxygen",
+    "rarity": 2,
+    "category": "armor_head",
+    "slots": [
+      "head",
+      "chest",
+      "legs",
+      "feet"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 3
+  },
+  "minecraft:aqua_affinity": {
+    "id": 6,
+    "translation_key": "waterWorker",
+    "rarity": 2,
+    "category": "armor_head",
+    "slots": [
+      "head",
+      "chest",
+      "legs",
+      "feet"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 1
+  },
+  "minecraft:thorns": {
+    "id": 7,
+    "translation_key": "thorns",
+    "rarity": 3,
+    "category": "armor_chest",
+    "slots": [
+      "head",
+      "chest",
+      "legs",
+      "feet"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 3
+  },
+  "minecraft:depth_strider": {
+    "id": 8,
+    "translation_key": "waterWalker",
+    "rarity": 2,
+    "category": "armor_feet",
+    "slots": [
+      "head",
+      "chest",
+      "legs",
+      "feet"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 3
+  },
+  "minecraft:frost_walker": {
+    "id": 9,
+    "translation_key": "frostWalker",
+    "rarity": 2,
+    "category": "armor_feet",
+    "slots": [
+      "feet"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 2
+  },
+  "minecraft:binding_curse": {
+    "id": 10,
+    "translation_key": "binding_curse",
+    "rarity": 3,
+    "category": "wearable",
+    "slots": [
+      "head",
+      "chest",
+      "legs",
+      "feet"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 1
+  },
+  "minecraft:sharpness": {
+    "id": 16,
+    "rarity": 0,
+    "category": "weapon",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 5
+  },
+  "minecraft:smite": {
+    "id": 17,
+    "rarity": 1,
+    "category": "weapon",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 5
+  },
+  "minecraft:bane_of_arthropods": {
+    "id": 18,
+    "rarity": 1,
+    "category": "weapon",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 5
+  },
+  "minecraft:knockback": {
+    "id": 19,
+    "translation_key": "knockback",
+    "rarity": 1,
+    "category": "weapon",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 2
+  },
+  "minecraft:fire_aspect": {
+    "id": 20,
+    "translation_key": "fire",
+    "rarity": 2,
+    "category": "weapon",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 2
+  },
+  "minecraft:looting": {
+    "id": 21,
+    "translation_key": "lootBonus",
+    "rarity": 2,
+    "category": "weapon",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 3
+  },
+  "minecraft:sweeping": {
+    "id": 22,
+    "rarity": 2,
+    "category": "weapon",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 3
+  },
+  "minecraft:efficiency": {
+    "id": 32,
+    "translation_key": "digging",
+    "rarity": 0,
+    "category": "digger",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 5
+  },
+  "minecraft:silk_touch": {
+    "id": 33,
+    "translation_key": "untouching",
+    "rarity": 3,
+    "category": "digger",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 1
+  },
+  "minecraft:unbreaking": {
+    "id": 34,
+    "translation_key": "durability",
+    "rarity": 1,
+    "category": "breakable",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 3
+  },
+  "minecraft:fortune": {
+    "id": 35,
+    "translation_key": "lootBonusDigger",
+    "rarity": 2,
+    "category": "digger",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 3
+  },
+  "minecraft:power": {
+    "id": 48,
+    "translation_key": "arrowDamage",
+    "rarity": 0,
+    "category": "bow",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 5
+  },
+  "minecraft:punch": {
+    "id": 49,
+    "translation_key": "arrowKnockback",
+    "rarity": 2,
+    "category": "bow",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 2
+  },
+  "minecraft:flame": {
+    "id": 50,
+    "translation_key": "arrowFire",
+    "rarity": 2,
+    "category": "bow",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 1
+  },
+  "minecraft:infinity": {
+    "id": 51,
+    "translation_key": "arrowInfinite",
+    "rarity": 3,
+    "category": "bow",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 1
+  },
+  "minecraft:luck_of_the_sea": {
+    "id": 61,
+    "translation_key": "lootBonusFishing",
+    "rarity": 2,
+    "category": "fishing_rod",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 3
+  },
+  "minecraft:lure": {
+    "id": 62,
+    "translation_key": "fishingSpeed",
+    "rarity": 2,
+    "category": "fishing_rod",
+    "slots": [
+      "mainhand"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 3
+  },
+  "minecraft:mending": {
+    "id": 70,
+    "translation_key": "mending",
+    "rarity": 2,
+    "category": "breakable",
+    "slots": [
+      "mainhand",
+      "offhand",
+      "feet",
+      "legs",
+      "chest",
+      "head"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 1
+  },
+  "minecraft:vanishing_curse": {
+    "id": 71,
+    "translation_key": "vanishing_curse",
+    "rarity": 3,
+    "category": "all",
+    "slots": [
+      "mainhand",
+      "offhand",
+      "feet",
+      "legs",
+      "chest",
+      "head"
+    ],
+    "minimum_level": 1,
+    "maximum_level": 1
+  }
+}

@@ -1,0 +1,931 @@
+{
+  "minecraft:lightning_bolt": {
+    "width": 0.6,
+    "height": 1.8,
+    "class": "EntityLightningBolt",
+    "parent": "WeatherEffectEntity"
+  },
+  "minecraft:player": {
+    "width": 0.6,
+    "height": 1.8,
+    "class": "PlayerEntity",
+    "parent": "LivingBaseEntity",
+    "meta": {
+      "PLAYER_ABSORPTION_HEARTS": 11,
+      "PLAYER_SCORE": 12,
+      "PLAYER_SKIN_PARTS_FLAGS": 13,
+      "PLAYER_SKIN_MAIN_HAND": 14,
+      "PLAYER_LEFT_SHOULDER_DATA": 15,
+      "PLAYER_RIGHT_SHOULDER_DATA": 16
+    }
+  },
+  "minecraft:item": {
+    "id": 1,
+    "width": 0.25,
+    "height": 0.25,
+    "class": "EntityItem",
+    "meta": {
+      "ITEM_ITEM": 6
+    },
+    "parent": "Entity"
+  },
+  "minecraft:experience_orb": {
+    "id": 2,
+    "width": 0.25,
+    "height": 0.25,
+    "class": "EntityXPOrb",
+    "original_resource_locations": "minecraft:xp_orb",
+    "parent": "Entity"
+  },
+  "minecraft:area_effect_cloud": {
+    "id": 3,
+    "width": 6.0,
+    "height": 0.5,
+    "class": "EntityAreaEffectCloud",
+    "meta": {
+      "AREA_EFFECT_CLOUD_RADIUS": 6,
+      "AREA_EFFECT_CLOUD_COLOR": 7,
+      "AREA_EFFECT_CLOUD_IGNORE_RADIUS": 8,
+      "LEGACY_AREA_EFFECT_CLOUD_PARTICLE_ID": 9,
+      "LEGACY_AREA_EFFECT_CLOUD_PARTICLE_PARAMETER_1": 10,
+      "LEGACY_AREA_EFFECT_CLOUD_PARTICLE_PARAMETER_2": 11
+    },
+    "parent": "Entity"
+  },
+  "minecraft:elder_guardian": {
+    "id": 4,
+    "width": 1.9975,
+    "height": 1.9975,
+    "class": "EntityElderGuardian",
+    "parent": "GuardianEntity"
+  },
+  "minecraft:wither_skeleton": {
+    "id": 5,
+    "width": 0.7,
+    "height": 2.4,
+    "class": "EntityWitherSkeleton",
+    "parent": "AbstractSkeletonEntity"
+  },
+  "minecraft:stray": {
+    "id": 6,
+    "width": 0.6,
+    "height": 1.99,
+    "class": "EntityStray",
+    "parent": "AbstractSkeletonEntity"
+  },
+  "minecraft:egg": {
+    "id": 7,
+    "width": 0.25,
+    "height": 0.25,
+    "class": "EntityEgg",
+    "parent": "ThrowableEntity"
+  },
+  "minecraft:leash_knot": {
+    "id": 8,
+    "width": 0.5,
+    "height": 0.5,
+    "class": "EntityLeashKnot",
+    "parent": "HangingEntity"
+  },
+  "minecraft:painting": {
+    "id": 9,
+    "width": 0.5,
+    "height": 0.5,
+    "class": "EntityPainting",
+    "parent": "HangingEntity"
+  },
+  "minecraft:arrow": {
+    "id": 10,
+    "width": 0.5,
+    "height": 0.5,
+    "class": "EntityTippedArrow",
+    "meta": {
+      "ARROW_EFFECT_COLOR": 7
+    },
+    "parent": "ArrowEntity"
+  },
+  "minecraft:snowball": {
+    "id": 11,
+    "width": 0.25,
+    "height": 0.25,
+    "class": "EntitySnowball",
+    "parent": "ThrowableEntity"
+  },
+  "minecraft:fireball": {
+    "id": 12,
+    "width": 1.0,
+    "height": 1.0,
+    "class": "EntityLargeFireball",
+    "parent": "FireballEntity"
+  },
+  "minecraft:small_fireball": {
+    "id": 13,
+    "width": 0.3125,
+    "height": 0.3125,
+    "class": "EntitySmallFireball",
+    "parent": "FireballEntity"
+  },
+  "minecraft:ender_pearl": {
+    "id": 14,
+    "width": 0.25,
+    "height": 0.25,
+    "class": "EntityEnderPearl",
+    "parent": "ThrowableEntity"
+  },
+  "minecraft:eye_of_ender": {
+    "id": 15,
+    "width": 0.25,
+    "height": 0.25,
+    "class": "EntityEnderEye",
+    "original_resource_locations": "minecraft:eye_of_ender_signal",
+    "parent": "Entity"
+  },
+  "minecraft:potion": {
+    "id": 16,
+    "width": 0.25,
+    "height": 0.25,
+    "class": "EntityPotion",
+    "meta": {
+      "THROWN_POTION_ITEM": 6
+    },
+    "parent": "ThrowableEntity"
+  },
+  "minecraft:experience_bottle": {
+    "id": 17,
+    "width": 0.25,
+    "height": 0.25,
+    "class": "EntityExpBottle",
+    "original_resource_locations": "minecraft:xp_bottle",
+    "parent": "ThrowableEntity"
+  },
+  "minecraft:item_frame": {
+    "id": 18,
+    "width": 0.5,
+    "height": 0.5,
+    "class": "EntityItemFrame",
+    "meta": {
+      "ITEM_FRAME_ITEM": 6,
+      "ITEM_FRAME_ROTATION": 7
+    },
+    "parent": "HangingEntity"
+  },
+  "minecraft:wither_skull": {
+    "id": 19,
+    "width": 0.3125,
+    "height": 0.3125,
+    "class": "EntityWitherSkull",
+    "meta": {
+      "WITHER_SKULL_DANGEROUS": 6
+    },
+    "parent": "FireballEntity"
+  },
+  "minecraft:tnt": {
+    "id": 20,
+    "width": 0.98,
+    "height": 0.98,
+    "class": "EntityTNTPrimed",
+    "meta": {
+      "PRIMED_TNT_FUSE_TIME": 6
+    },
+    "parent": "Entity"
+  },
+  "minecraft:falling_block": {
+    "id": 21,
+    "width": 0.6,
+    "height": 1.8,
+    "class": "EntityFallingBlock",
+    "meta": {
+      "FALLING_BLOCK_SPAWN_POSITION": 6
+    },
+    "parent": "Entity"
+  },
+  "minecraft:firework_rocket": {
+    "id": 22,
+    "width": 0.25,
+    "height": 0.25,
+    "class": "EntityFireworkRocket",
+    "original_resource_locations": "minecraft:fireworks_rocket",
+    "meta": {
+      "FIREWORK_ROCKET_ENTITY_ITEM": 6,
+      "FIREWORK_ROCKET_ENTITY_ATTACHED_ENTITY": 7
+    },
+    "parent": "Entity"
+  },
+  "minecraft:husk": {
+    "id": 23,
+    "width": 0.6,
+    "height": 1.95,
+    "class": "EntityHusk",
+    "parent": "ZombieEntity"
+  },
+  "minecraft:spectral_arrow": {
+    "id": 24,
+    "width": 0.5,
+    "height": 0.5,
+    "class": "EntitySpectralArrow",
+    "parent": "ArrowEntity"
+  },
+  "minecraft:shulker_bullet": {
+    "id": 25,
+    "width": 0.3125,
+    "height": 0.3125,
+    "class": "EntityShulkerBullet",
+    "parent": "Entity"
+  },
+  "minecraft:dragon_fireball": {
+    "id": 26,
+    "width": 1.0,
+    "height": 1.0,
+    "class": "EntityDragonFireball",
+    "parent": "FireballEntity"
+  },
+  "minecraft:zombie_villager": {
+    "id": 27,
+    "width": 0.6,
+    "height": 1.95,
+    "class": "EntityZombieVillager",
+    "meta": {
+      "ZOMBIE_VILLAGER_IS_CONVERTING": 15,
+      "LEGACY_VILLAGE_PROFESSION": 16
+    },
+    "parent": "ZombieEntity"
+  },
+  "minecraft:skeleton_horse": {
+    "id": 28,
+    "width": 1.3964844,
+    "height": 1.6,
+    "class": "EntitySkeletonHorse",
+    "parent": "AbstractHorseEntity"
+  },
+  "minecraft:zombie_horse": {
+    "id": 29,
+    "width": 1.3964844,
+    "height": 1.6,
+    "class": "EntityZombieHorse",
+    "parent": "AbstractHorseEntity"
+  },
+  "minecraft:armor_stand": {
+    "id": 30,
+    "width": 0.5,
+    "height": 1.975,
+    "class": "EntityArmorStand",
+    "meta": {
+      "ARMOR_STAND_FLAGS": 11,
+      "ARMOR_STAND_HEAD_ROTATION": 12,
+      "ARMOR_STAND_BODY_ROTATION": 13,
+      "ARMOR_STAND_LEFT_ARM_ROTATION": 14,
+      "ARMOR_STAND_RIGHT_ARM_ROTATION": 15,
+      "ARMOR_STAND_LEFT_LAG_ROTATION": 16,
+      "ARMOR_STAND_RIGHT_LAG_ROTATION": 17
+    },
+    "parent": "LivingBaseEntity"
+  },
+  "minecraft:donkey": {
+    "id": 31,
+    "width": 1.3964844,
+    "height": 1.6,
+    "class": "EntityDonkey",
+    "parent": "AbstractChestHorseEntity"
+  },
+  "minecraft:mule": {
+    "id": 32,
+    "width": 1.3964844,
+    "height": 1.6,
+    "class": "EntityMule",
+    "parent": "AbstractChestHorseEntity"
+  },
+  "minecraft:evoker_fangs": {
+    "id": 33,
+    "width": 0.5,
+    "height": 0.8,
+    "class": "EntityEvokerFangs",
+    "original_resource_locations": "minecraft:evocation_fangs",
+    "parent": "Entity"
+  },
+  "minecraft:evoker": {
+    "id": 34,
+    "width": 0.6,
+    "height": 1.95,
+    "class": "EntityEvoker",
+    "original_resource_locations": "minecraft:evocation_illager",
+    "parent": "SpellcasterIllagerEntity"
+  },
+  "minecraft:vex": {
+    "id": 35,
+    "width": 0.4,
+    "height": 0.8,
+    "class": "EntityVex",
+    "meta": {
+      "VEX_FLAGS": 12
+    },
+    "parent": "MobEntity"
+  },
+  "minecraft:vindicator": {
+    "id": 36,
+    "width": 0.6,
+    "height": 1.95,
+    "class": "EntityVindicator",
+    "original_resource_locations": "minecraft:vindication_illager",
+    "parent": "AbstractIllagerEntity"
+  },
+  "minecraft:illusioner": {
+    "id": 37,
+    "width": 0.6,
+    "height": 1.95,
+    "class": "EntityIllusionIllager",
+    "original_resource_locations": "minecraft:illusion_illager",
+    "parent": "SpellcasterIllagerEntity"
+  },
+  "minecraft:command_block_minecart": {
+    "id": 40,
+    "width": 0.98,
+    "height": 0.7,
+    "class": "EntityMinecartCommandBlock",
+    "original_resource_locations": "minecraft:commandblock_minecart",
+    "meta": {
+      "MINECART_COMMAND_BLOCK_COMMAND": 12,
+      "MINECART_COMMAND_BLOCK_LAST_OUTPUT": 13
+    },
+    "parent": "MinecartEntity"
+  },
+  "minecraft:boat": {
+    "id": 41,
+    "width": 1.375,
+    "height": 0.5625,
+    "class": "EntityBoat",
+    "meta": {
+      "BOAT_HURT": 6,
+      "BOAT_HURT_DIRECTION": 7,
+      "BOAT_DAMAGE_TAKEN": 8,
+      "BOAT_MATERIAL": 9
+    },
+    "parent": "Entity"
+  },
+  "minecraft:minecart": {
+    "id": 42,
+    "width": 0.98,
+    "height": 0.7,
+    "class": "EntityMinecartEmpty",
+    "parent": "MinecartEntity"
+  },
+  "minecraft:chest_minecart": {
+    "id": 43,
+    "width": 0.98,
+    "height": 0.7,
+    "class": "EntityMinecartChest",
+    "parent": "MinecartContainerEntity"
+  },
+  "minecraft:furnace_minecart": {
+    "id": 44,
+    "width": 0.98,
+    "height": 0.7,
+    "class": "EntityMinecartFurnace",
+    "meta": {
+      "MINECART_FURNACE_HAS_FUEL": 12
+    },
+    "parent": "MinecartEntity"
+  },
+  "minecraft:tnt_minecart": {
+    "id": 45,
+    "width": 0.98,
+    "height": 0.7,
+    "class": "EntityMinecartTNT",
+    "parent": "MinecartEntity"
+  },
+  "minecraft:hopper_minecart": {
+    "id": 46,
+    "width": 0.98,
+    "height": 0.7,
+    "class": "EntityMinecartHopper",
+    "parent": "MinecartContainerEntity"
+  },
+  "minecraft:spawner_minecart": {
+    "id": 47,
+    "width": 0.98,
+    "height": 0.7,
+    "class": "EntityMinecartMobSpawner",
+    "parent": "MinecartEntity"
+  },
+  "minecraft:creeper": {
+    "id": 50,
+    "width": 0.6,
+    "height": 1.7,
+    "class": "EntityCreeper",
+    "meta": {
+      "CREEPER_STATE": 12,
+      "CREEPER_IS_CHARGED": 13,
+      "CREEPER_IS_IGNITED": 14
+    },
+    "parent": "MobEntity"
+  },
+  "minecraft:skeleton": {
+    "id": 51,
+    "width": 0.6,
+    "height": 1.99,
+    "class": "EntitySkeleton",
+    "parent": "AbstractSkeletonEntity"
+  },
+  "minecraft:spider": {
+    "id": 52,
+    "width": 1.4,
+    "height": 0.9,
+    "class": "EntitySpider",
+    "meta": {
+      "SPIDER_FLAGS": 12
+    },
+    "parent": "MobEntity"
+  },
+  "minecraft:giant": {
+    "id": 53,
+    "width": 3.6000001,
+    "height": 10.799999,
+    "class": "EntityGiantZombie",
+    "parent": "MobEntity"
+  },
+  "minecraft:zombie": {
+    "id": 54,
+    "width": 0.6,
+    "height": 1.95,
+    "class": "EntityZombie",
+    "meta": {
+      "ZOMBIE_IS_BABY": 12,
+      "LEGACY_ZOMBIE_VILLAGER_TYPE": 13,
+      "ZOMBIE_HANDS_HELD_UP": 14
+    },
+    "parent": "MobEntity"
+  },
+  "minecraft:slime": {
+    "id": 55,
+    "width": 0.6,
+    "height": 1.8,
+    "class": "EntitySlime",
+    "meta": {
+      "SLIME_SIZE": 12
+    },
+    "parent": "LivingEntity"
+  },
+  "minecraft:ghast": {
+    "id": 56,
+    "width": 4.0,
+    "height": 4.0,
+    "class": "EntityGhast",
+    "meta": {
+      "GHAST_IS_ATTACKING": 12
+    },
+    "parent": "FlyingEntity"
+  },
+  "minecraft:zombie_pigman": {
+    "id": 57,
+    "width": 0.6,
+    "height": 1.95,
+    "class": "EntityPigZombie",
+    "parent": "ZombieEntity"
+  },
+  "minecraft:enderman": {
+    "id": 58,
+    "width": 0.6,
+    "height": 2.9,
+    "class": "EntityEnderman",
+    "meta": {
+      "ENDERMAN_CARRIED_BLOCK": 12,
+      "ENDERMAN_IS_SCREAMING": 13
+    },
+    "parent": "MobEntity"
+  },
+  "minecraft:cave_spider": {
+    "id": 59,
+    "width": 0.7,
+    "height": 0.5,
+    "class": "EntityCaveSpider",
+    "parent": "SpiderEntity"
+  },
+  "minecraft:silverfish": {
+    "id": 60,
+    "width": 0.4,
+    "height": 0.3,
+    "class": "EntitySilverfish",
+    "parent": "MobEntity"
+  },
+  "minecraft:blaze": {
+    "id": 61,
+    "width": 0.6,
+    "height": 1.8,
+    "class": "EntityBlaze",
+    "meta": {
+      "BLAZE_FLAGS": 12
+    },
+    "parent": "MobEntity"
+  },
+  "minecraft:magma_cube": {
+    "id": 62,
+    "width": 0.6,
+    "height": 1.8,
+    "class": "EntityMagmaCube",
+    "parent": "SlimeEntity"
+  },
+  "minecraft:ender_dragon": {
+    "id": 63,
+    "width": 16.0,
+    "height": 8.0,
+    "class": "EntityDragon",
+    "meta": {
+      "ENDER_DRAGON_PHASE": 12
+    },
+    "parent": "LivingEntity"
+  },
+  "minecraft:wither": {
+    "id": 64,
+    "width": 0.9,
+    "height": 3.5,
+    "class": "EntityWither",
+    "meta": {
+      "WITHER_BOSS_CENTER_HEAD_TARGET_ENTITY_ID": 12,
+      "WITHER_BOSS_LEFT_HEAD_TARGET_ENTITY_ID": 13,
+      "WITHER_BOSS_RIGHT_HEAD_TARGET_ENTITY_ID": 14,
+      "WITHER_BOSS_INVULNERABLE_TIME": 15
+    },
+    "parent": "MobEntity"
+  },
+  "minecraft:bat": {
+    "id": 65,
+    "width": 0.5,
+    "height": 0.9,
+    "class": "EntityBat",
+    "meta": {
+      "BAT_FLAGS": 12
+    },
+    "parent": "AmbientCreatureEntity"
+  },
+  "minecraft:witch": {
+    "id": 66,
+    "width": 0.6,
+    "height": 1.95,
+    "class": "EntityWitch",
+    "meta": {
+      "WITCH_IS_DRINKING_POTION": 12
+    },
+    "parent": "MobEntity"
+  },
+  "minecraft:endermite": {
+    "id": 67,
+    "width": 0.4,
+    "height": 0.3,
+    "class": "EntityEndermite",
+    "parent": "MobEntity"
+  },
+  "minecraft:guardian": {
+    "id": 68,
+    "width": 0.85,
+    "height": 0.85,
+    "class": "EntityGuardian",
+    "meta": {
+      "GUARDIAN_IS_MOVING": 12,
+      "GUARDIAN_TARGET_ENTITY_ID": 13
+    },
+    "parent": "MobEntity"
+  },
+  "minecraft:shulker": {
+    "id": 69,
+    "width": 1.0,
+    "height": 1.0,
+    "class": "EntityShulker",
+    "meta": {
+      "SHULKER_ATTACH_FACE": 12,
+      "SHULKER_ATTACHMENT_POSITION": 13,
+      "SHULKER_PEEK": 14,
+      "SHULKER_COLOR": 15
+    },
+    "parent": "GolemEntity"
+  },
+  "minecraft:pig": {
+    "id": 90,
+    "width": 0.9,
+    "height": 0.9,
+    "class": "EntityPig",
+    "meta": {
+      "PIG_HAS_SADDLE": 13,
+      "PIG_BOOST_TIME": 14
+    },
+    "parent": "AnimalEntity"
+  },
+  "minecraft:sheep": {
+    "id": 91,
+    "width": 0.9,
+    "height": 1.3,
+    "class": "EntitySheep",
+    "meta": {
+      "SHEEP_FLAGS": 13
+    },
+    "parent": "AnimalEntity"
+  },
+  "minecraft:cow": {
+    "id": 92,
+    "width": 0.9,
+    "height": 1.4,
+    "class": "EntityCow",
+    "parent": "AnimalEntity"
+  },
+  "minecraft:chicken": {
+    "id": 93,
+    "width": 0.4,
+    "height": 0.7,
+    "class": "EntityChicken",
+    "parent": "AnimalEntity"
+  },
+  "minecraft:squid": {
+    "id": 94,
+    "width": 0.8,
+    "height": 0.8,
+    "class": "EntitySquid",
+    "parent": "WaterMobEntity"
+  },
+  "minecraft:wolf": {
+    "id": 95,
+    "width": 0.6,
+    "height": 0.85,
+    "class": "EntityWolf",
+    "meta": {
+      "WOLF_HEALTH": 15,
+      "WOLF_IS_BEGGING": 16,
+      "WOLF_COLLAR_COLOR": 17
+    },
+    "parent": "TameableEntity"
+  },
+  "minecraft:mooshroom": {
+    "id": 96,
+    "width": 0.9,
+    "height": 1.4,
+    "class": "EntityMooshroom",
+    "parent": "CowEntity"
+  },
+  "minecraft:snow_golem": {
+    "id": 97,
+    "width": 0.7,
+    "height": 1.9,
+    "class": "EntitySnowman",
+    "original_resource_locations": "minecraft:snowman",
+    "meta": {
+      "SNOW_GOLEM_FLAGS": 12
+    },
+    "parent": "GolemEntity"
+  },
+  "minecraft:ocelot": {
+    "id": 98,
+    "width": 0.6,
+    "height": 0.7,
+    "class": "EntityOcelot",
+    "meta": {
+      "OCELOT_IS_TRUSTING": 15
+    },
+    "parent": "TameableEntity"
+  },
+  "minecraft:iron_golem": {
+    "id": 99,
+    "width": 1.4,
+    "height": 2.7,
+    "class": "EntityIronGolem",
+    "original_resource_locations": "minecraft:villager_golem",
+    "meta": {
+      "IRON_GOLEM_FLAGS": 12
+    },
+    "parent": "GolemEntity"
+  },
+  "minecraft:horse": {
+    "id": 100,
+    "width": 1.3964844,
+    "height": 1.6,
+    "class": "EntityHorse",
+    "meta": {
+      "HORSE_VARIANT": 15,
+      "LEGACY_HORSE_ARMOR": 16
+    },
+    "parent": "AbstractHorseEntity"
+  },
+  "minecraft:rabbit": {
+    "id": 101,
+    "width": 0.4,
+    "height": 0.5,
+    "class": "EntityRabbit",
+    "meta": {
+      "RABBIT_VARIANT": 13
+    },
+    "parent": "AnimalEntity"
+  },
+  "minecraft:polar_bear": {
+    "id": 102,
+    "width": 1.3,
+    "height": 1.4,
+    "class": "EntityPolarBear",
+    "meta": {
+      "POLAR_BEAR_STANDING": 13
+    },
+    "parent": "AnimalEntity"
+  },
+  "minecraft:llama": {
+    "id": 103,
+    "width": 1.3964844,
+    "height": 1.6,
+    "class": "EntityLlama",
+    "meta": {
+      "LLAMA_STRENGTH": 16,
+      "LLAMA_CARPET_COLOR": 17,
+      "LLAMA_VARIANT": 18
+    },
+    "parent": "AbstractChestHorseEntity"
+  },
+  "minecraft:llama_spit": {
+    "id": 104,
+    "width": 0.6,
+    "height": 1.8,
+    "class": "EntityLlamaSpit",
+    "parent": "Entity"
+  },
+  "minecraft:parrot": {
+    "id": 105,
+    "width": 0.5,
+    "height": 0.9,
+    "class": "EntityParrot",
+    "meta": {
+      "PARROT_VARIANT": 15
+    },
+    "parent": "ShoulderRidingEntity"
+  },
+  "minecraft:villager": {
+    "id": 120,
+    "width": 0.6,
+    "height": 1.95,
+    "class": "EntityVillager",
+    "meta": {
+      "LEGACY_VILLAGE_PROFESSION": 13
+    },
+    "parent": "AgeableEntity"
+  },
+  "minecraft:end_crystal": {
+    "id": 200,
+    "width": 2.0,
+    "height": 2.0,
+    "class": "EntityEnderCrystal",
+    "original_resource_locations": "minecraft:ender_crystal",
+    "meta": {
+      "END_CRYSTAL_BEAM_TARGET": 6,
+      "END_CRYSTAL_SHOW_BOTTOM": 7
+    },
+    "parent": "Entity"
+  },
+  "WeatherEffectEntity": {
+    "parent": "Entity"
+  },
+  "Entity": {
+    "meta": {
+      "ENTITY_FLAGS": 0,
+      "ENTITY_AIR_SUPPLY": 1,
+      "ENTITY_CUSTOM_NAME": 2,
+      "ENTITY_CUSTOM_NAME_VISIBLE": 3,
+      "ENTITY_SILENT": 4,
+      "ENTITY_NO_GRAVITY": 5
+    }
+  },
+  "LivingBaseEntity": {
+    "meta": {
+      "PLAYER_SKIN_MAIN_HAND": 6,
+      "LIVING_ENTITY_HEALTH": 7,
+      "LIVING_ENTITY_EFFECT_COLOR": 8,
+      "LIVING_ENTITY_EFFECT_AMBIENCE": 9,
+      "LIVING_ENTITY_ARROW_COUNT": 10
+    },
+    "parent": "Entity"
+  },
+  "[minecraft:guardian]": {
+    "meta": {
+      "GUARDIAN_IS_MOVING": 12,
+      "GUARDIAN_TARGET_ENTITY_ID": 13
+    },
+    "parent": "MobEntity"
+  },
+  "MobEntity": {
+    "parent": "CreatureEntity"
+  },
+  "CreatureEntity": {
+    "parent": "LivingEntity"
+  },
+  "LivingEntity": {
+    "meta": {
+      "LIVING_ENTITY_FLAGS": 11
+    },
+    "parent": "LivingBaseEntity"
+  },
+  "AbstractSkeletonEntity": {
+    "meta": {
+      "SKELETON_SWING_ARMS": 12
+    },
+    "parent": "MobEntity"
+  },
+  "ThrowableEntity": {
+    "parent": "Entity"
+  },
+  "HangingEntity": {
+    "parent": "Entity"
+  },
+  "ArrowEntity": {
+    "meta": {
+      "ABSTRACT_ARROW_FLAGS": 6
+    },
+    "parent": "Entity"
+  },
+  "FireballEntity": {
+    "parent": "Entity"
+  },
+  "[minecraft:zombie]": {
+    "meta": {
+      "ZOMBIE_IS_BABY": 12,
+      "LEGACY_ZOMBIE_VILLAGER_TYPE": 13,
+      "ZOMBIE_HANDS_HELD_UP": 14
+    },
+    "parent": "MobEntity"
+  },
+  "AbstractHorseEntity": {
+    "meta": {
+      "ABSTRACT_HORSE_FLAGS": 13,
+      "ABSTRACT_HORSE_OWNER_UUID": 14
+    },
+    "parent": "AnimalEntity"
+  },
+  "AnimalEntity": {
+    "parent": "AgeableEntity"
+  },
+  "AgeableEntity": {
+    "meta": {
+      "AGEABLE_IS_BABY": 12
+    },
+    "parent": "CreatureEntity"
+  },
+  "AbstractChestHorseEntity": {
+    "meta": {
+      "ABSTRACT_CHESTED_HORSE_HAS_CHEST": 15
+    },
+    "parent": "AbstractHorseEntity"
+  },
+  "SpellcasterIllagerEntity": {
+    "meta": {
+      "SPELLCASTER_ILLAGER_SPELL": 13
+    },
+    "parent": "AbstractIllagerEntity"
+  },
+  "AbstractIllagerEntity": {
+    "meta": {
+      "ABSTRACT_ILLAGER_FLAGS": 12
+    },
+    "parent": "MobEntity"
+  },
+  "MinecartEntity": {
+    "meta": {
+      "MINECART_HURT": 6,
+      "MINECART_HURT_DIRECTION": 7,
+      "MINECART_DAMAGE_TAKEN": 8,
+      "MINECART_BLOCK_ID": 9,
+      "MINECART_BLOCK_Y_OFFSET": 10,
+      "MINECART_SHOW_BLOCK": 11
+    },
+    "parent": "Entity"
+  },
+  "MinecartContainerEntity": {
+    "parent": "MinecartEntity"
+  },
+  "FlyingEntity": {
+    "parent": "LivingEntity"
+  },
+  "[minecraft:spider]": {
+    "meta": {
+      "SPIDER_FLAGS": 12
+    },
+    "parent": "MobEntity"
+  },
+  "[minecraft:slime]": {
+    "meta": {
+      "SLIME_SIZE": 12
+    },
+    "parent": "LivingEntity"
+  },
+  "AmbientCreatureEntity": {
+    "parent": "LivingEntity"
+  },
+  "GolemEntity": {
+    "parent": "CreatureEntity"
+  },
+  "WaterMobEntity": {
+    "parent": "LivingEntity"
+  },
+  "TameableEntity": {
+    "meta": {
+      "TAMABLE_ENTITY_FLAGS": 13,
+      "TAMABLE_ENTITY_OWNER_UUID": 14
+    },
+    "parent": "AnimalEntity"
+  },
+  "[minecraft:cow]": {
+    "parent": "AnimalEntity"
+  },
+  "ShoulderRidingEntity": {
+    "parent": "TameableEntity"
+  }
+}

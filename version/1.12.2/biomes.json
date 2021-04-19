@@ -1,0 +1,559 @@
+{
+  "minecraft:ocean": {
+    "id": 0,
+    "depth": -1.0,
+    "scale": 0.1,
+    "temperature": 0.5,
+    "downfall": 0.5,
+    "sky_color": 8103167
+  },
+  "minecraft:plains": {
+    "id": 1,
+    "depth": 0.125,
+    "scale": 0.05,
+    "temperature": 0.8,
+    "downfall": 0.4,
+    "sky_color": 7907327
+  },
+  "minecraft:desert": {
+    "id": 2,
+    "depth": 0.125,
+    "scale": 0.05,
+    "temperature": 2.0,
+    "downfall": 0.0,
+    "sky_color": 7254527
+  },
+  "minecraft:mountains": {
+    "id": 3,
+    "depth": 1.0,
+    "scale": 0.5,
+    "temperature": 0.2,
+    "downfall": 0.3,
+    "sky_color": 8233727,
+    "alternative_resource_locations": "minecraft:extreme_hills"
+  },
+  "minecraft:forest": {
+    "id": 4,
+    "depth": 0.1,
+    "scale": 0.2,
+    "temperature": 0.7,
+    "downfall": 0.8,
+    "sky_color": 7972607
+  },
+  "minecraft:taiga": {
+    "id": 5,
+    "depth": 0.2,
+    "scale": 0.2,
+    "temperature": 0.25,
+    "downfall": 0.8,
+    "sky_color": 8233983
+  },
+  "minecraft:swamp": {
+    "id": 6,
+    "depth": -0.2,
+    "scale": 0.1,
+    "water_color": 14745518,
+    "temperature": 0.8,
+    "downfall": 0.9,
+    "foliage_color_override": 6975545,
+    "sky_color": 7907327,
+    "alternative_resource_locations": "minecraft:swampland"
+  },
+  "minecraft:river": {
+    "id": 7,
+    "depth": -0.5,
+    "scale": 0.0,
+    "temperature": 0.5,
+    "downfall": 0.5,
+    "sky_color": 8103167
+  },
+  "minecraft:nether": {
+    "id": 8,
+    "depth": 0.1,
+    "scale": 0.2,
+    "temperature": 2.0,
+    "downfall": 0.0,
+    "sky_color": 7254527,
+    "alternative_resource_locations": "minecraft:hell"
+  },
+  "minecraft:the_end": {
+    "id": 9,
+    "depth": 0.1,
+    "scale": 0.2,
+    "temperature": 0.5,
+    "downfall": 0.5,
+    "sky_color": 0,
+    "alternative_resource_locations": "minecraft:sky"
+  },
+  "minecraft:frozen_ocean": {
+    "id": 10,
+    "depth": -1.0,
+    "scale": 0.1,
+    "temperature": 0.0,
+    "downfall": 0.5,
+    "sky_color": 8364543
+  },
+  "minecraft:frozen_river": {
+    "id": 11,
+    "depth": -0.5,
+    "scale": 0.0,
+    "temperature": 0.0,
+    "downfall": 0.5,
+    "sky_color": 8364543
+  },
+  "minecraft:snowy_tundra": {
+    "id": 12,
+    "depth": 0.125,
+    "scale": 0.05,
+    "temperature": 0.0,
+    "downfall": 0.5,
+    "sky_color": 8364543,
+    "alternative_resource_locations": "minecraft:ice_flats"
+  },
+  "minecraft:snowy_mountains": {
+    "id": 13,
+    "depth": 0.45,
+    "scale": 0.3,
+    "temperature": 0.0,
+    "downfall": 0.5,
+    "sky_color": 8364543,
+    "alternative_resource_locations": "minecraft:ice_mountains"
+  },
+  "minecraft:mushroom_fields": {
+    "id": 14,
+    "depth": 0.2,
+    "scale": 0.3,
+    "temperature": 0.9,
+    "downfall": 1.0,
+    "sky_color": 7842047,
+    "alternative_resource_locations": "minecraft:mushroom_island"
+  },
+  "minecraft:mushroom_field_shore": {
+    "id": 15,
+    "depth": 0.0,
+    "scale": 0.025,
+    "temperature": 0.9,
+    "downfall": 1.0,
+    "sky_color": 7842047,
+    "alternative_resource_locations": "minecraft:mushroom_island_shore"
+  },
+  "minecraft:beach": {
+    "id": 16,
+    "depth": 0.0,
+    "scale": 0.025,
+    "temperature": 0.8,
+    "downfall": 0.4,
+    "sky_color": 7907327,
+    "alternative_resource_locations": "minecraft:beaches"
+  },
+  "minecraft:desert_hills": {
+    "id": 17,
+    "depth": 0.45,
+    "scale": 0.3,
+    "temperature": 2.0,
+    "downfall": 0.0,
+    "sky_color": 7254527
+  },
+  "minecraft:wooded_hills": {
+    "id": 18,
+    "depth": 0.45,
+    "scale": 0.3,
+    "temperature": 0.7,
+    "downfall": 0.8,
+    "sky_color": 7972607,
+    "alternative_resource_locations": "minecraft:forest_hills"
+  },
+  "minecraft:taiga_hills": {
+    "id": 19,
+    "depth": 0.45,
+    "scale": 0.3,
+    "temperature": 0.25,
+    "downfall": 0.8,
+    "sky_color": 8233983
+  },
+  "minecraft:mountain_edge": {
+    "id": 20,
+    "depth": 0.8,
+    "scale": 0.3,
+    "temperature": 0.2,
+    "downfall": 0.3,
+    "sky_color": 8233727,
+    "alternative_resource_locations": "minecraft:smaller_extreme_hills"
+  },
+  "minecraft:jungle": {
+    "id": 21,
+    "depth": 0.1,
+    "scale": 0.2,
+    "temperature": 0.95,
+    "downfall": 0.9,
+    "sky_color": 7842047
+  },
+  "minecraft:jungle_hills": {
+    "id": 22,
+    "depth": 0.45,
+    "scale": 0.3,
+    "temperature": 0.95,
+    "downfall": 0.9,
+    "sky_color": 7842047
+  },
+  "minecraft:jungle_edge": {
+    "id": 23,
+    "depth": 0.1,
+    "scale": 0.2,
+    "temperature": 0.95,
+    "downfall": 0.8,
+    "sky_color": 7842047
+  },
+  "minecraft:deep_ocean": {
+    "id": 24,
+    "depth": -1.8,
+    "scale": 0.1,
+    "temperature": 0.5,
+    "downfall": 0.5,
+    "sky_color": 8103167
+  },
+  "minecraft:stone_shore": {
+    "id": 25,
+    "depth": 0.1,
+    "scale": 0.8,
+    "temperature": 0.2,
+    "downfall": 0.3,
+    "sky_color": 8233727,
+    "alternative_resource_locations": "minecraft:stone_beach"
+  },
+  "minecraft:snowy_beach": {
+    "id": 26,
+    "depth": 0.0,
+    "scale": 0.025,
+    "temperature": 0.05,
+    "downfall": 0.3,
+    "sky_color": 8364543,
+    "alternative_resource_locations": "minecraft:cold_beach"
+  },
+  "minecraft:birch_forest": {
+    "id": 27,
+    "depth": 0.1,
+    "scale": 0.2,
+    "temperature": 0.6,
+    "downfall": 0.6,
+    "sky_color": 8037887
+  },
+  "minecraft:birch_forest_hills": {
+    "id": 28,
+    "depth": 0.45,
+    "scale": 0.3,
+    "temperature": 0.6,
+    "downfall": 0.6,
+    "sky_color": 8037887
+  },
+  "minecraft:dark_forest": {
+    "id": 29,
+    "depth": 0.1,
+    "scale": 0.2,
+    "temperature": 0.7,
+    "downfall": 0.8,
+    "sky_color": 7972607,
+    "alternative_resource_locations": "minecraft:roofed_forest"
+  },
+  "minecraft:snowy_taiga": {
+    "id": 30,
+    "depth": 0.2,
+    "scale": 0.2,
+    "temperature": -0.5,
+    "downfall": 0.4,
+    "sky_color": 8625919,
+    "alternative_resource_locations": "minecraft:taiga_cold"
+  },
+  "minecraft:snowy_taiga_hills": {
+    "id": 31,
+    "depth": 0.45,
+    "scale": 0.3,
+    "temperature": -0.5,
+    "downfall": 0.4,
+    "sky_color": 8625919,
+    "alternative_resource_locations": "minecraft:taiga_cold_hills"
+  },
+  "minecraft:giant_tree_taiga": {
+    "id": 32,
+    "depth": 0.2,
+    "scale": 0.2,
+    "temperature": 0.3,
+    "downfall": 0.8,
+    "sky_color": 8168447,
+    "alternative_resource_locations": "minecraft:redwood_taiga"
+  },
+  "minecraft:giant_tree_taiga_hills": {
+    "id": 33,
+    "depth": 0.45,
+    "scale": 0.3,
+    "temperature": 0.3,
+    "downfall": 0.8,
+    "sky_color": 8168447,
+    "alternative_resource_locations": "minecraft:redwood_taiga_hills"
+  },
+  "minecraft:wooded_mountains": {
+    "id": 34,
+    "depth": 1.0,
+    "scale": 0.5,
+    "temperature": 0.2,
+    "downfall": 0.3,
+    "sky_color": 8233727,
+    "alternative_resource_locations": "minecraft:extreme_hills_with_trees"
+  },
+  "minecraft:savanna": {
+    "id": 35,
+    "depth": 0.125,
+    "scale": 0.05,
+    "temperature": 1.2,
+    "downfall": 0.0,
+    "sky_color": 7711487
+  },
+  "minecraft:savanna_plateau": {
+    "id": 36,
+    "depth": 1.5,
+    "scale": 0.025,
+    "temperature": 1.0,
+    "downfall": 0.0,
+    "sky_color": 7776511,
+    "alternative_resource_locations": "minecraft:savanna_rock"
+  },
+  "minecraft:badlands": {
+    "id": 37,
+    "depth": 0.1,
+    "scale": 0.2,
+    "temperature": 2.0,
+    "downfall": 0.0,
+    "foliage_color_override": 10387789,
+    "grass_color_override": 9470285,
+    "sky_color": 7254527,
+    "alternative_resource_locations": "minecraft:mesa"
+  },
+  "minecraft:wooded_badlands_plateau": {
+    "id": 38,
+    "depth": 1.5,
+    "scale": 0.025,
+    "temperature": 2.0,
+    "downfall": 0.0,
+    "foliage_color_override": 10387789,
+    "grass_color_override": 9470285,
+    "sky_color": 7254527,
+    "alternative_resource_locations": "minecraft:mesa_rock"
+  },
+  "minecraft:badlands_plateau": {
+    "id": 39,
+    "depth": 1.5,
+    "scale": 0.025,
+    "temperature": 2.0,
+    "downfall": 0.0,
+    "foliage_color_override": 10387789,
+    "grass_color_override": 9470285,
+    "sky_color": 7254527,
+    "alternative_resource_locations": "minecraft:mesa_clear_rock"
+  },
+  "minecraft:the_void": {
+    "id": 127,
+    "depth": 0.1,
+    "scale": 0.2,
+    "temperature": 0.5,
+    "downfall": 0.5,
+    "sky_color": 8103167,
+    "alternative_resource_locations": "minecraft:void"
+  },
+  "minecraft:sunflower_plains": {
+    "id": 129,
+    "depth": 0.125,
+    "scale": 0.05,
+    "temperature": 0.8,
+    "downfall": 0.4,
+    "sky_color": 7907327,
+    "alternative_resource_locations": "minecraft:mutated_plains"
+  },
+  "minecraft:desert_lakes": {
+    "id": 130,
+    "depth": 0.225,
+    "scale": 0.25,
+    "temperature": 2.0,
+    "downfall": 0.0,
+    "sky_color": 7254527,
+    "alternative_resource_locations": "minecraft:mutated_desert"
+  },
+  "minecraft:gravelly_mountains": {
+    "id": 131,
+    "depth": 1.0,
+    "scale": 0.5,
+    "temperature": 0.2,
+    "downfall": 0.3,
+    "sky_color": 8233727,
+    "alternative_resource_locations": "minecraft:mutated_extreme_hills"
+  },
+  "minecraft:flower_forest": {
+    "id": 132,
+    "depth": 0.1,
+    "scale": 0.4,
+    "temperature": 0.7,
+    "downfall": 0.8,
+    "sky_color": 7972607,
+    "alternative_resource_locations": "minecraft:mutated_forest"
+  },
+  "minecraft:taiga_mountains": {
+    "id": 133,
+    "depth": 0.3,
+    "scale": 0.4,
+    "temperature": 0.25,
+    "downfall": 0.8,
+    "sky_color": 8233983,
+    "alternative_resource_locations": "minecraft:mutated_taiga"
+  },
+  "minecraft:swamp_hills": {
+    "id": 134,
+    "depth": -0.1,
+    "scale": 0.3,
+    "water_color": 14745518,
+    "temperature": 0.8,
+    "downfall": 0.9,
+    "foliage_color_override": 6975545,
+    "sky_color": 7907327,
+    "alternative_resource_locations": "minecraft:mutated_swampland"
+  },
+  "minecraft:ice_spikes": {
+    "id": 140,
+    "depth": 0.425,
+    "scale": 0.45000002,
+    "temperature": 0.0,
+    "downfall": 0.5,
+    "sky_color": 8364543,
+    "alternative_resource_locations": "minecraft:mutated_ice_flats"
+  },
+  "minecraft:modified_jungle": {
+    "id": 149,
+    "depth": 0.2,
+    "scale": 0.4,
+    "temperature": 0.95,
+    "downfall": 0.9,
+    "sky_color": 7842047,
+    "alternative_resource_locations": "minecraft:mutated_jungle"
+  },
+  "minecraft:modified_jungle_edge": {
+    "id": 151,
+    "depth": 0.2,
+    "scale": 0.4,
+    "temperature": 0.95,
+    "downfall": 0.8,
+    "sky_color": 7842047,
+    "alternative_resource_locations": "minecraft:mutated_jungle_edge"
+  },
+  "minecraft:tall_birch_forest": {
+    "id": 155,
+    "depth": 0.2,
+    "scale": 0.4,
+    "temperature": 0.6,
+    "downfall": 0.6,
+    "sky_color": 8037887,
+    "alternative_resource_locations": "minecraft:mutated_birch_forest"
+  },
+  "minecraft:tall_birch_hills": {
+    "id": 156,
+    "depth": 0.55,
+    "scale": 0.5,
+    "temperature": 0.6,
+    "downfall": 0.6,
+    "sky_color": 8037887,
+    "alternative_resource_locations": "minecraft:mutated_birch_forest_hills"
+  },
+  "minecraft:dark_forest_hills": {
+    "id": 157,
+    "depth": 0.2,
+    "scale": 0.4,
+    "temperature": 0.7,
+    "downfall": 0.8,
+    "sky_color": 7972607,
+    "alternative_resource_locations": "minecraft:mutated_roofed_forest"
+  },
+  "minecraft:snowy_taiga_mountains": {
+    "id": 158,
+    "depth": 0.3,
+    "scale": 0.4,
+    "temperature": -0.5,
+    "downfall": 0.4,
+    "sky_color": 8625919,
+    "alternative_resource_locations": "minecraft:mutated_taiga_cold"
+  },
+  "minecraft:giant_spruce_taiga": {
+    "id": 160,
+    "depth": 0.2,
+    "scale": 0.2,
+    "temperature": 0.25,
+    "downfall": 0.8,
+    "sky_color": 8233983,
+    "alternative_resource_locations": "minecraft:mutated_redwood_taiga"
+  },
+  "minecraft:giant_spruce_taiga_hills": {
+    "id": 161,
+    "depth": 0.2,
+    "scale": 0.2,
+    "temperature": 0.25,
+    "downfall": 0.8,
+    "sky_color": 8233983,
+    "alternative_resource_locations": "minecraft:mutated_redwood_taiga_hills"
+  },
+  "minecraft:modified_gravelly_mountains": {
+    "id": 162,
+    "depth": 1.0,
+    "scale": 0.5,
+    "temperature": 0.2,
+    "downfall": 0.3,
+    "sky_color": 8233727,
+    "alternative_resource_locations": "minecraft:mutated_extreme_hills_with_trees"
+  },
+  "minecraft:shattered_savanna": {
+    "id": 163,
+    "depth": 0.3625,
+    "scale": 1.225,
+    "temperature": 1.1,
+    "downfall": 0.0,
+    "sky_color": 7776767,
+    "alternative_resource_locations": "minecraft:mutated_savanna"
+  },
+  "minecraft:shattered_savanna_plateau": {
+    "id": 164,
+    "depth": 1.05,
+    "scale": 1.2125001,
+    "temperature": 1.0,
+    "downfall": 0.0,
+    "sky_color": 7776511,
+    "alternative_resource_locations": "minecraft:mutated_savanna_rock"
+  },
+  "minecraft:eroded_badlands": {
+    "id": 165,
+    "depth": 0.1,
+    "scale": 0.2,
+    "temperature": 2.0,
+    "downfall": 0.0,
+    "foliage_color_override": 10387789,
+    "grass_color_override": 9470285,
+    "sky_color": 7254527,
+    "alternative_resource_locations": "minecraft:mutated_mesa"
+  },
+  "minecraft:modified_wooded_badlands_plateau": {
+    "id": 166,
+    "depth": 0.45,
+    "scale": 0.3,
+    "temperature": 2.0,
+    "downfall": 0.0,
+    "foliage_color_override": 10387789,
+    "grass_color_override": 9470285,
+    "sky_color": 7254527,
+    "alternative_resource_locations": "minecraft:mutated_mesa_rock"
+  },
+  "minecraft:modified_badlands_plateau": {
+    "id": 167,
+    "depth": 0.45,
+    "scale": 0.3,
+    "temperature": 2.0,
+    "downfall": 0.0,
+    "foliage_color_override": 10387789,
+    "grass_color_override": 9470285,
+    "sky_color": 7254527,
+    "alternative_resource_locations": "minecraft:mutated_mesa_clear_rock"
+  }
+}
