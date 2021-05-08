@@ -1,7 +1,6 @@
 {
   "minecraft:protection": {
     "id": 0,
-    "translation_key": "enchantment.minecraft.protection",
     "rarity": 0,
     "category": "armor",
     "slots": [
@@ -15,7 +14,6 @@
   },
   "minecraft:multishot": {
     "id": 33,
-    "translation_key": "enchantment.minecraft.multishot",
     "rarity": 2,
     "category": "crossbow",
     "slots": [
@@ -26,7 +24,6 @@
   },
   "minecraft:piercing": {
     "id": 35,
-    "translation_key": "enchantment.minecraft.piercing",
     "rarity": 0,
     "category": "crossbow",
     "slots": [
@@ -37,7 +34,6 @@
   },
   "minecraft:riptide": {
     "id": 31,
-    "translation_key": "enchantment.minecraft.riptide",
     "rarity": 2,
     "category": "trident",
     "slots": [
@@ -48,7 +44,6 @@
   },
   "minecraft:channeling": {
     "id": 32,
-    "translation_key": "enchantment.minecraft.channeling",
     "rarity": 3,
     "category": "trident",
     "slots": [
@@ -59,7 +54,6 @@
   },
   "minecraft:quick_charge": {
     "id": 34,
-    "translation_key": "enchantment.minecraft.quick_charge",
     "rarity": 1,
     "category": "crossbow",
     "slots": [
@@ -70,7 +64,6 @@
   },
   "minecraft:mending": {
     "id": 36,
-    "translation_key": "enchantment.minecraft.mending",
     "rarity": 2,
     "category": "breakable",
     "slots": [
@@ -86,7 +79,6 @@
   },
   "minecraft:loyalty": {
     "id": 29,
-    "translation_key": "enchantment.minecraft.loyalty",
     "rarity": 1,
     "category": "trident",
     "slots": [
@@ -97,7 +89,6 @@
   },
   "minecraft:vanishing_curse": {
     "id": 37,
-    "translation_key": "enchantment.minecraft.vanishing_curse",
     "rarity": 3,
     "category": "all",
     "slots": [
@@ -113,7 +104,6 @@
   },
   "minecraft:fire_protection": {
     "id": 1,
-    "translation_key": "enchantment.minecraft.fire_protection",
     "rarity": 1,
     "category": "armor",
     "slots": [
@@ -127,7 +117,6 @@
   },
   "minecraft:blast_protection": {
     "id": 3,
-    "translation_key": "enchantment.minecraft.blast_protection",
     "rarity": 2,
     "category": "armor",
     "slots": [
@@ -141,7 +130,6 @@
   },
   "minecraft:thorns": {
     "id": 7,
-    "translation_key": "enchantment.minecraft.thorns",
     "rarity": 3,
     "category": "armor_chest",
     "slots": [
@@ -155,7 +143,6 @@
   },
   "minecraft:respiration": {
     "id": 5,
-    "translation_key": "enchantment.minecraft.respiration",
     "rarity": 2,
     "category": "armor_head",
     "slots": [
@@ -169,7 +156,6 @@
   },
   "minecraft:infinity": {
     "id": 26,
-    "translation_key": "enchantment.minecraft.infinity",
     "rarity": 3,
     "category": "bow",
     "slots": [
@@ -180,7 +166,6 @@
   },
   "minecraft:power": {
     "id": 23,
-    "translation_key": "enchantment.minecraft.power",
     "rarity": 0,
     "category": "bow",
     "slots": [
@@ -191,7 +176,6 @@
   },
   "minecraft:luck_of_the_sea": {
     "id": 27,
-    "translation_key": "enchantment.minecraft.luck_of_the_sea",
     "rarity": 2,
     "category": "fishing_rod",
     "slots": [
@@ -202,7 +186,6 @@
   },
   "minecraft:impaling": {
     "id": 30,
-    "translation_key": "enchantment.minecraft.impaling",
     "rarity": 2,
     "category": "trident",
     "slots": [
@@ -213,7 +196,6 @@
   },
   "minecraft:fortune": {
     "id": 22,
-    "translation_key": "enchantment.minecraft.fortune",
     "rarity": 2,
     "category": "digger",
     "slots": [
@@ -224,7 +206,6 @@
   },
   "minecraft:feather_falling": {
     "id": 2,
-    "translation_key": "enchantment.minecraft.feather_falling",
     "rarity": 1,
     "category": "armor_feet",
     "slots": [
@@ -238,7 +219,6 @@
   },
   "minecraft:aqua_affinity": {
     "id": 6,
-    "translation_key": "enchantment.minecraft.aqua_affinity",
     "rarity": 2,
     "category": "armor_head",
     "slots": [
@@ -252,7 +232,6 @@
   },
   "minecraft:bane_of_arthropods": {
     "id": 14,
-    "translation_key": "enchantment.minecraft.bane_of_arthropods",
     "rarity": 1,
     "category": "weapon",
     "slots": [
@@ -263,7 +242,6 @@
   },
   "minecraft:binding_curse": {
     "id": 10,
-    "translation_key": "enchantment.minecraft.binding_curse",
     "rarity": 3,
     "category": "wearable",
     "slots": [
@@ -277,7 +255,6 @@
   },
   "minecraft:fire_aspect": {
     "id": 16,
-    "translation_key": "enchantment.minecraft.fire_aspect",
     "rarity": 2,
     "category": "weapon",
     "slots": [
@@ -288,7 +265,6 @@
   },
   "minecraft:looting": {
     "id": 17,
-    "translation_key": "enchantment.minecraft.looting",
     "rarity": 2,
     "category": "weapon",
     "slots": [
@@ -299,7 +275,6 @@
   },
   "minecraft:sweeping": {
     "id": 18,
-    "translation_key": "enchantment.minecraft.sweeping",
     "rarity": 2,
     "category": "weapon",
     "slots": [
@@ -310,7 +285,6 @@
   },
   "minecraft:smite": {
     "id": 13,
-    "translation_key": "enchantment.minecraft.smite",
     "rarity": 1,
     "category": "weapon",
     "slots": [
@@ -321,7 +295,6 @@
   },
   "minecraft:efficiency": {
     "id": 19,
-    "translation_key": "enchantment.minecraft.efficiency",
     "rarity": 0,
     "category": "digger",
     "slots": [
@@ -332,7 +305,6 @@
   },
   "minecraft:unbreaking": {
     "id": 21,
-    "translation_key": "enchantment.minecraft.unbreaking",
     "rarity": 1,
     "category": "breakable",
     "slots": [
@@ -343,7 +315,6 @@
   },
   "minecraft:knockback": {
     "id": 15,
-    "translation_key": "enchantment.minecraft.knockback",
     "rarity": 1,
     "category": "weapon",
     "slots": [
@@ -354,7 +325,6 @@
   },
   "minecraft:soul_speed": {
     "id": 11,
-    "translation_key": "enchantment.minecraft.soul_speed",
     "rarity": 3,
     "category": "armor_feet",
     "slots": [
@@ -365,7 +335,6 @@
   },
   "minecraft:flame": {
     "id": 25,
-    "translation_key": "enchantment.minecraft.flame",
     "rarity": 2,
     "category": "bow",
     "slots": [
@@ -376,7 +345,6 @@
   },
   "minecraft:depth_strider": {
     "id": 8,
-    "translation_key": "enchantment.minecraft.depth_strider",
     "rarity": 2,
     "category": "armor_feet",
     "slots": [
@@ -390,7 +358,6 @@
   },
   "minecraft:frost_walker": {
     "id": 9,
-    "translation_key": "enchantment.minecraft.frost_walker",
     "rarity": 2,
     "category": "armor_feet",
     "slots": [
@@ -401,7 +368,6 @@
   },
   "minecraft:punch": {
     "id": 24,
-    "translation_key": "enchantment.minecraft.punch",
     "rarity": 2,
     "category": "bow",
     "slots": [
@@ -412,7 +378,6 @@
   },
   "minecraft:projectile_protection": {
     "id": 4,
-    "translation_key": "enchantment.minecraft.projectile_protection",
     "rarity": 1,
     "category": "armor",
     "slots": [
@@ -426,7 +391,6 @@
   },
   "minecraft:sharpness": {
     "id": 12,
-    "translation_key": "enchantment.minecraft.sharpness",
     "rarity": 0,
     "category": "weapon",
     "slots": [
@@ -437,7 +401,6 @@
   },
   "minecraft:lure": {
     "id": 28,
-    "translation_key": "enchantment.minecraft.lure",
     "rarity": 2,
     "category": "fishing_rod",
     "slots": [
@@ -448,7 +411,6 @@
   },
   "minecraft:silk_touch": {
     "id": 20,
-    "translation_key": "enchantment.minecraft.silk_touch",
     "rarity": 3,
     "category": "digger",
     "slots": [

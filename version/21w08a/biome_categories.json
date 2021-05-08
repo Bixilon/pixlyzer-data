@@ -1,53 +1,53 @@
 {
   "0": {
-    "name": "NONE"
+    "name": "none"
   },
   "1": {
-    "name": "TAIGA"
+    "name": "taiga"
   },
   "2": {
-    "name": "EXTREME_HILLS"
+    "name": "extreme_hills"
   },
   "3": {
-    "name": "JUNGLE"
+    "name": "jungle"
   },
   "4": {
-    "name": "MESA"
+    "name": "mesa"
   },
   "5": {
-    "name": "PLAINS"
+    "name": "plains"
   },
   "6": {
-    "name": "SAVANNA"
+    "name": "savanna"
   },
   "7": {
-    "name": "ICY"
+    "name": "icy"
   },
   "8": {
-    "name": "THEEND"
+    "name": "the_end"
   },
   "9": {
-    "name": "BEACH"
+    "name": "beach"
   },
   "10": {
-    "name": "FOREST"
+    "name": "forest"
   },
   "11": {
-    "name": "OCEAN"
+    "name": "ocean"
   },
   "12": {
-    "name": "DESERT"
+    "name": "desert"
   },
   "13": {
-    "name": "RIVER"
+    "name": "river"
   },
   "14": {
-    "name": "SWAMP"
+    "name": "swamp"
   },
   "15": {
-    "name": "MUSHROOM"
+    "name": "mushroom"
   },
   "16": {
-    "name": "NETHER"
+    "name": "nether"
   }
 }

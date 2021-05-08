@@ -12,7 +12,6 @@
   },
   "1": {
     "translation_key": "decorations",
-    "recipe_folder_name": "decorations",
     "background_suffix": "items.png",
     "can_scroll": true,
     "show_title": true,
@@ -23,7 +22,6 @@
   },
   "2": {
     "translation_key": "redstone",
-    "recipe_folder_name": "redstone",
     "background_suffix": "items.png",
     "can_scroll": true,
     "show_title": true,
@@ -34,7 +32,6 @@
   },
   "3": {
     "translation_key": "transportation",
-    "recipe_folder_name": "transportation",
     "background_suffix": "items.png",
     "can_scroll": true,
     "show_title": true,
@@ -45,7 +42,6 @@
   },
   "4": {
     "translation_key": "hotbar",
-    "recipe_folder_name": "hotbar",
     "background_suffix": "items.png",
     "can_scroll": true,
     "show_title": true,
@@ -56,7 +52,6 @@
   },
   "5": {
     "translation_key": "search",
-    "recipe_folder_name": "search",
     "background_suffix": "item_search.png",
     "can_scroll": true,
     "show_title": true,
@@ -67,7 +62,6 @@
   },
   "6": {
     "translation_key": "misc",
-    "recipe_folder_name": "misc",
     "background_suffix": "items.png",
     "can_scroll": true,
     "show_title": true,
@@ -78,7 +72,6 @@
   },
   "7": {
     "translation_key": "food",
-    "recipe_folder_name": "food",
     "background_suffix": "items.png",
     "can_scroll": true,
     "show_title": true,
@@ -89,7 +82,6 @@
   },
   "8": {
     "translation_key": "tools",
-    "recipe_folder_name": "tools",
     "background_suffix": "items.png",
     "can_scroll": true,
     "show_title": true,
@@ -106,7 +98,6 @@
   },
   "9": {
     "translation_key": "combat",
-    "recipe_folder_name": "combat",
     "background_suffix": "items.png",
     "can_scroll": true,
     "show_title": true,
@@ -131,7 +122,6 @@
   },
   "10": {
     "translation_key": "brewing",
-    "recipe_folder_name": "brewing",
     "background_suffix": "items.png",
     "can_scroll": true,
     "show_title": true,
@@ -142,7 +132,6 @@
   },
   "11": {
     "translation_key": "inventory",
-    "recipe_folder_name": "inventory",
     "background_suffix": "inventory.png",
     "can_scroll": false,
     "show_title": false,
