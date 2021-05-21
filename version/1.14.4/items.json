@@ -5235,9 +5235,9 @@
       565
     ],
     "attack_damage": 3.5,
-    "flattenables_block_states": [
-      8687
-    ],
+    "flattenables_block_states": {
+      "8": 8687
+    },
     "class": "ShovelItem"
   },
   "minecraft:iron_pickaxe": {
@@ -5390,20 +5390,20 @@
       658
     ],
     "attack_damage": 8.0,
-    "strippables_blocks": [
-      45,
-      40,
-      41,
-      42,
-      43,
-      44,
-      52,
-      53,
-      54,
-      55,
-      56,
-      57
-    ],
+    "strippables_blocks": {
+      "34": 45,
+      "35": 40,
+      "36": 41,
+      "37": 42,
+      "38": 43,
+      "39": 44,
+      "46": 52,
+      "47": 53,
+      "48": 54,
+      "49": 55,
+      "50": 56,
+      "51": 57
+    },
     "class": "AxeItem"
   },
   "minecraft:flint_and_steel": {
@@ -5569,9 +5569,9 @@
       565
     ],
     "attack_damage": 1.5,
-    "flattenables_block_states": [
-      8687
-    ],
+    "flattenables_block_states": {
+      "8": 8687
+    },
     "class": "ShovelItem"
   },
   "minecraft:wooden_pickaxe": {
@@ -5724,20 +5724,20 @@
       658
     ],
     "attack_damage": 6.0,
-    "strippables_blocks": [
-      45,
-      40,
-      41,
-      42,
-      43,
-      44,
-      52,
-      53,
-      54,
-      55,
-      56,
-      57
-    ],
+    "strippables_blocks": {
+      "34": 45,
+      "35": 40,
+      "36": 41,
+      "37": 42,
+      "38": 43,
+      "39": 44,
+      "46": 52,
+      "47": 53,
+      "48": 54,
+      "49": 55,
+      "50": 56,
+      "51": 57
+    },
     "class": "AxeItem"
   },
   "minecraft:stone_sword": {
@@ -5800,9 +5800,9 @@
       565
     ],
     "attack_damage": 2.5,
-    "flattenables_block_states": [
-      8687
-    ],
+    "flattenables_block_states": {
+      "8": 8687
+    },
     "class": "ShovelItem"
   },
   "minecraft:stone_pickaxe": {
@@ -5955,20 +5955,20 @@
       658
     ],
     "attack_damage": 8.0,
-    "strippables_blocks": [
-      45,
-      40,
-      41,
-      42,
-      43,
-      44,
-      52,
-      53,
-      54,
-      55,
-      56,
-      57
-    ],
+    "strippables_blocks": {
+      "34": 45,
+      "35": 40,
+      "36": 41,
+      "37": 42,
+      "38": 43,
+      "39": 44,
+      "46": 52,
+      "47": 53,
+      "48": 54,
+      "49": 55,
+      "50": 56,
+      "51": 57
+    },
     "class": "AxeItem"
   },
   "minecraft:diamond_sword": {
@@ -6031,9 +6031,9 @@
       565
     ],
     "attack_damage": 4.5,
-    "flattenables_block_states": [
-      8687
-    ],
+    "flattenables_block_states": {
+      "8": 8687
+    },
     "class": "ShovelItem"
   },
   "minecraft:diamond_pickaxe": {
@@ -6186,20 +6186,20 @@
       658
     ],
     "attack_damage": 8.0,
-    "strippables_blocks": [
-      45,
-      40,
-      41,
-      42,
-      43,
-      44,
-      52,
-      53,
-      54,
-      55,
-      56,
-      57
-    ],
+    "strippables_blocks": {
+      "34": 45,
+      "35": 40,
+      "36": 41,
+      "37": 42,
+      "38": 43,
+      "39": 44,
+      "46": 52,
+      "47": 53,
+      "48": 54,
+      "49": 55,
+      "50": 56,
+      "51": 57
+    },
     "class": "AxeItem"
   },
   "minecraft:stick": {
@@ -6296,9 +6296,9 @@
       565
     ],
     "attack_damage": 1.5,
-    "flattenables_block_states": [
-      8687
-    ],
+    "flattenables_block_states": {
+      "8": 8687
+    },
     "class": "ShovelItem"
   },
   "minecraft:golden_pickaxe": {
@@ -6451,20 +6451,20 @@
       658
     ],
     "attack_damage": 6.0,
-    "strippables_blocks": [
-      45,
-      40,
-      41,
-      42,
-      43,
-      44,
-      52,
-      53,
-      54,
-      55,
-      56,
-      57
-    ],
+    "strippables_blocks": {
+      "34": 45,
+      "35": 40,
+      "36": 41,
+      "37": 42,
+      "38": 43,
+      "39": 44,
+      "46": 52,
+      "47": 53,
+      "48": 54,
+      "49": 55,
+      "50": 56,
+      "51": 57
+    },
     "class": "AxeItem"
   },
   "minecraft:string": {
@@ -6507,12 +6507,12 @@
     "attack_damage_bonus": 0.0,
     "level": 0,
     "enchantment_value": 15,
-    "tillables_block_states": [
-      3363,
-      3363,
-      10,
-      3363
-    ],
+    "tillables_block_states": {
+      "8": 3363,
+      "9": 3363,
+      "10": 10,
+      "490": 3363
+    },
     "class": "HoeItem"
   },
   "minecraft:stone_hoe": {
@@ -6527,12 +6527,12 @@
     "attack_damage_bonus": 1.0,
     "level": 1,
     "enchantment_value": 5,
-    "tillables_block_states": [
-      3363,
-      3363,
-      10,
-      3363
-    ],
+    "tillables_block_states": {
+      "8": 3363,
+      "9": 3363,
+      "10": 10,
+      "490": 3363
+    },
     "class": "HoeItem"
   },
   "minecraft:iron_hoe": {
@@ -6547,12 +6547,12 @@
     "attack_damage_bonus": 2.0,
     "level": 2,
     "enchantment_value": 14,
-    "tillables_block_states": [
-      3363,
-      3363,
-      10,
-      3363
-    ],
+    "tillables_block_states": {
+      "8": 3363,
+      "9": 3363,
+      "10": 10,
+      "490": 3363
+    },
     "class": "HoeItem"
   },
   "minecraft:diamond_hoe": {
@@ -6567,12 +6567,12 @@
     "attack_damage_bonus": 3.0,
     "level": 3,
     "enchantment_value": 10,
-    "tillables_block_states": [
-      3363,
-      3363,
-      10,
-      3363
-    ],
+    "tillables_block_states": {
+      "8": 3363,
+      "9": 3363,
+      "10": 10,
+      "490": 3363
+    },
     "class": "HoeItem"
   },
   "minecraft:golden_hoe": {
@@ -6587,12 +6587,12 @@
     "attack_damage_bonus": 0.0,
     "level": 0,
     "enchantment_value": 22,
-    "tillables_block_states": [
-      3363,
-      3363,
-      10,
-      3363
-    ],
+    "tillables_block_states": {
+      "8": 3363,
+      "9": 3363,
+      "10": 10,
+      "490": 3363
+    },
     "class": "HoeItem"
   },
   "minecraft:wheat_seeds": {

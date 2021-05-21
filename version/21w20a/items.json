@@ -7531,14 +7531,14 @@
     "level": 0,
     "enchantment_value": 15,
     "attack_damage": 1.5,
-    "flattenables_block_states": [
-      9473,
-      9473,
-      9473,
-      9473,
-      9473,
-      9473
-    ],
+    "flattenables_block_states": {
+      "8": 9473,
+      "9": 9473,
+      "10": 9473,
+      "11": 9473,
+      "262": 9473,
+      "870": 9473
+    },
     "class": "ShovelItem"
   },
   "minecraft:wooden_pickaxe": {
@@ -7571,24 +7571,24 @@
     "level": 0,
     "enchantment_value": 15,
     "attack_damage": 6.0,
-    "strippables_blocks": [
-      49,
-      44,
-      45,
-      46,
-      47,
-      48,
-      56,
-      57,
-      58,
-      59,
-      60,
-      61,
-      698,
-      700,
-      707,
-      709
-    ],
+    "strippables_blocks": {
+      "38": 49,
+      "39": 44,
+      "40": 45,
+      "41": 46,
+      "42": 47,
+      "43": 48,
+      "50": 56,
+      "51": 57,
+      "52": 58,
+      "53": 59,
+      "54": 60,
+      "55": 61,
+      "697": 698,
+      "699": 700,
+      "706": 707,
+      "708": 709
+    },
     "class": "AxeItem"
   },
   "minecraft:wooden_hoe": {
@@ -7637,14 +7637,14 @@
     "level": 1,
     "enchantment_value": 5,
     "attack_damage": 2.5,
-    "flattenables_block_states": [
-      9473,
-      9473,
-      9473,
-      9473,
-      9473,
-      9473
-    ],
+    "flattenables_block_states": {
+      "8": 9473,
+      "9": 9473,
+      "10": 9473,
+      "11": 9473,
+      "262": 9473,
+      "870": 9473
+    },
     "class": "ShovelItem"
   },
   "minecraft:stone_pickaxe": {
@@ -7677,24 +7677,24 @@
     "level": 1,
     "enchantment_value": 5,
     "attack_damage": 8.0,
-    "strippables_blocks": [
-      49,
-      44,
-      45,
-      46,
-      47,
-      48,
-      56,
-      57,
-      58,
-      59,
-      60,
-      61,
-      698,
-      700,
-      707,
-      709
-    ],
+    "strippables_blocks": {
+      "38": 49,
+      "39": 44,
+      "40": 45,
+      "41": 46,
+      "42": 47,
+      "43": 48,
+      "50": 56,
+      "51": 57,
+      "52": 58,
+      "53": 59,
+      "54": 60,
+      "55": 61,
+      "697": 698,
+      "699": 700,
+      "706": 707,
+      "708": 709
+    },
     "class": "AxeItem"
   },
   "minecraft:stone_hoe": {
@@ -7743,14 +7743,14 @@
     "level": 0,
     "enchantment_value": 22,
     "attack_damage": 1.5,
-    "flattenables_block_states": [
-      9473,
-      9473,
-      9473,
-      9473,
-      9473,
-      9473
-    ],
+    "flattenables_block_states": {
+      "8": 9473,
+      "9": 9473,
+      "10": 9473,
+      "11": 9473,
+      "262": 9473,
+      "870": 9473
+    },
     "class": "ShovelItem"
   },
   "minecraft:golden_pickaxe": {
@@ -7783,24 +7783,24 @@
     "level": 0,
     "enchantment_value": 22,
     "attack_damage": 6.0,
-    "strippables_blocks": [
-      49,
-      44,
-      45,
-      46,
-      47,
-      48,
-      56,
-      57,
-      58,
-      59,
-      60,
-      61,
-      698,
-      700,
-      707,
-      709
-    ],
+    "strippables_blocks": {
+      "38": 49,
+      "39": 44,
+      "40": 45,
+      "41": 46,
+      "42": 47,
+      "43": 48,
+      "50": 56,
+      "51": 57,
+      "52": 58,
+      "53": 59,
+      "54": 60,
+      "55": 61,
+      "697": 698,
+      "699": 700,
+      "706": 707,
+      "708": 709
+    },
     "class": "AxeItem"
   },
   "minecraft:golden_hoe": {
@@ -7849,14 +7849,14 @@
     "level": 2,
     "enchantment_value": 14,
     "attack_damage": 3.5,
-    "flattenables_block_states": [
-      9473,
-      9473,
-      9473,
-      9473,
-      9473,
-      9473
-    ],
+    "flattenables_block_states": {
+      "8": 9473,
+      "9": 9473,
+      "10": 9473,
+      "11": 9473,
+      "262": 9473,
+      "870": 9473
+    },
     "class": "ShovelItem"
   },
   "minecraft:iron_pickaxe": {
@@ -7889,24 +7889,24 @@
     "level": 2,
     "enchantment_value": 14,
     "attack_damage": 8.0,
-    "strippables_blocks": [
-      49,
-      44,
-      45,
-      46,
-      47,
-      48,
-      56,
-      57,
-      58,
-      59,
-      60,
-      61,
-      698,
-      700,
-      707,
-      709
-    ],
+    "strippables_blocks": {
+      "38": 49,
+      "39": 44,
+      "40": 45,
+      "41": 46,
+      "42": 47,
+      "43": 48,
+      "50": 56,
+      "51": 57,
+      "52": 58,
+      "53": 59,
+      "54": 60,
+      "55": 61,
+      "697": 698,
+      "699": 700,
+      "706": 707,
+      "708": 709
+    },
     "class": "AxeItem"
   },
   "minecraft:iron_hoe": {
@@ -7955,14 +7955,14 @@
     "level": 3,
     "enchantment_value": 10,
     "attack_damage": 4.5,
-    "flattenables_block_states": [
-      9473,
-      9473,
-      9473,
-      9473,
-      9473,
-      9473
-    ],
+    "flattenables_block_states": {
+      "8": 9473,
+      "9": 9473,
+      "10": 9473,
+      "11": 9473,
+      "262": 9473,
+      "870": 9473
+    },
     "class": "ShovelItem"
   },
   "minecraft:diamond_pickaxe": {
@@ -7995,24 +7995,24 @@
     "level": 3,
     "enchantment_value": 10,
     "attack_damage": 8.0,
-    "strippables_blocks": [
-      49,
-      44,
-      45,
-      46,
-      47,
-      48,
-      56,
-      57,
-      58,
-      59,
-      60,
-      61,
-      698,
-      700,
-      707,
-      709
-    ],
+    "strippables_blocks": {
+      "38": 49,
+      "39": 44,
+      "40": 45,
+      "41": 46,
+      "42": 47,
+      "43": 48,
+      "50": 56,
+      "51": 57,
+      "52": 58,
+      "53": 59,
+      "54": 60,
+      "55": 61,
+      "697": 698,
+      "699": 700,
+      "706": 707,
+      "708": 709
+    },
     "class": "AxeItem"
   },
   "minecraft:diamond_hoe": {
@@ -8061,14 +8061,14 @@
     "level": 4,
     "enchantment_value": 15,
     "attack_damage": 5.5,
-    "flattenables_block_states": [
-      9473,
-      9473,
-      9473,
-      9473,
-      9473,
-      9473
-    ],
+    "flattenables_block_states": {
+      "8": 9473,
+      "9": 9473,
+      "10": 9473,
+      "11": 9473,
+      "262": 9473,
+      "870": 9473
+    },
     "class": "ShovelItem"
   },
   "minecraft:netherite_pickaxe": {
@@ -8101,24 +8101,24 @@
     "level": 4,
     "enchantment_value": 15,
     "attack_damage": 9.0,
-    "strippables_blocks": [
-      49,
-      44,
-      45,
-      46,
-      47,
-      48,
-      56,
-      57,
-      58,
-      59,
-      60,
-      61,
-      698,
-      700,
-      707,
-      709
-    ],
+    "strippables_blocks": {
+      "38": 49,
+      "39": 44,
+      "40": 45,
+      "41": 46,
+      "42": 47,
+      "43": 48,
+      "50": 56,
+      "51": 57,
+      "52": 58,
+      "53": 59,
+      "54": 60,
+      "55": 61,
+      "697": 698,
+      "699": 700,
+      "706": 707,
+      "708": 709
+    },
     "class": "AxeItem"
   },
   "minecraft:netherite_hoe": {
