@@ -1,11 +1,13 @@
 {
   "minecraft:empty": {
-    "id": 0
+    "id": 0,
+    "class": "EmptyFluid"
   },
   "minecraft:flowing_water": {
     "id": 1,
     "bucket": 777,
     "drip_particle_type": 13,
+    "class": "WaterFluid$Flowing",
     "render": {
       "texture": "block/water_flow"
     }
@@ -14,6 +16,7 @@
     "id": 2,
     "bucket": 777,
     "drip_particle_type": 13,
+    "class": "WaterFluid$Still",
     "render": {
       "texture": "block/water_still"
     }
@@ -22,6 +25,7 @@
     "id": 3,
     "bucket": 778,
     "drip_particle_type": 10,
+    "class": "LavaFluid$Flowing",
     "render": {
       "texture": "block/lava_flow"
     }
@@ -30,6 +34,7 @@
     "id": 4,
     "bucket": 778,
     "drip_particle_type": 10,
+    "class": "LavaFluid$Still",
     "render": {
       "texture": "block/lava_still"
     }
