@@ -7,36 +7,24 @@
     "id": 1,
     "bucket": 777,
     "drip_particle_type": 13,
-    "class": "WaterFluid$Flowing",
-    "render": {
-      "texture": "block/water_flow"
-    }
+    "class": "WaterFluid$Flowing"
   },
   "minecraft:water": {
     "id": 2,
     "bucket": 777,
     "drip_particle_type": 13,
-    "class": "WaterFluid$Still",
-    "render": {
-      "texture": "block/water_still"
-    }
+    "class": "WaterFluid$Still"
   },
   "minecraft:flowing_lava": {
     "id": 3,
     "bucket": 778,
     "drip_particle_type": 10,
-    "class": "LavaFluid$Flowing",
-    "render": {
-      "texture": "block/lava_flow"
-    }
+    "class": "LavaFluid$Flowing"
   },
   "minecraft:lava": {
     "id": 4,
     "bucket": 778,
     "drip_particle_type": 10,
-    "class": "LavaFluid$Still",
-    "render": {
-      "texture": "block/lava_still"
-    }
+    "class": "LavaFluid$Still"
   }
 }
