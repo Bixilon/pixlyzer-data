@@ -1,0 +1,10 @@
+{
+  "id": "1.17.1-pre3",
+  "name": "1.17.1 Pre-release 3",
+  "stable": false,
+  "world_version": 2727,
+  "protocol_version": 1073741862,
+  "pack_version": 7,
+  "build_time": "Wed Jun 30 17:41:26 CEST 2021",
+  "release_target": "1.17.1"
+}
