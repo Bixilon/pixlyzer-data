@@ -6914,12 +6914,12 @@
       "697": 698
     },
     "effective_materials": [
-      "minecraft:replaceable_plant",
-      "minecraft:wood",
-      "minecraft:plant",
       "minecraft:bamboo",
       "minecraft:gourd",
-      "minecraft:nether_wood"
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:replaceable_plant",
+      "minecraft:wood"
     ],
     "class": "AxeItem"
   },
@@ -7421,12 +7421,12 @@
       "697": 698
     },
     "effective_materials": [
-      "minecraft:replaceable_plant",
-      "minecraft:wood",
-      "minecraft:plant",
       "minecraft:bamboo",
       "minecraft:gourd",
-      "minecraft:nether_wood"
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:replaceable_plant",
+      "minecraft:wood"
     ],
     "class": "AxeItem"
   },
@@ -7928,12 +7928,12 @@
       "697": 698
     },
     "effective_materials": [
-      "minecraft:replaceable_plant",
-      "minecraft:wood",
-      "minecraft:plant",
       "minecraft:bamboo",
       "minecraft:gourd",
-      "minecraft:nether_wood"
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:replaceable_plant",
+      "minecraft:wood"
     ],
     "class": "AxeItem"
   },
@@ -8437,12 +8437,12 @@
       "697": 698
     },
     "effective_materials": [
-      "minecraft:replaceable_plant",
-      "minecraft:wood",
-      "minecraft:plant",
       "minecraft:bamboo",
       "minecraft:gourd",
-      "minecraft:nether_wood"
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:replaceable_plant",
+      "minecraft:wood"
     ],
     "class": "AxeItem"
   },
@@ -8951,12 +8951,12 @@
       "697": 698
     },
     "effective_materials": [
-      "minecraft:replaceable_plant",
-      "minecraft:wood",
-      "minecraft:plant",
       "minecraft:bamboo",
       "minecraft:gourd",
-      "minecraft:nether_wood"
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:replaceable_plant",
+      "minecraft:wood"
     ],
     "class": "AxeItem"
   },
@@ -9465,12 +9465,12 @@
       "697": 698
     },
     "effective_materials": [
-      "minecraft:replaceable_plant",
-      "minecraft:wood",
-      "minecraft:plant",
       "minecraft:bamboo",
       "minecraft:gourd",
-      "minecraft:nether_wood"
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:replaceable_plant",
+      "minecraft:wood"
     ],
     "class": "AxeItem"
   },

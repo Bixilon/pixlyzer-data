@@ -27,8 +27,8 @@
     "id": 5,
     "work_station": 5,
     "requested_items": [
-      606,
       605,
+      606,
       875
     ],
     "blocks": [

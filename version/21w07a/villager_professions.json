@@ -27,10 +27,10 @@
     "id": 5,
     "work_station": 5,
     "requested_items": [
-      659,
       658,
-      933,
-      752
+      659,
+      752,
+      933
     ],
     "blocks": [
       155

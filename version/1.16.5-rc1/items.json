@@ -6813,11 +6813,11 @@
       "694": 695
     },
     "effective_materials": [
-      "minecraft:plant",
       "minecraft:bamboo",
-      "minecraft:replaceable_plant",
-      "minecraft:nether_wood",
       "minecraft:gourd",
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:replaceable_plant",
       "minecraft:wood"
     ],
     "class": "AxeItem"
@@ -7273,11 +7273,11 @@
       "694": 695
     },
     "effective_materials": [
-      "minecraft:plant",
       "minecraft:bamboo",
-      "minecraft:replaceable_plant",
-      "minecraft:nether_wood",
       "minecraft:gourd",
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:replaceable_plant",
       "minecraft:wood"
     ],
     "class": "AxeItem"
@@ -7733,11 +7733,11 @@
       "694": 695
     },
     "effective_materials": [
-      "minecraft:plant",
       "minecraft:bamboo",
-      "minecraft:replaceable_plant",
-      "minecraft:nether_wood",
       "minecraft:gourd",
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:replaceable_plant",
       "minecraft:wood"
     ],
     "class": "AxeItem"
@@ -8195,11 +8195,11 @@
       "694": 695
     },
     "effective_materials": [
-      "minecraft:plant",
       "minecraft:bamboo",
-      "minecraft:replaceable_plant",
-      "minecraft:nether_wood",
       "minecraft:gourd",
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:replaceable_plant",
       "minecraft:wood"
     ],
     "class": "AxeItem"
@@ -8662,11 +8662,11 @@
       "694": 695
     },
     "effective_materials": [
-      "minecraft:plant",
       "minecraft:bamboo",
-      "minecraft:replaceable_plant",
-      "minecraft:nether_wood",
       "minecraft:gourd",
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:replaceable_plant",
       "minecraft:wood"
     ],
     "class": "AxeItem"
@@ -9129,11 +9129,11 @@
       "694": 695
     },
     "effective_materials": [
-      "minecraft:plant",
       "minecraft:bamboo",
-      "minecraft:replaceable_plant",
-      "minecraft:nether_wood",
       "minecraft:gourd",
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:replaceable_plant",
       "minecraft:wood"
     ],
     "class": "AxeItem"

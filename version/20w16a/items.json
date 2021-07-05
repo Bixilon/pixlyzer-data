@@ -6627,12 +6627,12 @@
       "694": 695
     },
     "effective_materials": [
-      "minecraft:replaceable_plant",
-      "minecraft:plant",
-      "minecraft:wood",
-      "minecraft:nether_wood",
       "minecraft:bamboo",
-      "minecraft:pumpkin"
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:pumpkin",
+      "minecraft:replaceable_plant",
+      "minecraft:wood"
     ],
     "class": "AxeItem"
   },
@@ -7162,12 +7162,12 @@
       "694": 695
     },
     "effective_materials": [
-      "minecraft:replaceable_plant",
-      "minecraft:plant",
-      "minecraft:wood",
-      "minecraft:nether_wood",
       "minecraft:bamboo",
-      "minecraft:pumpkin"
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:pumpkin",
+      "minecraft:replaceable_plant",
+      "minecraft:wood"
     ],
     "class": "AxeItem"
   },
@@ -7584,12 +7584,12 @@
       "694": 695
     },
     "effective_materials": [
-      "minecraft:replaceable_plant",
-      "minecraft:plant",
-      "minecraft:wood",
-      "minecraft:nether_wood",
       "minecraft:bamboo",
-      "minecraft:pumpkin"
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:pumpkin",
+      "minecraft:replaceable_plant",
+      "minecraft:wood"
     ],
     "class": "AxeItem"
   },
@@ -8013,12 +8013,12 @@
       "694": 695
     },
     "effective_materials": [
-      "minecraft:replaceable_plant",
-      "minecraft:plant",
-      "minecraft:wood",
-      "minecraft:nether_wood",
       "minecraft:bamboo",
-      "minecraft:pumpkin"
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:pumpkin",
+      "minecraft:replaceable_plant",
+      "minecraft:wood"
     ],
     "class": "AxeItem"
   },
@@ -8472,12 +8472,12 @@
       "694": 695
     },
     "effective_materials": [
-      "minecraft:replaceable_plant",
-      "minecraft:plant",
-      "minecraft:wood",
-      "minecraft:nether_wood",
       "minecraft:bamboo",
-      "minecraft:pumpkin"
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:pumpkin",
+      "minecraft:replaceable_plant",
+      "minecraft:wood"
     ],
     "class": "AxeItem"
   },
@@ -8901,12 +8901,12 @@
       "694": 695
     },
     "effective_materials": [
-      "minecraft:replaceable_plant",
-      "minecraft:plant",
-      "minecraft:wood",
-      "minecraft:nether_wood",
       "minecraft:bamboo",
-      "minecraft:pumpkin"
+      "minecraft:nether_wood",
+      "minecraft:plant",
+      "minecraft:pumpkin",
+      "minecraft:replaceable_plant",
+      "minecraft:wood"
     ],
     "class": "AxeItem"
   },
