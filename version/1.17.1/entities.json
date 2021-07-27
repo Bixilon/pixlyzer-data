@@ -1,6 +1,7 @@
 {
   "minecraft:area_effect_cloud": {
     "id": 0,
+    "translation_key": "entity.minecraft.area_effect_cloud",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -19,6 +20,7 @@
   },
   "minecraft:armor_stand": {
     "id": 1,
+    "translation_key": "entity.minecraft.armor_stand",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -47,6 +49,7 @@
   },
   "minecraft:arrow": {
     "id": 2,
+    "translation_key": "entity.minecraft.arrow",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -62,6 +65,7 @@
   },
   "minecraft:axolotl": {
     "id": 3,
+    "translation_key": "entity.minecraft.axolotl",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -89,6 +93,7 @@
   },
   "minecraft:bat": {
     "id": 4,
+    "translation_key": "entity.minecraft.bat",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -113,6 +118,7 @@
   },
   "minecraft:bee": {
     "id": 5,
+    "translation_key": "entity.minecraft.bee",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -140,6 +146,7 @@
   },
   "minecraft:blaze": {
     "id": 6,
+    "translation_key": "entity.minecraft.blaze",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -165,6 +172,7 @@
   },
   "minecraft:boat": {
     "id": 7,
+    "translation_key": "entity.minecraft.boat",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -186,6 +194,7 @@
   },
   "minecraft:cat": {
     "id": 8,
+    "translation_key": "entity.minecraft.cat",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -214,6 +223,7 @@
   },
   "minecraft:cave_spider": {
     "id": 9,
+    "translation_key": "entity.minecraft.cave_spider",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -236,6 +246,7 @@
   },
   "minecraft:chicken": {
     "id": 10,
+    "translation_key": "entity.minecraft.chicken",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -257,6 +268,7 @@
   },
   "minecraft:cod": {
     "id": 11,
+    "translation_key": "entity.minecraft.cod",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -278,6 +290,7 @@
   },
   "minecraft:cow": {
     "id": 12,
+    "translation_key": "entity.minecraft.cow",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -299,6 +312,7 @@
   },
   "minecraft:creeper": {
     "id": 13,
+    "translation_key": "entity.minecraft.creeper",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -326,6 +340,7 @@
   },
   "minecraft:dolphin": {
     "id": 14,
+    "translation_key": "entity.minecraft.dolphin",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -353,6 +368,7 @@
   },
   "minecraft:donkey": {
     "id": 15,
+    "translation_key": "entity.minecraft.donkey",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -375,6 +391,7 @@
   },
   "minecraft:dragon_fireball": {
     "id": 16,
+    "translation_key": "entity.minecraft.dragon_fireball",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -387,6 +404,7 @@
   },
   "minecraft:drowned": {
     "id": 17,
+    "translation_key": "entity.minecraft.drowned",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -410,6 +428,7 @@
   },
   "minecraft:elder_guardian": {
     "id": 18,
+    "translation_key": "entity.minecraft.elder_guardian",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -432,6 +451,7 @@
   },
   "minecraft:end_crystal": {
     "id": 19,
+    "translation_key": "entity.minecraft.end_crystal",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -448,6 +468,7 @@
   },
   "minecraft:ender_dragon": {
     "id": 20,
+    "translation_key": "entity.minecraft.ender_dragon",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -472,6 +493,7 @@
   },
   "minecraft:enderman": {
     "id": 21,
+    "translation_key": "entity.minecraft.enderman",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -499,6 +521,7 @@
   },
   "minecraft:endermite": {
     "id": 22,
+    "translation_key": "entity.minecraft.endermite",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -521,6 +544,7 @@
   },
   "minecraft:evoker": {
     "id": 23,
+    "translation_key": "entity.minecraft.evoker",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -543,6 +567,7 @@
   },
   "minecraft:evoker_fangs": {
     "id": 24,
+    "translation_key": "entity.minecraft.evoker_fangs",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -555,6 +580,7 @@
   },
   "minecraft:experience_orb": {
     "id": 25,
+    "translation_key": "entity.minecraft.experience_orb",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -567,6 +593,7 @@
   },
   "minecraft:eye_of_ender": {
     "id": 26,
+    "translation_key": "entity.minecraft.eye_of_ender",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -582,6 +609,7 @@
   },
   "minecraft:falling_block": {
     "id": 27,
+    "translation_key": "entity.minecraft.falling_block",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -597,6 +625,7 @@
   },
   "minecraft:firework_rocket": {
     "id": 28,
+    "translation_key": "entity.minecraft.firework_rocket",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -614,6 +643,7 @@
   },
   "minecraft:fox": {
     "id": 29,
+    "translation_key": "entity.minecraft.fox",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -642,6 +672,7 @@
   },
   "minecraft:ghast": {
     "id": 30,
+    "translation_key": "entity.minecraft.ghast",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -666,6 +697,7 @@
   },
   "minecraft:giant": {
     "id": 31,
+    "translation_key": "entity.minecraft.giant",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -688,6 +720,7 @@
   },
   "minecraft:glow_item_frame": {
     "id": 32,
+    "translation_key": "entity.minecraft.glow_item_frame",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -700,6 +733,7 @@
   },
   "minecraft:glow_squid": {
     "id": 33,
+    "translation_key": "entity.minecraft.glow_squid",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -724,6 +758,7 @@
   },
   "minecraft:goat": {
     "id": 34,
+    "translation_key": "entity.minecraft.goat",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -749,6 +784,7 @@
   },
   "minecraft:guardian": {
     "id": 35,
+    "translation_key": "entity.minecraft.guardian",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -775,6 +811,7 @@
   },
   "minecraft:hoglin": {
     "id": 36,
+    "translation_key": "entity.minecraft.hoglin",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -800,6 +837,7 @@
   },
   "minecraft:horse": {
     "id": 37,
+    "translation_key": "entity.minecraft.horse",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -825,6 +863,7 @@
   },
   "minecraft:husk": {
     "id": 38,
+    "translation_key": "entity.minecraft.husk",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -848,6 +887,7 @@
   },
   "minecraft:illusioner": {
     "id": 39,
+    "translation_key": "entity.minecraft.illusioner",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -870,6 +910,7 @@
   },
   "minecraft:iron_golem": {
     "id": 40,
+    "translation_key": "entity.minecraft.iron_golem",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -895,6 +936,7 @@
   },
   "minecraft:item": {
     "id": 41,
+    "translation_key": "entity.minecraft.item",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -910,6 +952,7 @@
   },
   "minecraft:item_frame": {
     "id": 42,
+    "translation_key": "entity.minecraft.item_frame",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -926,6 +969,7 @@
   },
   "minecraft:fireball": {
     "id": 43,
+    "translation_key": "entity.minecraft.fireball",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -938,6 +982,7 @@
   },
   "minecraft:leash_knot": {
     "id": 44,
+    "translation_key": "entity.minecraft.leash_knot",
     "serializable": false,
     "summonable": true,
     "is_fire_immune": false,
@@ -950,6 +995,7 @@
   },
   "minecraft:lightning_bolt": {
     "id": 45,
+    "translation_key": "entity.minecraft.lightning_bolt",
     "serializable": false,
     "summonable": true,
     "is_fire_immune": false,
@@ -962,6 +1008,7 @@
   },
   "minecraft:llama": {
     "id": 46,
+    "translation_key": "entity.minecraft.llama",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -989,6 +1036,7 @@
   },
   "minecraft:llama_spit": {
     "id": 47,
+    "translation_key": "entity.minecraft.llama_spit",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1001,6 +1049,7 @@
   },
   "minecraft:magma_cube": {
     "id": 48,
+    "translation_key": "entity.minecraft.magma_cube",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -1023,6 +1072,7 @@
   },
   "minecraft:marker": {
     "id": 49,
+    "translation_key": "entity.minecraft.marker",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1035,6 +1085,7 @@
   },
   "minecraft:minecart": {
     "id": 50,
+    "translation_key": "entity.minecraft.minecart",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1047,6 +1098,7 @@
   },
   "minecraft:chest_minecart": {
     "id": 51,
+    "translation_key": "entity.minecraft.chest_minecart",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1059,6 +1111,7 @@
   },
   "minecraft:command_block_minecart": {
     "id": 52,
+    "translation_key": "entity.minecraft.command_block_minecart",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1075,6 +1128,7 @@
   },
   "minecraft:furnace_minecart": {
     "id": 53,
+    "translation_key": "entity.minecraft.furnace_minecart",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1090,6 +1144,7 @@
   },
   "minecraft:hopper_minecart": {
     "id": 54,
+    "translation_key": "entity.minecraft.hopper_minecart",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1102,6 +1157,7 @@
   },
   "minecraft:spawner_minecart": {
     "id": 55,
+    "translation_key": "entity.minecraft.spawner_minecart",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1114,6 +1170,7 @@
   },
   "minecraft:tnt_minecart": {
     "id": 56,
+    "translation_key": "entity.minecraft.tnt_minecart",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1126,6 +1183,7 @@
   },
   "minecraft:mule": {
     "id": 57,
+    "translation_key": "entity.minecraft.mule",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1148,6 +1206,7 @@
   },
   "minecraft:mooshroom": {
     "id": 58,
+    "translation_key": "entity.minecraft.mooshroom",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1172,6 +1231,7 @@
   },
   "minecraft:ocelot": {
     "id": 59,
+    "translation_key": "entity.minecraft.ocelot",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1197,6 +1257,7 @@
   },
   "minecraft:painting": {
     "id": 60,
+    "translation_key": "entity.minecraft.painting",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1209,6 +1270,7 @@
   },
   "minecraft:panda": {
     "id": 61,
+    "translation_key": "entity.minecraft.panda",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1239,6 +1301,7 @@
   },
   "minecraft:parrot": {
     "id": 62,
+    "translation_key": "entity.minecraft.parrot",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1264,6 +1327,7 @@
   },
   "minecraft:phantom": {
     "id": 63,
+    "translation_key": "entity.minecraft.phantom",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1289,6 +1353,7 @@
   },
   "minecraft:pig": {
     "id": 64,
+    "translation_key": "entity.minecraft.pig",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1314,6 +1379,7 @@
   },
   "minecraft:piglin": {
     "id": 65,
+    "translation_key": "entity.minecraft.piglin",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1341,6 +1407,7 @@
   },
   "minecraft:piglin_brute": {
     "id": 66,
+    "translation_key": "entity.minecraft.piglin_brute",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1363,6 +1430,7 @@
   },
   "minecraft:pillager": {
     "id": 67,
+    "translation_key": "entity.minecraft.pillager",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1388,6 +1456,7 @@
   },
   "minecraft:polar_bear": {
     "id": 68,
+    "translation_key": "entity.minecraft.polar_bear",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1413,6 +1482,7 @@
   },
   "minecraft:tnt": {
     "id": 69,
+    "translation_key": "entity.minecraft.tnt",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -1428,6 +1498,7 @@
   },
   "minecraft:pufferfish": {
     "id": 70,
+    "translation_key": "entity.minecraft.pufferfish",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1452,6 +1523,7 @@
   },
   "minecraft:rabbit": {
     "id": 71,
+    "translation_key": "entity.minecraft.rabbit",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1476,6 +1548,7 @@
   },
   "minecraft:ravager": {
     "id": 72,
+    "translation_key": "entity.minecraft.ravager",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1498,6 +1571,7 @@
   },
   "minecraft:salmon": {
     "id": 73,
+    "translation_key": "entity.minecraft.salmon",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1519,6 +1593,7 @@
   },
   "minecraft:sheep": {
     "id": 74,
+    "translation_key": "entity.minecraft.sheep",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1543,6 +1618,7 @@
   },
   "minecraft:shulker": {
     "id": 75,
+    "translation_key": "entity.minecraft.shulker",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -1569,6 +1645,7 @@
   },
   "minecraft:shulker_bullet": {
     "id": 76,
+    "translation_key": "entity.minecraft.shulker_bullet",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1581,6 +1658,7 @@
   },
   "minecraft:silverfish": {
     "id": 77,
+    "translation_key": "entity.minecraft.silverfish",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1603,6 +1681,7 @@
   },
   "minecraft:skeleton": {
     "id": 78,
+    "translation_key": "entity.minecraft.skeleton",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1628,6 +1707,7 @@
   },
   "minecraft:skeleton_horse": {
     "id": 79,
+    "translation_key": "entity.minecraft.skeleton_horse",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1650,6 +1730,7 @@
   },
   "minecraft:slime": {
     "id": 80,
+    "translation_key": "entity.minecraft.slime",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1675,6 +1756,7 @@
   },
   "minecraft:small_fireball": {
     "id": 81,
+    "translation_key": "entity.minecraft.small_fireball",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1687,6 +1769,7 @@
   },
   "minecraft:snow_golem": {
     "id": 82,
+    "translation_key": "entity.minecraft.snow_golem",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1711,6 +1794,7 @@
   },
   "minecraft:snowball": {
     "id": 83,
+    "translation_key": "entity.minecraft.snowball",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1723,6 +1807,7 @@
   },
   "minecraft:spectral_arrow": {
     "id": 84,
+    "translation_key": "entity.minecraft.spectral_arrow",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1735,6 +1820,7 @@
   },
   "minecraft:spider": {
     "id": 85,
+    "translation_key": "entity.minecraft.spider",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1760,6 +1846,7 @@
   },
   "minecraft:squid": {
     "id": 86,
+    "translation_key": "entity.minecraft.squid",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1781,6 +1868,7 @@
   },
   "minecraft:stray": {
     "id": 87,
+    "translation_key": "entity.minecraft.stray",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1803,6 +1891,7 @@
   },
   "minecraft:strider": {
     "id": 88,
+    "translation_key": "entity.minecraft.strider",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -1829,6 +1918,7 @@
   },
   "minecraft:egg": {
     "id": 89,
+    "translation_key": "entity.minecraft.egg",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1841,6 +1931,7 @@
   },
   "minecraft:ender_pearl": {
     "id": 90,
+    "translation_key": "entity.minecraft.ender_pearl",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1853,6 +1944,7 @@
   },
   "minecraft:experience_bottle": {
     "id": 91,
+    "translation_key": "entity.minecraft.experience_bottle",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1865,6 +1957,7 @@
   },
   "minecraft:potion": {
     "id": 92,
+    "translation_key": "entity.minecraft.potion",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1877,6 +1970,7 @@
   },
   "minecraft:trident": {
     "id": 93,
+    "translation_key": "entity.minecraft.trident",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1893,6 +1987,7 @@
   },
   "minecraft:trader_llama": {
     "id": 94,
+    "translation_key": "entity.minecraft.trader_llama",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1915,6 +2010,7 @@
   },
   "minecraft:tropical_fish": {
     "id": 95,
+    "translation_key": "entity.minecraft.tropical_fish",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1939,6 +2035,7 @@
   },
   "minecraft:turtle": {
     "id": 96,
+    "translation_key": "entity.minecraft.turtle",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -1968,6 +2065,7 @@
   },
   "minecraft:vex": {
     "id": 97,
+    "translation_key": "entity.minecraft.vex",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -1993,6 +2091,7 @@
   },
   "minecraft:villager": {
     "id": 98,
+    "translation_key": "entity.minecraft.villager",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -2017,6 +2116,7 @@
   },
   "minecraft:vindicator": {
     "id": 99,
+    "translation_key": "entity.minecraft.vindicator",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -2039,6 +2139,7 @@
   },
   "minecraft:wandering_trader": {
     "id": 100,
+    "translation_key": "entity.minecraft.wandering_trader",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -2060,6 +2161,7 @@
   },
   "minecraft:witch": {
     "id": 101,
+    "translation_key": "entity.minecraft.witch",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -2085,6 +2187,7 @@
   },
   "minecraft:wither": {
     "id": 102,
+    "translation_key": "entity.minecraft.wither",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -2113,6 +2216,7 @@
   },
   "minecraft:wither_skeleton": {
     "id": 103,
+    "translation_key": "entity.minecraft.wither_skeleton",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -2135,6 +2239,7 @@
   },
   "minecraft:wither_skull": {
     "id": 104,
+    "translation_key": "entity.minecraft.wither_skull",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -2150,6 +2255,7 @@
   },
   "minecraft:wolf": {
     "id": 105,
+    "translation_key": "entity.minecraft.wolf",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -2177,6 +2283,7 @@
   },
   "minecraft:zoglin": {
     "id": 106,
+    "translation_key": "entity.minecraft.zoglin",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -2202,6 +2309,7 @@
   },
   "minecraft:zombie": {
     "id": 107,
+    "translation_key": "entity.minecraft.zombie",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -2230,6 +2338,7 @@
   },
   "minecraft:zombie_horse": {
     "id": 108,
+    "translation_key": "entity.minecraft.zombie_horse",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -2252,6 +2361,7 @@
   },
   "minecraft:zombie_villager": {
     "id": 109,
+    "translation_key": "entity.minecraft.zombie_villager",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": false,
@@ -2279,6 +2389,7 @@
   },
   "minecraft:zombified_piglin": {
     "id": 110,
+    "translation_key": "entity.minecraft.zombified_piglin",
     "serializable": true,
     "summonable": true,
     "is_fire_immune": true,
@@ -2302,6 +2413,7 @@
   },
   "minecraft:player": {
     "id": 111,
+    "translation_key": "entity.minecraft.player",
     "serializable": false,
     "summonable": false,
     "is_fire_immune": false,
@@ -2332,6 +2444,7 @@
   },
   "minecraft:fishing_bobber": {
     "id": 112,
+    "translation_key": "entity.minecraft.fishing_bobber",
     "serializable": false,
     "summonable": false,
     "is_fire_immune": false,
