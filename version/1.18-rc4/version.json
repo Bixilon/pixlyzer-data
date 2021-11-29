@@ -1,0 +1,10 @@
+{
+  "id": "1.18-rc4",
+  "name": "1.18 Release Candidate 4",
+  "stable": false,
+  "world_version": 2859,
+  "protocol_version": 1073741884,
+  "pack_version": 8,
+  "build_time": "Mon Nov 29 14:41:41 CET 2021",
+  "release_target": "1.18"
+}
