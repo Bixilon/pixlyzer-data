@@ -24,11 +24,11 @@
   },
   "minecraft:block": {
     "id": 2,
-    "render": {}
+    "render": { }
   },
   "minecraft:block_marker": {
     "id": 3,
-    "render": {}
+    "render": { }
   },
   "minecraft:bubble": {
     "id": 4,
@@ -167,7 +167,7 @@
   },
   "minecraft:elder_guardian": {
     "id": 17,
-    "render": {},
+    "render": { },
     "override_limiter": true
   },
   "minecraft:enchanted_hit": {
@@ -243,7 +243,7 @@
   },
   "minecraft:explosion_emitter": {
     "id": 22,
-    "render": {},
+    "render": { },
     "override_limiter": true
   },
   "minecraft:explosion": {
@@ -394,7 +394,7 @@
   },
   "minecraft:item": {
     "id": 35,
-    "render": {}
+    "render": { }
   },
   "minecraft:vibration": {
     "id": 36,
@@ -406,11 +406,11 @@
   },
   "minecraft:item_slime": {
     "id": 37,
-    "render": {}
+    "render": { }
   },
   "minecraft:item_snowball": {
     "id": 38,
-    "render": {}
+    "render": { }
   },
   "minecraft:large_smoke": {
     "id": 39,
