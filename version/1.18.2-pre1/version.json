@@ -1,0 +1,10 @@
+{
+  "id": "1.18.2-pre1",
+  "name": "1.18.2 Pre-release 1",
+  "stable": false,
+  "world_version": 2971,
+  "protocol_version": 1073741894,
+  "pack_version": 8,
+  "build_time": "Fri Feb 18 16:58:27 CET 2022",
+  "release_target": "1.18.2"
+}
