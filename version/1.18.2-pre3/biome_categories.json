@@ -1,0 +1,59 @@
+{
+  "0": {
+    "name": "none"
+  },
+  "1": {
+    "name": "taiga"
+  },
+  "2": {
+    "name": "extreme_hills"
+  },
+  "3": {
+    "name": "jungle"
+  },
+  "4": {
+    "name": "mesa"
+  },
+  "5": {
+    "name": "plains"
+  },
+  "6": {
+    "name": "savanna"
+  },
+  "7": {
+    "name": "icy"
+  },
+  "8": {
+    "name": "the_end"
+  },
+  "9": {
+    "name": "beach"
+  },
+  "10": {
+    "name": "forest"
+  },
+  "11": {
+    "name": "ocean"
+  },
+  "12": {
+    "name": "desert"
+  },
+  "13": {
+    "name": "river"
+  },
+  "14": {
+    "name": "swamp"
+  },
+  "15": {
+    "name": "mushroom"
+  },
+  "16": {
+    "name": "nether"
+  },
+  "17": {
+    "name": "underground"
+  },
+  "18": {
+    "name": "mountain"
+  }
+}
