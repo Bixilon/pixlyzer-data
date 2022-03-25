@@ -692,7 +692,7 @@
     "class": "class_7102",
     "meta": {
       "FROG_TYPE": 17,
-      "FROG_FIREWORK": 18
+      "FROG_TARGET": 18
     },
     "parent": "AnimalEntity"
   },
