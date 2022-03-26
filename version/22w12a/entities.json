@@ -2242,7 +2242,7 @@
     },
     "class": "WardenEntity",
     "meta": {
-      "WADEN_ANGER": 16
+      "WARDEN_ANGER": 16
     },
     "parent": "HostileEntity"
   },
