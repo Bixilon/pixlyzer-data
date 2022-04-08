@@ -11,7 +11,7 @@
     "minimum_y": -64,
     "height": 384,
     "logical_height": 384,
-    "infiniburn": "TagKey[minecraft:block / minecraft:infiniburn_overworld]",
+    "infiniburn": "minecraft:infiniburn_overworld",
     "ambient_light": 0.0
   },
   "minecraft:the_nether": {
@@ -27,7 +27,7 @@
     "minimum_y": 0,
     "height": 256,
     "logical_height": 128,
-    "infiniburn": "TagKey[minecraft:block / minecraft:infiniburn_nether]",
+    "infiniburn": "minecraft:infiniburn_nether",
     "ambient_light": 0.1
   },
   "minecraft:the_end": {
@@ -43,7 +43,7 @@
     "minimum_y": 0,
     "height": 256,
     "logical_height": 256,
-    "infiniburn": "TagKey[minecraft:block / minecraft:infiniburn_end]",
+    "infiniburn": "minecraft:infiniburn_end",
     "ambient_light": 0.0
   },
   "minecraft:overworld_caves": {
@@ -58,7 +58,7 @@
     "minimum_y": -64,
     "height": 384,
     "logical_height": 384,
-    "infiniburn": "TagKey[minecraft:block / minecraft:infiniburn_overworld]",
+    "infiniburn": "minecraft:infiniburn_overworld",
     "ambient_light": 0.0
   }
 }

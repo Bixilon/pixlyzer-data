@@ -2,7 +2,7 @@
   "minecraft:unemployed": {
     "id": 0,
     "search_distance": 1,
-    "matching_states": []
+    "matching_states": [ ]
   },
   "minecraft:armorer": {
     "id": 1,
@@ -138,7 +138,7 @@
   "minecraft:nitwit": {
     "id": 11,
     "search_distance": 1,
-    "matching_states": []
+    "matching_states": [ ]
   },
   "minecraft:shepherd": {
     "id": 12,
