@@ -42,8 +42,8 @@
       "ARMOR_STAND_BODY_ROTATION": 16,
       "ARMOR_STAND_LEFT_ARM_ROTATION": 17,
       "ARMOR_STAND_RIGHT_ARM_ROTATION": 18,
-      "ARMOR_STAND_LEFT_LAG_ROTATION": 19,
-      "ARMOR_STAND_RIGHT_LAG_ROTATION": 20
+      "ARMOR_STAND_LEFT_LEG_ROTATION": 19,
+      "ARMOR_STAND_RIGHT_LEG_ROTATION": 20
     },
     "parent": "LivingEntity"
   },
@@ -767,7 +767,7 @@
     "meta": {
       "HORSE_VARIANT": 18
     },
-    "parent": "HorseBaseEntity"
+    "parent": "AbstractHorseEntity"
   },
   "minecraft:husk": {
     "id": 34,
@@ -1619,7 +1619,7 @@
       "minecraft:horse.jump_strength": 0.7
     },
     "class": "SkeletonHorseEntity",
-    "parent": "HorseBaseEntity"
+    "parent": "AbstractHorseEntity"
   },
   "minecraft:slime": {
     "id": 75,
@@ -2250,7 +2250,7 @@
       "minecraft:horse.jump_strength": 0.7
     },
     "class": "ZombieHorseEntity",
-    "parent": "HorseBaseEntity"
+    "parent": "AbstractHorseEntity"
   },
   "minecraft:zombie_villager": {
     "id": 104,
@@ -2432,9 +2432,9 @@
     "meta": {
       "ABSTRACT_CHESTED_HORSE_HAS_CHEST": 18
     },
-    "parent": "HorseBaseEntity"
+    "parent": "AbstractHorseEntity"
   },
-  "HorseBaseEntity": {
+  "AbstractHorseEntity": {
     "meta": {
       "ABSTRACT_HORSE_FLAGS": 16,
       "ABSTRACT_HORSE_OWNER_UUID": 17
