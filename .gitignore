@@ -1,3 +1,6 @@
 # This data belongs to mojang, you can downlaod it there / generate it yourself
 data/
 
+*-swp
+*.swp
+*.swap
