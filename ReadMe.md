@@ -7,8 +7,9 @@ versions are also getting updated from time to time.
 If you want me to update the data for a specific version, don't hesitate to contact me [bixilon@bixilon.de](mailto:bixilon@bixilon.de).
 
 ## Mirrors
- - [gitlab.bixilon.de](https://gitlab.bixilon.de/bixilon/pixlyzer-data) (origin, newest)
- - [gitlab.com](https://gitlab.com/Bixilon/pixlyzer-data) (prefered, fastest)
+
+- [gitlab.bixilon.de](https://gitlab.bixilon.de/bixilon/pixlyzer-data) (origin, newest)
+- [gitlab.com](https://gitlab.com/Bixilon/pixlyzer-data) (preferred, fastest)
 
 
 ## 1.12.2
