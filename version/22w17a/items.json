@@ -13707,7 +13707,7 @@
     "is_fire_resistant": false,
     "is_complex": false,
     "translation_key": "item.minecraft.goat_horn",
-    "class": "class_7430"
+    "class": "GoatHornItem"
   },
   "minecraft:composter": {
     "id": 1088,
