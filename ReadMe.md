@@ -9,8 +9,8 @@ If you want me to update the data for a specific version, don't hesitate to cont
 ## Mirrors
 
 - [gitlab.bixilon.de](https://gitlab.bixilon.de/bixilon/pixlyzer-data) (origin, newest)
-- [gitlab.com](https://gitlab.com/Bixilon/pixlyzer-data) (preferred, fastest)
-
+- [gitlab.com](https://gitlab.com/Bixilon/pixlyzer-data) (preferred)
+- [github.com](https://github.com/bixilon/pixlyzer-data) (preferred, fastest)
 
 ## 1.12.2
 Generated with an experimental version of pixlyzer, won't be updated in near future, might be broken or wrong. Don't use it.
