@@ -479,7 +479,7 @@
     "replaceable": false,
     "solid": false
   },
-  "minecraft:field_38977": {
+  "minecraft:froglight": {
     "color": 0,
     "push_reaction": "normal",
     "blocks_motion": true,
