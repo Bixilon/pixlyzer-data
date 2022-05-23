@@ -1,0 +1,10 @@
+{
+  "id": "1.19-pre2",
+  "name": "1.19 Pre-release 2",
+  "stable": false,
+  "world_version": 3099,
+  "protocol_version": 1073741910,
+  "pack_version": 9,
+  "build_time": "Mon May 23 16:52:14 CEST 2022",
+  "release_target": "1.19"
+}
