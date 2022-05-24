@@ -1,0 +1,536 @@
+{
+  "0": {
+    "break_sound_type": 1160,
+    "step_sound_type": 1168,
+    "place_sound_type": 1165,
+    "hit_sound_type": 1164,
+    "fall_sound_type": 1163
+  },
+  "1": {
+    "break_sound_type": 456,
+    "step_sound_type": 460,
+    "place_sound_type": 459,
+    "hit_sound_type": 458,
+    "fall_sound_type": 457
+  },
+  "2": {
+    "break_sound_type": 451,
+    "step_sound_type": 455,
+    "place_sound_type": 454,
+    "hit_sound_type": 453,
+    "fall_sound_type": 452
+  },
+  "3": {
+    "break_sound_type": 451,
+    "step_sound_type": 455,
+    "place_sound_type": 1112,
+    "hit_sound_type": 453,
+    "fall_sound_type": 452
+  },
+  "4": {
+    "break_sound_type": 1018,
+    "step_sound_type": 1026,
+    "place_sound_type": 1023,
+    "hit_sound_type": 1022,
+    "fall_sound_type": 1021
+  },
+  "5": {
+    "break_sound_type": 587,
+    "step_sound_type": 593,
+    "place_sound_type": 590,
+    "hit_sound_type": 589,
+    "fall_sound_type": 588
+  },
+  "6": {
+    "break_sound_type": 419,
+    "step_sound_type": 423,
+    "place_sound_type": 422,
+    "hit_sound_type": 421,
+    "fall_sound_type": 420
+  },
+  "7": {
+    "break_sound_type": 1169,
+    "step_sound_type": 1173,
+    "place_sound_type": 1172,
+    "hit_sound_type": 1171,
+    "fall_sound_type": 1170
+  },
+  "8": {
+    "break_sound_type": 887,
+    "step_sound_type": 891,
+    "place_sound_type": 890,
+    "hit_sound_type": 889,
+    "fall_sound_type": 888
+  },
+  "9": {
+    "break_sound_type": 996,
+    "step_sound_type": 1005,
+    "place_sound_type": 1004,
+    "hit_sound_type": 1003,
+    "fall_sound_type": 997
+  },
+  "10": {
+    "break_sound_type": 836,
+    "step_sound_type": 840,
+    "place_sound_type": 839,
+    "hit_sound_type": 838,
+    "fall_sound_type": 837
+  },
+  "11": {
+    "break_sound_type": 542,
+    "step_sound_type": 546,
+    "place_sound_type": 545,
+    "hit_sound_type": 544,
+    "fall_sound_type": 543
+  },
+  "12": {
+    "sound_type_volume": 0.3,
+    "sound_type_pitch": 1.0,
+    "break_sound_type": 38,
+    "step_sound_type": 44,
+    "place_sound_type": 43,
+    "hit_sound_type": 41,
+    "fall_sound_type": 40
+  },
+  "13": {
+    "break_sound_type": 952,
+    "step_sound_type": 956,
+    "place_sound_type": 955,
+    "hit_sound_type": 954,
+    "fall_sound_type": 953
+  },
+  "14": {
+    "break_sound_type": 485,
+    "step_sound_type": 490,
+    "place_sound_type": 488,
+    "hit_sound_type": 487,
+    "fall_sound_type": 486
+  },
+  "15": {
+    "break_sound_type": 1126,
+    "step_sound_type": 1130,
+    "place_sound_type": 1129,
+    "hit_sound_type": 1128,
+    "fall_sound_type": 1127
+  },
+  "16": {
+    "break_sound_type": 226,
+    "step_sound_type": 230,
+    "place_sound_type": 229,
+    "hit_sound_type": 228,
+    "fall_sound_type": 227
+  },
+  "17": {
+    "break_sound_type": 82,
+    "step_sound_type": 86,
+    "place_sound_type": 85,
+    "hit_sound_type": 84,
+    "fall_sound_type": 83
+  },
+  "18": {
+    "break_sound_type": 87,
+    "step_sound_type": 86,
+    "place_sound_type": 89,
+    "hit_sound_type": 88,
+    "fall_sound_type": 83
+  },
+  "19": {
+    "break_sound_type": 892,
+    "step_sound_type": 896,
+    "place_sound_type": 895,
+    "hit_sound_type": 894,
+    "fall_sound_type": 893
+  },
+  "20": {
+    "break_sound_type": 1031,
+    "step_sound_type": 455,
+    "place_sound_type": 1032,
+    "hit_sound_type": 453,
+    "fall_sound_type": 452
+  },
+  "21": {
+    "break_sound_type": 239,
+    "step_sound_type": 455,
+    "place_sound_type": 240,
+    "hit_sound_type": 453,
+    "fall_sound_type": 452
+  },
+  "22": {
+    "break_sound_type": 1160,
+    "step_sound_type": 1168,
+    "place_sound_type": 240,
+    "hit_sound_type": 1164,
+    "fall_sound_type": 1163
+  },
+  "23": {
+    "break_sound_type": 1107,
+    "step_sound_type": 1111,
+    "place_sound_type": 1110,
+    "hit_sound_type": 1109,
+    "fall_sound_type": 1108
+  },
+  "24": {
+    "break_sound_type": 657,
+    "step_sound_type": 1026,
+    "place_sound_type": 658,
+    "hit_sound_type": 1022,
+    "fall_sound_type": 1021
+  },
+  "25": {
+    "break_sound_type": 547,
+    "step_sound_type": 551,
+    "place_sound_type": 550,
+    "hit_sound_type": 549,
+    "fall_sound_type": 548
+  },
+  "26": {
+    "break_sound_type": 659,
+    "step_sound_type": 660,
+    "place_sound_type": 661,
+    "hit_sound_type": 662,
+    "fall_sound_type": 663
+  },
+  "27": {
+    "break_sound_type": 664,
+    "step_sound_type": 665,
+    "place_sound_type": 666,
+    "hit_sound_type": 667,
+    "fall_sound_type": 668
+  },
+  "28": {
+    "break_sound_type": 674,
+    "step_sound_type": 675,
+    "place_sound_type": 676,
+    "hit_sound_type": 677,
+    "fall_sound_type": 678
+  },
+  "29": {
+    "break_sound_type": 391,
+    "step_sound_type": 392,
+    "place_sound_type": 393,
+    "hit_sound_type": 394,
+    "fall_sound_type": 395
+  },
+  "30": {
+    "break_sound_type": 911,
+    "step_sound_type": 912,
+    "place_sound_type": 913,
+    "hit_sound_type": 914,
+    "fall_sound_type": 915
+  },
+  "31": {
+    "break_sound_type": 679,
+    "step_sound_type": 680,
+    "place_sound_type": 681,
+    "hit_sound_type": 682,
+    "fall_sound_type": 683
+  },
+  "32": {
+    "break_sound_type": 679,
+    "step_sound_type": 680,
+    "place_sound_type": 681,
+    "hit_sound_type": 682,
+    "fall_sound_type": 683
+  },
+  "33": {
+    "break_sound_type": 964,
+    "step_sound_type": 965,
+    "place_sound_type": 966,
+    "hit_sound_type": 967,
+    "fall_sound_type": 968
+  },
+  "34": {
+    "break_sound_type": 969,
+    "step_sound_type": 970,
+    "place_sound_type": 971,
+    "hit_sound_type": 972,
+    "fall_sound_type": 973
+  },
+  "35": {
+    "break_sound_type": 92,
+    "step_sound_type": 93,
+    "place_sound_type": 94,
+    "hit_sound_type": 95,
+    "fall_sound_type": 96
+  },
+  "36": {
+    "break_sound_type": 684,
+    "step_sound_type": 685,
+    "place_sound_type": 686,
+    "hit_sound_type": 687,
+    "fall_sound_type": 688
+  },
+  "37": {
+    "break_sound_type": 694,
+    "step_sound_type": 695,
+    "place_sound_type": 696,
+    "hit_sound_type": 697,
+    "fall_sound_type": 698
+  },
+  "38": {
+    "break_sound_type": 652,
+    "step_sound_type": 653,
+    "place_sound_type": 654,
+    "hit_sound_type": 655,
+    "fall_sound_type": 656
+  },
+  "39": {
+    "break_sound_type": 669,
+    "step_sound_type": 670,
+    "place_sound_type": 671,
+    "hit_sound_type": 672,
+    "fall_sound_type": 673
+  },
+  "40": {
+    "break_sound_type": 868,
+    "step_sound_type": 872,
+    "place_sound_type": 871,
+    "hit_sound_type": 870,
+    "fall_sound_type": 869
+  },
+  "41": {
+    "break_sound_type": 131,
+    "step_sound_type": 135,
+    "place_sound_type": 134,
+    "hit_sound_type": 133,
+    "fall_sound_type": 132
+  },
+  "42": {
+    "break_sound_type": 689,
+    "step_sound_type": 690,
+    "place_sound_type": 691,
+    "hit_sound_type": 692,
+    "fall_sound_type": 693
+  },
+  "43": {
+    "break_sound_type": 33,
+    "step_sound_type": 34,
+    "place_sound_type": 35,
+    "hit_sound_type": 36,
+    "fall_sound_type": 37
+  },
+  "44": {
+    "break_sound_type": 573,
+    "step_sound_type": 574,
+    "place_sound_type": 575,
+    "hit_sound_type": 576,
+    "fall_sound_type": 577
+  },
+  "45": {
+    "break_sound_type": 191,
+    "step_sound_type": 195,
+    "place_sound_type": 194,
+    "hit_sound_type": 193,
+    "fall_sound_type": 192
+  },
+  "46": {
+    "break_sound_type": 863,
+    "step_sound_type": 867,
+    "place_sound_type": 866,
+    "hit_sound_type": 865,
+    "fall_sound_type": 864
+  },
+  "47": {
+    "break_sound_type": 414,
+    "step_sound_type": 418,
+    "place_sound_type": 417,
+    "hit_sound_type": 416,
+    "fall_sound_type": 415
+  },
+  "48": {
+    "break_sound_type": 170,
+    "step_sound_type": 175,
+    "place_sound_type": 174,
+    "hit_sound_type": 173,
+    "fall_sound_type": 172
+  },
+  "49": {
+    "break_sound_type": 22,
+    "step_sound_type": 27,
+    "place_sound_type": 26,
+    "hit_sound_type": 25,
+    "fall_sound_type": 24
+  },
+  "50": {
+    "break_sound_type": 28,
+    "step_sound_type": 32,
+    "place_sound_type": 31,
+    "hit_sound_type": 30,
+    "fall_sound_type": 29
+  },
+  "51": {
+    "break_sound_type": 957,
+    "step_sound_type": 32,
+    "place_sound_type": 958,
+    "hit_sound_type": 30,
+    "fall_sound_type": 29
+  },
+  "52": {
+    "break_sound_type": 585,
+    "step_sound_type": 32,
+    "place_sound_type": 586,
+    "hit_sound_type": 30,
+    "fall_sound_type": 29
+  },
+  "53": {
+    "break_sound_type": 552,
+    "step_sound_type": 32,
+    "place_sound_type": 553,
+    "hit_sound_type": 30,
+    "fall_sound_type": 29
+  },
+  "54": {
+    "break_sound_type": 1053,
+    "step_sound_type": 1054,
+    "place_sound_type": 1055,
+    "hit_sound_type": 1056,
+    "fall_sound_type": 1057
+  },
+  "55": {
+    "break_sound_type": 163,
+    "step_sound_type": 164,
+    "place_sound_type": 165,
+    "hit_sound_type": 166,
+    "fall_sound_type": 167
+  },
+  "56": {
+    "break_sound_type": 283,
+    "step_sound_type": 284,
+    "place_sound_type": 285,
+    "hit_sound_type": 286,
+    "fall_sound_type": 287
+  },
+  "57": {
+    "break_sound_type": 288,
+    "step_sound_type": 289,
+    "place_sound_type": 290,
+    "hit_sound_type": 291,
+    "fall_sound_type": 292
+  },
+  "58": {
+    "break_sound_type": 221,
+    "step_sound_type": 222,
+    "place_sound_type": 223,
+    "hit_sound_type": 224,
+    "fall_sound_type": 225
+  },
+  "59": {
+    "break_sound_type": 185,
+    "step_sound_type": 189,
+    "place_sound_type": 188,
+    "hit_sound_type": 187,
+    "fall_sound_type": 186
+  },
+  "60": {
+    "break_sound_type": 975,
+    "step_sound_type": 979,
+    "place_sound_type": 978,
+    "hit_sound_type": 977,
+    "fall_sound_type": 976
+  },
+  "61": {
+    "break_sound_type": 72,
+    "step_sound_type": 76,
+    "place_sound_type": 75,
+    "hit_sound_type": 74,
+    "fall_sound_type": 73
+  },
+  "62": {
+    "break_sound_type": 375,
+    "step_sound_type": 379,
+    "place_sound_type": 378,
+    "hit_sound_type": 377,
+    "fall_sound_type": 376
+  },
+  "63": {
+    "break_sound_type": 602,
+    "step_sound_type": 606,
+    "place_sound_type": 605,
+    "hit_sound_type": 604,
+    "fall_sound_type": 603
+  },
+  "64": {
+    "break_sound_type": 607,
+    "step_sound_type": 611,
+    "place_sound_type": 610,
+    "hit_sound_type": 609,
+    "fall_sound_type": 608
+  },
+  "65": {
+    "break_sound_type": 119,
+    "step_sound_type": 123,
+    "place_sound_type": 122,
+    "hit_sound_type": 121,
+    "fall_sound_type": 120
+  },
+  "66": {
+    "break_sound_type": 959,
+    "step_sound_type": 963,
+    "place_sound_type": 962,
+    "hit_sound_type": 961,
+    "fall_sound_type": 960
+  },
+  "67": {
+    "break_sound_type": 878,
+    "step_sound_type": 882,
+    "place_sound_type": 881,
+    "hit_sound_type": 880,
+    "fall_sound_type": 879
+  },
+  "68": {
+    "break_sound_type": 471,
+    "step_sound_type": 475,
+    "place_sound_type": 474,
+    "hit_sound_type": 473,
+    "fall_sound_type": 472
+  },
+  "69": {
+    "break_sound_type": 77,
+    "step_sound_type": 81,
+    "place_sound_type": 80,
+    "hit_sound_type": 79,
+    "fall_sound_type": 78
+  },
+  "70": {
+    "break_sound_type": 899,
+    "step_sound_type": 903,
+    "place_sound_type": 902,
+    "hit_sound_type": 901,
+    "fall_sound_type": 900
+  },
+  "71": {
+    "break_sound_type": 451,
+    "step_sound_type": 1111,
+    "place_sound_type": 454,
+    "hit_sound_type": 453,
+    "fall_sound_type": 452
+  },
+  "72": {
+    "break_sound_type": 254,
+    "step_sound_type": 258,
+    "place_sound_type": 257,
+    "hit_sound_type": 256,
+    "fall_sound_type": 255
+  },
+  "73": {
+    "break_sound_type": 249,
+    "step_sound_type": 253,
+    "place_sound_type": 252,
+    "hit_sound_type": 251,
+    "fall_sound_type": 250
+  },
+  "74": {
+    "break_sound_type": 259,
+    "step_sound_type": 263,
+    "place_sound_type": 262,
+    "hit_sound_type": 261,
+    "fall_sound_type": 260
+  },
+  "75": {
+    "break_sound_type": 828,
+    "step_sound_type": 832,
+    "place_sound_type": 831,
+    "hit_sound_type": 830,
+    "fall_sound_type": 829
+  }
+}
