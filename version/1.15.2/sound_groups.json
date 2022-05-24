@@ -1,5 +1,6 @@
 {
   "0": {
+    "name": "wood",
     "break_sound_type": 778,
     "step_sound_type": 786,
     "place_sound_type": 783,
@@ -7,6 +8,7 @@
     "fall_sound_type": 781
   },
   "1": {
+    "name": "gravel",
     "break_sound_type": 286,
     "step_sound_type": 290,
     "place_sound_type": 289,
@@ -14,6 +16,7 @@
     "fall_sound_type": 287
   },
   "2": {
+    "name": "grass",
     "break_sound_type": 271,
     "step_sound_type": 275,
     "place_sound_type": 274,
@@ -21,6 +24,7 @@
     "fall_sound_type": 272
   },
   "3": {
+    "name": "stone",
     "break_sound_type": 651,
     "step_sound_type": 659,
     "place_sound_type": 656,
@@ -28,6 +32,7 @@
     "fall_sound_type": 654
   },
   "4": {
+    "name": "metal",
     "break_sound_type": 396,
     "step_sound_type": 402,
     "place_sound_type": 399,
@@ -35,6 +40,7 @@
     "fall_sound_type": 397
   },
   "5": {
+    "name": "glass",
     "break_sound_type": 266,
     "step_sound_type": 270,
     "place_sound_type": 269,
@@ -42,6 +48,7 @@
     "fall_sound_type": 267
   },
   "6": {
+    "name": "wool",
     "break_sound_type": 112,
     "step_sound_type": 116,
     "place_sound_type": 115,
@@ -49,6 +56,7 @@
     "fall_sound_type": 113
   },
   "7": {
+    "name": "sand",
     "break_sound_type": 566,
     "step_sound_type": 570,
     "place_sound_type": 569,
@@ -56,6 +64,7 @@
     "fall_sound_type": 567
   },
   "8": {
+    "name": "snow",
     "break_sound_type": 632,
     "step_sound_type": 640,
     "place_sound_type": 639,
@@ -63,6 +72,7 @@
     "fall_sound_type": 633
   },
   "9": {
+    "name": "ladder",
     "break_sound_type": 364,
     "step_sound_type": 368,
     "place_sound_type": 367,
@@ -72,6 +82,7 @@
   "10": {
     "sound_type_volume": 0.3,
     "sound_type_pitch": 1.0,
+    "name": "anvil",
     "break_sound_type": 7,
     "step_sound_type": 13,
     "place_sound_type": 12,
@@ -79,6 +90,7 @@
     "fall_sound_type": 9
   },
   "11": {
+    "name": "slime",
     "break_sound_type": 618,
     "step_sound_type": 622,
     "place_sound_type": 621,
@@ -86,6 +98,7 @@
     "fall_sound_type": 619
   },
   "12": {
+    "name": "honey",
     "break_sound_type": 301,
     "step_sound_type": 306,
     "place_sound_type": 304,
@@ -93,6 +106,7 @@
     "fall_sound_type": 302
   },
   "13": {
+    "name": "wet_grass",
     "break_sound_type": 276,
     "step_sound_type": 280,
     "place_sound_type": 279,
@@ -100,6 +114,7 @@
     "fall_sound_type": 277
   },
   "14": {
+    "name": "coral",
     "break_sound_type": 281,
     "step_sound_type": 285,
     "place_sound_type": 284,
@@ -107,6 +122,7 @@
     "fall_sound_type": 282
   },
   "15": {
+    "name": "bamboo",
     "break_sound_type": 31,
     "step_sound_type": 35,
     "place_sound_type": 34,
@@ -114,6 +130,7 @@
     "fall_sound_type": 32
   },
   "16": {
+    "name": "bamboo_sapling",
     "break_sound_type": 36,
     "step_sound_type": 35,
     "place_sound_type": 38,
@@ -121,6 +138,7 @@
     "fall_sound_type": 32
   },
   "17": {
+    "name": "scaffolding",
     "break_sound_type": 571,
     "step_sound_type": 575,
     "place_sound_type": 574,
@@ -128,6 +146,7 @@
     "fall_sound_type": 572
   },
   "18": {
+    "name": "sweet_berry_bush",
     "break_sound_type": 664,
     "step_sound_type": 275,
     "place_sound_type": 665,
@@ -135,6 +154,7 @@
     "fall_sound_type": 272
   },
   "19": {
+    "name": "crop",
     "break_sound_type": 139,
     "step_sound_type": 275,
     "place_sound_type": 140,
@@ -142,6 +162,7 @@
     "fall_sound_type": 272
   },
   "20": {
+    "name": "stem",
     "break_sound_type": 778,
     "step_sound_type": 786,
     "place_sound_type": 140,
@@ -149,6 +170,7 @@
     "fall_sound_type": 781
   },
   "21": {
+    "name": "nether_wart",
     "break_sound_type": 422,
     "step_sound_type": 659,
     "place_sound_type": 423,
@@ -156,6 +178,7 @@
     "fall_sound_type": 654
   },
   "22": {
+    "name": "lantern",
     "break_sound_type": 369,
     "step_sound_type": 373,
     "place_sound_type": 372,
