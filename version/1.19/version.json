@@ -1,0 +1,10 @@
+{
+  "id": "1.19",
+  "name": "1.19",
+  "stable": true,
+  "world_version": 3105,
+  "protocol_version": 759,
+  "pack_version": 9,
+  "build_time": "Tue Jun 07 11:40:26 CEST 2022",
+  "release_target": "1.19"
+}
