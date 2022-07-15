@@ -1333,7 +1333,7 @@
     "size_fixed": false,
     "class": "PaintingEntity",
     "meta": {
-      "MOTIVE": 8
+      "MOTIF": 8
     },
     "parent": "AbstractDecorationEntity"
   },
