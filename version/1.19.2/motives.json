@@ -1,0 +1,152 @@
+{
+  "minecraft:kebab": {
+    "id": 0,
+    "width": 16,
+    "height": 16
+  },
+  "minecraft:aztec": {
+    "id": 1,
+    "width": 16,
+    "height": 16
+  },
+  "minecraft:alban": {
+    "id": 2,
+    "width": 16,
+    "height": 16
+  },
+  "minecraft:aztec2": {
+    "id": 3,
+    "width": 16,
+    "height": 16
+  },
+  "minecraft:bomb": {
+    "id": 4,
+    "width": 16,
+    "height": 16
+  },
+  "minecraft:plant": {
+    "id": 5,
+    "width": 16,
+    "height": 16
+  },
+  "minecraft:wasteland": {
+    "id": 6,
+    "width": 16,
+    "height": 16
+  },
+  "minecraft:pool": {
+    "id": 7,
+    "width": 32,
+    "height": 16
+  },
+  "minecraft:courbet": {
+    "id": 8,
+    "width": 32,
+    "height": 16
+  },
+  "minecraft:sea": {
+    "id": 9,
+    "width": 32,
+    "height": 16
+  },
+  "minecraft:sunset": {
+    "id": 10,
+    "width": 32,
+    "height": 16
+  },
+  "minecraft:creebet": {
+    "id": 11,
+    "width": 32,
+    "height": 16
+  },
+  "minecraft:wanderer": {
+    "id": 12,
+    "width": 16,
+    "height": 32
+  },
+  "minecraft:graham": {
+    "id": 13,
+    "width": 16,
+    "height": 32
+  },
+  "minecraft:match": {
+    "id": 14,
+    "width": 32,
+    "height": 32
+  },
+  "minecraft:bust": {
+    "id": 15,
+    "width": 32,
+    "height": 32
+  },
+  "minecraft:stage": {
+    "id": 16,
+    "width": 32,
+    "height": 32
+  },
+  "minecraft:void": {
+    "id": 17,
+    "width": 32,
+    "height": 32
+  },
+  "minecraft:skull_and_roses": {
+    "id": 18,
+    "width": 32,
+    "height": 32
+  },
+  "minecraft:wither": {
+    "id": 19,
+    "width": 32,
+    "height": 32
+  },
+  "minecraft:fighters": {
+    "id": 20,
+    "width": 64,
+    "height": 32
+  },
+  "minecraft:pointer": {
+    "id": 21,
+    "width": 64,
+    "height": 64
+  },
+  "minecraft:pigscene": {
+    "id": 22,
+    "width": 64,
+    "height": 64
+  },
+  "minecraft:burning_skull": {
+    "id": 23,
+    "width": 64,
+    "height": 64
+  },
+  "minecraft:skeleton": {
+    "id": 24,
+    "width": 64,
+    "height": 48
+  },
+  "minecraft:earth": {
+    "id": 25,
+    "width": 32,
+    "height": 32
+  },
+  "minecraft:wind": {
+    "id": 26,
+    "width": 32,
+    "height": 32
+  },
+  "minecraft:water": {
+    "id": 27,
+    "width": 32,
+    "height": 32
+  },
+  "minecraft:fire": {
+    "id": 28,
+    "width": 32,
+    "height": 32
+  },
+  "minecraft:donkey_kong": {
+    "id": 29,
+    "width": 64,
+    "height": 48
+  }
+}

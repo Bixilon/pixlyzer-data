@@ -1,0 +1,10 @@
+{
+  "id": "1.19.2-rc2",
+  "name": "1.19.2 Release Candidate 2",
+  "stable": false,
+  "world_version": 3119,
+  "protocol_version": 1073741927,
+  "pack_version": 9,
+  "build_time": "Thu Aug 04 17:18:01 CEST 2022",
+  "release_target": "1.19.2"
+}
