@@ -6,16 +6,14 @@
       "parameters": [
         "sender",
         "content"
-      ],
-      "style": { }
+      ]
     },
     "narration": {
       "translation_key": "chat.type.text.narrate",
       "parameters": [
         "sender",
         "content"
-      ],
-      "style": { }
+      ]
     }
   },
   "minecraft:say_command": {
@@ -25,16 +23,14 @@
       "parameters": [
         "sender",
         "content"
-      ],
-      "style": { }
+      ]
     },
     "narration": {
       "translation_key": "chat.type.text.narrate",
       "parameters": [
         "sender",
         "content"
-      ],
-      "style": { }
+      ]
     }
   },
   "minecraft:msg_command_incoming": {
@@ -46,13 +42,8 @@
         "content"
       ],
       "style": {
-        "color": {
-          "rgb": 11184810,
-          "name": "gray",
-          "hexCode": "#AAAAAA"
-        },
-        "italic": true,
-        "empty": false
+        "color": "gray",
+        "italic": true
       }
     },
     "narration": {
@@ -60,8 +51,7 @@
       "parameters": [
         "sender",
         "content"
-      ],
-      "style": { }
+      ]
     }
   },
   "minecraft:msg_command_outgoing": {
@@ -73,13 +63,8 @@
         "content"
       ],
       "style": {
-        "color": {
-          "rgb": 11184810,
-          "name": "gray",
-          "hexCode": "#AAAAAA"
-        },
-        "italic": true,
-        "empty": false
+        "color": "gray",
+        "italic": true
       }
     },
     "narration": {
@@ -87,8 +72,7 @@
       "parameters": [
         "sender",
         "content"
-      ],
-      "style": { }
+      ]
     }
   },
   "minecraft:team_msg_command_incoming": {
@@ -99,16 +83,14 @@
         "target",
         "sender",
         "content"
-      ],
-      "style": { }
+      ]
     },
     "narration": {
       "translation_key": "chat.type.text.narrate",
       "parameters": [
         "sender",
         "content"
-      ],
-      "style": { }
+      ]
     }
   },
   "minecraft:team_msg_command_outgoing": {
@@ -119,16 +101,14 @@
         "target",
         "sender",
         "content"
-      ],
-      "style": { }
+      ]
     },
     "narration": {
       "translation_key": "chat.type.text.narrate",
       "parameters": [
         "sender",
         "content"
-      ],
-      "style": { }
+      ]
     }
   },
   "minecraft:emote_command": {
@@ -138,16 +118,14 @@
       "parameters": [
         "sender",
         "content"
-      ],
-      "style": { }
+      ]
     },
     "narration": {
       "translation_key": "chat.type.emote",
       "parameters": [
         "sender",
         "content"
-      ],
-      "style": { }
+      ]
     }
   }
 }
