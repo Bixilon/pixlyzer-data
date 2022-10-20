@@ -1,0 +1,110 @@
+{
+  "0": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true,
+    "is_right_aligned": false,
+    "is_top_row": true,
+    "column": 0,
+    "icon": 248
+  },
+  "1": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true,
+    "is_right_aligned": false,
+    "is_top_row": true,
+    "column": 1,
+    "icon": 14
+  },
+  "2": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true,
+    "is_right_aligned": false,
+    "is_top_row": true,
+    "column": 2,
+    "icon": 819
+  },
+  "3": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true,
+    "is_right_aligned": false,
+    "is_top_row": true,
+    "column": 3,
+    "icon": 616
+  },
+  "4": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true,
+    "is_right_aligned": true,
+    "is_top_row": true,
+    "column": 4,
+    "icon": 249
+  },
+  "5": {
+    "background_suffix": "item_search.png",
+    "can_scroll": true,
+    "show_title": true,
+    "is_right_aligned": true,
+    "is_top_row": true,
+    "column": 5,
+    "icon": 859
+  },
+  "6": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true,
+    "is_right_aligned": false,
+    "is_top_row": false,
+    "column": 0,
+    "icon": 768
+  },
+  "7": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true,
+    "is_right_aligned": false,
+    "is_top_row": false,
+    "column": 1,
+    "icon": 760
+  },
+  "8": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true,
+    "is_right_aligned": false,
+    "is_top_row": false,
+    "column": 2,
+    "icon": 1017
+  },
+  "9": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true,
+    "is_right_aligned": false,
+    "is_top_row": false,
+    "column": 3,
+    "icon": 748
+  },
+  "10": {
+    "background_suffix": "items.png",
+    "can_scroll": true,
+    "show_title": true,
+    "is_right_aligned": false,
+    "is_top_row": false,
+    "column": 4,
+    "icon": 984
+  },
+  "11": {
+    "background_suffix": "inventory.png",
+    "can_scroll": false,
+    "show_title": false,
+    "is_right_aligned": true,
+    "is_top_row": false,
+    "column": 5,
+    "icon": 261
+  }
+}
