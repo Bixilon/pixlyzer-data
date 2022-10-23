@@ -1,7 +1,6 @@
 {
   "0": {
     "translation_key": "buildingBlocks",
-    "recipe_folder_name": "building_blocks",
     "background_suffix": "items.png",
     "can_scroll": true,
     "show_title": true,
@@ -88,13 +87,7 @@
     "is_right_aligned": false,
     "is_top_row": false,
     "column": 2,
-    "icon": 753,
-    "enchantment_categories": [
-      6,
-      7,
-      9,
-      13
-    ]
+    "icon": 753
   },
   "9": {
     "translation_key": "combat",
@@ -104,21 +97,7 @@
     "is_right_aligned": false,
     "is_top_row": false,
     "column": 3,
-    "icon": 745,
-    "enchantment_categories": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13
-    ]
+    "icon": 745
   },
   "10": {
     "translation_key": "brewing",
