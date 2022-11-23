@@ -4,7 +4,5 @@
   "stable": false,
   "world_version": 3109,
   "protocol_version": 1073741918,
-  "pack_version": 9,
-  "build_time": "Thu Jun 23 18:30:51 CEST 2022",
-  "release_target": "1.19.1"
+  "build_time": "Thu Jun 23 18:30:51 CEST 2022"
 }

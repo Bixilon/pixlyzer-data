@@ -22,7 +22,6 @@
         "duration": 3600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -37,7 +36,6 @@
         "duration": 9600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -51,7 +49,6 @@
         "duration": 3600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -66,7 +63,6 @@
         "duration": 9600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -80,7 +76,6 @@
         "duration": 3600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -95,7 +90,6 @@
         "duration": 9600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -110,7 +104,6 @@
         "duration": 1800,
         "amplifier": 1,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -124,7 +117,6 @@
         "duration": 3600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -139,7 +131,6 @@
         "duration": 9600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -153,7 +144,6 @@
         "duration": 3600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -168,7 +158,6 @@
         "duration": 9600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -183,7 +172,6 @@
         "duration": 1800,
         "amplifier": 1,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -197,7 +185,6 @@
         "duration": 1800,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -212,7 +199,6 @@
         "duration": 4800,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -227,7 +213,6 @@
         "duration": 400,
         "amplifier": 3,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -242,7 +227,6 @@
         "duration": 400,
         "amplifier": 3,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       },
@@ -251,7 +235,6 @@
         "duration": 400,
         "amplifier": 2,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -266,7 +249,6 @@
         "duration": 800,
         "amplifier": 3,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       },
@@ -275,7 +257,6 @@
         "duration": 800,
         "amplifier": 2,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -290,7 +271,6 @@
         "duration": 400,
         "amplifier": 5,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       },
@@ -299,7 +279,6 @@
         "duration": 400,
         "amplifier": 3,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -313,7 +292,6 @@
         "duration": 3600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -328,7 +306,6 @@
         "duration": 9600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -342,7 +319,6 @@
         "duration": 1,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -357,7 +333,6 @@
         "duration": 1,
         "amplifier": 1,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -371,7 +346,6 @@
         "duration": 1,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -386,7 +360,6 @@
         "duration": 1,
         "amplifier": 1,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -400,7 +373,6 @@
         "duration": 900,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -415,7 +387,6 @@
         "duration": 1800,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -430,7 +401,6 @@
         "duration": 432,
         "amplifier": 1,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -444,7 +414,6 @@
         "duration": 900,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -459,7 +428,6 @@
         "duration": 1800,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -474,7 +442,6 @@
         "duration": 450,
         "amplifier": 1,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -488,7 +455,6 @@
         "duration": 3600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -503,7 +469,6 @@
         "duration": 9600,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -518,7 +483,6 @@
         "duration": 1800,
         "amplifier": 1,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -532,7 +496,6 @@
         "duration": 1800,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -547,7 +510,6 @@
         "duration": 4800,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -562,7 +524,6 @@
         "duration": 6000,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -576,7 +537,6 @@
         "duration": 1800,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
@@ -591,7 +551,6 @@
         "duration": 4800,
         "amplifier": 0,
         "ambient": false,
-        "no_counter": false,
         "visible": true,
         "showIcon": true
       }
