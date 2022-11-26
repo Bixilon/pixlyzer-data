@@ -11,7 +11,6 @@
   },
   "minecraft:stone": {
     "id": 1,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -23,7 +22,6 @@
   },
   "minecraft:granite": {
     "id": 2,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -35,7 +33,6 @@
   },
   "minecraft:polished_granite": {
     "id": 3,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -47,7 +44,6 @@
   },
   "minecraft:diorite": {
     "id": 4,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -59,7 +55,6 @@
   },
   "minecraft:polished_diorite": {
     "id": 5,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -71,7 +66,6 @@
   },
   "minecraft:andesite": {
     "id": 6,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -83,7 +77,6 @@
   },
   "minecraft:polished_andesite": {
     "id": 7,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -95,7 +88,6 @@
   },
   "minecraft:deepslate": {
     "id": 8,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -107,7 +99,6 @@
   },
   "minecraft:cobbled_deepslate": {
     "id": 9,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -119,7 +110,6 @@
   },
   "minecraft:polished_deepslate": {
     "id": 10,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -131,7 +121,6 @@
   },
   "minecraft:calcite": {
     "id": 11,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -143,7 +132,6 @@
   },
   "minecraft:tuff": {
     "id": 12,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -155,7 +143,6 @@
   },
   "minecraft:dripstone_block": {
     "id": 13,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -167,7 +154,6 @@
   },
   "minecraft:grass_block": {
     "id": 14,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -179,7 +165,6 @@
   },
   "minecraft:dirt": {
     "id": 15,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -191,7 +176,6 @@
   },
   "minecraft:coarse_dirt": {
     "id": 16,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -203,7 +187,6 @@
   },
   "minecraft:podzol": {
     "id": 17,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -215,7 +198,6 @@
   },
   "minecraft:rooted_dirt": {
     "id": 18,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -227,7 +209,6 @@
   },
   "minecraft:crimson_nylium": {
     "id": 19,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -239,7 +220,6 @@
   },
   "minecraft:warped_nylium": {
     "id": 20,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -251,7 +231,6 @@
   },
   "minecraft:cobblestone": {
     "id": 21,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -263,7 +242,6 @@
   },
   "minecraft:oak_planks": {
     "id": 22,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -275,7 +253,6 @@
   },
   "minecraft:spruce_planks": {
     "id": 23,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -287,7 +264,6 @@
   },
   "minecraft:birch_planks": {
     "id": 24,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -299,7 +275,6 @@
   },
   "minecraft:jungle_planks": {
     "id": 25,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -311,7 +286,6 @@
   },
   "minecraft:acacia_planks": {
     "id": 26,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -323,7 +297,6 @@
   },
   "minecraft:dark_oak_planks": {
     "id": 27,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -335,7 +308,6 @@
   },
   "minecraft:crimson_planks": {
     "id": 28,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -347,7 +319,6 @@
   },
   "minecraft:warped_planks": {
     "id": 29,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -359,7 +330,6 @@
   },
   "minecraft:oak_sapling": {
     "id": 30,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -371,7 +341,6 @@
   },
   "minecraft:spruce_sapling": {
     "id": 31,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -383,7 +352,6 @@
   },
   "minecraft:birch_sapling": {
     "id": 32,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -395,7 +363,6 @@
   },
   "minecraft:jungle_sapling": {
     "id": 33,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -407,7 +374,6 @@
   },
   "minecraft:acacia_sapling": {
     "id": 34,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -419,7 +385,6 @@
   },
   "minecraft:dark_oak_sapling": {
     "id": 35,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -431,7 +396,6 @@
   },
   "minecraft:bedrock": {
     "id": 36,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -443,7 +407,6 @@
   },
   "minecraft:sand": {
     "id": 37,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -455,7 +418,6 @@
   },
   "minecraft:red_sand": {
     "id": 38,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -467,7 +429,6 @@
   },
   "minecraft:gravel": {
     "id": 39,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -479,7 +440,6 @@
   },
   "minecraft:coal_ore": {
     "id": 40,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -491,7 +451,6 @@
   },
   "minecraft:deepslate_coal_ore": {
     "id": 41,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -503,7 +462,6 @@
   },
   "minecraft:iron_ore": {
     "id": 42,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -515,7 +473,6 @@
   },
   "minecraft:deepslate_iron_ore": {
     "id": 43,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -527,7 +484,6 @@
   },
   "minecraft:copper_ore": {
     "id": 44,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -539,7 +495,6 @@
   },
   "minecraft:deepslate_copper_ore": {
     "id": 45,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -551,7 +506,6 @@
   },
   "minecraft:gold_ore": {
     "id": 46,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -563,7 +517,6 @@
   },
   "minecraft:deepslate_gold_ore": {
     "id": 47,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -575,7 +528,6 @@
   },
   "minecraft:redstone_ore": {
     "id": 48,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -587,7 +539,6 @@
   },
   "minecraft:deepslate_redstone_ore": {
     "id": 49,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -599,7 +550,6 @@
   },
   "minecraft:emerald_ore": {
     "id": 50,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -611,7 +561,6 @@
   },
   "minecraft:deepslate_emerald_ore": {
     "id": 51,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -623,7 +572,6 @@
   },
   "minecraft:lapis_ore": {
     "id": 52,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -635,7 +583,6 @@
   },
   "minecraft:deepslate_lapis_ore": {
     "id": 53,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -647,7 +594,6 @@
   },
   "minecraft:diamond_ore": {
     "id": 54,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -659,7 +605,6 @@
   },
   "minecraft:deepslate_diamond_ore": {
     "id": 55,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -671,7 +616,6 @@
   },
   "minecraft:nether_gold_ore": {
     "id": 56,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -683,7 +627,6 @@
   },
   "minecraft:nether_quartz_ore": {
     "id": 57,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -695,7 +638,6 @@
   },
   "minecraft:ancient_debris": {
     "id": 58,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -707,7 +649,6 @@
   },
   "minecraft:coal_block": {
     "id": 59,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -719,7 +660,6 @@
   },
   "minecraft:raw_iron_block": {
     "id": 60,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -731,7 +671,6 @@
   },
   "minecraft:raw_copper_block": {
     "id": 61,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -743,7 +682,6 @@
   },
   "minecraft:raw_gold_block": {
     "id": 62,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -755,7 +693,6 @@
   },
   "minecraft:amethyst_block": {
     "id": 63,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -767,7 +704,6 @@
   },
   "minecraft:budding_amethyst": {
     "id": 64,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -779,7 +715,6 @@
   },
   "minecraft:iron_block": {
     "id": 65,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -791,7 +726,6 @@
   },
   "minecraft:copper_block": {
     "id": 66,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -803,7 +737,6 @@
   },
   "minecraft:gold_block": {
     "id": 67,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -815,7 +748,6 @@
   },
   "minecraft:diamond_block": {
     "id": 68,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -827,7 +759,6 @@
   },
   "minecraft:netherite_block": {
     "id": 69,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -839,7 +770,6 @@
   },
   "minecraft:exposed_copper": {
     "id": 70,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -851,7 +781,6 @@
   },
   "minecraft:weathered_copper": {
     "id": 71,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -863,7 +792,6 @@
   },
   "minecraft:oxidized_copper": {
     "id": 72,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -875,7 +803,6 @@
   },
   "minecraft:cut_copper": {
     "id": 73,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -887,7 +814,6 @@
   },
   "minecraft:exposed_cut_copper": {
     "id": 74,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -899,7 +825,6 @@
   },
   "minecraft:weathered_cut_copper": {
     "id": 75,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -911,7 +836,6 @@
   },
   "minecraft:oxidized_cut_copper": {
     "id": 76,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -923,7 +847,6 @@
   },
   "minecraft:cut_copper_stairs": {
     "id": 77,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -935,7 +858,6 @@
   },
   "minecraft:exposed_cut_copper_stairs": {
     "id": 78,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -947,7 +869,6 @@
   },
   "minecraft:weathered_cut_copper_stairs": {
     "id": 79,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -959,7 +880,6 @@
   },
   "minecraft:oxidized_cut_copper_stairs": {
     "id": 80,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -971,7 +891,6 @@
   },
   "minecraft:cut_copper_slab": {
     "id": 81,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -983,7 +902,6 @@
   },
   "minecraft:exposed_cut_copper_slab": {
     "id": 82,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -995,7 +913,6 @@
   },
   "minecraft:weathered_cut_copper_slab": {
     "id": 83,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1007,7 +924,6 @@
   },
   "minecraft:oxidized_cut_copper_slab": {
     "id": 84,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1019,7 +935,6 @@
   },
   "minecraft:waxed_copper_block": {
     "id": 85,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1031,7 +946,6 @@
   },
   "minecraft:waxed_exposed_copper": {
     "id": 86,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1043,7 +957,6 @@
   },
   "minecraft:waxed_weathered_copper": {
     "id": 87,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1055,7 +968,6 @@
   },
   "minecraft:waxed_oxidized_copper": {
     "id": 88,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1067,7 +979,6 @@
   },
   "minecraft:waxed_cut_copper": {
     "id": 89,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1079,7 +990,6 @@
   },
   "minecraft:waxed_exposed_cut_copper": {
     "id": 90,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1091,7 +1001,6 @@
   },
   "minecraft:waxed_weathered_cut_copper": {
     "id": 91,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1103,7 +1012,6 @@
   },
   "minecraft:waxed_oxidized_cut_copper": {
     "id": 92,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1115,7 +1023,6 @@
   },
   "minecraft:waxed_cut_copper_stairs": {
     "id": 93,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1127,7 +1034,6 @@
   },
   "minecraft:waxed_exposed_cut_copper_stairs": {
     "id": 94,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1139,7 +1045,6 @@
   },
   "minecraft:waxed_weathered_cut_copper_stairs": {
     "id": 95,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1151,7 +1056,6 @@
   },
   "minecraft:waxed_oxidized_cut_copper_stairs": {
     "id": 96,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1163,7 +1067,6 @@
   },
   "minecraft:waxed_cut_copper_slab": {
     "id": 97,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1175,7 +1078,6 @@
   },
   "minecraft:waxed_exposed_cut_copper_slab": {
     "id": 98,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1187,7 +1089,6 @@
   },
   "minecraft:waxed_weathered_cut_copper_slab": {
     "id": 99,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1199,7 +1100,6 @@
   },
   "minecraft:waxed_oxidized_cut_copper_slab": {
     "id": 100,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1211,7 +1111,6 @@
   },
   "minecraft:oak_log": {
     "id": 101,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1223,7 +1122,6 @@
   },
   "minecraft:spruce_log": {
     "id": 102,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1235,7 +1133,6 @@
   },
   "minecraft:birch_log": {
     "id": 103,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1247,7 +1144,6 @@
   },
   "minecraft:jungle_log": {
     "id": 104,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1259,7 +1155,6 @@
   },
   "minecraft:acacia_log": {
     "id": 105,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1271,7 +1166,6 @@
   },
   "minecraft:dark_oak_log": {
     "id": 106,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1283,7 +1177,6 @@
   },
   "minecraft:crimson_stem": {
     "id": 107,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1295,7 +1188,6 @@
   },
   "minecraft:warped_stem": {
     "id": 108,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1307,7 +1199,6 @@
   },
   "minecraft:stripped_oak_log": {
     "id": 109,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1319,7 +1210,6 @@
   },
   "minecraft:stripped_spruce_log": {
     "id": 110,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1331,7 +1221,6 @@
   },
   "minecraft:stripped_birch_log": {
     "id": 111,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1343,7 +1232,6 @@
   },
   "minecraft:stripped_jungle_log": {
     "id": 112,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1355,7 +1243,6 @@
   },
   "minecraft:stripped_acacia_log": {
     "id": 113,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1367,7 +1254,6 @@
   },
   "minecraft:stripped_dark_oak_log": {
     "id": 114,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1379,7 +1265,6 @@
   },
   "minecraft:stripped_crimson_stem": {
     "id": 115,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1391,7 +1276,6 @@
   },
   "minecraft:stripped_warped_stem": {
     "id": 116,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1403,7 +1287,6 @@
   },
   "minecraft:stripped_oak_wood": {
     "id": 117,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1415,7 +1298,6 @@
   },
   "minecraft:stripped_spruce_wood": {
     "id": 118,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1427,7 +1309,6 @@
   },
   "minecraft:stripped_birch_wood": {
     "id": 119,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1439,7 +1320,6 @@
   },
   "minecraft:stripped_jungle_wood": {
     "id": 120,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1451,7 +1331,6 @@
   },
   "minecraft:stripped_acacia_wood": {
     "id": 121,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1463,7 +1342,6 @@
   },
   "minecraft:stripped_dark_oak_wood": {
     "id": 122,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1475,7 +1353,6 @@
   },
   "minecraft:stripped_crimson_hyphae": {
     "id": 123,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1487,7 +1364,6 @@
   },
   "minecraft:stripped_warped_hyphae": {
     "id": 124,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1499,7 +1375,6 @@
   },
   "minecraft:oak_wood": {
     "id": 125,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1511,7 +1386,6 @@
   },
   "minecraft:spruce_wood": {
     "id": 126,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1523,7 +1397,6 @@
   },
   "minecraft:birch_wood": {
     "id": 127,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1535,7 +1408,6 @@
   },
   "minecraft:jungle_wood": {
     "id": 128,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1547,7 +1419,6 @@
   },
   "minecraft:acacia_wood": {
     "id": 129,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1559,7 +1430,6 @@
   },
   "minecraft:dark_oak_wood": {
     "id": 130,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1571,7 +1441,6 @@
   },
   "minecraft:crimson_hyphae": {
     "id": 131,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1583,7 +1452,6 @@
   },
   "minecraft:warped_hyphae": {
     "id": 132,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1595,7 +1463,6 @@
   },
   "minecraft:oak_leaves": {
     "id": 133,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1607,7 +1474,6 @@
   },
   "minecraft:spruce_leaves": {
     "id": 134,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1619,7 +1485,6 @@
   },
   "minecraft:birch_leaves": {
     "id": 135,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1631,7 +1496,6 @@
   },
   "minecraft:jungle_leaves": {
     "id": 136,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1643,7 +1507,6 @@
   },
   "minecraft:acacia_leaves": {
     "id": 137,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1655,7 +1518,6 @@
   },
   "minecraft:dark_oak_leaves": {
     "id": 138,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1667,7 +1529,6 @@
   },
   "minecraft:azalea_leaves": {
     "id": 139,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1679,7 +1540,6 @@
   },
   "minecraft:flowering_azalea_leaves": {
     "id": 140,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1691,7 +1551,6 @@
   },
   "minecraft:sponge": {
     "id": 141,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1703,7 +1562,6 @@
   },
   "minecraft:wet_sponge": {
     "id": 142,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1715,7 +1573,6 @@
   },
   "minecraft:glass": {
     "id": 143,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1727,7 +1584,6 @@
   },
   "minecraft:tinted_glass": {
     "id": 144,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1739,7 +1595,6 @@
   },
   "minecraft:lapis_block": {
     "id": 145,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1751,7 +1606,6 @@
   },
   "minecraft:sandstone": {
     "id": 146,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1763,7 +1617,6 @@
   },
   "minecraft:chiseled_sandstone": {
     "id": 147,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1775,7 +1628,6 @@
   },
   "minecraft:cut_sandstone": {
     "id": 148,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1787,7 +1639,6 @@
   },
   "minecraft:cobweb": {
     "id": 149,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1799,7 +1650,6 @@
   },
   "minecraft:grass": {
     "id": 150,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1811,7 +1661,6 @@
   },
   "minecraft:fern": {
     "id": 151,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1823,7 +1672,6 @@
   },
   "minecraft:azalea": {
     "id": 152,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1835,7 +1683,6 @@
   },
   "minecraft:flowering_azalea": {
     "id": 153,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1847,7 +1694,6 @@
   },
   "minecraft:dead_bush": {
     "id": 154,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1859,7 +1705,6 @@
   },
   "minecraft:seagrass": {
     "id": 155,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1871,7 +1716,6 @@
   },
   "minecraft:sea_pickle": {
     "id": 156,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1883,7 +1727,6 @@
   },
   "minecraft:white_wool": {
     "id": 157,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1895,7 +1738,6 @@
   },
   "minecraft:orange_wool": {
     "id": 158,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1907,7 +1749,6 @@
   },
   "minecraft:magenta_wool": {
     "id": 159,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1919,7 +1760,6 @@
   },
   "minecraft:light_blue_wool": {
     "id": 160,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1931,7 +1771,6 @@
   },
   "minecraft:yellow_wool": {
     "id": 161,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1943,7 +1782,6 @@
   },
   "minecraft:lime_wool": {
     "id": 162,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1955,7 +1793,6 @@
   },
   "minecraft:pink_wool": {
     "id": 163,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1967,7 +1804,6 @@
   },
   "minecraft:gray_wool": {
     "id": 164,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1979,7 +1815,6 @@
   },
   "minecraft:light_gray_wool": {
     "id": 165,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -1991,7 +1826,6 @@
   },
   "minecraft:cyan_wool": {
     "id": 166,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2003,7 +1837,6 @@
   },
   "minecraft:purple_wool": {
     "id": 167,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2015,7 +1848,6 @@
   },
   "minecraft:blue_wool": {
     "id": 168,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2027,7 +1859,6 @@
   },
   "minecraft:brown_wool": {
     "id": 169,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2039,7 +1870,6 @@
   },
   "minecraft:green_wool": {
     "id": 170,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2051,7 +1881,6 @@
   },
   "minecraft:red_wool": {
     "id": 171,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2063,7 +1892,6 @@
   },
   "minecraft:black_wool": {
     "id": 172,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2075,7 +1903,6 @@
   },
   "minecraft:dandelion": {
     "id": 173,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2087,7 +1914,6 @@
   },
   "minecraft:poppy": {
     "id": 174,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2099,7 +1925,6 @@
   },
   "minecraft:blue_orchid": {
     "id": 175,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2111,7 +1936,6 @@
   },
   "minecraft:allium": {
     "id": 176,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2123,7 +1947,6 @@
   },
   "minecraft:azure_bluet": {
     "id": 177,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2135,7 +1958,6 @@
   },
   "minecraft:red_tulip": {
     "id": 178,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2147,7 +1969,6 @@
   },
   "minecraft:orange_tulip": {
     "id": 179,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2159,7 +1980,6 @@
   },
   "minecraft:white_tulip": {
     "id": 180,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2171,7 +1991,6 @@
   },
   "minecraft:pink_tulip": {
     "id": 181,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2183,7 +2002,6 @@
   },
   "minecraft:oxeye_daisy": {
     "id": 182,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2195,7 +2013,6 @@
   },
   "minecraft:cornflower": {
     "id": 183,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2207,7 +2024,6 @@
   },
   "minecraft:lily_of_the_valley": {
     "id": 184,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2219,7 +2035,6 @@
   },
   "minecraft:wither_rose": {
     "id": 185,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2231,7 +2046,6 @@
   },
   "minecraft:spore_blossom": {
     "id": 186,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2243,7 +2057,6 @@
   },
   "minecraft:brown_mushroom": {
     "id": 187,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2255,7 +2068,6 @@
   },
   "minecraft:red_mushroom": {
     "id": 188,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2267,7 +2079,6 @@
   },
   "minecraft:crimson_fungus": {
     "id": 189,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2279,7 +2090,6 @@
   },
   "minecraft:warped_fungus": {
     "id": 190,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2291,7 +2101,6 @@
   },
   "minecraft:crimson_roots": {
     "id": 191,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2303,7 +2112,6 @@
   },
   "minecraft:warped_roots": {
     "id": 192,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2315,7 +2123,6 @@
   },
   "minecraft:nether_sprouts": {
     "id": 193,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2327,7 +2134,6 @@
   },
   "minecraft:weeping_vines": {
     "id": 194,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2339,7 +2145,6 @@
   },
   "minecraft:twisting_vines": {
     "id": 195,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2351,7 +2156,6 @@
   },
   "minecraft:sugar_cane": {
     "id": 196,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2363,7 +2167,6 @@
   },
   "minecraft:kelp": {
     "id": 197,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2375,7 +2178,6 @@
   },
   "minecraft:moss_carpet": {
     "id": 198,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2387,7 +2189,6 @@
   },
   "minecraft:moss_block": {
     "id": 199,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2399,7 +2200,6 @@
   },
   "minecraft:hanging_roots": {
     "id": 200,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2411,7 +2211,6 @@
   },
   "minecraft:big_dripleaf": {
     "id": 201,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2423,7 +2222,6 @@
   },
   "minecraft:small_dripleaf": {
     "id": 202,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2435,7 +2233,6 @@
   },
   "minecraft:bamboo": {
     "id": 203,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2447,7 +2244,6 @@
   },
   "minecraft:oak_slab": {
     "id": 204,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2459,7 +2255,6 @@
   },
   "minecraft:spruce_slab": {
     "id": 205,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2471,7 +2266,6 @@
   },
   "minecraft:birch_slab": {
     "id": 206,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2483,7 +2277,6 @@
   },
   "minecraft:jungle_slab": {
     "id": 207,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2495,7 +2288,6 @@
   },
   "minecraft:acacia_slab": {
     "id": 208,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2507,7 +2299,6 @@
   },
   "minecraft:dark_oak_slab": {
     "id": 209,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2519,7 +2310,6 @@
   },
   "minecraft:crimson_slab": {
     "id": 210,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2531,7 +2321,6 @@
   },
   "minecraft:warped_slab": {
     "id": 211,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2543,7 +2332,6 @@
   },
   "minecraft:stone_slab": {
     "id": 212,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2555,7 +2343,6 @@
   },
   "minecraft:smooth_stone_slab": {
     "id": 213,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2567,7 +2354,6 @@
   },
   "minecraft:sandstone_slab": {
     "id": 214,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2579,7 +2365,6 @@
   },
   "minecraft:cut_sandstone_slab": {
     "id": 215,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2591,7 +2376,6 @@
   },
   "minecraft:petrified_oak_slab": {
     "id": 216,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2603,7 +2387,6 @@
   },
   "minecraft:cobblestone_slab": {
     "id": 217,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2615,7 +2398,6 @@
   },
   "minecraft:brick_slab": {
     "id": 218,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2627,7 +2409,6 @@
   },
   "minecraft:stone_brick_slab": {
     "id": 219,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2639,7 +2420,6 @@
   },
   "minecraft:nether_brick_slab": {
     "id": 220,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2651,7 +2431,6 @@
   },
   "minecraft:quartz_slab": {
     "id": 221,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2663,7 +2442,6 @@
   },
   "minecraft:red_sandstone_slab": {
     "id": 222,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2675,7 +2453,6 @@
   },
   "minecraft:cut_red_sandstone_slab": {
     "id": 223,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2687,7 +2464,6 @@
   },
   "minecraft:purpur_slab": {
     "id": 224,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2699,7 +2475,6 @@
   },
   "minecraft:prismarine_slab": {
     "id": 225,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2711,7 +2486,6 @@
   },
   "minecraft:prismarine_brick_slab": {
     "id": 226,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2723,7 +2497,6 @@
   },
   "minecraft:dark_prismarine_slab": {
     "id": 227,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2735,7 +2508,6 @@
   },
   "minecraft:smooth_quartz": {
     "id": 228,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2747,7 +2519,6 @@
   },
   "minecraft:smooth_red_sandstone": {
     "id": 229,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2759,7 +2530,6 @@
   },
   "minecraft:smooth_sandstone": {
     "id": 230,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2771,7 +2541,6 @@
   },
   "minecraft:smooth_stone": {
     "id": 231,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2783,7 +2552,6 @@
   },
   "minecraft:bricks": {
     "id": 232,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2795,7 +2563,6 @@
   },
   "minecraft:bookshelf": {
     "id": 233,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2807,7 +2574,6 @@
   },
   "minecraft:mossy_cobblestone": {
     "id": 234,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2819,7 +2585,6 @@
   },
   "minecraft:obsidian": {
     "id": 235,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2831,7 +2596,6 @@
   },
   "minecraft:torch": {
     "id": 236,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2843,7 +2607,6 @@
   },
   "minecraft:end_rod": {
     "id": 237,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2855,7 +2618,6 @@
   },
   "minecraft:chorus_plant": {
     "id": 238,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2867,7 +2629,6 @@
   },
   "minecraft:chorus_flower": {
     "id": 239,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2879,7 +2640,6 @@
   },
   "minecraft:purpur_block": {
     "id": 240,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2891,7 +2651,6 @@
   },
   "minecraft:purpur_pillar": {
     "id": 241,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2903,7 +2662,6 @@
   },
   "minecraft:purpur_stairs": {
     "id": 242,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2926,7 +2684,6 @@
   },
   "minecraft:oak_stairs": {
     "id": 244,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2938,7 +2695,6 @@
   },
   "minecraft:chest": {
     "id": 245,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2950,7 +2706,6 @@
   },
   "minecraft:crafting_table": {
     "id": 246,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2962,7 +2717,6 @@
   },
   "minecraft:farmland": {
     "id": 247,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2974,7 +2728,6 @@
   },
   "minecraft:furnace": {
     "id": 248,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2986,7 +2739,6 @@
   },
   "minecraft:ladder": {
     "id": 249,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -2998,7 +2750,6 @@
   },
   "minecraft:cobblestone_stairs": {
     "id": 250,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3010,7 +2761,6 @@
   },
   "minecraft:snow": {
     "id": 251,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3022,7 +2772,6 @@
   },
   "minecraft:ice": {
     "id": 252,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3034,7 +2783,6 @@
   },
   "minecraft:snow_block": {
     "id": 253,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3046,7 +2794,6 @@
   },
   "minecraft:cactus": {
     "id": 254,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3058,7 +2805,6 @@
   },
   "minecraft:clay": {
     "id": 255,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3070,7 +2816,6 @@
   },
   "minecraft:jukebox": {
     "id": 256,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3082,7 +2827,6 @@
   },
   "minecraft:oak_fence": {
     "id": 257,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3094,7 +2838,6 @@
   },
   "minecraft:spruce_fence": {
     "id": 258,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3106,7 +2849,6 @@
   },
   "minecraft:birch_fence": {
     "id": 259,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3118,7 +2860,6 @@
   },
   "minecraft:jungle_fence": {
     "id": 260,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3130,7 +2871,6 @@
   },
   "minecraft:acacia_fence": {
     "id": 261,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3142,7 +2882,6 @@
   },
   "minecraft:dark_oak_fence": {
     "id": 262,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3154,7 +2893,6 @@
   },
   "minecraft:crimson_fence": {
     "id": 263,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3166,7 +2904,6 @@
   },
   "minecraft:warped_fence": {
     "id": 264,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3178,7 +2915,6 @@
   },
   "minecraft:pumpkin": {
     "id": 265,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3190,7 +2926,6 @@
   },
   "minecraft:carved_pumpkin": {
     "id": 266,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3202,7 +2937,6 @@
   },
   "minecraft:jack_o_lantern": {
     "id": 267,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3214,7 +2948,6 @@
   },
   "minecraft:netherrack": {
     "id": 268,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3226,7 +2959,6 @@
   },
   "minecraft:soul_sand": {
     "id": 269,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3238,7 +2970,6 @@
   },
   "minecraft:soul_soil": {
     "id": 270,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3250,7 +2981,6 @@
   },
   "minecraft:basalt": {
     "id": 271,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3262,7 +2992,6 @@
   },
   "minecraft:polished_basalt": {
     "id": 272,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3274,7 +3003,6 @@
   },
   "minecraft:smooth_basalt": {
     "id": 273,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3286,7 +3014,6 @@
   },
   "minecraft:soul_torch": {
     "id": 274,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3298,7 +3025,6 @@
   },
   "minecraft:glowstone": {
     "id": 275,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3310,7 +3036,6 @@
   },
   "minecraft:infested_stone": {
     "id": 276,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3322,7 +3047,6 @@
   },
   "minecraft:infested_cobblestone": {
     "id": 277,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3334,7 +3058,6 @@
   },
   "minecraft:infested_stone_bricks": {
     "id": 278,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3346,7 +3069,6 @@
   },
   "minecraft:infested_mossy_stone_bricks": {
     "id": 279,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3358,7 +3080,6 @@
   },
   "minecraft:infested_cracked_stone_bricks": {
     "id": 280,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3370,7 +3091,6 @@
   },
   "minecraft:infested_chiseled_stone_bricks": {
     "id": 281,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3382,7 +3102,6 @@
   },
   "minecraft:infested_deepslate": {
     "id": 282,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3394,7 +3113,6 @@
   },
   "minecraft:stone_bricks": {
     "id": 283,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3406,7 +3124,6 @@
   },
   "minecraft:mossy_stone_bricks": {
     "id": 284,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3418,7 +3135,6 @@
   },
   "minecraft:cracked_stone_bricks": {
     "id": 285,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3430,7 +3146,6 @@
   },
   "minecraft:chiseled_stone_bricks": {
     "id": 286,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3442,7 +3157,6 @@
   },
   "minecraft:deepslate_bricks": {
     "id": 287,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3454,7 +3168,6 @@
   },
   "minecraft:cracked_deepslate_bricks": {
     "id": 288,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3466,7 +3179,6 @@
   },
   "minecraft:deepslate_tiles": {
     "id": 289,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3478,7 +3190,6 @@
   },
   "minecraft:cracked_deepslate_tiles": {
     "id": 290,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3490,7 +3201,6 @@
   },
   "minecraft:chiseled_deepslate": {
     "id": 291,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3502,7 +3212,6 @@
   },
   "minecraft:brown_mushroom_block": {
     "id": 292,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3514,7 +3223,6 @@
   },
   "minecraft:red_mushroom_block": {
     "id": 293,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3526,7 +3234,6 @@
   },
   "minecraft:mushroom_stem": {
     "id": 294,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3538,7 +3245,6 @@
   },
   "minecraft:iron_bars": {
     "id": 295,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3550,7 +3256,6 @@
   },
   "minecraft:chain": {
     "id": 296,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3562,7 +3267,6 @@
   },
   "minecraft:glass_pane": {
     "id": 297,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3574,7 +3278,6 @@
   },
   "minecraft:melon": {
     "id": 298,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3586,7 +3289,6 @@
   },
   "minecraft:vine": {
     "id": 299,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3598,7 +3300,6 @@
   },
   "minecraft:glow_lichen": {
     "id": 300,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3610,7 +3311,6 @@
   },
   "minecraft:brick_stairs": {
     "id": 301,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3622,7 +3322,6 @@
   },
   "minecraft:stone_brick_stairs": {
     "id": 302,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3634,7 +3333,6 @@
   },
   "minecraft:mycelium": {
     "id": 303,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3646,7 +3344,6 @@
   },
   "minecraft:lily_pad": {
     "id": 304,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3658,7 +3355,6 @@
   },
   "minecraft:nether_bricks": {
     "id": 305,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3670,7 +3366,6 @@
   },
   "minecraft:cracked_nether_bricks": {
     "id": 306,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3682,7 +3377,6 @@
   },
   "minecraft:chiseled_nether_bricks": {
     "id": 307,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3694,7 +3388,6 @@
   },
   "minecraft:nether_brick_fence": {
     "id": 308,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3706,7 +3399,6 @@
   },
   "minecraft:nether_brick_stairs": {
     "id": 309,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3718,7 +3410,6 @@
   },
   "minecraft:enchanting_table": {
     "id": 310,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3730,7 +3421,6 @@
   },
   "minecraft:end_portal_frame": {
     "id": 311,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3742,7 +3432,6 @@
   },
   "minecraft:end_stone": {
     "id": 312,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3754,7 +3443,6 @@
   },
   "minecraft:end_stone_bricks": {
     "id": 313,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3777,7 +3465,6 @@
   },
   "minecraft:sandstone_stairs": {
     "id": 315,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3789,7 +3476,6 @@
   },
   "minecraft:ender_chest": {
     "id": 316,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3801,7 +3487,6 @@
   },
   "minecraft:emerald_block": {
     "id": 317,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3813,7 +3498,6 @@
   },
   "minecraft:spruce_stairs": {
     "id": 318,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3825,7 +3509,6 @@
   },
   "minecraft:birch_stairs": {
     "id": 319,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3837,7 +3520,6 @@
   },
   "minecraft:jungle_stairs": {
     "id": 320,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3849,7 +3531,6 @@
   },
   "minecraft:crimson_stairs": {
     "id": 321,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3861,7 +3542,6 @@
   },
   "minecraft:warped_stairs": {
     "id": 322,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3884,7 +3564,6 @@
   },
   "minecraft:beacon": {
     "id": 324,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3896,7 +3575,6 @@
   },
   "minecraft:cobblestone_wall": {
     "id": 325,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3908,7 +3586,6 @@
   },
   "minecraft:mossy_cobblestone_wall": {
     "id": 326,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3920,7 +3597,6 @@
   },
   "minecraft:brick_wall": {
     "id": 327,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3932,7 +3608,6 @@
   },
   "minecraft:prismarine_wall": {
     "id": 328,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3944,7 +3619,6 @@
   },
   "minecraft:red_sandstone_wall": {
     "id": 329,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3956,7 +3630,6 @@
   },
   "minecraft:mossy_stone_brick_wall": {
     "id": 330,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3968,7 +3641,6 @@
   },
   "minecraft:granite_wall": {
     "id": 331,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3980,7 +3652,6 @@
   },
   "minecraft:stone_brick_wall": {
     "id": 332,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -3992,7 +3663,6 @@
   },
   "minecraft:nether_brick_wall": {
     "id": 333,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4004,7 +3674,6 @@
   },
   "minecraft:andesite_wall": {
     "id": 334,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4016,7 +3685,6 @@
   },
   "minecraft:red_nether_brick_wall": {
     "id": 335,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4028,7 +3696,6 @@
   },
   "minecraft:sandstone_wall": {
     "id": 336,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4040,7 +3707,6 @@
   },
   "minecraft:end_stone_brick_wall": {
     "id": 337,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4052,7 +3718,6 @@
   },
   "minecraft:diorite_wall": {
     "id": 338,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4064,7 +3729,6 @@
   },
   "minecraft:blackstone_wall": {
     "id": 339,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4076,7 +3740,6 @@
   },
   "minecraft:polished_blackstone_wall": {
     "id": 340,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4088,7 +3751,6 @@
   },
   "minecraft:polished_blackstone_brick_wall": {
     "id": 341,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4100,7 +3762,6 @@
   },
   "minecraft:cobbled_deepslate_wall": {
     "id": 342,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4112,7 +3773,6 @@
   },
   "minecraft:polished_deepslate_wall": {
     "id": 343,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4124,7 +3784,6 @@
   },
   "minecraft:deepslate_brick_wall": {
     "id": 344,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4136,7 +3795,6 @@
   },
   "minecraft:deepslate_tile_wall": {
     "id": 345,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4148,7 +3806,6 @@
   },
   "minecraft:anvil": {
     "id": 346,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4160,7 +3817,6 @@
   },
   "minecraft:chipped_anvil": {
     "id": 347,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4172,7 +3828,6 @@
   },
   "minecraft:damaged_anvil": {
     "id": 348,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4184,7 +3839,6 @@
   },
   "minecraft:chiseled_quartz_block": {
     "id": 349,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4196,7 +3850,6 @@
   },
   "minecraft:quartz_block": {
     "id": 350,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4208,7 +3861,6 @@
   },
   "minecraft:quartz_bricks": {
     "id": 351,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4220,7 +3872,6 @@
   },
   "minecraft:quartz_pillar": {
     "id": 352,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4232,7 +3883,6 @@
   },
   "minecraft:quartz_stairs": {
     "id": 353,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4244,7 +3894,6 @@
   },
   "minecraft:white_terracotta": {
     "id": 354,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4256,7 +3905,6 @@
   },
   "minecraft:orange_terracotta": {
     "id": 355,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4268,7 +3916,6 @@
   },
   "minecraft:magenta_terracotta": {
     "id": 356,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4280,7 +3927,6 @@
   },
   "minecraft:light_blue_terracotta": {
     "id": 357,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4292,7 +3938,6 @@
   },
   "minecraft:yellow_terracotta": {
     "id": 358,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4304,7 +3949,6 @@
   },
   "minecraft:lime_terracotta": {
     "id": 359,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4316,7 +3960,6 @@
   },
   "minecraft:pink_terracotta": {
     "id": 360,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4328,7 +3971,6 @@
   },
   "minecraft:gray_terracotta": {
     "id": 361,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4340,7 +3982,6 @@
   },
   "minecraft:light_gray_terracotta": {
     "id": 362,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4352,7 +3993,6 @@
   },
   "minecraft:cyan_terracotta": {
     "id": 363,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4364,7 +4004,6 @@
   },
   "minecraft:purple_terracotta": {
     "id": 364,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4376,7 +4015,6 @@
   },
   "minecraft:blue_terracotta": {
     "id": 365,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4388,7 +4026,6 @@
   },
   "minecraft:brown_terracotta": {
     "id": 366,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4400,7 +4037,6 @@
   },
   "minecraft:green_terracotta": {
     "id": 367,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4412,7 +4048,6 @@
   },
   "minecraft:red_terracotta": {
     "id": 368,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4424,7 +4059,6 @@
   },
   "minecraft:black_terracotta": {
     "id": 369,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4458,7 +4092,6 @@
   },
   "minecraft:hay_block": {
     "id": 372,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4470,7 +4103,6 @@
   },
   "minecraft:white_carpet": {
     "id": 373,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4482,7 +4114,6 @@
   },
   "minecraft:orange_carpet": {
     "id": 374,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4494,7 +4125,6 @@
   },
   "minecraft:magenta_carpet": {
     "id": 375,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4506,7 +4136,6 @@
   },
   "minecraft:light_blue_carpet": {
     "id": 376,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4518,7 +4147,6 @@
   },
   "minecraft:yellow_carpet": {
     "id": 377,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4530,7 +4158,6 @@
   },
   "minecraft:lime_carpet": {
     "id": 378,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4542,7 +4169,6 @@
   },
   "minecraft:pink_carpet": {
     "id": 379,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4554,7 +4180,6 @@
   },
   "minecraft:gray_carpet": {
     "id": 380,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4566,7 +4191,6 @@
   },
   "minecraft:light_gray_carpet": {
     "id": 381,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4578,7 +4202,6 @@
   },
   "minecraft:cyan_carpet": {
     "id": 382,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4590,7 +4213,6 @@
   },
   "minecraft:purple_carpet": {
     "id": 383,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4602,7 +4224,6 @@
   },
   "minecraft:blue_carpet": {
     "id": 384,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4614,7 +4235,6 @@
   },
   "minecraft:brown_carpet": {
     "id": 385,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4626,7 +4246,6 @@
   },
   "minecraft:green_carpet": {
     "id": 386,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4638,7 +4257,6 @@
   },
   "minecraft:red_carpet": {
     "id": 387,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4650,7 +4268,6 @@
   },
   "minecraft:black_carpet": {
     "id": 388,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4662,7 +4279,6 @@
   },
   "minecraft:terracotta": {
     "id": 389,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4674,7 +4290,6 @@
   },
   "minecraft:packed_ice": {
     "id": 390,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4686,7 +4301,6 @@
   },
   "minecraft:acacia_stairs": {
     "id": 391,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4698,7 +4312,6 @@
   },
   "minecraft:dark_oak_stairs": {
     "id": 392,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4710,7 +4323,6 @@
   },
   "minecraft:dirt_path": {
     "id": 393,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4722,7 +4334,6 @@
   },
   "minecraft:sunflower": {
     "id": 394,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4734,7 +4345,6 @@
   },
   "minecraft:lilac": {
     "id": 395,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4746,7 +4356,6 @@
   },
   "minecraft:rose_bush": {
     "id": 396,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4758,7 +4367,6 @@
   },
   "minecraft:peony": {
     "id": 397,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4770,7 +4378,6 @@
   },
   "minecraft:tall_grass": {
     "id": 398,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4782,7 +4389,6 @@
   },
   "minecraft:large_fern": {
     "id": 399,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4794,7 +4400,6 @@
   },
   "minecraft:white_stained_glass": {
     "id": 400,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4806,7 +4411,6 @@
   },
   "minecraft:orange_stained_glass": {
     "id": 401,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4818,7 +4422,6 @@
   },
   "minecraft:magenta_stained_glass": {
     "id": 402,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4830,7 +4433,6 @@
   },
   "minecraft:light_blue_stained_glass": {
     "id": 403,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4842,7 +4444,6 @@
   },
   "minecraft:yellow_stained_glass": {
     "id": 404,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4854,7 +4455,6 @@
   },
   "minecraft:lime_stained_glass": {
     "id": 405,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4866,7 +4466,6 @@
   },
   "minecraft:pink_stained_glass": {
     "id": 406,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4878,7 +4477,6 @@
   },
   "minecraft:gray_stained_glass": {
     "id": 407,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4890,7 +4488,6 @@
   },
   "minecraft:light_gray_stained_glass": {
     "id": 408,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4902,7 +4499,6 @@
   },
   "minecraft:cyan_stained_glass": {
     "id": 409,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4914,7 +4510,6 @@
   },
   "minecraft:purple_stained_glass": {
     "id": 410,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4926,7 +4521,6 @@
   },
   "minecraft:blue_stained_glass": {
     "id": 411,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4938,7 +4532,6 @@
   },
   "minecraft:brown_stained_glass": {
     "id": 412,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4950,7 +4543,6 @@
   },
   "minecraft:green_stained_glass": {
     "id": 413,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4962,7 +4554,6 @@
   },
   "minecraft:red_stained_glass": {
     "id": 414,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4974,7 +4565,6 @@
   },
   "minecraft:black_stained_glass": {
     "id": 415,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4986,7 +4576,6 @@
   },
   "minecraft:white_stained_glass_pane": {
     "id": 416,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -4998,7 +4587,6 @@
   },
   "minecraft:orange_stained_glass_pane": {
     "id": 417,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5010,7 +4598,6 @@
   },
   "minecraft:magenta_stained_glass_pane": {
     "id": 418,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5022,7 +4609,6 @@
   },
   "minecraft:light_blue_stained_glass_pane": {
     "id": 419,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5034,7 +4620,6 @@
   },
   "minecraft:yellow_stained_glass_pane": {
     "id": 420,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5046,7 +4631,6 @@
   },
   "minecraft:lime_stained_glass_pane": {
     "id": 421,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5058,7 +4642,6 @@
   },
   "minecraft:pink_stained_glass_pane": {
     "id": 422,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5070,7 +4653,6 @@
   },
   "minecraft:gray_stained_glass_pane": {
     "id": 423,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5082,7 +4664,6 @@
   },
   "minecraft:light_gray_stained_glass_pane": {
     "id": 424,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5094,7 +4675,6 @@
   },
   "minecraft:cyan_stained_glass_pane": {
     "id": 425,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5106,7 +4686,6 @@
   },
   "minecraft:purple_stained_glass_pane": {
     "id": 426,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5118,7 +4697,6 @@
   },
   "minecraft:blue_stained_glass_pane": {
     "id": 427,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5130,7 +4708,6 @@
   },
   "minecraft:brown_stained_glass_pane": {
     "id": 428,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5142,7 +4719,6 @@
   },
   "minecraft:green_stained_glass_pane": {
     "id": 429,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5154,7 +4730,6 @@
   },
   "minecraft:red_stained_glass_pane": {
     "id": 430,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5166,7 +4741,6 @@
   },
   "minecraft:black_stained_glass_pane": {
     "id": 431,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5178,7 +4752,6 @@
   },
   "minecraft:prismarine": {
     "id": 432,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5190,7 +4763,6 @@
   },
   "minecraft:prismarine_bricks": {
     "id": 433,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5202,7 +4774,6 @@
   },
   "minecraft:dark_prismarine": {
     "id": 434,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5214,7 +4785,6 @@
   },
   "minecraft:prismarine_stairs": {
     "id": 435,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5226,7 +4796,6 @@
   },
   "minecraft:prismarine_brick_stairs": {
     "id": 436,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5238,7 +4807,6 @@
   },
   "minecraft:dark_prismarine_stairs": {
     "id": 437,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5250,7 +4818,6 @@
   },
   "minecraft:sea_lantern": {
     "id": 438,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5262,7 +4829,6 @@
   },
   "minecraft:red_sandstone": {
     "id": 439,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5274,7 +4840,6 @@
   },
   "minecraft:chiseled_red_sandstone": {
     "id": 440,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5286,7 +4851,6 @@
   },
   "minecraft:cut_red_sandstone": {
     "id": 441,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5298,7 +4862,6 @@
   },
   "minecraft:red_sandstone_stairs": {
     "id": 442,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5332,7 +4895,6 @@
   },
   "minecraft:magma_block": {
     "id": 445,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5344,7 +4906,6 @@
   },
   "minecraft:nether_wart_block": {
     "id": 446,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5356,7 +4917,6 @@
   },
   "minecraft:warped_wart_block": {
     "id": 447,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5368,7 +4928,6 @@
   },
   "minecraft:red_nether_bricks": {
     "id": 448,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5380,7 +4939,6 @@
   },
   "minecraft:bone_block": {
     "id": 449,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5403,7 +4961,6 @@
   },
   "minecraft:shulker_box": {
     "id": 451,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5415,7 +4972,6 @@
   },
   "minecraft:white_shulker_box": {
     "id": 452,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5427,7 +4983,6 @@
   },
   "minecraft:orange_shulker_box": {
     "id": 453,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5439,7 +4994,6 @@
   },
   "minecraft:magenta_shulker_box": {
     "id": 454,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5451,7 +5005,6 @@
   },
   "minecraft:light_blue_shulker_box": {
     "id": 455,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5463,7 +5016,6 @@
   },
   "minecraft:yellow_shulker_box": {
     "id": 456,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5475,7 +5027,6 @@
   },
   "minecraft:lime_shulker_box": {
     "id": 457,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5487,7 +5038,6 @@
   },
   "minecraft:pink_shulker_box": {
     "id": 458,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5499,7 +5049,6 @@
   },
   "minecraft:gray_shulker_box": {
     "id": 459,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5511,7 +5060,6 @@
   },
   "minecraft:light_gray_shulker_box": {
     "id": 460,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5523,7 +5071,6 @@
   },
   "minecraft:cyan_shulker_box": {
     "id": 461,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5535,7 +5082,6 @@
   },
   "minecraft:purple_shulker_box": {
     "id": 462,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5547,7 +5093,6 @@
   },
   "minecraft:blue_shulker_box": {
     "id": 463,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5559,7 +5104,6 @@
   },
   "minecraft:brown_shulker_box": {
     "id": 464,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5571,7 +5115,6 @@
   },
   "minecraft:green_shulker_box": {
     "id": 465,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5583,7 +5126,6 @@
   },
   "minecraft:red_shulker_box": {
     "id": 466,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5595,7 +5137,6 @@
   },
   "minecraft:black_shulker_box": {
     "id": 467,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -5607,7 +5148,6 @@
   },
   "minecraft:white_glazed_terracotta": {
     "id": 468,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5619,7 +5159,6 @@
   },
   "minecraft:orange_glazed_terracotta": {
     "id": 469,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5631,7 +5170,6 @@
   },
   "minecraft:magenta_glazed_terracotta": {
     "id": 470,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5643,7 +5181,6 @@
   },
   "minecraft:light_blue_glazed_terracotta": {
     "id": 471,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5655,7 +5192,6 @@
   },
   "minecraft:yellow_glazed_terracotta": {
     "id": 472,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5667,7 +5203,6 @@
   },
   "minecraft:lime_glazed_terracotta": {
     "id": 473,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5679,7 +5214,6 @@
   },
   "minecraft:pink_glazed_terracotta": {
     "id": 474,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5691,7 +5225,6 @@
   },
   "minecraft:gray_glazed_terracotta": {
     "id": 475,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5703,7 +5236,6 @@
   },
   "minecraft:light_gray_glazed_terracotta": {
     "id": 476,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5715,7 +5247,6 @@
   },
   "minecraft:cyan_glazed_terracotta": {
     "id": 477,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5727,7 +5258,6 @@
   },
   "minecraft:purple_glazed_terracotta": {
     "id": 478,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5739,7 +5269,6 @@
   },
   "minecraft:blue_glazed_terracotta": {
     "id": 479,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5751,7 +5280,6 @@
   },
   "minecraft:brown_glazed_terracotta": {
     "id": 480,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5763,7 +5291,6 @@
   },
   "minecraft:green_glazed_terracotta": {
     "id": 481,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5775,7 +5302,6 @@
   },
   "minecraft:red_glazed_terracotta": {
     "id": 482,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5787,7 +5313,6 @@
   },
   "minecraft:black_glazed_terracotta": {
     "id": 483,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5799,7 +5324,6 @@
   },
   "minecraft:white_concrete": {
     "id": 484,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5811,7 +5335,6 @@
   },
   "minecraft:orange_concrete": {
     "id": 485,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5823,7 +5346,6 @@
   },
   "minecraft:magenta_concrete": {
     "id": 486,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5835,7 +5357,6 @@
   },
   "minecraft:light_blue_concrete": {
     "id": 487,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5847,7 +5368,6 @@
   },
   "minecraft:yellow_concrete": {
     "id": 488,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5859,7 +5379,6 @@
   },
   "minecraft:lime_concrete": {
     "id": 489,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5871,7 +5390,6 @@
   },
   "minecraft:pink_concrete": {
     "id": 490,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5883,7 +5401,6 @@
   },
   "minecraft:gray_concrete": {
     "id": 491,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5895,7 +5412,6 @@
   },
   "minecraft:light_gray_concrete": {
     "id": 492,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5907,7 +5423,6 @@
   },
   "minecraft:cyan_concrete": {
     "id": 493,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5919,7 +5434,6 @@
   },
   "minecraft:purple_concrete": {
     "id": 494,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5931,7 +5445,6 @@
   },
   "minecraft:blue_concrete": {
     "id": 495,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5943,7 +5456,6 @@
   },
   "minecraft:brown_concrete": {
     "id": 496,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5955,7 +5467,6 @@
   },
   "minecraft:green_concrete": {
     "id": 497,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5967,7 +5478,6 @@
   },
   "minecraft:red_concrete": {
     "id": 498,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5979,7 +5489,6 @@
   },
   "minecraft:black_concrete": {
     "id": 499,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5991,7 +5500,6 @@
   },
   "minecraft:white_concrete_powder": {
     "id": 500,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6003,7 +5511,6 @@
   },
   "minecraft:orange_concrete_powder": {
     "id": 501,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6015,7 +5522,6 @@
   },
   "minecraft:magenta_concrete_powder": {
     "id": 502,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6027,7 +5533,6 @@
   },
   "minecraft:light_blue_concrete_powder": {
     "id": 503,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6039,7 +5544,6 @@
   },
   "minecraft:yellow_concrete_powder": {
     "id": 504,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6051,7 +5555,6 @@
   },
   "minecraft:lime_concrete_powder": {
     "id": 505,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6063,7 +5566,6 @@
   },
   "minecraft:pink_concrete_powder": {
     "id": 506,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6075,7 +5577,6 @@
   },
   "minecraft:gray_concrete_powder": {
     "id": 507,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6087,7 +5588,6 @@
   },
   "minecraft:light_gray_concrete_powder": {
     "id": 508,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6099,7 +5599,6 @@
   },
   "minecraft:cyan_concrete_powder": {
     "id": 509,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6111,7 +5610,6 @@
   },
   "minecraft:purple_concrete_powder": {
     "id": 510,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6123,7 +5621,6 @@
   },
   "minecraft:blue_concrete_powder": {
     "id": 511,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6135,7 +5632,6 @@
   },
   "minecraft:brown_concrete_powder": {
     "id": 512,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6147,7 +5643,6 @@
   },
   "minecraft:green_concrete_powder": {
     "id": 513,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6159,7 +5654,6 @@
   },
   "minecraft:red_concrete_powder": {
     "id": 514,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6171,7 +5665,6 @@
   },
   "minecraft:black_concrete_powder": {
     "id": 515,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6183,7 +5676,6 @@
   },
   "minecraft:turtle_egg": {
     "id": 516,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6195,7 +5687,6 @@
   },
   "minecraft:dead_tube_coral_block": {
     "id": 517,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6207,7 +5698,6 @@
   },
   "minecraft:dead_brain_coral_block": {
     "id": 518,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6219,7 +5709,6 @@
   },
   "minecraft:dead_bubble_coral_block": {
     "id": 519,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6231,7 +5720,6 @@
   },
   "minecraft:dead_fire_coral_block": {
     "id": 520,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6243,7 +5731,6 @@
   },
   "minecraft:dead_horn_coral_block": {
     "id": 521,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6255,7 +5742,6 @@
   },
   "minecraft:tube_coral_block": {
     "id": 522,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6267,7 +5753,6 @@
   },
   "minecraft:brain_coral_block": {
     "id": 523,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6279,7 +5764,6 @@
   },
   "minecraft:bubble_coral_block": {
     "id": 524,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6291,7 +5775,6 @@
   },
   "minecraft:fire_coral_block": {
     "id": 525,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6303,7 +5786,6 @@
   },
   "minecraft:horn_coral_block": {
     "id": 526,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6315,7 +5797,6 @@
   },
   "minecraft:tube_coral": {
     "id": 527,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6327,7 +5808,6 @@
   },
   "minecraft:brain_coral": {
     "id": 528,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6339,7 +5819,6 @@
   },
   "minecraft:bubble_coral": {
     "id": 529,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6351,7 +5830,6 @@
   },
   "minecraft:fire_coral": {
     "id": 530,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6363,7 +5841,6 @@
   },
   "minecraft:horn_coral": {
     "id": 531,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6375,7 +5852,6 @@
   },
   "minecraft:dead_brain_coral": {
     "id": 532,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6387,7 +5863,6 @@
   },
   "minecraft:dead_bubble_coral": {
     "id": 533,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6399,7 +5874,6 @@
   },
   "minecraft:dead_fire_coral": {
     "id": 534,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6411,7 +5885,6 @@
   },
   "minecraft:dead_horn_coral": {
     "id": 535,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6423,7 +5896,6 @@
   },
   "minecraft:dead_tube_coral": {
     "id": 536,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6435,7 +5907,6 @@
   },
   "minecraft:tube_coral_fan": {
     "id": 537,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6447,7 +5918,6 @@
   },
   "minecraft:brain_coral_fan": {
     "id": 538,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6459,7 +5929,6 @@
   },
   "minecraft:bubble_coral_fan": {
     "id": 539,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6471,7 +5940,6 @@
   },
   "minecraft:fire_coral_fan": {
     "id": 540,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6483,7 +5951,6 @@
   },
   "minecraft:horn_coral_fan": {
     "id": 541,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6495,7 +5962,6 @@
   },
   "minecraft:dead_tube_coral_fan": {
     "id": 542,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6507,7 +5973,6 @@
   },
   "minecraft:dead_brain_coral_fan": {
     "id": 543,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6519,7 +5984,6 @@
   },
   "minecraft:dead_bubble_coral_fan": {
     "id": 544,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6531,7 +5995,6 @@
   },
   "minecraft:dead_fire_coral_fan": {
     "id": 545,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6543,7 +6006,6 @@
   },
   "minecraft:dead_horn_coral_fan": {
     "id": 546,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6555,7 +6017,6 @@
   },
   "minecraft:blue_ice": {
     "id": 547,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6567,7 +6028,6 @@
   },
   "minecraft:conduit": {
     "id": 548,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6579,7 +6039,6 @@
   },
   "minecraft:polished_granite_stairs": {
     "id": 549,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6591,7 +6050,6 @@
   },
   "minecraft:smooth_red_sandstone_stairs": {
     "id": 550,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6603,7 +6061,6 @@
   },
   "minecraft:mossy_stone_brick_stairs": {
     "id": 551,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6615,7 +6072,6 @@
   },
   "minecraft:polished_diorite_stairs": {
     "id": 552,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6627,7 +6083,6 @@
   },
   "minecraft:mossy_cobblestone_stairs": {
     "id": 553,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6639,7 +6094,6 @@
   },
   "minecraft:end_stone_brick_stairs": {
     "id": 554,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6651,7 +6105,6 @@
   },
   "minecraft:stone_stairs": {
     "id": 555,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6663,7 +6116,6 @@
   },
   "minecraft:smooth_sandstone_stairs": {
     "id": 556,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6675,7 +6127,6 @@
   },
   "minecraft:smooth_quartz_stairs": {
     "id": 557,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6687,7 +6138,6 @@
   },
   "minecraft:granite_stairs": {
     "id": 558,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6699,7 +6149,6 @@
   },
   "minecraft:andesite_stairs": {
     "id": 559,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6711,7 +6160,6 @@
   },
   "minecraft:red_nether_brick_stairs": {
     "id": 560,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6723,7 +6171,6 @@
   },
   "minecraft:polished_andesite_stairs": {
     "id": 561,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6735,7 +6182,6 @@
   },
   "minecraft:diorite_stairs": {
     "id": 562,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6747,7 +6193,6 @@
   },
   "minecraft:cobbled_deepslate_stairs": {
     "id": 563,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6759,7 +6204,6 @@
   },
   "minecraft:polished_deepslate_stairs": {
     "id": 564,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6771,7 +6215,6 @@
   },
   "minecraft:deepslate_brick_stairs": {
     "id": 565,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6783,7 +6226,6 @@
   },
   "minecraft:deepslate_tile_stairs": {
     "id": 566,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6795,7 +6237,6 @@
   },
   "minecraft:polished_granite_slab": {
     "id": 567,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6807,7 +6248,6 @@
   },
   "minecraft:smooth_red_sandstone_slab": {
     "id": 568,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6819,7 +6259,6 @@
   },
   "minecraft:mossy_stone_brick_slab": {
     "id": 569,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6831,7 +6270,6 @@
   },
   "minecraft:polished_diorite_slab": {
     "id": 570,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6843,7 +6281,6 @@
   },
   "minecraft:mossy_cobblestone_slab": {
     "id": 571,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6855,7 +6292,6 @@
   },
   "minecraft:end_stone_brick_slab": {
     "id": 572,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6867,7 +6303,6 @@
   },
   "minecraft:smooth_sandstone_slab": {
     "id": 573,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6879,7 +6314,6 @@
   },
   "minecraft:smooth_quartz_slab": {
     "id": 574,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6891,7 +6325,6 @@
   },
   "minecraft:granite_slab": {
     "id": 575,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6903,7 +6336,6 @@
   },
   "minecraft:andesite_slab": {
     "id": 576,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6915,7 +6347,6 @@
   },
   "minecraft:red_nether_brick_slab": {
     "id": 577,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6927,7 +6358,6 @@
   },
   "minecraft:polished_andesite_slab": {
     "id": 578,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6939,7 +6369,6 @@
   },
   "minecraft:diorite_slab": {
     "id": 579,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6951,7 +6380,6 @@
   },
   "minecraft:cobbled_deepslate_slab": {
     "id": 580,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6963,7 +6391,6 @@
   },
   "minecraft:polished_deepslate_slab": {
     "id": 581,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6975,7 +6402,6 @@
   },
   "minecraft:deepslate_brick_slab": {
     "id": 582,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6987,7 +6413,6 @@
   },
   "minecraft:deepslate_tile_slab": {
     "id": 583,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -6999,7 +6424,6 @@
   },
   "minecraft:scaffolding": {
     "id": 584,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7011,7 +6435,6 @@
   },
   "minecraft:redstone": {
     "id": 585,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7023,7 +6446,6 @@
   },
   "minecraft:redstone_torch": {
     "id": 586,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7035,7 +6457,6 @@
   },
   "minecraft:redstone_block": {
     "id": 587,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7047,7 +6468,6 @@
   },
   "minecraft:repeater": {
     "id": 588,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7059,7 +6479,6 @@
   },
   "minecraft:comparator": {
     "id": 589,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7071,7 +6490,6 @@
   },
   "minecraft:piston": {
     "id": 590,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7083,7 +6501,6 @@
   },
   "minecraft:sticky_piston": {
     "id": 591,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7095,7 +6512,6 @@
   },
   "minecraft:slime_block": {
     "id": 592,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7107,7 +6523,6 @@
   },
   "minecraft:honey_block": {
     "id": 593,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7119,7 +6534,6 @@
   },
   "minecraft:observer": {
     "id": 594,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7131,7 +6545,6 @@
   },
   "minecraft:hopper": {
     "id": 595,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7143,7 +6556,6 @@
   },
   "minecraft:dispenser": {
     "id": 596,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7155,7 +6567,6 @@
   },
   "minecraft:dropper": {
     "id": 597,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7167,7 +6578,6 @@
   },
   "minecraft:lectern": {
     "id": 598,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7179,7 +6589,6 @@
   },
   "minecraft:target": {
     "id": 599,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7191,7 +6600,6 @@
   },
   "minecraft:lever": {
     "id": 600,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7203,7 +6611,6 @@
   },
   "minecraft:lightning_rod": {
     "id": 601,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7215,7 +6622,6 @@
   },
   "minecraft:daylight_detector": {
     "id": 602,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7238,7 +6644,6 @@
   },
   "minecraft:tripwire_hook": {
     "id": 604,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7250,7 +6655,6 @@
   },
   "minecraft:trapped_chest": {
     "id": 605,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7262,7 +6666,6 @@
   },
   "minecraft:tnt": {
     "id": 606,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7274,7 +6677,6 @@
   },
   "minecraft:redstone_lamp": {
     "id": 607,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7286,7 +6688,6 @@
   },
   "minecraft:note_block": {
     "id": 608,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7298,7 +6699,6 @@
   },
   "minecraft:stone_button": {
     "id": 609,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7310,7 +6710,6 @@
   },
   "minecraft:polished_blackstone_button": {
     "id": 610,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7322,7 +6721,6 @@
   },
   "minecraft:oak_button": {
     "id": 611,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7334,7 +6732,6 @@
   },
   "minecraft:spruce_button": {
     "id": 612,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7346,7 +6743,6 @@
   },
   "minecraft:birch_button": {
     "id": 613,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7358,7 +6754,6 @@
   },
   "minecraft:jungle_button": {
     "id": 614,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7370,7 +6765,6 @@
   },
   "minecraft:acacia_button": {
     "id": 615,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7382,7 +6776,6 @@
   },
   "minecraft:dark_oak_button": {
     "id": 616,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7394,7 +6787,6 @@
   },
   "minecraft:crimson_button": {
     "id": 617,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7406,7 +6798,6 @@
   },
   "minecraft:warped_button": {
     "id": 618,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7418,7 +6809,6 @@
   },
   "minecraft:stone_pressure_plate": {
     "id": 619,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7430,7 +6820,6 @@
   },
   "minecraft:polished_blackstone_pressure_plate": {
     "id": 620,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7442,7 +6831,6 @@
   },
   "minecraft:light_weighted_pressure_plate": {
     "id": 621,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7454,7 +6842,6 @@
   },
   "minecraft:heavy_weighted_pressure_plate": {
     "id": 622,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7466,7 +6853,6 @@
   },
   "minecraft:oak_pressure_plate": {
     "id": 623,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7478,7 +6864,6 @@
   },
   "minecraft:spruce_pressure_plate": {
     "id": 624,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7490,7 +6875,6 @@
   },
   "minecraft:birch_pressure_plate": {
     "id": 625,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7502,7 +6886,6 @@
   },
   "minecraft:jungle_pressure_plate": {
     "id": 626,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7514,7 +6897,6 @@
   },
   "minecraft:acacia_pressure_plate": {
     "id": 627,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7526,7 +6908,6 @@
   },
   "minecraft:dark_oak_pressure_plate": {
     "id": 628,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7538,7 +6919,6 @@
   },
   "minecraft:crimson_pressure_plate": {
     "id": 629,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7550,7 +6930,6 @@
   },
   "minecraft:warped_pressure_plate": {
     "id": 630,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7562,7 +6941,6 @@
   },
   "minecraft:iron_door": {
     "id": 631,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7574,7 +6952,6 @@
   },
   "minecraft:oak_door": {
     "id": 632,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7586,7 +6963,6 @@
   },
   "minecraft:spruce_door": {
     "id": 633,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7598,7 +6974,6 @@
   },
   "minecraft:birch_door": {
     "id": 634,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7610,7 +6985,6 @@
   },
   "minecraft:jungle_door": {
     "id": 635,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7622,7 +6996,6 @@
   },
   "minecraft:acacia_door": {
     "id": 636,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7634,7 +7007,6 @@
   },
   "minecraft:dark_oak_door": {
     "id": 637,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7646,7 +7018,6 @@
   },
   "minecraft:crimson_door": {
     "id": 638,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7658,7 +7029,6 @@
   },
   "minecraft:warped_door": {
     "id": 639,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7670,7 +7040,6 @@
   },
   "minecraft:iron_trapdoor": {
     "id": 640,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7682,7 +7051,6 @@
   },
   "minecraft:oak_trapdoor": {
     "id": 641,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7694,7 +7062,6 @@
   },
   "minecraft:spruce_trapdoor": {
     "id": 642,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7706,7 +7073,6 @@
   },
   "minecraft:birch_trapdoor": {
     "id": 643,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7718,7 +7084,6 @@
   },
   "minecraft:jungle_trapdoor": {
     "id": 644,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7730,7 +7095,6 @@
   },
   "minecraft:acacia_trapdoor": {
     "id": 645,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7742,7 +7106,6 @@
   },
   "minecraft:dark_oak_trapdoor": {
     "id": 646,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7754,7 +7117,6 @@
   },
   "minecraft:crimson_trapdoor": {
     "id": 647,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7766,7 +7128,6 @@
   },
   "minecraft:warped_trapdoor": {
     "id": 648,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7778,7 +7139,6 @@
   },
   "minecraft:oak_fence_gate": {
     "id": 649,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7790,7 +7150,6 @@
   },
   "minecraft:spruce_fence_gate": {
     "id": 650,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7802,7 +7161,6 @@
   },
   "minecraft:birch_fence_gate": {
     "id": 651,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7814,7 +7172,6 @@
   },
   "minecraft:jungle_fence_gate": {
     "id": 652,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7826,7 +7183,6 @@
   },
   "minecraft:acacia_fence_gate": {
     "id": 653,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7838,7 +7194,6 @@
   },
   "minecraft:dark_oak_fence_gate": {
     "id": 654,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7850,7 +7205,6 @@
   },
   "minecraft:crimson_fence_gate": {
     "id": 655,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7862,7 +7216,6 @@
   },
   "minecraft:warped_fence_gate": {
     "id": 656,
-    "category": 2,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7874,7 +7227,6 @@
   },
   "minecraft:powered_rail": {
     "id": 657,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7886,7 +7238,6 @@
   },
   "minecraft:detector_rail": {
     "id": 658,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7898,7 +7249,6 @@
   },
   "minecraft:rail": {
     "id": 659,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7910,7 +7260,6 @@
   },
   "minecraft:activator_rail": {
     "id": 660,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -7922,7 +7271,6 @@
   },
   "minecraft:saddle": {
     "id": 661,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -7933,7 +7281,6 @@
   },
   "minecraft:minecart": {
     "id": 662,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -7944,7 +7291,6 @@
   },
   "minecraft:chest_minecart": {
     "id": 663,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -7955,7 +7301,6 @@
   },
   "minecraft:furnace_minecart": {
     "id": 664,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -7966,7 +7311,6 @@
   },
   "minecraft:tnt_minecart": {
     "id": 665,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -7977,7 +7321,6 @@
   },
   "minecraft:hopper_minecart": {
     "id": 666,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -7988,7 +7331,6 @@
   },
   "minecraft:carrot_on_a_stick": {
     "id": 667,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 25,
@@ -7999,7 +7341,6 @@
   },
   "minecraft:warped_fungus_on_a_stick": {
     "id": 668,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 100,
@@ -8010,7 +7351,6 @@
   },
   "minecraft:elytra": {
     "id": 669,
-    "category": 3,
     "rarity": 1,
     "max_stack_size": 1,
     "max_damage": 432,
@@ -8021,7 +7361,6 @@
   },
   "minecraft:oak_boat": {
     "id": 670,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -8032,7 +7371,6 @@
   },
   "minecraft:spruce_boat": {
     "id": 671,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -8043,7 +7381,6 @@
   },
   "minecraft:birch_boat": {
     "id": 672,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -8054,7 +7391,6 @@
   },
   "minecraft:jungle_boat": {
     "id": 673,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -8065,7 +7401,6 @@
   },
   "minecraft:acacia_boat": {
     "id": 674,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -8076,7 +7411,6 @@
   },
   "minecraft:dark_oak_boat": {
     "id": 675,
-    "category": 3,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -8109,7 +7443,6 @@
   },
   "minecraft:turtle_helmet": {
     "id": 678,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 275,
@@ -8125,7 +7458,6 @@
   },
   "minecraft:scute": {
     "id": 679,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8136,7 +7468,6 @@
   },
   "minecraft:flint_and_steel": {
     "id": 680,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 64,
@@ -8147,7 +7478,6 @@
   },
   "minecraft:apple": {
     "id": 681,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8165,7 +7495,6 @@
   },
   "minecraft:bow": {
     "id": 682,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 384,
@@ -8176,7 +7505,6 @@
   },
   "minecraft:arrow": {
     "id": 683,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8187,7 +7515,6 @@
   },
   "minecraft:coal": {
     "id": 684,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8198,7 +7525,6 @@
   },
   "minecraft:charcoal": {
     "id": 685,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8209,7 +7535,6 @@
   },
   "minecraft:diamond": {
     "id": 686,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8220,7 +7545,6 @@
   },
   "minecraft:emerald": {
     "id": 687,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8231,7 +7555,6 @@
   },
   "minecraft:lapis_lazuli": {
     "id": 688,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8242,7 +7565,6 @@
   },
   "minecraft:quartz": {
     "id": 689,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8253,7 +7575,6 @@
   },
   "minecraft:amethyst_shard": {
     "id": 690,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8264,7 +7585,6 @@
   },
   "minecraft:raw_iron": {
     "id": 691,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8275,7 +7595,6 @@
   },
   "minecraft:iron_ingot": {
     "id": 692,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8286,7 +7605,6 @@
   },
   "minecraft:raw_copper": {
     "id": 693,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8297,7 +7615,6 @@
   },
   "minecraft:copper_ingot": {
     "id": 694,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8308,7 +7625,6 @@
   },
   "minecraft:raw_gold": {
     "id": 695,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8319,7 +7635,6 @@
   },
   "minecraft:gold_ingot": {
     "id": 696,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8330,7 +7645,6 @@
   },
   "minecraft:netherite_ingot": {
     "id": 697,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8341,7 +7655,6 @@
   },
   "minecraft:netherite_scrap": {
     "id": 698,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -8352,7 +7665,6 @@
   },
   "minecraft:wooden_sword": {
     "id": 699,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 59,
@@ -8369,7 +7681,6 @@
   },
   "minecraft:wooden_shovel": {
     "id": 700,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 59,
@@ -8394,7 +7705,6 @@
   },
   "minecraft:wooden_pickaxe": {
     "id": 701,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 59,
@@ -8411,7 +7721,6 @@
   },
   "minecraft:wooden_axe": {
     "id": 702,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 59,
@@ -8446,7 +7755,6 @@
   },
   "minecraft:wooden_hoe": {
     "id": 703,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 59,
@@ -8463,7 +7771,6 @@
   },
   "minecraft:stone_sword": {
     "id": 704,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 131,
@@ -8480,7 +7787,6 @@
   },
   "minecraft:stone_shovel": {
     "id": 705,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 131,
@@ -8505,7 +7811,6 @@
   },
   "minecraft:stone_pickaxe": {
     "id": 706,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 131,
@@ -8522,7 +7827,6 @@
   },
   "minecraft:stone_axe": {
     "id": 707,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 131,
@@ -8557,7 +7861,6 @@
   },
   "minecraft:stone_hoe": {
     "id": 708,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 131,
@@ -8574,7 +7877,6 @@
   },
   "minecraft:golden_sword": {
     "id": 709,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 32,
@@ -8591,7 +7893,6 @@
   },
   "minecraft:golden_shovel": {
     "id": 710,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 32,
@@ -8616,7 +7917,6 @@
   },
   "minecraft:golden_pickaxe": {
     "id": 711,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 32,
@@ -8633,7 +7933,6 @@
   },
   "minecraft:golden_axe": {
     "id": 712,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 32,
@@ -8668,7 +7967,6 @@
   },
   "minecraft:golden_hoe": {
     "id": 713,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 32,
@@ -8685,7 +7983,6 @@
   },
   "minecraft:iron_sword": {
     "id": 714,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 250,
@@ -8702,7 +7999,6 @@
   },
   "minecraft:iron_shovel": {
     "id": 715,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 250,
@@ -8727,7 +8023,6 @@
   },
   "minecraft:iron_pickaxe": {
     "id": 716,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 250,
@@ -8744,7 +8039,6 @@
   },
   "minecraft:iron_axe": {
     "id": 717,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 250,
@@ -8779,7 +8073,6 @@
   },
   "minecraft:iron_hoe": {
     "id": 718,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 250,
@@ -8796,7 +8089,6 @@
   },
   "minecraft:diamond_sword": {
     "id": 719,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 1561,
@@ -8813,7 +8105,6 @@
   },
   "minecraft:diamond_shovel": {
     "id": 720,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 1561,
@@ -8838,7 +8129,6 @@
   },
   "minecraft:diamond_pickaxe": {
     "id": 721,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 1561,
@@ -8855,7 +8145,6 @@
   },
   "minecraft:diamond_axe": {
     "id": 722,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 1561,
@@ -8890,7 +8179,6 @@
   },
   "minecraft:diamond_hoe": {
     "id": 723,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 1561,
@@ -8907,7 +8195,6 @@
   },
   "minecraft:netherite_sword": {
     "id": 724,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 2031,
@@ -8924,7 +8211,6 @@
   },
   "minecraft:netherite_shovel": {
     "id": 725,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 2031,
@@ -8949,7 +8235,6 @@
   },
   "minecraft:netherite_pickaxe": {
     "id": 726,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 2031,
@@ -8966,7 +8251,6 @@
   },
   "minecraft:netherite_axe": {
     "id": 727,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 2031,
@@ -9001,7 +8285,6 @@
   },
   "minecraft:netherite_hoe": {
     "id": 728,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 2031,
@@ -9018,7 +8301,6 @@
   },
   "minecraft:stick": {
     "id": 729,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9029,7 +8311,6 @@
   },
   "minecraft:bowl": {
     "id": 730,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9040,7 +8321,6 @@
   },
   "minecraft:mushroom_stew": {
     "id": 731,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -9058,7 +8338,6 @@
   },
   "minecraft:string": {
     "id": 732,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9070,7 +8349,6 @@
   },
   "minecraft:feather": {
     "id": 733,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9081,7 +8359,6 @@
   },
   "minecraft:gunpowder": {
     "id": 734,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9092,7 +8369,6 @@
   },
   "minecraft:wheat_seeds": {
     "id": 735,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9104,7 +8380,6 @@
   },
   "minecraft:wheat": {
     "id": 736,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9115,7 +8390,6 @@
   },
   "minecraft:bread": {
     "id": 737,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9133,7 +8407,6 @@
   },
   "minecraft:leather_helmet": {
     "id": 738,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 55,
@@ -9149,7 +8422,6 @@
   },
   "minecraft:leather_chestplate": {
     "id": 739,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 80,
@@ -9165,7 +8437,6 @@
   },
   "minecraft:leather_leggings": {
     "id": 740,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 75,
@@ -9181,7 +8452,6 @@
   },
   "minecraft:leather_boots": {
     "id": 741,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 65,
@@ -9197,7 +8467,6 @@
   },
   "minecraft:chainmail_helmet": {
     "id": 742,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 165,
@@ -9213,7 +8482,6 @@
   },
   "minecraft:chainmail_chestplate": {
     "id": 743,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 240,
@@ -9229,7 +8497,6 @@
   },
   "minecraft:chainmail_leggings": {
     "id": 744,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 225,
@@ -9245,7 +8512,6 @@
   },
   "minecraft:chainmail_boots": {
     "id": 745,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 195,
@@ -9261,7 +8527,6 @@
   },
   "minecraft:iron_helmet": {
     "id": 746,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 165,
@@ -9277,7 +8542,6 @@
   },
   "minecraft:iron_chestplate": {
     "id": 747,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 240,
@@ -9293,7 +8557,6 @@
   },
   "minecraft:iron_leggings": {
     "id": 748,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 225,
@@ -9309,7 +8572,6 @@
   },
   "minecraft:iron_boots": {
     "id": 749,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 195,
@@ -9325,7 +8587,6 @@
   },
   "minecraft:diamond_helmet": {
     "id": 750,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 363,
@@ -9341,7 +8602,6 @@
   },
   "minecraft:diamond_chestplate": {
     "id": 751,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 528,
@@ -9357,7 +8617,6 @@
   },
   "minecraft:diamond_leggings": {
     "id": 752,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 495,
@@ -9373,7 +8632,6 @@
   },
   "minecraft:diamond_boots": {
     "id": 753,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 429,
@@ -9389,7 +8647,6 @@
   },
   "minecraft:golden_helmet": {
     "id": 754,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 77,
@@ -9405,7 +8662,6 @@
   },
   "minecraft:golden_chestplate": {
     "id": 755,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 112,
@@ -9421,7 +8677,6 @@
   },
   "minecraft:golden_leggings": {
     "id": 756,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 105,
@@ -9437,7 +8692,6 @@
   },
   "minecraft:golden_boots": {
     "id": 757,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 91,
@@ -9453,7 +8707,6 @@
   },
   "minecraft:netherite_helmet": {
     "id": 758,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 407,
@@ -9469,7 +8722,6 @@
   },
   "minecraft:netherite_chestplate": {
     "id": 759,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 592,
@@ -9485,7 +8737,6 @@
   },
   "minecraft:netherite_leggings": {
     "id": 760,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 555,
@@ -9501,7 +8752,6 @@
   },
   "minecraft:netherite_boots": {
     "id": 761,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 481,
@@ -9517,7 +8767,6 @@
   },
   "minecraft:flint": {
     "id": 762,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9528,7 +8777,6 @@
   },
   "minecraft:porkchop": {
     "id": 763,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9546,7 +8794,6 @@
   },
   "minecraft:cooked_porkchop": {
     "id": 764,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9564,7 +8811,6 @@
   },
   "minecraft:painting": {
     "id": 765,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9575,7 +8821,6 @@
   },
   "minecraft:golden_apple": {
     "id": 766,
-    "category": 7,
     "rarity": 2,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9593,7 +8838,6 @@
   },
   "minecraft:enchanted_golden_apple": {
     "id": 767,
-    "category": 7,
     "rarity": 3,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9611,7 +8855,6 @@
   },
   "minecraft:oak_sign": {
     "id": 768,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -9623,7 +8866,6 @@
   },
   "minecraft:spruce_sign": {
     "id": 769,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -9635,7 +8877,6 @@
   },
   "minecraft:birch_sign": {
     "id": 770,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -9647,7 +8888,6 @@
   },
   "minecraft:jungle_sign": {
     "id": 771,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -9659,7 +8899,6 @@
   },
   "minecraft:acacia_sign": {
     "id": 772,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -9671,7 +8910,6 @@
   },
   "minecraft:dark_oak_sign": {
     "id": 773,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -9683,7 +8921,6 @@
   },
   "minecraft:crimson_sign": {
     "id": 774,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -9695,7 +8932,6 @@
   },
   "minecraft:warped_sign": {
     "id": 775,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -9707,7 +8943,6 @@
   },
   "minecraft:bucket": {
     "id": 776,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -9719,7 +8954,6 @@
   },
   "minecraft:water_bucket": {
     "id": 777,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -9731,7 +8965,6 @@
   },
   "minecraft:lava_bucket": {
     "id": 778,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -9743,7 +8976,6 @@
   },
   "minecraft:powder_snow_bucket": {
     "id": 779,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -9755,7 +8987,6 @@
   },
   "minecraft:snowball": {
     "id": 780,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -9766,7 +8997,6 @@
   },
   "minecraft:leather": {
     "id": 781,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9777,7 +9007,6 @@
   },
   "minecraft:milk_bucket": {
     "id": 782,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -9788,7 +9017,6 @@
   },
   "minecraft:pufferfish_bucket": {
     "id": 783,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -9800,7 +9028,6 @@
   },
   "minecraft:salmon_bucket": {
     "id": 784,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -9812,7 +9039,6 @@
   },
   "minecraft:cod_bucket": {
     "id": 785,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -9824,7 +9050,6 @@
   },
   "minecraft:tropical_fish_bucket": {
     "id": 786,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -9836,7 +9061,6 @@
   },
   "minecraft:axolotl_bucket": {
     "id": 787,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -9848,7 +9072,6 @@
   },
   "minecraft:brick": {
     "id": 788,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9859,7 +9082,6 @@
   },
   "minecraft:clay_ball": {
     "id": 789,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9870,7 +9092,6 @@
   },
   "minecraft:dried_kelp_block": {
     "id": 790,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9882,7 +9103,6 @@
   },
   "minecraft:paper": {
     "id": 791,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9893,7 +9113,6 @@
   },
   "minecraft:book": {
     "id": 792,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9904,7 +9123,6 @@
   },
   "minecraft:slime_ball": {
     "id": 793,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9915,7 +9133,6 @@
   },
   "minecraft:egg": {
     "id": 794,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -9926,7 +9143,6 @@
   },
   "minecraft:compass": {
     "id": 795,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9947,7 +9163,6 @@
   },
   "minecraft:fishing_rod": {
     "id": 797,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 64,
@@ -9958,7 +9173,6 @@
   },
   "minecraft:clock": {
     "id": 798,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9969,7 +9183,6 @@
   },
   "minecraft:spyglass": {
     "id": 799,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -9980,7 +9193,6 @@
   },
   "minecraft:glowstone_dust": {
     "id": 800,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -9991,7 +9203,6 @@
   },
   "minecraft:cod": {
     "id": 801,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10009,7 +9220,6 @@
   },
   "minecraft:salmon": {
     "id": 802,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10027,7 +9237,6 @@
   },
   "minecraft:tropical_fish": {
     "id": 803,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10045,7 +9254,6 @@
   },
   "minecraft:pufferfish": {
     "id": 804,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10063,7 +9271,6 @@
   },
   "minecraft:cooked_cod": {
     "id": 805,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10081,7 +9288,6 @@
   },
   "minecraft:cooked_salmon": {
     "id": 806,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10099,7 +9305,6 @@
   },
   "minecraft:ink_sac": {
     "id": 807,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10110,7 +9315,6 @@
   },
   "minecraft:glow_ink_sac": {
     "id": 808,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10121,7 +9325,6 @@
   },
   "minecraft:cocoa_beans": {
     "id": 809,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10133,7 +9336,6 @@
   },
   "minecraft:white_dye": {
     "id": 810,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10145,7 +9347,6 @@
   },
   "minecraft:orange_dye": {
     "id": 811,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10157,7 +9358,6 @@
   },
   "minecraft:magenta_dye": {
     "id": 812,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10169,7 +9369,6 @@
   },
   "minecraft:light_blue_dye": {
     "id": 813,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10181,7 +9380,6 @@
   },
   "minecraft:yellow_dye": {
     "id": 814,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10193,7 +9391,6 @@
   },
   "minecraft:lime_dye": {
     "id": 815,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10205,7 +9402,6 @@
   },
   "minecraft:pink_dye": {
     "id": 816,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10217,7 +9413,6 @@
   },
   "minecraft:gray_dye": {
     "id": 817,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10229,7 +9424,6 @@
   },
   "minecraft:light_gray_dye": {
     "id": 818,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10241,7 +9435,6 @@
   },
   "minecraft:cyan_dye": {
     "id": 819,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10253,7 +9446,6 @@
   },
   "minecraft:purple_dye": {
     "id": 820,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10265,7 +9457,6 @@
   },
   "minecraft:blue_dye": {
     "id": 821,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10277,7 +9468,6 @@
   },
   "minecraft:brown_dye": {
     "id": 822,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10289,7 +9479,6 @@
   },
   "minecraft:green_dye": {
     "id": 823,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10301,7 +9490,6 @@
   },
   "minecraft:red_dye": {
     "id": 824,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10313,7 +9501,6 @@
   },
   "minecraft:black_dye": {
     "id": 825,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10325,7 +9512,6 @@
   },
   "minecraft:bone_meal": {
     "id": 826,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10336,7 +9522,6 @@
   },
   "minecraft:bone": {
     "id": 827,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10347,7 +9532,6 @@
   },
   "minecraft:sugar": {
     "id": 828,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10358,7 +9542,6 @@
   },
   "minecraft:cake": {
     "id": 829,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10370,7 +9553,6 @@
   },
   "minecraft:white_bed": {
     "id": 830,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10382,7 +9564,6 @@
   },
   "minecraft:orange_bed": {
     "id": 831,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10394,7 +9575,6 @@
   },
   "minecraft:magenta_bed": {
     "id": 832,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10406,7 +9586,6 @@
   },
   "minecraft:light_blue_bed": {
     "id": 833,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10418,7 +9597,6 @@
   },
   "minecraft:yellow_bed": {
     "id": 834,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10430,7 +9608,6 @@
   },
   "minecraft:lime_bed": {
     "id": 835,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10442,7 +9619,6 @@
   },
   "minecraft:pink_bed": {
     "id": 836,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10454,7 +9630,6 @@
   },
   "minecraft:gray_bed": {
     "id": 837,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10466,7 +9641,6 @@
   },
   "minecraft:light_gray_bed": {
     "id": 838,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10478,7 +9652,6 @@
   },
   "minecraft:cyan_bed": {
     "id": 839,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10490,7 +9663,6 @@
   },
   "minecraft:purple_bed": {
     "id": 840,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10502,7 +9674,6 @@
   },
   "minecraft:blue_bed": {
     "id": 841,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10514,7 +9685,6 @@
   },
   "minecraft:brown_bed": {
     "id": 842,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10526,7 +9696,6 @@
   },
   "minecraft:green_bed": {
     "id": 843,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10538,7 +9707,6 @@
   },
   "minecraft:red_bed": {
     "id": 844,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10550,7 +9718,6 @@
   },
   "minecraft:black_bed": {
     "id": 845,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10562,7 +9729,6 @@
   },
   "minecraft:cookie": {
     "id": 846,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10590,7 +9756,6 @@
   },
   "minecraft:shears": {
     "id": 848,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 238,
@@ -10601,7 +9766,6 @@
   },
   "minecraft:melon_slice": {
     "id": 849,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10619,7 +9783,6 @@
   },
   "minecraft:dried_kelp": {
     "id": 850,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10637,7 +9800,6 @@
   },
   "minecraft:pumpkin_seeds": {
     "id": 851,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10649,7 +9811,6 @@
   },
   "minecraft:melon_seeds": {
     "id": 852,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10661,7 +9822,6 @@
   },
   "minecraft:beef": {
     "id": 853,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10679,7 +9839,6 @@
   },
   "minecraft:cooked_beef": {
     "id": 854,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10697,7 +9856,6 @@
   },
   "minecraft:chicken": {
     "id": 855,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10715,7 +9873,6 @@
   },
   "minecraft:cooked_chicken": {
     "id": 856,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10733,7 +9890,6 @@
   },
   "minecraft:rotten_flesh": {
     "id": 857,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10751,7 +9907,6 @@
   },
   "minecraft:ender_pearl": {
     "id": 858,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -10762,7 +9917,6 @@
   },
   "minecraft:blaze_rod": {
     "id": 859,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10773,7 +9927,6 @@
   },
   "minecraft:ghast_tear": {
     "id": 860,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10784,7 +9937,6 @@
   },
   "minecraft:gold_nugget": {
     "id": 861,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10795,7 +9947,6 @@
   },
   "minecraft:nether_wart": {
     "id": 862,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10807,7 +9958,6 @@
   },
   "minecraft:potion": {
     "id": 863,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -10818,7 +9968,6 @@
   },
   "minecraft:glass_bottle": {
     "id": 864,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10829,7 +9978,6 @@
   },
   "minecraft:spider_eye": {
     "id": 865,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10847,7 +9995,6 @@
   },
   "minecraft:fermented_spider_eye": {
     "id": 866,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10858,7 +10005,6 @@
   },
   "minecraft:blaze_powder": {
     "id": 867,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10869,7 +10015,6 @@
   },
   "minecraft:magma_cream": {
     "id": 868,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10880,7 +10025,6 @@
   },
   "minecraft:brewing_stand": {
     "id": 869,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10892,7 +10036,6 @@
   },
   "minecraft:cauldron": {
     "id": 870,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10904,7 +10047,6 @@
   },
   "minecraft:ender_eye": {
     "id": 871,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10915,7 +10057,6 @@
   },
   "minecraft:glistering_melon_slice": {
     "id": 872,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10926,7 +10067,6 @@
   },
   "minecraft:axolotl_spawn_egg": {
     "id": 873,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10940,7 +10080,6 @@
   },
   "minecraft:bat_spawn_egg": {
     "id": 874,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10954,7 +10093,6 @@
   },
   "minecraft:bee_spawn_egg": {
     "id": 875,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10968,7 +10106,6 @@
   },
   "minecraft:blaze_spawn_egg": {
     "id": 876,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10982,7 +10119,6 @@
   },
   "minecraft:cat_spawn_egg": {
     "id": 877,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -10996,7 +10132,6 @@
   },
   "minecraft:cave_spider_spawn_egg": {
     "id": 878,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11010,7 +10145,6 @@
   },
   "minecraft:chicken_spawn_egg": {
     "id": 879,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11024,7 +10158,6 @@
   },
   "minecraft:cod_spawn_egg": {
     "id": 880,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11038,7 +10171,6 @@
   },
   "minecraft:cow_spawn_egg": {
     "id": 881,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11052,7 +10184,6 @@
   },
   "minecraft:creeper_spawn_egg": {
     "id": 882,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11066,7 +10197,6 @@
   },
   "minecraft:dolphin_spawn_egg": {
     "id": 883,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11080,7 +10210,6 @@
   },
   "minecraft:donkey_spawn_egg": {
     "id": 884,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11094,7 +10223,6 @@
   },
   "minecraft:drowned_spawn_egg": {
     "id": 885,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11108,7 +10236,6 @@
   },
   "minecraft:elder_guardian_spawn_egg": {
     "id": 886,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11122,7 +10249,6 @@
   },
   "minecraft:enderman_spawn_egg": {
     "id": 887,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11136,7 +10262,6 @@
   },
   "minecraft:endermite_spawn_egg": {
     "id": 888,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11150,7 +10275,6 @@
   },
   "minecraft:evoker_spawn_egg": {
     "id": 889,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11164,7 +10288,6 @@
   },
   "minecraft:fox_spawn_egg": {
     "id": 890,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11178,7 +10301,6 @@
   },
   "minecraft:ghast_spawn_egg": {
     "id": 891,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11192,7 +10314,6 @@
   },
   "minecraft:glow_squid_spawn_egg": {
     "id": 892,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11206,7 +10327,6 @@
   },
   "minecraft:goat_spawn_egg": {
     "id": 893,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11220,7 +10340,6 @@
   },
   "minecraft:guardian_spawn_egg": {
     "id": 894,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11234,7 +10353,6 @@
   },
   "minecraft:hoglin_spawn_egg": {
     "id": 895,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11248,7 +10366,6 @@
   },
   "minecraft:horse_spawn_egg": {
     "id": 896,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11262,7 +10379,6 @@
   },
   "minecraft:husk_spawn_egg": {
     "id": 897,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11276,7 +10392,6 @@
   },
   "minecraft:llama_spawn_egg": {
     "id": 898,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11290,7 +10405,6 @@
   },
   "minecraft:magma_cube_spawn_egg": {
     "id": 899,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11304,7 +10418,6 @@
   },
   "minecraft:mooshroom_spawn_egg": {
     "id": 900,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11318,7 +10431,6 @@
   },
   "minecraft:mule_spawn_egg": {
     "id": 901,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11332,7 +10444,6 @@
   },
   "minecraft:ocelot_spawn_egg": {
     "id": 902,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11346,7 +10457,6 @@
   },
   "minecraft:panda_spawn_egg": {
     "id": 903,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11360,7 +10470,6 @@
   },
   "minecraft:parrot_spawn_egg": {
     "id": 904,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11374,7 +10483,6 @@
   },
   "minecraft:phantom_spawn_egg": {
     "id": 905,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11388,7 +10496,6 @@
   },
   "minecraft:pig_spawn_egg": {
     "id": 906,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11402,7 +10509,6 @@
   },
   "minecraft:piglin_spawn_egg": {
     "id": 907,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11416,7 +10522,6 @@
   },
   "minecraft:piglin_brute_spawn_egg": {
     "id": 908,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11430,7 +10535,6 @@
   },
   "minecraft:pillager_spawn_egg": {
     "id": 909,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11444,7 +10548,6 @@
   },
   "minecraft:polar_bear_spawn_egg": {
     "id": 910,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11458,7 +10561,6 @@
   },
   "minecraft:pufferfish_spawn_egg": {
     "id": 911,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11472,7 +10574,6 @@
   },
   "minecraft:rabbit_spawn_egg": {
     "id": 912,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11486,7 +10587,6 @@
   },
   "minecraft:ravager_spawn_egg": {
     "id": 913,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11500,7 +10600,6 @@
   },
   "minecraft:salmon_spawn_egg": {
     "id": 914,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11514,7 +10613,6 @@
   },
   "minecraft:sheep_spawn_egg": {
     "id": 915,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11528,7 +10626,6 @@
   },
   "minecraft:shulker_spawn_egg": {
     "id": 916,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11542,7 +10639,6 @@
   },
   "minecraft:silverfish_spawn_egg": {
     "id": 917,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11556,7 +10652,6 @@
   },
   "minecraft:skeleton_spawn_egg": {
     "id": 918,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11570,7 +10665,6 @@
   },
   "minecraft:skeleton_horse_spawn_egg": {
     "id": 919,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11584,7 +10678,6 @@
   },
   "minecraft:slime_spawn_egg": {
     "id": 920,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11598,7 +10691,6 @@
   },
   "minecraft:spider_spawn_egg": {
     "id": 921,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11612,7 +10704,6 @@
   },
   "minecraft:squid_spawn_egg": {
     "id": 922,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11626,7 +10717,6 @@
   },
   "minecraft:stray_spawn_egg": {
     "id": 923,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11640,7 +10730,6 @@
   },
   "minecraft:strider_spawn_egg": {
     "id": 924,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11654,7 +10743,6 @@
   },
   "minecraft:trader_llama_spawn_egg": {
     "id": 925,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11668,7 +10756,6 @@
   },
   "minecraft:tropical_fish_spawn_egg": {
     "id": 926,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11682,7 +10769,6 @@
   },
   "minecraft:turtle_spawn_egg": {
     "id": 927,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11696,7 +10782,6 @@
   },
   "minecraft:vex_spawn_egg": {
     "id": 928,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11710,7 +10795,6 @@
   },
   "minecraft:villager_spawn_egg": {
     "id": 929,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11724,7 +10808,6 @@
   },
   "minecraft:vindicator_spawn_egg": {
     "id": 930,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11738,7 +10821,6 @@
   },
   "minecraft:wandering_trader_spawn_egg": {
     "id": 931,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11752,7 +10834,6 @@
   },
   "minecraft:witch_spawn_egg": {
     "id": 932,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11766,7 +10847,6 @@
   },
   "minecraft:wither_skeleton_spawn_egg": {
     "id": 933,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11780,7 +10860,6 @@
   },
   "minecraft:wolf_spawn_egg": {
     "id": 934,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11794,7 +10873,6 @@
   },
   "minecraft:zoglin_spawn_egg": {
     "id": 935,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11808,7 +10886,6 @@
   },
   "minecraft:zombie_spawn_egg": {
     "id": 936,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11822,7 +10899,6 @@
   },
   "minecraft:zombie_horse_spawn_egg": {
     "id": 937,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11836,7 +10912,6 @@
   },
   "minecraft:zombie_villager_spawn_egg": {
     "id": 938,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11850,7 +10925,6 @@
   },
   "minecraft:zombified_piglin_spawn_egg": {
     "id": 939,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11864,7 +10938,6 @@
   },
   "minecraft:experience_bottle": {
     "id": 940,
-    "category": 6,
     "rarity": 1,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11875,7 +10948,6 @@
   },
   "minecraft:fire_charge": {
     "id": 941,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11886,7 +10958,6 @@
   },
   "minecraft:writable_book": {
     "id": 942,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -11907,7 +10978,6 @@
   },
   "minecraft:item_frame": {
     "id": 944,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11918,7 +10988,6 @@
   },
   "minecraft:glow_item_frame": {
     "id": 945,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11929,7 +10998,6 @@
   },
   "minecraft:flower_pot": {
     "id": 946,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11941,7 +11009,6 @@
   },
   "minecraft:carrot": {
     "id": 947,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11960,7 +11027,6 @@
   },
   "minecraft:potato": {
     "id": 948,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11979,7 +11045,6 @@
   },
   "minecraft:baked_potato": {
     "id": 949,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -11997,7 +11062,6 @@
   },
   "minecraft:poisonous_potato": {
     "id": 950,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12015,7 +11079,6 @@
   },
   "minecraft:map": {
     "id": 951,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12026,7 +11089,6 @@
   },
   "minecraft:golden_carrot": {
     "id": 952,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12044,7 +11106,6 @@
   },
   "minecraft:skeleton_skull": {
     "id": 953,
-    "category": 1,
     "rarity": 1,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12056,7 +11117,6 @@
   },
   "minecraft:wither_skeleton_skull": {
     "id": 954,
-    "category": 1,
     "rarity": 1,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12068,7 +11128,6 @@
   },
   "minecraft:player_head": {
     "id": 955,
-    "category": 1,
     "rarity": 1,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12080,7 +11139,6 @@
   },
   "minecraft:zombie_head": {
     "id": 956,
-    "category": 1,
     "rarity": 1,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12092,7 +11150,6 @@
   },
   "minecraft:creeper_head": {
     "id": 957,
-    "category": 1,
     "rarity": 1,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12104,7 +11161,6 @@
   },
   "minecraft:dragon_head": {
     "id": 958,
-    "category": 1,
     "rarity": 1,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12116,7 +11172,6 @@
   },
   "minecraft:nether_star": {
     "id": 959,
-    "category": 6,
     "rarity": 1,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12127,7 +11182,6 @@
   },
   "minecraft:pumpkin_pie": {
     "id": 960,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12145,7 +11199,6 @@
   },
   "minecraft:firework_rocket": {
     "id": 961,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12156,7 +11209,6 @@
   },
   "minecraft:firework_star": {
     "id": 962,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12177,7 +11229,6 @@
   },
   "minecraft:nether_brick": {
     "id": 964,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12188,7 +11239,6 @@
   },
   "minecraft:prismarine_shard": {
     "id": 965,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12199,7 +11249,6 @@
   },
   "minecraft:prismarine_crystals": {
     "id": 966,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12210,7 +11259,6 @@
   },
   "minecraft:rabbit": {
     "id": 967,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12228,7 +11276,6 @@
   },
   "minecraft:cooked_rabbit": {
     "id": 968,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12246,7 +11293,6 @@
   },
   "minecraft:rabbit_stew": {
     "id": 969,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12264,7 +11310,6 @@
   },
   "minecraft:rabbit_foot": {
     "id": 970,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12275,7 +11320,6 @@
   },
   "minecraft:rabbit_hide": {
     "id": 971,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12286,7 +11330,6 @@
   },
   "minecraft:armor_stand": {
     "id": 972,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12297,7 +11340,6 @@
   },
   "minecraft:iron_horse_armor": {
     "id": 973,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12310,7 +11352,6 @@
   },
   "minecraft:golden_horse_armor": {
     "id": 974,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12323,7 +11364,6 @@
   },
   "minecraft:diamond_horse_armor": {
     "id": 975,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12336,7 +11376,6 @@
   },
   "minecraft:leather_horse_armor": {
     "id": 976,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12349,7 +11388,6 @@
   },
   "minecraft:lead": {
     "id": 977,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12360,7 +11398,6 @@
   },
   "minecraft:name_tag": {
     "id": 978,
-    "category": 8,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12381,7 +11418,6 @@
   },
   "minecraft:mutton": {
     "id": 980,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12399,7 +11435,6 @@
   },
   "minecraft:cooked_mutton": {
     "id": 981,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12417,7 +11452,6 @@
   },
   "minecraft:white_banner": {
     "id": 982,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12429,7 +11463,6 @@
   },
   "minecraft:orange_banner": {
     "id": 983,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12441,7 +11474,6 @@
   },
   "minecraft:magenta_banner": {
     "id": 984,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12453,7 +11485,6 @@
   },
   "minecraft:light_blue_banner": {
     "id": 985,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12465,7 +11496,6 @@
   },
   "minecraft:yellow_banner": {
     "id": 986,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12477,7 +11507,6 @@
   },
   "minecraft:lime_banner": {
     "id": 987,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12489,7 +11518,6 @@
   },
   "minecraft:pink_banner": {
     "id": 988,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12501,7 +11529,6 @@
   },
   "minecraft:gray_banner": {
     "id": 989,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12513,7 +11540,6 @@
   },
   "minecraft:light_gray_banner": {
     "id": 990,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12525,7 +11551,6 @@
   },
   "minecraft:cyan_banner": {
     "id": 991,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12537,7 +11562,6 @@
   },
   "minecraft:purple_banner": {
     "id": 992,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12549,7 +11573,6 @@
   },
   "minecraft:blue_banner": {
     "id": 993,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12561,7 +11584,6 @@
   },
   "minecraft:brown_banner": {
     "id": 994,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12573,7 +11595,6 @@
   },
   "minecraft:green_banner": {
     "id": 995,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12585,7 +11606,6 @@
   },
   "minecraft:red_banner": {
     "id": 996,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12597,7 +11617,6 @@
   },
   "minecraft:black_banner": {
     "id": 997,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -12609,7 +11628,6 @@
   },
   "minecraft:end_crystal": {
     "id": 998,
-    "category": 1,
     "rarity": 2,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12620,7 +11638,6 @@
   },
   "minecraft:chorus_fruit": {
     "id": 999,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12638,7 +11655,6 @@
   },
   "minecraft:popped_chorus_fruit": {
     "id": 1000,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12649,7 +11665,6 @@
   },
   "minecraft:beetroot": {
     "id": 1001,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12667,7 +11682,6 @@
   },
   "minecraft:beetroot_seeds": {
     "id": 1002,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12679,7 +11693,6 @@
   },
   "minecraft:beetroot_soup": {
     "id": 1003,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12697,7 +11710,6 @@
   },
   "minecraft:dragon_breath": {
     "id": 1004,
-    "category": 10,
     "rarity": 1,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12708,7 +11720,6 @@
   },
   "minecraft:splash_potion": {
     "id": 1005,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12719,7 +11730,6 @@
   },
   "minecraft:spectral_arrow": {
     "id": 1006,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12730,7 +11740,6 @@
   },
   "minecraft:tipped_arrow": {
     "id": 1007,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12741,7 +11750,6 @@
   },
   "minecraft:lingering_potion": {
     "id": 1008,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12752,7 +11760,6 @@
   },
   "minecraft:shield": {
     "id": 1009,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 336,
@@ -12763,7 +11770,6 @@
   },
   "minecraft:totem_of_undying": {
     "id": 1010,
-    "category": 9,
     "rarity": 1,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12774,7 +11780,6 @@
   },
   "minecraft:shulker_shell": {
     "id": 1011,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12785,7 +11790,6 @@
   },
   "minecraft:iron_nugget": {
     "id": 1012,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -12816,7 +11820,6 @@
   },
   "minecraft:music_disc_13": {
     "id": 1015,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12829,7 +11832,6 @@
   },
   "minecraft:music_disc_cat": {
     "id": 1016,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12842,7 +11844,6 @@
   },
   "minecraft:music_disc_blocks": {
     "id": 1017,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12855,7 +11856,6 @@
   },
   "minecraft:music_disc_chirp": {
     "id": 1018,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12868,7 +11868,6 @@
   },
   "minecraft:music_disc_far": {
     "id": 1019,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12881,7 +11880,6 @@
   },
   "minecraft:music_disc_mall": {
     "id": 1020,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12894,7 +11892,6 @@
   },
   "minecraft:music_disc_mellohi": {
     "id": 1021,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12907,7 +11904,6 @@
   },
   "minecraft:music_disc_stal": {
     "id": 1022,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12920,7 +11916,6 @@
   },
   "minecraft:music_disc_strad": {
     "id": 1023,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12933,7 +11928,6 @@
   },
   "minecraft:music_disc_ward": {
     "id": 1024,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12946,7 +11940,6 @@
   },
   "minecraft:music_disc_11": {
     "id": 1025,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12959,7 +11952,6 @@
   },
   "minecraft:music_disc_wait": {
     "id": 1026,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12972,7 +11964,6 @@
   },
   "minecraft:music_disc_otherside": {
     "id": 1027,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12985,7 +11976,6 @@
   },
   "minecraft:music_disc_pigstep": {
     "id": 1028,
-    "category": 6,
     "rarity": 2,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -12998,7 +11988,6 @@
   },
   "minecraft:trident": {
     "id": 1029,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 250,
@@ -13009,7 +11998,6 @@
   },
   "minecraft:phantom_membrane": {
     "id": 1030,
-    "category": 10,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13020,7 +12008,6 @@
   },
   "minecraft:nautilus_shell": {
     "id": 1031,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13031,7 +12018,6 @@
   },
   "minecraft:heart_of_the_sea": {
     "id": 1032,
-    "category": 6,
     "rarity": 1,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13042,7 +12028,6 @@
   },
   "minecraft:crossbow": {
     "id": 1033,
-    "category": 9,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 465,
@@ -13070,7 +12055,6 @@
   },
   "minecraft:loom": {
     "id": 1035,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13082,7 +12066,6 @@
   },
   "minecraft:flower_banner_pattern": {
     "id": 1036,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -13093,7 +12076,6 @@
   },
   "minecraft:creeper_banner_pattern": {
     "id": 1037,
-    "category": 6,
     "rarity": 1,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -13104,7 +12086,6 @@
   },
   "minecraft:skull_banner_pattern": {
     "id": 1038,
-    "category": 6,
     "rarity": 1,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -13115,7 +12096,6 @@
   },
   "minecraft:mojang_banner_pattern": {
     "id": 1039,
-    "category": 6,
     "rarity": 3,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -13126,7 +12106,6 @@
   },
   "minecraft:globe_banner_pattern": {
     "id": 1040,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -13137,7 +12116,6 @@
   },
   "minecraft:piglin_banner_pattern": {
     "id": 1041,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 1,
     "max_damage": 0,
@@ -13148,7 +12126,6 @@
   },
   "minecraft:composter": {
     "id": 1042,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13160,7 +12137,6 @@
   },
   "minecraft:barrel": {
     "id": 1043,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13172,7 +12148,6 @@
   },
   "minecraft:smoker": {
     "id": 1044,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13184,7 +12159,6 @@
   },
   "minecraft:blast_furnace": {
     "id": 1045,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13196,7 +12170,6 @@
   },
   "minecraft:cartography_table": {
     "id": 1046,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13208,7 +12181,6 @@
   },
   "minecraft:fletching_table": {
     "id": 1047,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13220,7 +12192,6 @@
   },
   "minecraft:grindstone": {
     "id": 1048,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13232,7 +12203,6 @@
   },
   "minecraft:smithing_table": {
     "id": 1049,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13244,7 +12214,6 @@
   },
   "minecraft:stonecutter": {
     "id": 1050,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13256,7 +12225,6 @@
   },
   "minecraft:bell": {
     "id": 1051,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13268,7 +12236,6 @@
   },
   "minecraft:lantern": {
     "id": 1052,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13280,7 +12247,6 @@
   },
   "minecraft:soul_lantern": {
     "id": 1053,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13292,7 +12258,6 @@
   },
   "minecraft:sweet_berries": {
     "id": 1054,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13311,7 +12276,6 @@
   },
   "minecraft:glow_berries": {
     "id": 1055,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13330,7 +12294,6 @@
   },
   "minecraft:campfire": {
     "id": 1056,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13342,7 +12305,6 @@
   },
   "minecraft:soul_campfire": {
     "id": 1057,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13354,7 +12316,6 @@
   },
   "minecraft:shroomlight": {
     "id": 1058,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13366,7 +12327,6 @@
   },
   "minecraft:honeycomb": {
     "id": 1059,
-    "category": 6,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13377,7 +12337,6 @@
   },
   "minecraft:bee_nest": {
     "id": 1060,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13389,7 +12348,6 @@
   },
   "minecraft:beehive": {
     "id": 1061,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13401,7 +12359,6 @@
   },
   "minecraft:honey_bottle": {
     "id": 1062,
-    "category": 7,
     "rarity": 0,
     "max_stack_size": 16,
     "max_damage": 0,
@@ -13419,7 +12376,6 @@
   },
   "minecraft:honeycomb_block": {
     "id": 1063,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13431,7 +12387,6 @@
   },
   "minecraft:lodestone": {
     "id": 1064,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13443,7 +12398,6 @@
   },
   "minecraft:crying_obsidian": {
     "id": 1065,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13455,7 +12409,6 @@
   },
   "minecraft:blackstone": {
     "id": 1066,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13467,7 +12420,6 @@
   },
   "minecraft:blackstone_slab": {
     "id": 1067,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13479,7 +12431,6 @@
   },
   "minecraft:blackstone_stairs": {
     "id": 1068,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13491,7 +12442,6 @@
   },
   "minecraft:gilded_blackstone": {
     "id": 1069,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13503,7 +12453,6 @@
   },
   "minecraft:polished_blackstone": {
     "id": 1070,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13515,7 +12464,6 @@
   },
   "minecraft:polished_blackstone_slab": {
     "id": 1071,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13527,7 +12475,6 @@
   },
   "minecraft:polished_blackstone_stairs": {
     "id": 1072,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13539,7 +12486,6 @@
   },
   "minecraft:chiseled_polished_blackstone": {
     "id": 1073,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13551,7 +12497,6 @@
   },
   "minecraft:polished_blackstone_bricks": {
     "id": 1074,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13563,7 +12508,6 @@
   },
   "minecraft:polished_blackstone_brick_slab": {
     "id": 1075,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13575,7 +12519,6 @@
   },
   "minecraft:polished_blackstone_brick_stairs": {
     "id": 1076,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13587,7 +12530,6 @@
   },
   "minecraft:cracked_polished_blackstone_bricks": {
     "id": 1077,
-    "category": 0,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13599,7 +12541,6 @@
   },
   "minecraft:respawn_anchor": {
     "id": 1078,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13611,7 +12552,6 @@
   },
   "minecraft:candle": {
     "id": 1079,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13623,7 +12563,6 @@
   },
   "minecraft:white_candle": {
     "id": 1080,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13635,7 +12574,6 @@
   },
   "minecraft:orange_candle": {
     "id": 1081,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13647,7 +12585,6 @@
   },
   "minecraft:magenta_candle": {
     "id": 1082,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13659,7 +12596,6 @@
   },
   "minecraft:light_blue_candle": {
     "id": 1083,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13671,7 +12607,6 @@
   },
   "minecraft:yellow_candle": {
     "id": 1084,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13683,7 +12618,6 @@
   },
   "minecraft:lime_candle": {
     "id": 1085,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13695,7 +12629,6 @@
   },
   "minecraft:pink_candle": {
     "id": 1086,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13707,7 +12640,6 @@
   },
   "minecraft:gray_candle": {
     "id": 1087,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13719,7 +12651,6 @@
   },
   "minecraft:light_gray_candle": {
     "id": 1088,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13731,7 +12662,6 @@
   },
   "minecraft:cyan_candle": {
     "id": 1089,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13743,7 +12673,6 @@
   },
   "minecraft:purple_candle": {
     "id": 1090,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13755,7 +12684,6 @@
   },
   "minecraft:blue_candle": {
     "id": 1091,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13767,7 +12695,6 @@
   },
   "minecraft:brown_candle": {
     "id": 1092,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13779,7 +12706,6 @@
   },
   "minecraft:green_candle": {
     "id": 1093,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13791,7 +12717,6 @@
   },
   "minecraft:red_candle": {
     "id": 1094,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13803,7 +12728,6 @@
   },
   "minecraft:black_candle": {
     "id": 1095,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13815,7 +12739,6 @@
   },
   "minecraft:small_amethyst_bud": {
     "id": 1096,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13827,7 +12750,6 @@
   },
   "minecraft:medium_amethyst_bud": {
     "id": 1097,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13839,7 +12761,6 @@
   },
   "minecraft:large_amethyst_bud": {
     "id": 1098,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13851,7 +12772,6 @@
   },
   "minecraft:amethyst_cluster": {
     "id": 1099,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
@@ -13863,7 +12783,6 @@
   },
   "minecraft:pointed_dripstone": {
     "id": 1100,
-    "category": 1,
     "rarity": 0,
     "max_stack_size": 64,
     "max_damage": 0,
