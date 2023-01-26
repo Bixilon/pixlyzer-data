@@ -6,10 +6,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/allay",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.35,
     "height": 0.6,
     "size_fixed": false,
@@ -38,10 +34,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/area_effect_cloud",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 6.0,
     "height": 0.5,
     "size_fixed": false,
@@ -61,10 +53,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/armor_stand",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 1.975,
     "size_fixed": false,
@@ -94,10 +82,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/arrow",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.5,
     "size_fixed": false,
@@ -114,10 +98,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/axolotl",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.75,
     "height": 0.42,
     "size_fixed": false,
@@ -146,10 +126,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/bat",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.9,
     "size_fixed": false,
@@ -175,10 +151,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/bee",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.7,
     "height": 0.6,
     "size_fixed": false,
@@ -207,10 +179,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/blaze",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.8,
     "size_fixed": false,
@@ -237,10 +205,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/boat",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.375,
     "height": 0.5625,
     "size_fixed": false,
@@ -263,10 +227,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/chest_boat",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.375,
     "height": 0.5625,
     "size_fixed": false,
@@ -280,10 +240,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/cat",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 0.7,
     "size_fixed": false,
@@ -313,10 +269,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/camel",
-    "features": {
-      "universe": "main",
-      "mask": 4
-    },
     "width": 1.7,
     "height": 2.375,
     "size_fixed": false,
@@ -344,10 +296,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/cave_spider",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.7,
     "height": 0.5,
     "size_fixed": false,
@@ -371,10 +319,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/chicken",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.4,
     "height": 0.7,
     "size_fixed": false,
@@ -397,10 +341,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/cod",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.3,
     "size_fixed": false,
@@ -423,10 +363,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/cow",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.9,
     "height": 1.4,
     "size_fixed": false,
@@ -449,10 +385,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/creeper",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.7,
     "size_fixed": false,
@@ -481,10 +413,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/dolphin",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.9,
     "height": 0.6,
     "size_fixed": false,
@@ -513,10 +441,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/donkey",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.3964844,
     "height": 1.5,
     "size_fixed": false,
@@ -540,10 +464,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/dragon_fireball",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.0,
     "height": 1.0,
     "size_fixed": false,
@@ -557,10 +477,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/drowned",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -585,10 +501,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/elder_guardian",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.9975,
     "height": 1.9975,
     "size_fixed": false,
@@ -612,10 +524,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/end_crystal",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 2.0,
     "height": 2.0,
     "size_fixed": false,
@@ -633,10 +541,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/ender_dragon",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 16.0,
     "height": 8.0,
     "size_fixed": false,
@@ -662,10 +566,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/enderman",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 2.9,
     "size_fixed": false,
@@ -694,10 +594,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/endermite",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.4,
     "height": 0.3,
     "size_fixed": false,
@@ -721,10 +617,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/evoker",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -748,10 +640,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/evoker_fangs",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.8,
     "size_fixed": false,
@@ -765,10 +653,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/experience_orb",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.5,
     "size_fixed": false,
@@ -782,10 +666,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/eye_of_ender",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.25,
     "height": 0.25,
     "size_fixed": false,
@@ -802,10 +682,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/falling_block",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.98,
     "height": 0.98,
     "size_fixed": false,
@@ -822,10 +698,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/firework_rocket",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.25,
     "height": 0.25,
     "size_fixed": false,
@@ -844,10 +716,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/fox",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 0.7,
     "size_fixed": false,
@@ -877,10 +745,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/frog",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.5,
     "size_fixed": false,
@@ -908,10 +772,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/ghast",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 4.0,
     "height": 4.0,
     "size_fixed": false,
@@ -937,10 +797,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/giant",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 3.6,
     "height": 12.0,
     "size_fixed": false,
@@ -964,10 +820,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/glow_item_frame",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.5,
     "size_fixed": false,
@@ -981,10 +833,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/glow_squid",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.8,
     "height": 0.8,
     "size_fixed": false,
@@ -1010,10 +858,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/goat",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.9,
     "height": 1.3,
     "size_fixed": false,
@@ -1042,10 +886,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/guardian",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.85,
     "height": 0.85,
     "size_fixed": false,
@@ -1073,10 +913,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/hoglin",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.3964844,
     "height": 1.4,
     "size_fixed": false,
@@ -1103,10 +939,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/horse",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.3964844,
     "height": 1.6,
     "size_fixed": false,
@@ -1133,10 +965,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/husk",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -1161,10 +989,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/illusioner",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -1188,10 +1012,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/iron_golem",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.4,
     "height": 2.7,
     "size_fixed": false,
@@ -1218,10 +1038,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/item",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.25,
     "height": 0.25,
     "size_fixed": false,
@@ -1238,10 +1054,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/item_frame",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.5,
     "size_fixed": false,
@@ -1259,10 +1071,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/fireball",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.0,
     "height": 1.0,
     "size_fixed": false,
@@ -1276,10 +1084,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/leash_knot",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.375,
     "height": 0.5,
     "size_fixed": false,
@@ -1293,10 +1097,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/lightning_bolt",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.0,
     "height": 0.0,
     "size_fixed": false,
@@ -1310,10 +1110,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/llama",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.9,
     "height": 1.87,
     "size_fixed": false,
@@ -1342,10 +1138,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/llama_spit",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.25,
     "height": 0.25,
     "size_fixed": false,
@@ -1359,10 +1151,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/magma_cube",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 2.04,
     "height": 2.04,
     "size_fixed": false,
@@ -1386,10 +1174,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/marker",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.0,
     "height": 0.0,
     "size_fixed": false,
@@ -1403,10 +1187,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/minecart",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.98,
     "height": 0.7,
     "size_fixed": false,
@@ -1420,10 +1200,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/chest_minecart",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.98,
     "height": 0.7,
     "size_fixed": false,
@@ -1437,10 +1213,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/command_block_minecart",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.98,
     "height": 0.7,
     "size_fixed": false,
@@ -1458,10 +1230,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/furnace_minecart",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.98,
     "height": 0.7,
     "size_fixed": false,
@@ -1478,10 +1246,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/hopper_minecart",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.98,
     "height": 0.7,
     "size_fixed": false,
@@ -1495,10 +1259,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/spawner_minecart",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.98,
     "height": 0.7,
     "size_fixed": false,
@@ -1512,10 +1272,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/tnt_minecart",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.98,
     "height": 0.7,
     "size_fixed": false,
@@ -1529,10 +1285,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/mule",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.3964844,
     "height": 1.6,
     "size_fixed": false,
@@ -1556,10 +1308,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/mooshroom",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.9,
     "height": 1.4,
     "size_fixed": false,
@@ -1585,10 +1333,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/ocelot",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 0.7,
     "size_fixed": false,
@@ -1615,10 +1359,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/painting",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.5,
     "size_fixed": false,
@@ -1635,10 +1375,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/panda",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.3,
     "height": 1.25,
     "size_fixed": false,
@@ -1670,10 +1406,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/parrot",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.9,
     "size_fixed": false,
@@ -1700,10 +1432,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/phantom",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.9,
     "height": 0.5,
     "size_fixed": false,
@@ -1730,10 +1458,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/pig",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.9,
     "height": 0.9,
     "size_fixed": false,
@@ -1760,10 +1484,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/piglin",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -1792,10 +1512,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/piglin_brute",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -1819,10 +1535,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/pillager",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -1849,10 +1561,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/polar_bear",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.4,
     "height": 1.4,
     "size_fixed": false,
@@ -1879,10 +1587,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/tnt",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.98,
     "height": 0.98,
     "size_fixed": false,
@@ -1899,10 +1603,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/pufferfish",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.7,
     "height": 0.7,
     "size_fixed": false,
@@ -1928,10 +1628,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/rabbit",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.4,
     "height": 0.5,
     "size_fixed": false,
@@ -1957,10 +1653,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/ravager",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.95,
     "height": 2.2,
     "size_fixed": false,
@@ -1984,10 +1676,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/salmon",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.7,
     "height": 0.4,
     "size_fixed": false,
@@ -2010,10 +1698,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/sheep",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.9,
     "height": 1.3,
     "size_fixed": false,
@@ -2039,10 +1723,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/shulker",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.0,
     "height": 1.0,
     "size_fixed": false,
@@ -2070,10 +1750,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/shulker_bullet",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.3125,
     "height": 0.3125,
     "size_fixed": false,
@@ -2087,10 +1763,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/silverfish",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.4,
     "height": 0.3,
     "size_fixed": false,
@@ -2114,10 +1786,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/skeleton",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.99,
     "size_fixed": false,
@@ -2144,10 +1812,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/skeleton_horse",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.3964844,
     "height": 1.6,
     "size_fixed": false,
@@ -2171,10 +1835,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/slime",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 2.04,
     "height": 2.04,
     "size_fixed": false,
@@ -2201,10 +1861,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/small_fireball",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.3125,
     "height": 0.3125,
     "size_fixed": false,
@@ -2218,10 +1874,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/snow_golem",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.7,
     "height": 1.9,
     "size_fixed": false,
@@ -2247,10 +1899,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/snowball",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.25,
     "height": 0.25,
     "size_fixed": false,
@@ -2264,10 +1912,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/spectral_arrow",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.5,
     "size_fixed": false,
@@ -2281,10 +1925,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/spider",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.4,
     "height": 0.9,
     "size_fixed": false,
@@ -2311,10 +1951,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/squid",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.8,
     "height": 0.8,
     "size_fixed": false,
@@ -2337,10 +1973,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/stray",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.99,
     "size_fixed": false,
@@ -2364,10 +1996,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/strider",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.9,
     "height": 1.7,
     "size_fixed": false,
@@ -2395,10 +2023,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/tadpole",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.4,
     "height": 0.3,
     "size_fixed": false,
@@ -2421,10 +2045,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/egg",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.25,
     "height": 0.25,
     "size_fixed": false,
@@ -2438,10 +2058,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/ender_pearl",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.25,
     "height": 0.25,
     "size_fixed": false,
@@ -2455,10 +2071,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/experience_bottle",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.25,
     "height": 0.25,
     "size_fixed": false,
@@ -2472,10 +2084,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/potion",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.25,
     "height": 0.25,
     "size_fixed": false,
@@ -2489,10 +2097,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/trident",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.5,
     "size_fixed": false,
@@ -2510,10 +2114,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/trader_llama",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.9,
     "height": 1.87,
     "size_fixed": false,
@@ -2537,10 +2137,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/tropical_fish",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.5,
     "height": 0.4,
     "size_fixed": false,
@@ -2566,10 +2162,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/turtle",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.2,
     "height": 0.4,
     "size_fixed": false,
@@ -2600,10 +2192,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/vex",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.4,
     "height": 0.8,
     "size_fixed": false,
@@ -2630,10 +2218,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/villager",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -2659,10 +2243,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/vindicator",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -2686,10 +2266,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/wandering_trader",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -2712,10 +2288,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/warden",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.9,
     "height": 2.9,
     "size_fixed": false,
@@ -2742,10 +2314,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/witch",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -2772,10 +2340,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/wither",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.9,
     "height": 3.5,
     "size_fixed": false,
@@ -2806,10 +2370,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/wither_skeleton",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.7,
     "height": 2.4,
     "size_fixed": false,
@@ -2833,10 +2393,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/wither_skull",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.3125,
     "height": 0.3125,
     "size_fixed": false,
@@ -2853,10 +2409,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/wolf",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 0.85,
     "size_fixed": false,
@@ -2885,10 +2437,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/zoglin",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.3964844,
     "height": 1.4,
     "size_fixed": false,
@@ -2915,10 +2463,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/zombie",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -2948,10 +2492,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/zombie_horse",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 1.3964844,
     "height": 1.6,
     "size_fixed": false,
@@ -2975,10 +2515,6 @@
     "summonable": true,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/zombie_villager",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -3007,10 +2543,6 @@
     "summonable": true,
     "is_fire_immune": true,
     "loot_table": "minecraft:entities/zombified_piglin",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.95,
     "size_fixed": false,
@@ -3035,10 +2567,6 @@
     "summonable": false,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/player",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.6,
     "height": 1.8,
     "size_fixed": false,
@@ -3070,10 +2598,6 @@
     "summonable": false,
     "is_fire_immune": false,
     "loot_table": "minecraft:entities/fishing_bobber",
-    "features": {
-      "universe": "main",
-      "mask": 1
-    },
     "width": 0.25,
     "height": 0.25,
     "size_fixed": false,
