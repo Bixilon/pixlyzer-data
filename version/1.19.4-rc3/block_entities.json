@@ -1,0 +1,363 @@
+{
+  "minecraft:furnace": {
+    "id": 0,
+    "blocks": [
+      184
+    ]
+  },
+  "minecraft:chest": {
+    "id": 1,
+    "blocks": [
+      176
+    ]
+  },
+  "minecraft:trapped_chest": {
+    "id": 2,
+    "blocks": [
+      410
+    ]
+  },
+  "minecraft:ender_chest": {
+    "id": 3,
+    "blocks": [
+      343
+    ]
+  },
+  "minecraft:jukebox": {
+    "id": 4,
+    "blocks": [
+      252
+    ]
+  },
+  "minecraft:dispenser": {
+    "id": 5,
+    "blocks": [
+      97
+    ]
+  },
+  "minecraft:dropper": {
+    "id": 6,
+    "blocks": [
+      423
+    ]
+  },
+  "minecraft:sign": {
+    "id": 7,
+    "blocks": [
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      824,
+      825,
+      826,
+      827
+    ]
+  },
+  "minecraft:hanging_sign": {
+    "id": 8,
+    "blocks": [
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228
+    ]
+  },
+  "minecraft:mob_spawner": {
+    "id": 9,
+    "blocks": [
+      174
+    ]
+  },
+  "minecraft:piston": {
+    "id": 10,
+    "blocks": [
+      145
+    ]
+  },
+  "minecraft:brewing_stand": {
+    "id": 11,
+    "blocks": [
+      329
+    ]
+  },
+  "minecraft:enchanting_table": {
+    "id": 12,
+    "blocks": [
+      328
+    ]
+  },
+  "minecraft:end_portal": {
+    "id": 13,
+    "blocks": [
+      334
+    ]
+  },
+  "minecraft:beacon": {
+    "id": 14,
+    "blocks": [
+      351
+    ]
+  },
+  "minecraft:skull": {
+    "id": 15,
+    "blocks": [
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406
+    ]
+  },
+  "minecraft:daylight_detector": {
+    "id": 16,
+    "blocks": [
+      414
+    ]
+  },
+  "minecraft:hopper": {
+    "id": 17,
+    "blocks": [
+      417
+    ]
+  },
+  "minecraft:comparator": {
+    "id": 18,
+    "blocks": [
+      413
+    ]
+  },
+  "minecraft:banner": {
+    "id": 19,
+    "blocks": [
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533
+    ]
+  },
+  "minecraft:structure_block": {
+    "id": 20,
+    "blocks": [
+      828
+    ]
+  },
+  "minecraft:end_gateway": {
+    "id": 21,
+    "blocks": [
+      600
+    ]
+  },
+  "minecraft:command_block": {
+    "id": 22,
+    "blocks": [
+      350,
+      601,
+      602
+    ]
+  },
+  "minecraft:shulker_box": {
+    "id": 23,
+    "blocks": [
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626
+    ]
+  },
+  "minecraft:bed": {
+    "id": 24,
+    "blocks": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ]
+  },
+  "minecraft:conduit": {
+    "id": 25,
+    "blocks": [
+      721
+    ]
+  },
+  "minecraft:barrel": {
+    "id": 26,
+    "blocks": [
+      770
+    ]
+  },
+  "minecraft:smoker": {
+    "id": 27,
+    "blocks": [
+      771
+    ]
+  },
+  "minecraft:blast_furnace": {
+    "id": 28,
+    "blocks": [
+      772
+    ]
+  },
+  "minecraft:lectern": {
+    "id": 29,
+    "blocks": [
+      776
+    ]
+  },
+  "minecraft:bell": {
+    "id": 30,
+    "blocks": [
+      779
+    ]
+  },
+  "minecraft:jigsaw": {
+    "id": 31,
+    "blocks": [
+      829
+    ]
+  },
+  "minecraft:campfire": {
+    "id": 32,
+    "blocks": [
+      782,
+      783
+    ]
+  },
+  "minecraft:beehive": {
+    "id": 33,
+    "blocks": [
+      832,
+      833
+    ]
+  },
+  "minecraft:sculk_sensor": {
+    "id": 34,
+    "blocks": [
+      909
+    ]
+  },
+  "minecraft:sculk_catalyst": {
+    "id": 35,
+    "blocks": [
+      912
+    ]
+  },
+  "minecraft:sculk_shrieker": {
+    "id": 36,
+    "blocks": [
+      913
+    ]
+  },
+  "minecraft:chiseled_bookshelf": {
+    "id": 37,
+    "blocks": [
+      167
+    ]
+  },
+  "minecraft:suspicious_sand": {
+    "id": 38,
+    "blocks": [
+      35
+    ]
+  },
+  "minecraft:decorated_pot": {
+    "id": 39,
+    "blocks": [
+      997
+    ]
+  }
+}
