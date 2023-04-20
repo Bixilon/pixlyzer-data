@@ -1,0 +1,14 @@
+{
+  "minecraft:plant": {
+    "color": 31744,
+    "solid_blocking": false
+  },
+  "minecraft:allows_movement_light_passes_through_not_solid": {
+    "color": 0,
+    "solid_blocking": false
+  },
+  "minecraft:generic": {
+    "color": 0,
+    "solid_blocking": true
+  }
+}
