@@ -1,0 +1,844 @@
+{
+  "0": {
+    "name": "intentionally_empty",
+    "break_sound_type": 857,
+    "step_sound_type": 857,
+    "place_sound_type": 857,
+    "hit_sound_type": 857,
+    "fall_sound_type": 857
+  },
+  "1": {
+    "name": "wood",
+    "break_sound_type": 1451,
+    "step_sound_type": 1455,
+    "place_sound_type": 1454,
+    "hit_sound_type": 1453,
+    "fall_sound_type": 1452
+  },
+  "2": {
+    "name": "gravel",
+    "break_sound_type": 578,
+    "step_sound_type": 582,
+    "place_sound_type": 581,
+    "hit_sound_type": 580,
+    "fall_sound_type": 579
+  },
+  "3": {
+    "name": "grass",
+    "break_sound_type": 573,
+    "step_sound_type": 577,
+    "place_sound_type": 576,
+    "hit_sound_type": 575,
+    "fall_sound_type": 574
+  },
+  "4": {
+    "name": "lily_pad",
+    "break_sound_type": 142,
+    "step_sound_type": 146,
+    "place_sound_type": 1372,
+    "hit_sound_type": 144,
+    "fall_sound_type": 143
+  },
+  "5": {
+    "name": "stone",
+    "break_sound_type": 1274,
+    "step_sound_type": 1282,
+    "place_sound_type": 1279,
+    "hit_sound_type": 1278,
+    "fall_sound_type": 1277
+  },
+  "6": {
+    "name": "metal",
+    "break_sound_type": 737,
+    "step_sound_type": 743,
+    "place_sound_type": 740,
+    "hit_sound_type": 739,
+    "fall_sound_type": 738
+  },
+  "7": {
+    "name": "glass",
+    "break_sound_type": 538,
+    "step_sound_type": 542,
+    "place_sound_type": 541,
+    "hit_sound_type": 540,
+    "fall_sound_type": 539
+  },
+  "8": {
+    "name": "wool",
+    "break_sound_type": 1456,
+    "step_sound_type": 1460,
+    "place_sound_type": 1459,
+    "hit_sound_type": 1458,
+    "fall_sound_type": 1457
+  },
+  "9": {
+    "name": "sand",
+    "break_sound_type": 1098,
+    "step_sound_type": 1102,
+    "place_sound_type": 1101,
+    "hit_sound_type": 1100,
+    "fall_sound_type": 1099
+  },
+  "10": {
+    "name": "snow",
+    "break_sound_type": 1246,
+    "step_sound_type": 1255,
+    "place_sound_type": 1254,
+    "hit_sound_type": 1253,
+    "fall_sound_type": 1247
+  },
+  "11": {
+    "name": "powder_snow",
+    "break_sound_type": 1047,
+    "step_sound_type": 1051,
+    "place_sound_type": 1050,
+    "hit_sound_type": 1049,
+    "fall_sound_type": 1048
+  },
+  "12": {
+    "name": "ladder",
+    "break_sound_type": 687,
+    "step_sound_type": 691,
+    "place_sound_type": 690,
+    "hit_sound_type": 689,
+    "fall_sound_type": 688
+  },
+  "13": {
+    "sound_type_volume": 0.3,
+    "sound_type_pitch": 1.0,
+    "name": "anvil",
+    "break_sound_type": 46,
+    "step_sound_type": 52,
+    "place_sound_type": 51,
+    "hit_sound_type": 49,
+    "fall_sound_type": 48
+  },
+  "14": {
+    "name": "slime",
+    "break_sound_type": 1187,
+    "step_sound_type": 1191,
+    "place_sound_type": 1190,
+    "hit_sound_type": 1189,
+    "fall_sound_type": 1188
+  },
+  "15": {
+    "name": "honey",
+    "break_sound_type": 622,
+    "step_sound_type": 627,
+    "place_sound_type": 625,
+    "hit_sound_type": 624,
+    "fall_sound_type": 623
+  },
+  "16": {
+    "name": "wet_grass",
+    "break_sound_type": 1408,
+    "step_sound_type": 1412,
+    "place_sound_type": 1411,
+    "hit_sound_type": 1410,
+    "fall_sound_type": 1409
+  },
+  "17": {
+    "name": "coral",
+    "break_sound_type": 306,
+    "step_sound_type": 310,
+    "place_sound_type": 309,
+    "hit_sound_type": 308,
+    "fall_sound_type": 307
+  },
+  "18": {
+    "name": "bamboo",
+    "break_sound_type": 90,
+    "step_sound_type": 94,
+    "place_sound_type": 93,
+    "hit_sound_type": 92,
+    "fall_sound_type": 91
+  },
+  "19": {
+    "name": "bamboo_sapling",
+    "break_sound_type": 95,
+    "step_sound_type": 94,
+    "place_sound_type": 97,
+    "hit_sound_type": 96,
+    "fall_sound_type": 91
+  },
+  "20": {
+    "name": "scaffolding",
+    "break_sound_type": 1103,
+    "step_sound_type": 1107,
+    "place_sound_type": 1106,
+    "hit_sound_type": 1105,
+    "fall_sound_type": 1104
+  },
+  "21": {
+    "name": "sweet_berry_bush",
+    "break_sound_type": 1287,
+    "step_sound_type": 577,
+    "place_sound_type": 1288,
+    "hit_sound_type": 575,
+    "fall_sound_type": 574
+  },
+  "22": {
+    "name": "crop",
+    "break_sound_type": 321,
+    "step_sound_type": 577,
+    "place_sound_type": 322,
+    "hit_sound_type": 575,
+    "fall_sound_type": 574
+  },
+  "23": {
+    "name": "stem",
+    "break_sound_type": 1451,
+    "step_sound_type": 1455,
+    "place_sound_type": 322,
+    "hit_sound_type": 1453,
+    "fall_sound_type": 1452
+  },
+  "24": {
+    "name": "vine",
+    "break_sound_type": 1367,
+    "step_sound_type": 1371,
+    "place_sound_type": 1370,
+    "hit_sound_type": 1369,
+    "fall_sound_type": 1368
+  },
+  "25": {
+    "name": "nether_wart",
+    "break_sound_type": 840,
+    "step_sound_type": 1282,
+    "place_sound_type": 841,
+    "hit_sound_type": 1278,
+    "fall_sound_type": 1277
+  },
+  "26": {
+    "name": "lantern",
+    "break_sound_type": 692,
+    "step_sound_type": 696,
+    "place_sound_type": 695,
+    "hit_sound_type": 694,
+    "fall_sound_type": 693
+  },
+  "27": {
+    "name": "nether_stem",
+    "break_sound_type": 863,
+    "step_sound_type": 864,
+    "place_sound_type": 865,
+    "hit_sound_type": 866,
+    "fall_sound_type": 867
+  },
+  "28": {
+    "name": "nylium",
+    "break_sound_type": 868,
+    "step_sound_type": 869,
+    "place_sound_type": 870,
+    "hit_sound_type": 871,
+    "fall_sound_type": 872
+  },
+  "29": {
+    "name": "fungus",
+    "break_sound_type": 878,
+    "step_sound_type": 879,
+    "place_sound_type": 880,
+    "hit_sound_type": 881,
+    "fall_sound_type": 882
+  },
+  "30": {
+    "name": "roots",
+    "break_sound_type": 510,
+    "step_sound_type": 511,
+    "place_sound_type": 512,
+    "hit_sound_type": 513,
+    "fall_sound_type": 514
+  },
+  "31": {
+    "name": "shroomlight",
+    "break_sound_type": 1146,
+    "step_sound_type": 1147,
+    "place_sound_type": 1148,
+    "hit_sound_type": 1149,
+    "fall_sound_type": 1150
+  },
+  "32": {
+    "name": "weeping_vines",
+    "break_sound_type": 883,
+    "step_sound_type": 884,
+    "place_sound_type": 885,
+    "hit_sound_type": 886,
+    "fall_sound_type": 887
+  },
+  "33": {
+    "name": "weeping_vines_low_pitch",
+    "break_sound_type": 883,
+    "step_sound_type": 884,
+    "place_sound_type": 885,
+    "hit_sound_type": 886,
+    "fall_sound_type": 887
+  },
+  "34": {
+    "name": "soul_sand",
+    "break_sound_type": 1199,
+    "step_sound_type": 1200,
+    "place_sound_type": 1201,
+    "hit_sound_type": 1202,
+    "fall_sound_type": 1203
+  },
+  "35": {
+    "name": "soul_soil",
+    "break_sound_type": 1204,
+    "step_sound_type": 1205,
+    "place_sound_type": 1206,
+    "hit_sound_type": 1207,
+    "fall_sound_type": 1208
+  },
+  "36": {
+    "name": "basalt",
+    "break_sound_type": 115,
+    "step_sound_type": 116,
+    "place_sound_type": 117,
+    "hit_sound_type": 118,
+    "fall_sound_type": 119
+  },
+  "37": {
+    "name": "wart_block",
+    "break_sound_type": 888,
+    "step_sound_type": 889,
+    "place_sound_type": 890,
+    "hit_sound_type": 891,
+    "fall_sound_type": 892
+  },
+  "38": {
+    "name": "netherrack",
+    "break_sound_type": 898,
+    "step_sound_type": 899,
+    "place_sound_type": 900,
+    "hit_sound_type": 901,
+    "fall_sound_type": 902
+  },
+  "39": {
+    "name": "nether_bricks",
+    "break_sound_type": 835,
+    "step_sound_type": 836,
+    "place_sound_type": 837,
+    "hit_sound_type": 838,
+    "fall_sound_type": 839
+  },
+  "40": {
+    "name": "nether_sprouts",
+    "break_sound_type": 873,
+    "step_sound_type": 874,
+    "place_sound_type": 875,
+    "hit_sound_type": 876,
+    "fall_sound_type": 877
+  },
+  "41": {
+    "name": "nether_ore",
+    "break_sound_type": 1079,
+    "step_sound_type": 1083,
+    "place_sound_type": 1082,
+    "hit_sound_type": 1081,
+    "fall_sound_type": 1080
+  },
+  "42": {
+    "name": "bone",
+    "break_sound_type": 154,
+    "step_sound_type": 158,
+    "place_sound_type": 157,
+    "hit_sound_type": 156,
+    "fall_sound_type": 155
+  },
+  "43": {
+    "name": "netherite",
+    "break_sound_type": 893,
+    "step_sound_type": 894,
+    "place_sound_type": 895,
+    "hit_sound_type": 896,
+    "fall_sound_type": 897
+  },
+  "44": {
+    "name": "ancient_debris",
+    "break_sound_type": 41,
+    "step_sound_type": 42,
+    "place_sound_type": 43,
+    "hit_sound_type": 44,
+    "fall_sound_type": 45
+  },
+  "45": {
+    "name": "lodestone",
+    "break_sound_type": 718,
+    "step_sound_type": 719,
+    "place_sound_type": 720,
+    "hit_sound_type": 721,
+    "fall_sound_type": 722
+  },
+  "46": {
+    "name": "chain",
+    "break_sound_type": 232,
+    "step_sound_type": 236,
+    "place_sound_type": 235,
+    "hit_sound_type": 234,
+    "fall_sound_type": 233
+  },
+  "47": {
+    "name": "nether_gold_ore",
+    "break_sound_type": 1074,
+    "step_sound_type": 1078,
+    "place_sound_type": 1077,
+    "hit_sound_type": 1076,
+    "fall_sound_type": 1075
+  },
+  "48": {
+    "name": "gilded_blackstone",
+    "break_sound_type": 533,
+    "step_sound_type": 537,
+    "place_sound_type": 536,
+    "hit_sound_type": 535,
+    "fall_sound_type": 534
+  },
+  "49": {
+    "name": "candle",
+    "break_sound_type": 211,
+    "step_sound_type": 216,
+    "place_sound_type": 215,
+    "hit_sound_type": 214,
+    "fall_sound_type": 213
+  },
+  "50": {
+    "name": "amethyst_block",
+    "break_sound_type": 29,
+    "step_sound_type": 35,
+    "place_sound_type": 33,
+    "hit_sound_type": 32,
+    "fall_sound_type": 31
+  },
+  "51": {
+    "name": "amethyst_cluster",
+    "break_sound_type": 36,
+    "step_sound_type": 40,
+    "place_sound_type": 39,
+    "hit_sound_type": 38,
+    "fall_sound_type": 37
+  },
+  "52": {
+    "name": "small_amethyst_bud",
+    "break_sound_type": 1192,
+    "step_sound_type": 40,
+    "place_sound_type": 1193,
+    "hit_sound_type": 38,
+    "fall_sound_type": 37
+  },
+  "53": {
+    "name": "medium_amethyst_bud",
+    "break_sound_type": 735,
+    "step_sound_type": 40,
+    "place_sound_type": 736,
+    "hit_sound_type": 38,
+    "fall_sound_type": 37
+  },
+  "54": {
+    "name": "large_amethyst_bud",
+    "break_sound_type": 697,
+    "step_sound_type": 40,
+    "place_sound_type": 698,
+    "hit_sound_type": 38,
+    "fall_sound_type": 37
+  },
+  "55": {
+    "name": "tuff",
+    "break_sound_type": 1313,
+    "step_sound_type": 1314,
+    "place_sound_type": 1315,
+    "hit_sound_type": 1316,
+    "fall_sound_type": 1317
+  },
+  "56": {
+    "name": "calcite",
+    "break_sound_type": 193,
+    "step_sound_type": 194,
+    "place_sound_type": 195,
+    "hit_sound_type": 196,
+    "fall_sound_type": 197
+  },
+  "57": {
+    "name": "dripstone_block",
+    "break_sound_type": 373,
+    "step_sound_type": 374,
+    "place_sound_type": 375,
+    "hit_sound_type": 376,
+    "fall_sound_type": 377
+  },
+  "58": {
+    "name": "pointed_dripstone",
+    "break_sound_type": 378,
+    "step_sound_type": 379,
+    "place_sound_type": 380,
+    "hit_sound_type": 381,
+    "fall_sound_type": 382
+  },
+  "59": {
+    "name": "copper",
+    "break_sound_type": 301,
+    "step_sound_type": 302,
+    "place_sound_type": 303,
+    "hit_sound_type": 304,
+    "fall_sound_type": 305
+  },
+  "60": {
+    "name": "cave_vines",
+    "break_sound_type": 226,
+    "step_sound_type": 230,
+    "place_sound_type": 229,
+    "hit_sound_type": 228,
+    "fall_sound_type": 227
+  },
+  "61": {
+    "name": "spore_blossom",
+    "break_sound_type": 1210,
+    "step_sound_type": 1214,
+    "place_sound_type": 1213,
+    "hit_sound_type": 1212,
+    "fall_sound_type": 1211
+  },
+  "62": {
+    "name": "azalea",
+    "break_sound_type": 80,
+    "step_sound_type": 84,
+    "place_sound_type": 83,
+    "hit_sound_type": 82,
+    "fall_sound_type": 81
+  },
+  "63": {
+    "name": "flowering_azalea",
+    "break_sound_type": 465,
+    "step_sound_type": 469,
+    "place_sound_type": 468,
+    "hit_sound_type": 467,
+    "fall_sound_type": 466
+  },
+  "64": {
+    "name": "moss_carpet",
+    "break_sound_type": 752,
+    "step_sound_type": 756,
+    "place_sound_type": 755,
+    "hit_sound_type": 754,
+    "fall_sound_type": 753
+  },
+  "65": {
+    "name": "pink_petals",
+    "break_sound_type": 757,
+    "step_sound_type": 761,
+    "place_sound_type": 760,
+    "hit_sound_type": 759,
+    "fall_sound_type": 758
+  },
+  "66": {
+    "name": "moss_block",
+    "break_sound_type": 762,
+    "step_sound_type": 766,
+    "place_sound_type": 765,
+    "hit_sound_type": 764,
+    "fall_sound_type": 763
+  },
+  "67": {
+    "name": "big_dripleaf",
+    "break_sound_type": 142,
+    "step_sound_type": 146,
+    "place_sound_type": 145,
+    "hit_sound_type": 144,
+    "fall_sound_type": 143
+  },
+  "68": {
+    "name": "small_dripleaf",
+    "break_sound_type": 1194,
+    "step_sound_type": 1198,
+    "place_sound_type": 1197,
+    "hit_sound_type": 1196,
+    "fall_sound_type": 1195
+  },
+  "69": {
+    "name": "rooted_dirt",
+    "break_sound_type": 1089,
+    "step_sound_type": 1093,
+    "place_sound_type": 1092,
+    "hit_sound_type": 1091,
+    "fall_sound_type": 1090
+  },
+  "70": {
+    "name": "hanging_roots",
+    "break_sound_type": 593,
+    "step_sound_type": 597,
+    "place_sound_type": 596,
+    "hit_sound_type": 595,
+    "fall_sound_type": 594
+  },
+  "71": {
+    "name": "azalea_leaves",
+    "break_sound_type": 85,
+    "step_sound_type": 89,
+    "place_sound_type": 88,
+    "hit_sound_type": 87,
+    "fall_sound_type": 86
+  },
+  "72": {
+    "name": "sculk_sensor",
+    "break_sound_type": 1123,
+    "step_sound_type": 1127,
+    "place_sound_type": 1126,
+    "hit_sound_type": 1125,
+    "fall_sound_type": 1124
+  },
+  "73": {
+    "name": "sculk_catalyst",
+    "break_sound_type": 1116,
+    "step_sound_type": 1120,
+    "place_sound_type": 1119,
+    "hit_sound_type": 1118,
+    "fall_sound_type": 1117
+  },
+  "74": {
+    "name": "sculk",
+    "break_sound_type": 1110,
+    "step_sound_type": 1114,
+    "place_sound_type": 1113,
+    "hit_sound_type": 1112,
+    "fall_sound_type": 1111
+  },
+  "75": {
+    "name": "sculk_vein",
+    "break_sound_type": 1134,
+    "step_sound_type": 1138,
+    "place_sound_type": 1137,
+    "hit_sound_type": 1136,
+    "fall_sound_type": 1135
+  },
+  "76": {
+    "name": "sculk_shrieker",
+    "break_sound_type": 1128,
+    "step_sound_type": 1133,
+    "place_sound_type": 1131,
+    "hit_sound_type": 1130,
+    "fall_sound_type": 1129
+  },
+  "77": {
+    "name": "glow_lichen",
+    "break_sound_type": 573,
+    "step_sound_type": 1371,
+    "place_sound_type": 576,
+    "hit_sound_type": 575,
+    "fall_sound_type": 574
+  },
+  "78": {
+    "name": "deepslate",
+    "break_sound_type": 344,
+    "step_sound_type": 348,
+    "place_sound_type": 347,
+    "hit_sound_type": 346,
+    "fall_sound_type": 345
+  },
+  "79": {
+    "name": "deepslate_bricks",
+    "break_sound_type": 339,
+    "step_sound_type": 343,
+    "place_sound_type": 342,
+    "hit_sound_type": 341,
+    "fall_sound_type": 340
+  },
+  "80": {
+    "name": "deepslate_tiles",
+    "break_sound_type": 349,
+    "step_sound_type": 353,
+    "place_sound_type": 352,
+    "hit_sound_type": 351,
+    "fall_sound_type": 350
+  },
+  "81": {
+    "name": "polished_deepslate",
+    "break_sound_type": 1039,
+    "step_sound_type": 1043,
+    "place_sound_type": 1042,
+    "hit_sound_type": 1041,
+    "fall_sound_type": 1040
+  },
+  "82": {
+    "name": "froglight",
+    "break_sound_type": 491,
+    "step_sound_type": 495,
+    "place_sound_type": 494,
+    "hit_sound_type": 493,
+    "fall_sound_type": 492
+  },
+  "83": {
+    "name": "frogspawn",
+    "break_sound_type": 497,
+    "step_sound_type": 496,
+    "place_sound_type": 501,
+    "hit_sound_type": 500,
+    "fall_sound_type": 498
+  },
+  "84": {
+    "name": "mangrove_roots",
+    "break_sound_type": 730,
+    "step_sound_type": 734,
+    "place_sound_type": 733,
+    "hit_sound_type": 732,
+    "fall_sound_type": 731
+  },
+  "85": {
+    "name": "muddy_mangrove_roots",
+    "break_sound_type": 777,
+    "step_sound_type": 781,
+    "place_sound_type": 780,
+    "hit_sound_type": 779,
+    "fall_sound_type": 778
+  },
+  "86": {
+    "name": "mud",
+    "break_sound_type": 767,
+    "step_sound_type": 771,
+    "place_sound_type": 770,
+    "hit_sound_type": 769,
+    "fall_sound_type": 768
+  },
+  "87": {
+    "name": "mud_bricks",
+    "break_sound_type": 772,
+    "step_sound_type": 776,
+    "place_sound_type": 775,
+    "hit_sound_type": 774,
+    "fall_sound_type": 773
+  },
+  "88": {
+    "name": "packed_mud",
+    "break_sound_type": 858,
+    "step_sound_type": 862,
+    "place_sound_type": 861,
+    "hit_sound_type": 860,
+    "fall_sound_type": 859
+  },
+  "89": {
+    "name": "hanging_sign",
+    "break_sound_type": 599,
+    "step_sound_type": 598,
+    "place_sound_type": 602,
+    "hit_sound_type": 601,
+    "fall_sound_type": 600
+  },
+  "90": {
+    "name": "nether_wood_hanging_sign",
+    "break_sound_type": 604,
+    "step_sound_type": 603,
+    "place_sound_type": 607,
+    "hit_sound_type": 606,
+    "fall_sound_type": 605
+  },
+  "91": {
+    "name": "bamboo_wood_hanging_sign",
+    "break_sound_type": 609,
+    "step_sound_type": 608,
+    "place_sound_type": 612,
+    "hit_sound_type": 611,
+    "fall_sound_type": 610
+  },
+  "92": {
+    "name": "bamboo_wood",
+    "break_sound_type": 98,
+    "step_sound_type": 102,
+    "place_sound_type": 101,
+    "hit_sound_type": 100,
+    "fall_sound_type": 99
+  },
+  "93": {
+    "name": "nether_wood",
+    "break_sound_type": 842,
+    "step_sound_type": 846,
+    "place_sound_type": 845,
+    "hit_sound_type": 844,
+    "fall_sound_type": 843
+  },
+  "94": {
+    "name": "cherry_wood",
+    "break_sound_type": 237,
+    "step_sound_type": 241,
+    "place_sound_type": 240,
+    "hit_sound_type": 239,
+    "fall_sound_type": 238
+  },
+  "95": {
+    "name": "cherry_sapling",
+    "break_sound_type": 242,
+    "step_sound_type": 246,
+    "place_sound_type": 245,
+    "hit_sound_type": 244,
+    "fall_sound_type": 243
+  },
+  "96": {
+    "name": "cherry_leaves",
+    "break_sound_type": 247,
+    "step_sound_type": 251,
+    "place_sound_type": 250,
+    "hit_sound_type": 249,
+    "fall_sound_type": 248
+  },
+  "97": {
+    "name": "cherry_wood_hanging_sign",
+    "break_sound_type": 253,
+    "step_sound_type": 252,
+    "place_sound_type": 256,
+    "hit_sound_type": 255,
+    "fall_sound_type": 254
+  },
+  "98": {
+    "name": "chiseled_bookshelf",
+    "break_sound_type": 275,
+    "step_sound_type": 280,
+    "place_sound_type": 283,
+    "hit_sound_type": 277,
+    "fall_sound_type": 276
+  },
+  "99": {
+    "name": "suspicious_sand",
+    "break_sound_type": 481,
+    "step_sound_type": 482,
+    "place_sound_type": 483,
+    "hit_sound_type": 484,
+    "fall_sound_type": 485
+  },
+  "100": {
+    "name": "suspicious_gravel",
+    "break_sound_type": 486,
+    "step_sound_type": 487,
+    "place_sound_type": 488,
+    "hit_sound_type": 489,
+    "fall_sound_type": 490
+  },
+  "101": {
+    "name": "decorated_pot",
+    "break_sound_type": 331,
+    "step_sound_type": 336,
+    "place_sound_type": 337,
+    "hit_sound_type": 333,
+    "fall_sound_type": 332
+  },
+  "102": {
+    "name": "decorated_pot_shatter",
+    "break_sound_type": 338,
+    "step_sound_type": 336,
+    "place_sound_type": 337,
+    "hit_sound_type": 333,
+    "fall_sound_type": 332
+  },
+  "103": {
+    "name": "sponge",
+    "break_sound_type": 1262,
+    "step_sound_type": 1266,
+    "place_sound_type": 1265,
+    "hit_sound_type": 1264,
+    "fall_sound_type": 1263
+  },
+  "104": {
+    "name": "wet_sponge",
+    "break_sound_type": 1413,
+    "step_sound_type": 1417,
+    "place_sound_type": 1416,
+    "hit_sound_type": 1415,
+    "fall_sound_type": 1414
+  }
+}
